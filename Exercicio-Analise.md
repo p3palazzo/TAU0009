@@ -50,3 +50,42 @@ Verbete enciclopédico no padrão Wikipédia, apresentando análise histórica e
 + [Convenções de nomenclatura](http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Conven%C3%A7%C3%A3o_de_nomenclatura);
 + [Princípio da imparcialidade](http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Ponto_de_vista_neutro);
 + [Princípio da verificabilidade](http://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Verificabilidade).
+
+
+
+
+
+### Lista de Obras
+
+
++ Engenho d'Água, Ilhabela, SP
++ Igreja Matriz de Nossa Senhora da Assunção, Anchieta, ES
++ Sítio de Santo Antônio, São Roque, SP
++ Engenho Vitória, Cachoeira, BA
++ Engenho Poço Comprido, Vicência, PE
++ Engenho Santa Helena, Água Preta, PE
++ Engenho da Ilha de Cajaíba, São Francisco do Conde, BA
++ Convento e Igreja do Carmo, Recife
++ Convento de São Francisco, Olinda
++ Sítio Arqueológico de São Miguel Arcanjo e Museu das Missões, RS
++ Santa Efigênia, Ouro Preto
++ Nossa Senhora do Carmo, Ouro Preto
++ Nossa Senhora do Rosário, Ouro Preto
++ São Francisco de Paula, Ouro Preto
++ Matriz Nossa Senhora da Conceição de Antônio Dias, Ouro Preto
++ Capela Nossa Senhora do Rosário do Padre Faria, Ouro Preto
++ São Pedro dos Clérigos, Mariana
++ Catedral de Sant’Ana, Goiás
++ Casa de Câmara e Cadeia, atual Museu das Bandeiras, Goiás
++ São Pedro dos Clérigos, Rio de Janeiro, RJ
++ Casa da Junta, atual Memorial da Assembléia Legislativa, Porto Alegre
++ Alfândega, Florianópolis
++ Fazenda Santa Gertrudes, SP
++ Palácio dos Governadores, atual Museu do Estado do Pará, Belém
++ Teatro Municipal de Campinas (demolido)
++ Pouso da Maioridade, Caminho do Mar, Cubatão, SP
++ Solar do Monjope, Rio de Janeiro
++ Estação Ferroviária de Mairinque, SP, atual Museu da Ferrovia Sorocabana
++ Palacete Bolonha, Belém
++ Vila Penteado, São Paulo
++ Ministério da Fazenda, Rio de Janeiro
