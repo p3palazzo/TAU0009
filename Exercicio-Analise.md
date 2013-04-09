@@ -31,8 +31,8 @@ Verbete enciclopédico no padrão Wikipédia, apresentando análise histórica e
 | Atividade                                                       | Data  |
 | :-------------------------------------------------------------- | :---: |
 | Introdução à atividade                                          | 08/04 |
-| Entrega do verbete                                              | 22/04 |
-| _Feedback_ do professor                                         | 06/05 |
+| Entrega do verbete                                              | 29/04 |
+| _Feedback_ do professor                                         | 10/05 |
 | Entrega definitiva e inserção do verbete corrigido na Wikipédia | 06/06 |
 
 ## Recursos
