@@ -13,7 +13,7 @@ Phone:       (61) 3107–7449
     S 20h50–22h30
 	T
     Q
-    Q  19h–20h40
+    Q 19h–20h40
     S
 
 ## Ementa
@@ -130,7 +130,7 @@ Obs.: Os itens da bibliografia adotada nesta turma são diferentes daqueles menc
 * `SMITH`, Robert C. _Arquitetura colonial_. Salvador: Progresso, 1955.
 * `UNWIN`, Simon. _[Analysing Architecture][]_. London: Routledge, 2003.
 * `VALLA`, Margarida. O papel dos arquitectos e engenheiros militares na transmissão das formas urbanas portuguesas. _Urbanismo de origem portuguesa_, v. 1, set. 1999. Disponível em: <http://revistas.ceurban.com/numero1/margarida.htm>. Acesso em: 18 mar. 2013.
-* `VASCONCELLOS`, Sylvio C de. _Vila Rica_. São Paulo: Perspectiva, 1977.
+* `VASCONCELLOS`, Sylvio C. de. _Vila Rica_. São Paulo: Perspectiva, 1977.
 
 [Casa-grande & senzala]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Casa-Grande_Senzala.pdf
 [A arte brasileira]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Gozaga_Duque-Conclusao.pdf
@@ -205,13 +205,12 @@ Obs.: Cronograma sujeito a alterações.
 |   5 | 15/04 | Vilas e cidades como agentes da estruturação de territórios      |   |
 |     |       | Arquitetura militar e fortificação                                   | `VALLA`, O papel dos arquitectos e engenheiros militares…                            |
 |   6 | 18/04 | Matrizes indígenas; arquitetura jesuítica e aldeamentos missionários | `COSTA`, A arquitetura jesuítica no Brasil                                           |
-|   7 | 22/04 | Entrega do exercício: Análise de Obra                            |   |
-|     |       | Apresentação do exercício: Seminário                             |   |
+|   7 | 22/04 | Sertanismo, ocupação urbana e moradas rurais                         | `SAIA`, A Casa bandeirista. In: _Morada paulista_                                    |
 
 |     |       | `UNIDADE II`                                                     |   |
 |   8 | 25/04 | Arquitetura religiosa urbana nos séculos `XVII` e `XVIII`            | `CAMPELLO`, Construções franciscanas no Nordeste In: _O brilho da simplicidade_, p. 33–41 |
-|   9 | 29/04 | Territórios, ocupação urbana e arquitetura vernácula             |   |
-|     |       | Sertanismo e moradas paulistas                                       | `SAIA`, A Casa bandeirista. In: _Morada paulista_                                    |
+|   9 | 29/04 | Entrega do exercício: Análise de Obra                            |   |
+|     |       | Apresentação do exercício: Seminário                             |   |
 |  10 | 02/05 | Entrega das sessões temáticas do exercício: Seminário            |   |
 |     |       | Lançamento dos chamados para o exercício: Resumos                    | `ECO`, _Como se faz uma tese_, p. 7–32                                              |
 |  11 | 06/05 | Territórios, ocupação urbana e arquitetura vernácula             |   |
