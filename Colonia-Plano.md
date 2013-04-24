@@ -114,7 +114,7 @@ Obs.: Os itens da bibliografia adotada nesta turma são diferentes daqueles menc
 * `COSTA`, Lúcio. A arquitetura jesuítica no Brasil. _Revista do `SPHAN`_, Rio de Janeiro, n. 5, p. 9–100, 1941. Disponível em: <http://www.iphan.gov.br/baixaFcdAnexo.do?id=3181>. Acesso em: 6 abr. 2013.
 * `ECO`, Umberto. _Como se faz uma tese_. São Paulo: Perspectiva, 2008.
 * `FICHER`, Sylvia. Antonio Garcia Moya, um Arquiteto da Semana de 22. Ou: Pro Mario, o Moya era Moderno… Parte I. _`MDC`_. Disponível em: <http://mdc.arq.br/2012/03/20/antonio-garcia-moya-um-arquiteto-da-semana-de-22>. Acesso em: 31 out. 2012.
-* `FONSECA`, Cláudia Damasceno. Agentes e Contextos das Intervenções Urbanísticas nas Minas Gerais do século `XVIII`. _Oceanos_ n. 41, A Construção do Brasil Urbano. Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, jan./mar. 2000, p. 84–99.
+* `FONSECA`, Cláudia Damasceno. Urbs e civitas: a formação dos espaços e territórios urbanos nas minas setecentistas. _Anais do Museu Paulista:_ História e Cultura Material, v. 20, n. 1, p. 77–108, jun. 2012. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142012000100004>. Acesso em: 24 abr. 2013.
 * `FREYRE`, Gilberto et al. _[Casa-grande & senzala]:_ formação da família brasileira sob o regime da economia patriarcal. 48. ed. São Paulo: Global, 2003. 
 * `GONZAGA DUQUE ESTRADA`, Luiz. _[A arte brasileira][]_. Campinas: Mercado de Letras, 1995.
 * `HOLANDA`, Sérgio Buarque de. _[Raízes do Brasil][]_. São Paulo: Companhia das Letras, 1995.
@@ -156,6 +156,7 @@ Obs.: Os itens da bibliografia adotada nesta turma são diferentes daqueles menc
 * `DERNTL`, Maria Fernanda. _Método e Arte:_ criação urbana e organização territorial na capitania de São Paulo. Tese (Doutorado em História e Fundamentos da Arquitetura e do Urbanismo). `FAUUSP`, São Paulo, 2010.
 * `FABRIS`, Annateresa (org.) _Ecletismo na Arquitetura Brasileira_. São Paulo: Nobel/Edusp, 1987.
 * `FONSECA`, Cláudia Damasceno. _Des terres aux villes de l’or:_ pouvoir et territoires urbains au Minas Gerais (Brésil, `XVIII`e siècle). Lisboa: Fundação Calouste Gulbenkian, 2003.
+*  ————. Agentes e Contextos das Intervenções Urbanísticas nas Minas Gerais do século `XVIII`. _Oceanos_ n. 41, A Construção do Brasil Urbano. Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, jan./mar. 2000, p. 84–99.
 * `FREYRE`, Gilberto. _Sobrados e mucambos:_ decadência do patriarcado rural e desenvolvimento do urbano. 2 ed. Rio de Janeiro, José Olympio, 1951.
 * `GOMES`, Geraldo. _Engenho e Arquitetura_. Recife: Fundaj/Massangana, 2006.
 * `HARTOG`, François. Tempo e patrimônio. _Varia história_. Belo Horizonte, v. 22, n. 36, dez. 2006. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid= S0104-87752006000200002&lng=en&nrm=iso>. Acesso em: 15 fev. 2012.
@@ -199,7 +200,7 @@ Obs.: Cronograma sujeito a alterações.
 |     |       | `UNIDADE I`                                                      |   |
 |   1 | 01/04 | Introdução à disciplina                                          |   |
 |   2 | 04/04 | Formação dos territórios luso-brasileiros e o Império Português      | `HOLANDA`, O semeador e o ladrilhador. In: _Raízes do Brasil_                        |
-|     |       | Debate historiográfico sobre cidades coloniais de matriz ibérica     | `REIS` Filho, A política urbanizadora. In: _Evolução Urbana do Brasil_                | 
+|     |       | Debate historiográfico sobre cidades coloniais de matriz ibérica     | `REIS` Filho, A política urbanizadora. In: _Evolução Urbana do Brasil_               | 
 |   3 | 08/04 | Apresentação do exercício: Análise de Obra                           | `UNWIN`, _Analysing Architecture_                                                    |
 |   4 | 11/04 | Matrizes africanas; arquitetura do açúcar no litoral                 | `FREYRE`, Introdução. In: _Casa-grande & senzala_                                    |
 |   5 | 15/04 | Vilas e cidades como agentes da estruturação de territórios      |   |
@@ -209,27 +210,26 @@ Obs.: Cronograma sujeito a alterações.
 
 |     |       | `UNIDADE II`                                                     |   |
 |   8 | 25/04 | Arquitetura religiosa urbana nos séculos `XVII` e `XVIII`            | `CAMPELLO`, Construções franciscanas no Nordeste In: _O brilho da simplicidade_, p. 33–41 |
-|   9 | 29/04 | Entrega do exercício: Análise de Obra                            |   |
 |     |       | Apresentação do exercício: Seminário                             |   |
+|   9 | 29/04 | Traçados urbanos em regiões de mineração                             | `FONSECA`, Urbs e civitas. _Anais do Museu Paulista_, v. 20, n. 1                    |
+|     |       | Entrega do exercício: Análise de Obra                            |   |
 |  10 | 02/05 | Entrega das sessões temáticas do exercício: Seminário            |   |
-|     |       | Lançamento dos chamados para o exercício: Resumos                    | `ECO`, _Como se faz uma tese_, p. 7–32                                              |
-|  11 | 06/05 | Territórios, ocupação urbana e arquitetura vernácula             |   |
-|     |       | Traçados urbanos em regiões de mineração                             | `FONSECA`, Agentes e Contextos das Intervenções Urbanísticas nas Minas Gerais…       |
-|  12 | 09/05 | Arte e arquitetura religiosa nas regiões de mineração                | `MACHADO`, Viagem a Ouro Preto In: _Barroco mineiro_, p. 177–189                    |
-|  13 | 13/05 | Questões de identidade, expertise e autoria no “Barroco Mineiro”     | `BURY`, O “Estilo Aleijadinho’ e as igrejas setecentistas brasileiras. In: _Arquitetura e arte no Brasil colonial_, p. 104–123 |
+|     |       | Lançamento dos chamados para o exercício: Resumos                    | `ECO`, _Como se faz uma tese_, p. 7–32                                               |
+|  11 | 06/05 | Arte e arquitetura religiosa nas regiões de mineração                | `MACHADO`, Viagem a Ouro Preto In: _Barroco mineiro_, p. 177–189                     |
+|  12 | 09/05 | Questões de identidade, expertise e autoria no “Barroco Mineiro”     | `BURY`, O “Estilo Aleijadinho’ e as igrejas setecentistas brasileiras. In: _Arquitetura e arte no Brasil colonial_, p. 104–123 |
+|  13 | 13/05 | Ocupação urbana e arquitetura vernácula: estudos de moradia urbana   | `ALGRANTI`, Família e vida doméstica                                                 |
 |  14 | 16/05 | Não haverá aula. Prazo para envio dos resumos                    |   |
 |  15 | 20/05 | Discussão dos resumos e apresentação do exercício: Comunicação   |   |
-|  16 | 23/05 | Territórios, ocupação urbana e arquitetura vernácula             |   |
-|     |       | Perspectivas de estudos sobre as casas brasileiras                   | `ALGRANTI`, Família e vida doméstica                                                 |
+|  16 | 23/05 | Dia de aula normal até nova ordem. Em aberto para ajustes no cronograma | |
 |  17 | 27/05 | Arquitetura urbana e habitação em São Paulo, Minas Gerais e Goiás    | `COELHO`, _Arquitetura da mineração em Goiás_                                        |
 |     | 30/05 | Feriado (Corpus Christi)                                         |   |
 
 |     |       | `UNIDADE III`                                                    |   |
 |  18 | 03/06 | Demarcação de fronteiras e transformações urbanas no século XVIII    | `ARAÚJO`, A razão na selva                                                           |
 |  19 | 06/06 | “Metodologia científica”: técnicas de redação e documentação         | `ECO`, _Como se faz uma tese_                                                        |
-|  20 | 10/06 | Políticas e ensino da arte e da arquitetura no século `XIX`          | `GONZAGA DUQUE`, _A arte brasileira_, p. 257–262                                    |
-|     |       | Neoclassicismo, Missão Artística Francesa e Academia de Belas-Artes  | `MORALES DE LOS RÍOS`, _Grandjean de Montigny_, p. 145–161                          |
-|  21 | 13/06 | Neoclassicismo: Arquitetura urbana fora do Rio de Janeiro            | `LEMOS`, O neoclássico e o ecletismo. In: _Arquitetura brasileira_, p. 103–128      |
+|  20 | 10/06 | Políticas e ensino da arte e da arquitetura no século `XIX`          | `GONZAGA DUQUE`, _A arte brasileira_, p. 257–262                                     |
+|     |       | Neoclassicismo, Missão Artística Francesa e Academia de Belas-Artes  | `MORALES DE LOS RÍOS`, _Grandjean de Montigny_, p. 145–161                           |
+|  21 | 13/06 | Neoclassicismo: Arquitetura urbana fora do Rio de Janeiro            | `LEMOS`, O neoclássico e o ecletismo. In: _Arquitetura brasileira_, p. 103–128       |
 |  22 | 17/06 | Diversificações arquitetônicas no século `XIX`: Fazendas de café     | `CARRILHO`, Fazendas de café oitocentistas no vale do Paraíba                        |
 |  23 | 20/06 | Arquitetura urbana em São Paulo e no Rio de Janeiro                  | `HOMEM`, A civilização do café e as primeiras mudanças nas formas de morar (1867–1888). In: _O Palacete Paulistano_, p. 49–61 |
 |     |       |                                                                      | `BRENNA`, Ecletismo no Rio de Janeiro                                                |
@@ -239,7 +239,7 @@ Obs.: Cronograma sujeito a alterações.
 |  27 | 04/07 | Impressionismo, nativismo e movimento neocolonial                    | 
 |  28 | 08/07 | Movimento neocolonial e a preservação do patrimônio histórico        | 
 |     |       | Entrega final das comunicações (inadiável)                       |   |
-|  29 | 11/07 | Lucio Costa, Yves Bruand e a historiografia da arquitetura brasileira | `PUPPI`, _Por uma história não moderna da arquitetura brasileira_, p.                |
+|  29 | 11/07 | Lucio Costa, Yves Bruand e a historiografia da arquitetura brasileira | `PUPPI`, _Por uma história não moderna da arquitetura brasileira_, p.               |
 
 |  30 | 15/07 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império |   |
 |  31 | 18/07 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império |   |
