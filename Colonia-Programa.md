@@ -1,6 +1,8 @@
-# Unidade I
+Unidade I
+=========
 
-## Aula 1: Introdução à Disciplina
+Aula 1: Introdução à Disciplina
+-------------------------------
 
 ### Conteúdo
 
@@ -15,7 +17,8 @@
 [Aula 1: Introdução à Disciplina]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/01-Introducao.pdf
 
 
-## Aula 2: Formação dos territórios luso-brasileiros e o Império Português
+Aula 2: Formação dos territórios luso-brasileiros e o Império Português
+-----------------------------------------------------------------------
 
 ### Conteúdo
 
@@ -43,7 +46,8 @@
 [Lista de exercícios: Aula 2]: http://moodle.fau.unb.br/moodle/mod/quiz/view.php?id=6126
 
 
-## Aula 3: Apresentação do Exercício: Análise de Obra
+Aula 3: Apresentação do Exercício: Análise de Obra
+--------------------------------------------------
 
 ### Conteúdo
 
@@ -69,7 +73,8 @@
  + Seleção da obra a ser pesquisada     
  
  
-## Aula 4: Arquitetura do Açúcar
+Aula 4: Arquitetura do Açúcar
+-----------------------------
   
 ### Conteúdo
  
@@ -99,7 +104,8 @@
 [Lista de exercícios: Aula 4]: http://moodle.fau.unb.br/moodle/mod/quiz/view.php?id=6193
 
 
-## Aula 5: Estruturação do Território
+Aula 5: Estruturação do Território
+----------------------------------
 
 ### Conteúdo
 
@@ -123,7 +129,8 @@
 [Lista de exercícios: Aula 5][]
 
 
-## Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários
+Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários
+--------------------------------------------------------
 
 ### Conteúdo
 
@@ -144,6 +151,10 @@
 ### Atividade
 
 [Lista de exercícios: Aula 6][]
+
+
+Unidade II
+==========
 
 
 Aula 7: Sertanismo e ocupação urbana; Morada Paulista
