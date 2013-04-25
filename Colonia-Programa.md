@@ -79,8 +79,9 @@
 
 ### Leitura
 
-+ `FREYRE`, Gilberto. [Prefácio]. In: _[Casa-grande & senzala]:_ formação da família brasileira sob o regime da economia patriarcal. 48. ed. São Paulo: Global, 2003, p. 29–63.
-+ Casa-Grande & Senzala. _Wikipédia:_ A enciclopédia livre. Disponível em: <http://pt.wikipedia.org/wiki/Casa-Grande_%26_Senzala>. Acesso em: 6 abr. 2013.
++ Básica: `FREYRE`, Gilberto. [Prefácio][]. In: _[Casa-grande & senzala]:_ formação da família brasileira sob o regime da economia patriarcal. 48. ed. São Paulo: Global, 2003, p. 29–63.
++ Complementar 1: Casa-Grande & Senzala. _Wikipédia:_ A enciclopédia livre. Disponível em: <http://pt.wikipedia.org/wiki/Casa-Grande_%26_Senzala>. Acesso em: 6 abr. 2013.
++ Complementar 2: `CARDOZO`, Joaquim. Um tipo de casa rural do Distrito Federal e Estado do Rio. _Revista do `SPHAN`_ n. 7, Rio de Janeiro, p. 209–253, 1943. Disponível em: <http://www.iphan.gov.br/baixaFcdAnexo.do?id=3183>. Acesso em: 10 abr. 2013.
 
 [Prefácio]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Freyre-Casa_Grande_Senzala-Prefacio.pdf
 [Casa-grande & senzala]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Casa-Grande_Senzala.pdf
@@ -94,6 +95,8 @@
 ### Atividade
 
 [Lista de exercícios: Aula 4][]
+
+[Lista de exercícios: Aula 4]: http://moodle.fau.unb.br/moodle/mod/quiz/view.php?id=6193
 
 
 ## Aula 5: Estruturação do Território
@@ -141,6 +144,31 @@
 ### Atividade
 
 [Lista de exercícios: Aula 6][]
+
+
+## Aula 8: Arquitetura religiosa nos séculos XVI e XVII
+
+### Conteúdo
+
++ Capelas de Engenhos;
++ Ordens primeiras: Carmelitas e Franciscanos;
++ Inserção das igrejas na malha urbana.
+
+### Leitura
+
+`CAMPELLO`, Glauco. [Construções franciscanas no Nordeste][]. In: _O brilho da simplicidade_, p. 33–41.
+
+[Construções franciscanas no Nordeste]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Campello-Simplicidade.pdf
+
+### Slides
+
+[Aula 8: Arquitetura religiosa][]
+
+[Aula 8: Arquitetura religiosa]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/08-Igrejas_XVII.pdf
+
+### Atividade
+
+[Lista de exercícios: Aula 8][]
 
 
 ## Aula 7: Apresentação do exercício: Seminário
