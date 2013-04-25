@@ -146,6 +146,30 @@
 [Lista de exercícios: Aula 6][]
 
 
+Aula 7: Sertanismo e ocupação urbana; Morada Paulista
+-----------------------------------------------------
+
+### Conteúdo
+
++ Sertanismo e interiorização da ocupação portuguesa;
++ Paradigmas de crescimento urbano: Salvador e Rio de Janeiro;
++ Moradas paulistas: arquitetura rural do século `XVII`;
++ Apropriações do bandeirismo no quarto centenário de São Paulo.
+
+### Leitura
+
+`SAIA`, Luís. A Casa bandeirista. In: _Morada paulista_. São Paulo: Perspectiva, 1972.
+
+### Slides
+
+[Aula 7: Sertanismo e moradas rurais][]
+
+[Aula 7: Sertanismo e moradas rurais]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/07-Sertanismo.pdf
+
+### Atividade
+
+[Lista de exercícios: Aula 7][]
+
 
 Aula 8: Arquitetura religiosa nos séculos XVI e XVII
 ----------------------------------------------------
@@ -172,30 +196,6 @@ Aula 8: Arquitetura religiosa nos séculos XVI e XVII
 
 [Lista de exercícios: Aula 8][]
 
-
-Aula 7: Sertanismo e ocupação urbana; Morada Paulista
------------------------------------------------------
-
-### Conteúdo
-
-+ Sertanismo e interiorização da ocupação portuguesa;
-+ Paradigmas de crescimento urbano: Salvador e Rio de Janeiro;
-+ Moradas paulistas: arquitetura rural do século `XVII`;
-+ Apropriações do bandeirismo no quarto centenário de São Paulo.
-
-### Leitura
-
-`SAIA`, Luís. A Casa bandeirista. In: _Morada paulista_. São Paulo: Perspectiva, 1972.
-
-### Slides
-
-[Aula 7: Sertanismo e moradas rurais][]
-
-[Aula 7: Sertanismo e moradas rurais]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/07-Sertanismo.pdf
-
-### Atividade
-
-[Lista de exercícios: Aula 7][]
 
 
 
