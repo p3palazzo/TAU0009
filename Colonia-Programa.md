@@ -139,14 +139,16 @@
 
 [Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários][]
 
-[Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/006-Jesuita.pdf
+[Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/06-Jesuita.pdf
 
 ### Atividade
 
 [Lista de exercícios: Aula 6][]
 
 
-## Aula 8: Arquitetura religiosa nos séculos XVI e XVII
+
+Aula 8: Arquitetura religiosa nos séculos XVI e XVII
+----------------------------------------------------
 
 ### Conteúdo
 
@@ -171,15 +173,72 @@
 [Lista de exercícios: Aula 8][]
 
 
-## Aula 7: Apresentação do exercício: Seminário
+Aula 7: Sertanismo e ocupação urbana; Morada Paulista
+-----------------------------------------------------
 
 ### Conteúdo
 
++ Sertanismo e interiorização da ocupação portuguesa;
++ Paradigmas de crescimento urbano: Salvador e Rio de Janeiro;
++ Moradas paulistas: arquitetura rural do século `XVII`;
++ Apropriações do bandeirismo no quarto centenário de São Paulo.
+
 ### Leitura
+
+`SAIA`, Luís. A Casa bandeirista. In: _Morada paulista_. São Paulo: Perspectiva, 1972.
 
 ### Slides
 
-### Atividades
+[Aula 7: Sertanismo e moradas rurais][]
+
+[Aula 7: Sertanismo e moradas rurais]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/07-Sertanismo.pdf
+
+### Atividade
+
+[Lista de exercícios: Aula 7][]
+
+
+
++ [Seminário: Lançamento de Chamada de Sessões Temáticas][]
+
+
+Aula 9: Traçados Urbanos em Regiões de Mineração
+------------------------------------------------
+
+### Conteúdo
+
++ Ocupação do território e economia mineradora;
++ Reformulação da administração territorial na colônia;
++ Traçados urbanos: paradigmas do arraial e do risco “na sua direitura”;
+
+### Leitura
+
+* `FONSECA`, Cláudia Damasceno. Urbs e civitas: a formação dos espaços e territórios urbanos nas minas setecentistas. _Anais do Museu Paulista:_ História e Cultura Material, v. 20, n. 1, p. 77–108, jun. 2012. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142012000100004>. Acesso em: 24 abr. 2013.
+
+### Slides
+
+[Aula 9: Traçados Urbanos em Regiões de Mineração][]
+
+[Aula 9: Traçados Urbanos em Regiões de Mineração]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/09-Urb_Minera.pdf
+
+### Atividade
 
 + [Entrega do Exercício: Análise de Obra][]
-+ [Seminário: Lançamento de Chamada de Sessões Temáticas][]
+
+
+Aula 10: Lançamento do Chamado de Trabalhos para o Seminário
+------------------------------------------------------------
+
+### Conteúdo
+
++ Conceitos e métodos de pesquisa científica;
++ Revisão: normas de redação;
++ Análise de trabalhos científicos.
+
+### Leitura
+
+`ECO`, Umberto. _Como se faz uma tese_. São Paulo: Perspectiva, 2008, p. 7–32.
+
+http://ebooksgratis.com.br/livros-ebooks-gratis/tecnicos-e-cientificos/metodologia-cientifica-como-se-faz-uma-tese-em-ciencias-humanas-umberto-eco/
+
+### Atividade
