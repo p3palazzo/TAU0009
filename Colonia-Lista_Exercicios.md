@@ -52,3 +52,19 @@ Glauco Campello contrasta duas soluções arquitetônicas para as igrejas franci
 > […] as igrejas de outros conventos franciscanos erigidos no Nordeste, fora do centro dominante da Colônia, guardaram integralmente os predicados dessa simplicidade poética tão peculiar às construções da ordem quanto a uma grande parte da arquitetura feita no Brasil, independentemente dos programas monumentais, do desejo de criar uma cenografia barroca em correspondência aos anseios daquela sociedade e até da evolução dos estilos. (p. 41)
 
 Cite um exemplar de arquitetura franciscana na Europa e um exemplar de arquitetura religiosa não franciscana no Brasil do período colonial que possam ser referidos à citação acima. Discuta o conceito de “simplicidade” nesses exemplares, tendo em vista o emprego do repertório da arquitetura erudita e de ornamentos interiores e exteriores.
+
+
+Aula 9: Traçados Urbanos em Regiões de Mineração
+------------------------------------------------
+
+### Restrições
+
+#### Ementa
+
+A respeito da cidade de Mariana, Cláudia Damasceno Fonseca afirma que:
+
+> O processo inicial de formação desta cidade foi semelhante ao de outros núcleos mineradores, apresentando os elementos já bastante evidenciados em diversos trabalhos sobre as cidades coloniais mineiras […] Após a criação da Vila de Nossa Senhora do Carmo (1711) a transferência da matriz foi oficializada pelo rei e a partir deste momento os dois núcleos primitivos que formavam o « arraial de cima » […] foram relegados a um segundo plano, com a progressiva concentração das instituições e dos serviços no « arraial de baixo ».[^fonseca]
+
+[^fonseca]: `FONSECA`, Cláudia Damasceno. Agentes e Contextos das Intervenções Urbanísticas nas Minas Gerais do século XVIII. _Océanos_, n. 41, A Construção do Brasil Urbano. Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, p. 94–95, jan./mar. 2000.
+
+A quais paradigmas de espontaneidade e planejamento se filiam os arraiais de cima e de baixo citados pela autora, e como o conceito de planejamento é mitigado pelas circunstâncias locais?
