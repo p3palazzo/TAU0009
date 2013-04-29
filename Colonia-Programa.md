@@ -224,7 +224,7 @@ Aula 9: Traçados Urbanos em Regiões de Mineração
 
 ### Leitura
 
-* `FONSECA`, Cláudia Damasceno. Urbs e civitas: a formação dos espaços e territórios urbanos nas minas setecentistas. _Anais do Museu Paulista:_ História e Cultura Material, v. 20, n. 1, p. 77–108, jun. 2012. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142012000100004>. Acesso em: 24 abr. 2013.
+`FONSECA`, Cláudia Damasceno. Urbs e civitas: a formação dos espaços e territórios urbanos nas minas setecentistas. _Anais do Museu Paulista:_ História e Cultura Material, v. 20, n. 1, p. 77–108, jun. 2012. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142012000100004>. Acesso em: 24 abr. 2013.
 
 ### Slides
 
@@ -248,8 +248,8 @@ Aula 10: Lançamento do Chamado de Trabalhos para o Seminário
 
 ### Leitura
 
-`ECO`, Umberto. _Como se faz uma tese_. São Paulo: Perspectiva, 2008, p. 7–32.
+`ECO`, Umberto. _Como se faz uma tese_. São Paulo: Perspectiva, 2008, [p. 7–32][].
 
-http://ebooksgratis.com.br/livros-ebooks-gratis/tecnicos-e-cientificos/metodologia-cientifica-como-se-faz-uma-tese-em-ciencias-humanas-umberto-eco/
+[p. 7–32]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Eco-Tese.pdf
 
 ### Atividade
