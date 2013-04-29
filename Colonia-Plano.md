@@ -234,23 +234,23 @@ Obs.: Cronograma sujeito a alterações.
 |  13 | 13/05 | Ocupação urbana e arquitetura vernácula: estudos de moradia urbana   | `ALGRANTI`, Família e vida doméstica |
 |     | 16/05 | Não haverá aula. Prazo para envio dos resumos                        ||
 |  14 | 20/05 | Discussão dos resumos e apresentação do exercício: Comunicação       ||
-|  15 | 23/05 | Dia de aula normal até nova ordem. Em aberto para ajustes no cronograma ||
-|  16 | 27/05 | Arquitetura urbana e habitação em São Paulo, Minas Gerais e Goiás    | `COELHO`, _Arquitetura da mineração em Goiás_ |
-|     | 30/05 | Feriado (Corpus Christi)                                             ||
+|  15 | 23/05 | Arquitetura urbana e habitação em São Paulo, Minas Gerais e Goiás    | `COELHO`, _Arquitetura da mineração em Goiás_ |
 
 |     |       | `UNIDADE III`                                                        ||
-|  17 | 03/06 | Demarcação de fronteiras e transformações urbanas no século XVIII    | `ARAÚJO`, A razão na selva |
+|  16 | 27/05 | Demarcação de fronteiras e transformações urbanas no século XVIII    | `ARAÚJO`, A razão na selva |
+|     | 30/05 | Feriado (Corpus Christi)                                             ||
+|  17 | 03/06 | Não haverá aula                                                      ||
 |  18 | 06/06 | “Metodologia científica”: técnicas de redação e documentação         | `ECO`, _Como se faz uma tese_, p. 7–32|
 |  19 | 10/06 | Políticas e ensino da arte e da arquitetura no século `XIX`          | `GONZAGA DUQUE`, _A arte brasileira_, p. 257–262 |
 |     |       | Neoclassicismo, Missão Artística Francesa e Academia de Belas-Artes  | `MORALES DE LOS RÍOS`, _Grandjean de Montigny_, p. 145–161 |
 |  20 | 13/06 | Neoclassicismo: Arquitetura urbana fora do Rio de Janeiro            | `LEMOS`, O neoclássico e o ecletismo. In: _Arquitetura brasileira_, p. 103–128 |
-|  21 | 17/06 | Diversificações arquitetônicas no século `XIX`: Fazendas de café     | `CARRILHO`, Fazendas de café oitocentistas no vale do Paraíba |
-|  22 | 20/06 | Arquitetura urbana em São Paulo e no Rio de Janeiro                  | `HOMEM`, A civilização do café e as primeiras mudanças nas formas de morar (1867–1888). In: _O Palacete Paulistano_, p. 49–61 |
+|  21 | 17/06 | Não haverá aula                                                      ||
+|  22 | 20/06 | Diversificações arquitetônicas no século `XIX`: Fazendas de café     | `CARRILHO`, Fazendas de café oitocentistas no vale do Paraíba |
+|  23 | 24/06 | Arquitetura urbana em São Paulo e no Rio de Janeiro                  | `HOMEM`, A civilização do café e as primeiras mudanças nas formas de morar (1867–1888). In: _O Palacete Paulistano_, p. 49–61 |
 |     |       |                                                                      | `BRENNA`, Ecletismo no Rio de Janeiro. In: `FABRIS` (org.), _Ecletismo na arquitetura brasileira_ |
-|  23 | 24/06 | Arquiteturas dos imigrantes e da industrialização                    | 
-|  24 | 27/06 | Modernidade e cosmopolitismo do Art Nouveau ao Art Déco              | `FICHER`, Antonio Garcia Moya, um arquiteto da Semana de 22 |
-|  25 | 01/07 | Reformas urbanas e exposições nacionais no início do século `XX`     ||
-|  26 | 04/07 | Impressionismo, nativismo e movimento neocolonial                    ||
+|  24 | 27/06 | Arquiteturas dos imigrantes e da industrialização                    ||
+|  25 | 01/07 | Modernidade e cosmopolitismo do Art Nouveau ao Art Déco              | `FICHER`, Antonio Garcia Moya, um arquiteto da Semana de 22 |
+|  26 | 04/07 | Reformas urbanas e exposições nacionais no início do século `XX`     ||
 |  27 | 08/07 | Movimento neocolonial e a preservação do patrimônio histórico        ||
 |     |       | Entrega final das comunicações (inadiável)                           ||
 |  28 | 11/07 | Costa, Bruand e a historiografia da arquitetura brasileira           | `PUPPI`, _Por uma história não moderna da arquitetura brasileira_, p. |
