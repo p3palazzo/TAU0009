@@ -68,3 +68,40 @@ A respeito da cidade de Mariana, Cláudia Damasceno Fonseca afirma que:
 [^fonseca]: `FONSECA`, Cláudia Damasceno. Agentes e Contextos das Intervenções Urbanísticas nas Minas Gerais do século XVIII. _Océanos_, n. 41, A Construção do Brasil Urbano. Comissão Nacional para as Comemorações dos Descobrimentos Portugueses, p. 94–95, jan./mar. 2000.
 
 A quais paradigmas de espontaneidade e planejamento se filiam os arraiais de cima e de baixo citados pela autora, e como o conceito de planejamento é mitigado pelas circunstâncias locais?
+
+
+Aula 11: Arquitetura Religiosa em Regiões de Mineração
+------------------------------------------------------
+
+### Ouro Preto ###
+
+#### Ementa ####
+
+Explique, empregando citações do texto de Lourival Gomes Machado, a relação entre exterior e interior nas igrejas de Ouro Preto, em termos de volumetria, espaço e ornamento.
+
+
+Aula 12: Questões de identidade, expertise e autoria no “Barroco Mineiro”
+-------------------------------------------------------------------------
+
+### LC vs JB ###
+
+#### Ementa ####
+
+Referindo-se ao Aleijadinho, Lucio Costa em 1929 ponderava:
+
+> Os poucos arquitetos que têm estudado de verdade a nossa
+  arquitetura do tempo colonial sabem o quanto é difícil, por
+  forçada, a adaptação dos motivos por ele criados. E isso porque
+  o Aleijadinho nunca esteve de acordo com o verdadeiro espírito
+  geral da nossa arquitetura. A nossa arquitetura é robusta,
+  forte, maciça, e tudo o que ele fez foi magro, delicado, fino,
+  quase medalha. A nossa arquitetura é de linhas calmas,
+  tranqüilas, e tudo o que ele deixou é torturado, nervoso. Tudo
+  nela é estável, severo, simples, nada pernóstico. Nele tudo é
+  instável, rico, complicado, e um pouco precioso. E é por isso
+  que não o considero assim tão indispensável, e acho graça
+  quando ouço dizer que sem ele os nossos arquitetos não teriam o
+  que apresentar na arquitetura colonial. (O Aleijadinho e a
+  arquitetura neocolonial. _O Jornal_, 1929)
+
+Apresente dois exemplos do texto de John Bury, O “Estilo Aleijadinho” e as Igrejas Setecentistas Brasileiras, que desmentem o contraste apresentado por Lucio Costa. Justifique.

@@ -251,9 +251,9 @@ Obs.: Cronograma sujeito a alterações.
 |  24 | 27/06 | Arquiteturas dos imigrantes e da industrialização                    ||
 |  25 | 01/07 | Modernidade e cosmopolitismo do Art Nouveau ao Art Déco              | `FICHER`, Antonio Garcia Moya, um arquiteto da Semana de 22 |
 |  26 | 04/07 | Reformas urbanas e exposições nacionais no início do século `XX`     ||
-|  27 | 08/07 | Movimento neocolonial e a preservação do patrimônio histórico        ||
+|  27 | 08/07 | Movimento neocolonial e a preservação do patrimônio histórico        | `SEVERO`, Ricardo. Arquitetura Brasileira. In: _Revista do Brasil_, 1ª série, 1917 |
 |     |       | Entrega final das comunicações (inadiável)                           ||
-|  28 | 11/07 | Costa, Bruand e a historiografia da arquitetura brasileira           | `PUPPI`, _Por uma história não moderna da arquitetura brasileira_, p. |
+|  28 | 11/07 | Costa, Bruand e a historiografia da arquitetura brasileira           | `PUPPI`, Marcelo. Capítulo 1: Lucio Costa e a historiografia da arquitetura brasileira. In: _Por uma história não moderna da arquitetura brasileira_ |
 
 |  29 | 15/07 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império     ||
 |  30 | 18/07 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império     ||
