@@ -295,3 +295,22 @@ Aula 12: Questões de identidade, expertise e autoria no “Barroco Mineiro”
 ### Slides ###
 
 ### Atividade ###
+
+
+Aula 26: Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império
+-------------------------------------------------------------------------
+
+### Mesas Temáticas ###
+
++ Construção;
++ Arquitetura e Arte.
+
+
+Aula 27: Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império
+-------------------------------------------------------------------------
+
+### Mesas Temáticas ###
+
++ Formas Urbanas;
++ Saberes;
++ Historiografia.
