@@ -253,3 +253,64 @@ Aula 10: Lançamento do Chamado de Trabalhos para o Seminário
 [p. 7–32]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Eco-Tese.pdf
 
 ### Atividade
+
+
+Aula 11: Arte e arquitetura religiosa nas regiões de mineração
+--------------------------------------------------------------
+
+### Conteúdo ###
+
++ Matrizes portuguesas, italianas e germânicas;
++ Arquitetura erudita e vernácula.
+
+### Leitura ###
+
+`MACHADO`, Lourival Gomes. Viagem a Ouro Preto In: _Barroco mineiro_. São Paulo: Perspectiva, p. 177–189, 1973.
+
+### Slides ###
+
+[Aula 11: Arte e arquitetura religiosa nas regiões de mineração][]
+
+[Aula 11: Arte e arquitetura religiosa nas regiões de mineração]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/15-Arq_Minas.pdf
+
+### Atividade ###
+
+[Escolha da sessão temática para envio de artigo][]
+
+[Escolha da sessão temática para envio de artigo]: http://moodle.fau.unb.br/moodle/mod/choice/view.php?id=6466
+
+
+Aula 12: Questões de identidade, expertise e autoria no “Barroco Mineiro”
+-------------------------------------------------------------------------
+
+### Conteúdo ###
+
++ “Barroco” mineiro: historiografia e nacionalismo;
++ A questão Aleijadinho.
+
+### Leitura ###
+
+`BURY`, John. O “Estilo Aleijadinho’ e as igrejas setecentistas brasileiras. In: _Arquitetura e arte no Brasil colonial_. São Paulo: Nobel, p. 104–123, 1991. Disponível em: <http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=3101>. Acesso em: 18 mar. 2013.
+
+### Slides ###
+
+### Atividade ###
+
+
+Aula 26: Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império
+-------------------------------------------------------------------------
+
+### Mesas Temáticas ###
+
++ Construção;
++ Arquitetura e Arte.
+
+
+Aula 27: Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império
+-------------------------------------------------------------------------
+
+### Mesas Temáticas ###
+
++ Formas Urbanas;
++ Saberes;
++ Historiografia.
