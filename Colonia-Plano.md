@@ -1,17 +1,26 @@
 Title:       Plano de Ensino
 Subtitle:    154784
-Semestre:    1º/2013
-Author:      Pedro Paulo Palazzo
+Semestre:    2º/2013
+Author:      Pedro Paulo Palazzo; Maria Fernanda Derntl
 Affiliation: Departamento de Teoria e História
-Email:       palazzo@unb.br
+Email:       palazzo@unb.br; fernandafau@unb.br
 Phone:       (61) 3107–7449
 Base Header Level: 2
 
-    Sala 1 FAU-UnB
-    S 20h50–22h30
-	T
+    Turma A
+    Sala 6 FAU-UnB
+    S 
+	  T 10h--11h50
     Q
-    Q 19h–20h40
+    Q 10h--11h50
+    S
+
+    Turma C
+    Sala 1 FAU-UnB
+    S 20h50--22h30
+	  T
+    Q
+    Q 19h--20h40
     S
 
 Ementa
@@ -43,28 +52,29 @@ Unidade I: Formação e Ocupação de Territórios
 ---------------------------------------------
 
 1. Formação dos territórios luso-brasileiros e o Império Português; debate historiográfico sobre cidades coloniais de matriz ibérica;
-2. Vilas e cidades como agentes da estruturação de territórios: conceitos fundamentais; análise comparada;
+2. Vilas e cidades como agentes da estruturação de territórios: conceitos fundamentais;
 3. Arquitetura militar e fortificação;
 4. Matrizes africanas; arquitetura do açúcar no litoral;
-5. Matrizes indígenas; arquitetura jesuítica e aldeamentos missionários.
+5. Análise comparada da formação de traçados urbanos; territórios e ocupação urbana na interiorização da ocupação colonial;
 
 
 Unidade II: Cultura Arquitetônica Colonial
 ------------------------------------------
 
-6. Arquitetura religiosa urbana nos séculos `XVII` e `XVIII`: igrejas, catedrais e conventos das ordens primeiras;
-7. Territórios, ocupação urbana e arquitetura vernácula na interiorização da ocupação colonial;
-8. Arte e arquitetura religiosa nas regiões de mineração: padroado e ordens terceiras;
-9. Formação de territórios, demarcação de fronteiras e transformações urbanas no século XVIII.
+ 6. Matrizes indígenas; arquitetura jesuítica e aldeamentos missionários.
+ 7. Arquitetura religiosa nos séculos `XVII` e `XVIII`: igrejas, catedrais e conventos das ordens primeiras;
+ 8. Arquitetura vernácula e vivências domésticas;
+ 9. Arte e arquitetura religiosa nas regiões de mineração: padroado e ordens terceiras;
+10. Formação de territórios, demarcação de fronteiras e transformações urbanas no século `XVIII`.
 
 
 Unidade III: Século XIX
 -----------------------
 
-10. Políticas de promoção e ensino da arte e da arquitetura no século `XIX`; o papel da corte e a difusão da prática erudita;
-11. Diversificações arquitetônicas no século `XIX`: café, cosmopolitismo, industrialização e a contribuição dos imigrantes;
-12. Transformações urbanas no século XIX: vilas ferroviárias, colônias e reformas urbanas;
-13. Nacionalismo, patrimônio e preservação.
+11. Políticas de promoção e ensino da arte e da arquitetura no século `XIX`; o papel da corte e a difusão da prática erudita;
+12. Diversificações arquitetônicas no século `XIX`: café, cosmopolitismo, industrialização e a contribuição dos imigrantes;
+13. Transformações urbanas no século `XIX`: vilas ferroviárias, colônias e reformas urbanas;
+14. Nacionalismo, patrimônio e preservação.
 
 
 Recursos Didáticos
@@ -74,7 +84,7 @@ Recursos Didáticos
 + Leitura programada e discussão de textos;
 + Atividades interativas em sala;
 + Orientação à elaboração dos trabalhos individuais e em grupo;
-+ Moodle da disciplina.
++ [Moodle da disciplina](http://www.moodle.fau.unb.br/moodle).
 
 
 Avaliação
@@ -94,14 +104,13 @@ Observações Gerais
 Atividades
 ----------
 
-| Nome                       | Peso | Descrição                                          |
-| :------------------------- | ---: | :------------------------------------------------- |
-| Lista de Exercícios        |  15% | Uma ou duas questões dissertativas referentes ao conteúdo das leituras indicadas para cada aula no cronograma                    |
+| Nome                       | Peso | Descrição               |
+| :------------------------- | ---: | :---------------------- |
+| Lista de Exercícios        |  15% | Questões dissertativas ou outras atividades referentes ao conteúdo das aulas e das leituras                                      |
 | Análise de Obra            |  20% | Verbete enciclopédico no padrão Wikipédia, apresentando análise de obra de arquitetura ou de traçado urbano                      |
-| Organização de Seminário   |  10% | Concepção de sessão temática de seminário acadêmico e lançamento de chamada de trabalhos (atividade em grupos de 4 a 5 alunos)   |
-| Resumo para Seminário      |  15% | Resposta à chamada de trabalhos do seminário, na forma de resumo expandido e bibliografia comentada                              |
+| Resumo Expandido           |  15% | Resposta à chamada de trabalhos do seminário, na forma de resumo expandido e bibliografia comentada                              |
 | Comunicação                |  30% | Texto de pesquisa sobre tema atinente à Sessão Temática escolhida para o Seminário, com base no Resumo apresentado anteriormente |
-| Seminário: Mesa de Debates |  10% | Apresentação oral e visual das comunicações e discussão entre os grupos                                                          |
+| Revista Científica         |  20% | Elaboração e apresentação de uma publicação reunindo artigos, análises, e seções livres (em grupos de 4 a 5 alunos)              |
 
 
 Bibliografia
@@ -115,7 +124,7 @@ Básica
 * `ALGRANTI`, Leila Mezan. Família e vida doméstica. In: `SOUZA`, Laura de Mello e (org.) _História da vida privada no Brasil:_ Cotidiano e vida privada na América portuguesa v. 1. São Paulo: Companhia das Letras, 1997, p. 83–154.
 * `ARAÚJO`, Renata Klautau Malcher de. A Razão na Selva: Pombal e a Reforma Urbana da Amazónia. _Camões_ Revista de Letras e Cultura Lusófonas. Lisboa, Instituto Camões, n. 15–16, jan./jun. 2003.
 * `BAZIN`, Germain. _A arquitetura religiosa barroca no Brasil_. Rio de Janeiro: Record, 1983.
-* `BICCA`, Briane E.; `BICCA`, Paulo Roberto S. (orgs.) _Arquitetura na formação do Brasil_. Brasília: `UNESCO`, 2007.
+* `BICCA`, Briane E.; `BICCA`, Paulo Roberto S. (orgs.) _Arquitetura na formação do Brasil_. Brasília: Unesco, 2007.
 * `BRENNA`, Giovanna Rosso del. Ecletismo no Rio de Janeiro (séculos `XIX--XX`), In: `FABRIS`, Annateresa (org.) _Ecletismo na Arquitetura Brasileira_. São Paulo: Nobel/Edusp, 1987, p. 28–67
 * `BUENO`, Beatriz Piccolotto Siqueira. _Desenho e Desígnio:_ o Brasil dos engenheiros militares (1500–1822). Tese (Doutorado). `FAUUSP`, (2ª versão), São Paulo, 2003.
 * `BURY`, John. _Arquitetura e arte no Brasil colonial_ (Org. Myriam Andrade de Oliveira). São Paulo: Nobel, 1991. Disponível em: <http://portal.iphan.gov.br/portal/baixaFcdAnexo.do?id=3101>. Acesso em: 18 mar. 2013.
@@ -209,54 +218,54 @@ Cronograma
 
 Obs.: Cronograma sujeito a alterações.
 
-| Aula | Data | Conteúdo                                                   | Leitura |
-| ---: | :--: | :--------------------------------------------------------- | :------ |
-|     |       | `UNIDADE I`                                                          ||
-|   1 | 01/04 | Introdução à disciplina                                              ||
-|   2 | 04/04 | Formação dos territórios luso-brasileiros e o Império Português      | `HOLANDA`, O semeador e o ladrilhador. In: _Raízes do Brasil_ |
-|     |       | Debate historiográfico sobre cidades coloniais de matriz ibérica     | `REIS` Filho, A política urbanizadora. In: _Evolução Urbana do Brasil_ | 
-|   3 | 08/04 | Apresentação do exercício: Análise de Obra                           | `UNWIN`, _Analysing Architecture_ |
-|   4 | 11/04 | Matrizes africanas; arquitetura do açúcar no litoral                 | `FREYRE`, Introdução. In: _Casa-grande & senzala_ |
-|   5 | 15/04 | Vilas e cidades como agentes da estruturação de territórios          ||
-|     |       | Arquitetura militar e fortificação                                   | `VALLA`, O papel dos arquitectos e engenheiros militares… |
-|   6 | 18/04 | Matrizes indígenas; arquitetura jesuítica e aldeamentos missionários | `COSTA`, A arquitetura jesuítica no Brasil |
-|   7 | 22/04 | Sertanismo, ocupação urbana e moradas rurais                         | `SAIA`, A Casa bandeirista. In: _Morada paulista_ |
+| Aula | Turma A | Turma C | Conteúdo                                                        | Leitura |
+| ---: | :--: | :--: | :-------------------------------------------------------------------- | :------ |
+|     |       |       | `UNIDADE I`                                                          ||
+|   1 | 20/08 | 19/08 | Introdução à disciplina                                              ||
+|   2 | 22/08 | 22/08 | Formação dos territórios luso-brasileiros e o Império Português      | `HOLANDA`, O semeador e o ladrilhador. In: _Raízes do Brasil_ |
+|     |       |       | Debate historiográfico sobre cidades coloniais de matriz ibérica     | `REIS` Filho, A política urbanizadora. In: _Evolução Urbana do Brasil_ | 
+|   3 | 27/08 | 26/08 | Apresentação do exercício: Análise de Obra                           | `UNWIN`, _Analysing Architecture_ |
+|   4 | 29/08 | 29/08 | Matrizes africanas; arquitetura do açúcar no litoral                 | `FREYRE`, Introdução. In: _Casa-grande & senzala_ |
+|   5 | 03/09 | 02/09 | Vilas e cidades como agentes da estruturação de territórios          ||
+|     |       |       | Arquitetura militar e fortificação                                   | `VALLA`, O papel dos arquitectos e engenheiros militares… |
+|   6 | 05/09 |       | Matrizes indígenas; arquitetura jesuítica e aldeamentos missionários | `COSTA`, A arquitetura jesuítica no Brasil |
+|   7 | 10/09 | 09/09 | Sertanismo, ocupação urbana e moradas rurais                         | `SAIA`, A Casa bandeirista. In: _Morada paulista_ |
 
-|     |       | `UNIDADE II`                                                         ||
-|   8 | 25/04 | Arquitetura religiosa urbana nos séculos `XVII` e `XVIII`            | `CAMPELLO`, Construções franciscanas no Nordeste In: _O brilho da simplicidade_, p. 33–41 |
-|     |       | Apresentação do exercício: Seminário                                 ||
-|   9 | 29/04 | Traçados urbanos em regiões de mineração                             | `FONSECA`, Urbs e civitas. _Anais do Museu Paulista_, v. 20, n. 1 |
-|     |       | Entrega do exercício: Análise de Obra                                ||
-|  10 | 02/05 | Entrega das sessões temáticas do exercício: Seminário                ||
-|     |       | Lançamento dos chamados para o exercício: Resumos                    | `ECO`, _Como se faz uma tese_, p. 7–32 |
-|  11 | 06/05 | Arte e arquitetura religiosa nas regiões de mineração                | `MACHADO`, Viagem a Ouro Preto In: _Barroco mineiro_, p. 177–189 |
-|  12 | 09/05 | Questões de identidade, expertise e autoria no “Barroco Mineiro”     | `BURY`, O “Estilo Aleijadinho’ e as igrejas setecentistas brasileiras. In: _Arquitetura e arte no Brasil colonial_, p. 104–123 |
-|  13 | 13/05 | Ocupação urbana e arquitetura vernácula: estudos de moradia urbana   | `ALGRANTI`, Família e vida doméstica |
-|     | 16/05 | Não haverá aula. Prazo para envio dos resumos                        ||
-|  14 | 20/05 | Discussão dos resumos e apresentação do exercício: Comunicação       ||
-|  15 | 23/05 | Arquitetura urbana e habitação em São Paulo, Minas Gerais e Goiás    | `COELHO`, _Arquitetura da mineração em Goiás_ |
+|     |       |       | `UNIDADE II`                                                         ||
+|   8 | 12/09 | 12/09 | Arquitetura religiosa urbana nos séculos `XVII` e `XVIII`            | `CAMPELLO`, Construções franciscanas no Nordeste In: _O brilho da simplicidade_, p. 33–41 |
+|     |       |       | Apresentação do exercício: Seminário                                 ||
+|   9 | 17/09 | 16/09 | Traçados urbanos em regiões de mineração                             | `FONSECA`, Urbs e civitas. _Anais do Museu Paulista_, v. 20, n. 1 |
+|     |       |       | Entrega do exercício: Análise de Obra                                ||
+|  10 | 19/09 | 19/09 | Entrega das sessões temáticas do exercício: Seminário                ||
+|     |       |       | Lançamento dos chamados para o exercício: Resumos                    | `ECO`, _Como se faz uma tese_, p. 7–32 |
+|  11 | 24/09 | 23/09 | Arte e arquitetura religiosa nas regiões de mineração                | `MACHADO`, Viagem a Ouro Preto In: _Barroco mineiro_, p. 177–189 |
+|  12 | 26/09 | 26/09 | Questões de identidade, expertise e autoria no “Barroco Mineiro”     | `BURY`, O “Estilo Aleijadinho’ e as igrejas setecentistas brasileiras. In: _Arquitetura e arte no Brasil colonial_, p. 104–123 |
+|  13 | 01/10 | 30/09 | Ocupação urbana e arquitetura vernácula: estudos de moradia urbana   | `ALGRANTI`, Família e vida doméstica |
+|     | 03/10 | 03/10 | Não haverá aula. Prazo para envio dos resumos                        ||
+|  14 | 08/10 | 07/10 | Discussão dos resumos e apresentação do exercício: Comunicação       ||
+|  15 | 10/10 | 10/10 | Arquitetura urbana e habitação em São Paulo, Minas Gerais e Goiás    | `COELHO`, _Arquitetura da mineração em Goiás_ |
 
-|     |       | `UNIDADE III`                                                        ||
-|  16 | 27/05 | Demarcação de fronteiras e transformações urbanas no século XVIII    | `ARAÚJO`, A razão na selva |
-|     | 30/05 | Feriado (Corpus Christi)                                             ||
-|  17 | 03/06 | Não haverá aula                                                      ||
-|  18 | 06/06 | “Metodologia científica”: técnicas de redação e documentação         | `ECO`, _Como se faz uma tese_, p. 7–32|
-|  19 | 10/06 | Políticas e ensino da arte e da arquitetura no século `XIX`          | `GONZAGA DUQUE`, _A arte brasileira_, p. 257–262 |
-|     |       | Neoclassicismo, Missão Artística Francesa e Academia de Belas-Artes  | `MORALES DE LOS RÍOS`, _Grandjean de Montigny_, p. 145–161 |
-|  20 | 13/06 | Neoclassicismo: Arquitetura urbana fora do Rio de Janeiro            | `LEMOS`, O neoclássico e o ecletismo. In: _Arquitetura brasileira_, p. 103–128 |
-|  21 | 17/06 | Não haverá aula                                                      ||
-|  22 | 20/06 | Diversificações arquitetônicas no século `XIX`: Fazendas de café     | `CARRILHO`, Fazendas de café oitocentistas no vale do Paraíba |
-|  23 | 24/06 | Arquitetura urbana em São Paulo e no Rio de Janeiro                  | `HOMEM`, A civilização do café e as primeiras mudanças nas formas de morar (1867–1888). In: _O Palacete Paulistano_, p. 49–61 |
-|     |       |                                                                      | `BRENNA`, Ecletismo no Rio de Janeiro. In: `FABRIS` (org.), _Ecletismo na arquitetura brasileira_ |
-|  24 | 27/06 | Arquiteturas dos imigrantes e da industrialização                    ||
-|  25 | 01/07 | Modernidade e cosmopolitismo do Art Nouveau ao Art Déco              | `FICHER`, Antonio Garcia Moya, um arquiteto da Semana de 22 |
-|  26 | 04/07 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império     ||
-|  27 | 08/07 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império     ||
-|  28 | 11/07 | Reformas urbanas e exposições nacionais no início do século `XX`     ||
-|  29 | 15/07 | Movimento neocolonial e a preservação do patrimônio histórico        | `SEVERO`, Ricardo. Arquitetura Brasileira. In: _Revista do Brasil_, 1ª série, 1917 |
-|  20 | 18/07 | Costa, Bruand e a historiografia da arquitetura brasileira           | `PUPPI`, Marcelo. Capítulo 1: Lucio Costa e a historiografia da arquitetura brasileira. In: _Por uma história não moderna da arquitetura brasileira_ |
+|     |       |       | `UNIDADE III`                                                        ||
+|  16 | 15/10 | 14/10 | Demarcação de fronteiras e transformações urbanas no século XVIII    | `ARAÚJO`, A razão na selva |
+|     | 17/10 | 17/10 |                                                                      ||
+|  17 | 22/10 | 21/10 | Não haverá aula                                                      ||
+|  18 | 24/10 | 24/10 | “Metodologia científica”: técnicas de redação e documentação         | `ECO`, _Como se faz uma tese_, p. 7–32|
+|  19 | 29/10 | 28/10 | Políticas e ensino da arte e da arquitetura no século `XIX`          | `GONZAGA DUQUE`, _A arte brasileira_, p. 257–262 |
+|     |       |       | Neoclassicismo, Missão Artística Francesa e Academia de Belas-Artes  | `MORALES DE LOS RÍOS`, _Grandjean de Montigny_, p. 145–161 |
+|  20 | 30/10 | 30/10 | Neoclassicismo: Arquitetura urbana fora do Rio de Janeiro            | `LEMOS`, O neoclássico e o ecletismo. In: _Arquitetura brasileira_, p. 103–128 |
+|  21 | 05/11 | 04/11 | Não haverá aula                                                      ||
+|  22 | 07/11 | 07/11 | Diversificações arquitetônicas no século `XIX`: Fazendas de café     | `CARRILHO`, Fazendas de café oitocentistas no vale do Paraíba |
+|  23 | 12/11 | 11/11 | Arquitetura urbana em São Paulo e no Rio de Janeiro                  | `HOMEM`, A civilização do café e as primeiras mudanças nas formas de morar (1867–1888). In: _O Palacete Paulistano_, p. 49–61 |
+|     |       |       |                                                                      | `BRENNA`, Ecletismo no Rio de Janeiro. In: `FABRIS` (org.), _Ecletismo na arquitetura brasileira_ |
+|  24 | 14/11 | 14/11 | Arquiteturas dos imigrantes e da industrialização                    ||
+|  25 | 19/11 | 18/11 | Modernidade e cosmopolitismo do Art Nouveau ao Art Déco              | `FICHER`, Antonio Garcia Moya, um arquiteto da Semana de 22 |
+|  26 | 21/11 | 21/11 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império     ||
+|  27 | 26/11 | 25/11 | Seminário de Arquitetura e Urbanismo no Brasil Colônia e Império     ||
+|  28 | 28/11 | 28/11 | Reformas urbanas e exposições nacionais no início do século `XX`     ||
+|  29 | 03/12 | 02/12 | Movimento neocolonial e a preservação do patrimônio histórico        | `SEVERO`, Ricardo. Arquitetura Brasileira. In: _Revista do Brasil_, 1ª série, 1917 |
+|  20 | 05/12 | 05/12 | Costa, Bruand e a historiografia da arquitetura brasileira           | `PUPPI`, Marcelo. Capítulo 1: Lucio Costa e a historiografia da arquitetura brasileira. In: _Por uma história não moderna da arquitetura brasileira_ |
 
-|     | 22/07 | Bancas de Diplomação 2                                               ||
-|     |       | Entrega final das comunicações (inadiável)                           ||
-|     | 25/07 | Bancas de Diplomação 2                                               ||
+|     | 10/12 | 09/12 | Bancas de Diplomação 2                                               ||
+|     |       |       | Entrega final das comunicações (inadiável)                           ||
+|     | 12/12 | 12/12 | Bancas de Diplomação 2                                               ||
 
