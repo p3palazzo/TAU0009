@@ -6,15 +6,14 @@ Aula 1: Introdução à Disciplina
 
 ### Conteúdo
 
-+ Apresentação do plano de ensino, das expectativas e das atividades a serem desenvolvidas;
++ Apresentação do plano de ensino, das expectativas e das
+  atividades a serem desenvolvidas;
 + Revisão de história do Brasil;
 + Apanhado cronológico do conteúdo da disciplina.
 
 ### Slides
 
-[Aula 1: Introdução à Disciplina][]
-
-[Aula 1: Introdução à Disciplina]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/01-Introducao.pdf
+[Aula 1: Introdução à Disciplina](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/01-Introducao.pdf)
 
 
 Aula 2: Formação dos territórios luso-brasileiros e o Império Português
@@ -22,28 +21,30 @@ Aula 2: Formação dos territórios luso-brasileiros e o Império Português
 
 ### Conteúdo
 
-+ Colonização do Brasil no contexto da rede territorial portuguesa do século XVI;
-+ Formas urbanas medievais e renascentistas no contexto ibérico;
-+ Debate historiográfico sobre cidades coloniais de matriz ibérica.
++ Colonização do Brasil no contexto da rede territorial
+  portuguesa do século XVI;
++ Formas urbanas medievais e renascentistas no contexto
+  ibérico;
++ Debate historiográfico sobre cidades coloniais de matriz
+  ibérica.
 
 ### Leituras
 
-+ `HOLANDA`, Sérgio Buarque de. O semeador e o ladrilhador. In: _[Raízes do Brasil][]_. São Paulo: Companhia das Letras, 1995.
-+ `REIS` Filho, Nestor Goulart. A política urbanizadora. In: _Evolução Urbana do Brasil_ (1500–1720). São Paulo: Pioneira, 1968.
++ `HOLANDA`, Sérgio Buarque de. O semeador e o ladrilhador. In:
+  _[Raízes do Brasil][]_. São Paulo: Companhia das Letras, 1995.
++ `REIS` Filho, Nestor Goulart. A política urbanizadora. In:
+  _Evolução Urbana do Brasil_ (1500–1720). São Paulo: Pioneira,
+  1968.
 
 [Raízes do Brasil]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Raizes_do_Brasil_-_Sergio_Buarque_de_Holanda_-_Brasil_Historia_Sociedade_Heranca_Cultura.pdf
 
 ### Slides
        
-[Aula 2: Formação de territórios e o império português][]
-
-[Aula 2: Formação de territórios e o império português]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/02-Imperio.pdf
+[Aula 2: Formação de territórios e o império português](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/02-Imperio.pdf)
 
 ### Atividades
    
-[Lista de exercícios: Aula 2][]
-
-[Lista de exercícios: Aula 2]: http://moodle.fau.unb.br/moodle/mod/quiz/view.php?id=6126
+[Lista de exercícios: Aula 2](http://moodle.fau.unb.br/moodle/mod/quiz/view.php?id=6126)
 
 
 Aula 3: Apresentação do Exercício: Análise de Obra
@@ -63,9 +64,7 @@ Aula 3: Apresentação do Exercício: Análise de Obra
 
 ### Slides
 
-[Aula 3: Apresentação do Exercício: Análise de Obra][]
-
-[Aula 3: Apresentação do Exercício: Análise de Obra]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/03-Wiki.pdf
+[Aula 3: Apresentação do Exercício: Análise de Obra](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/03-Wiki.pdf)
 
 ### Atividades
 
@@ -84,24 +83,30 @@ Aula 4: Arquitetura do Açúcar
 
 ### Leitura
 
-+ Básica: `FREYRE`, Gilberto. [Prefácio][]. In: _[Casa-grande & senzala]:_ formação da família brasileira sob o regime da economia patriarcal. 48. ed. São Paulo: Global, 2003, p. 29–63.
-+ Complementar 1: Casa-Grande & Senzala. _Wikipédia:_ A enciclopédia livre. Disponível em: <http://pt.wikipedia.org/wiki/Casa-Grande_%26_Senzala>. Acesso em: 6 abr. 2013.
-+ Complementar 2: `CARDOZO`, Joaquim. Um tipo de casa rural do Distrito Federal e Estado do Rio. _Revista do `SPHAN`_ n. 7, Rio de Janeiro, p. 209–253, 1943. Disponível em: <http://www.iphan.gov.br/baixaFcdAnexo.do?id=3183>. Acesso em: 10 abr. 2013.
++ Básica: `FREYRE`, Gilberto. [Prefácio][]. In: _[Casa-grande
+  & senzala]:_ formação da família brasileira sob o regime da
+  economia patriarcal. 48. ed. São Paulo: Global, 2003,
+  p.\ 29–63.
++ Complementar 1: Casa-Grande & Senzala. _Wikipédia:_ A
+  enciclopédia livre. Disponível em: 
+  <http://pt.wikipedia.org/wiki/Casa-Grande_%26_Senzala>.
+  Acesso em: 6 abr. 2013.
++ Complementar 2: `CARDOZO`, Joaquim. Um tipo de casa rural do
+  Distrito Federal e Estado do Rio. _Revista do `SPHAN`_ n.\ 7,
+  Rio de Janeiro, p.\ 209–253, 1943. Disponível em: 
+  <http://www.iphan.gov.br/baixaFcdAnexo.do?id=3183>. Acesso
+  em: 10 abr. 2013.
 
 [Prefácio]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Freyre-Casa_Grande_Senzala-Prefacio.pdf
 [Casa-grande & senzala]: http://moodle.fau.unb.br/moodle/file.php/115/Material/Casa-Grande_Senzala.pdf
 
 ### Slides
 
-[Aula 4: Arquitetura do açúcar no litoral][]
-
-[Aula 4: Arquitetura do açúcar no litoral]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/04-Engenho.pdf
+[Aula 4: Arquitetura do açúcar no litoral](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/04-Engenho.pdf)
 
 ### Atividade
 
-[Lista de exercícios: Aula 4][]
-
-[Lista de exercícios: Aula 4]: http://moodle.fau.unb.br/moodle/mod/quiz/view.php?id=6193
+[Lista de exercícios: Aula 4](http://moodle.fau.unb.br/moodle/mod/quiz/view.php?id=6193)
 
 
 Aula 5: Estruturação do Território
@@ -112,7 +117,8 @@ Aula 5: Estruturação do Território
 + Vilas e cidades como agentes de estruturação do território;
 + Engenheiros militares na formação do território brasileiro;
 + Arquitetura militar: fortificações portuguesas;
-+ Sertanismo, entradas e mitologias do território sul-americano.
++ Sertanismo, entradas e mitologias do território
+  sul-americano.
 
 ### Leitura
 
@@ -120,9 +126,7 @@ Aula 5: Estruturação do Território
 
 ### Slides
 
-[Aula 5: Estruturação do Território][]
-
-[Aula 5: Estruturação do Território]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/05-Territorio.pdf
+[Aula 5: Estruturação do Território](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/05-Territorio.pdf)
 
 ### Atividade
 
@@ -136,7 +140,8 @@ Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários
 
 + Matrizes indígenas;
 + Arquitetura jesuítica e aldeamentos missionários;
-+ Autenticidade e originalidade da arquitetura brasileira no discurso modernista.
++ Autenticidade e originalidade da arquitetura brasileira no
+  discurso modernista.
 
 ### Leitura
 
@@ -144,9 +149,7 @@ Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários
 
 ### Slides
 
-[Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários][]
-
-[Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/06-Jesuita.pdf
+[Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/06-Jesuita.pdf)
 
 ### Atividade
 
@@ -156,7 +159,6 @@ Aula 6: Arquitetura Jesuítica e Aldeamentos Missionários
 Unidade II
 ==========
 
-
 Aula 7: Sertanismo e ocupação urbana; Morada Paulista
 -----------------------------------------------------
 
@@ -165,7 +167,8 @@ Aula 7: Sertanismo e ocupação urbana; Morada Paulista
 + Sertanismo e interiorização da ocupação portuguesa;
 + Paradigmas de crescimento urbano: Salvador e Rio de Janeiro;
 + Moradas paulistas: arquitetura rural do século `XVII`;
-+ Apropriações do bandeirismo no quarto centenário de São Paulo.
++ Apropriações do bandeirismo no quarto centenário de São
+  Paulo.
 
 ### Leitura
 
@@ -173,9 +176,7 @@ Aula 7: Sertanismo e ocupação urbana; Morada Paulista
 
 ### Slides
 
-[Aula 7: Sertanismo e moradas rurais][]
-
-[Aula 7: Sertanismo e moradas rurais]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/07-Sertanismo.pdf
+[Aula 7: Sertanismo e moradas rurais](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/07-Sertanismo.pdf)
 
 ### Atividade
 
@@ -199,16 +200,11 @@ Aula 8: Arquitetura religiosa nos séculos XVI e XVII
 
 ### Slides
 
-[Aula 8: Arquitetura religiosa][]
-
-[Aula 8: Arquitetura religiosa]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/08-Igrejas_XVII.pdf
+[Aula 8: Arquitetura religiosa](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/08-Igrejas_XVII.pdf)
 
 ### Atividade
 
 [Lista de exercícios: Aula 8][]
-
-
-
 
 + [Seminário: Lançamento de Chamada de Sessões Temáticas][]
 
@@ -220,7 +216,8 @@ Aula 9: Traçados Urbanos em Regiões de Mineração
 
 + Ocupação do território e economia mineradora;
 + Reformulação da administração territorial na colônia;
-+ Traçados urbanos: paradigmas do arraial e do risco “na sua direitura”;
++ Traçados urbanos: paradigmas do arraial e do risco “na sua
+  direitura”;
 
 ### Leitura
 
@@ -228,9 +225,7 @@ Aula 9: Traçados Urbanos em Regiões de Mineração
 
 ### Slides
 
-[Aula 9: Traçados Urbanos em Regiões de Mineração][]
-
-[Aula 9: Traçados Urbanos em Regiões de Mineração]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/09-Urb_Minera.pdf
+[Aula 9: Traçados Urbanos em Regiões de Mineração](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/09-Urb_Minera.pdf)
 
 ### Atividade
 
@@ -269,15 +264,11 @@ Aula 11: Arte e arquitetura religiosa nas regiões de mineração
 
 ### Slides ###
 
-[Aula 11: Arte e arquitetura religiosa nas regiões de mineração][]
-
-[Aula 11: Arte e arquitetura religiosa nas regiões de mineração]: http://moodle.fau.unb.br/moodle/file.php/115/Handouts/15-Arq_Minas.pdf
+[Aula 11: Arte e arquitetura religiosa nas regiões de mineração](http://moodle.fau.unb.br/moodle/file.php/115/Handouts/15-Arq_Minas.pdf)
 
 ### Atividade ###
 
-[Escolha da sessão temática para envio de artigo][]
-
-[Escolha da sessão temática para envio de artigo]: http://moodle.fau.unb.br/moodle/mod/choice/view.php?id=6466
+[Escolha da sessão temática para envio de artigo](http://moodle.fau.unb.br/moodle/mod/choice/view.php?id=6466)
 
 
 Aula 12: Questões de identidade, expertise e autoria no “Barroco Mineiro”

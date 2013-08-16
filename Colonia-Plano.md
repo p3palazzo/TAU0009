@@ -26,7 +26,9 @@ Base Header Level: 2
 Ementa
 ======
 
-Produção arquitetônica e processo de urbanização do descobrimento até fins do século `XIX`. Arquitetura indígena, vernácula e dos imigrantes.
+Produção arquitetônica e processo de urbanização do
+descobrimento até fins do século `XIX`. Arquitetura indígena,
+vernácula e dos imigrantes.
 
 
 Objetivos
@@ -35,14 +37,21 @@ Objetivos
 Geral
 -----
 
-Análise e discussão de obras pertinentes à produção arquitetônica e urbanística no Brasil entre os séculos `XVI` e `XIX`.
+Análise e discussão de obras pertinentes à produção
+arquitetônica e urbanística no Brasil entre os séculos `XVI` e
+`XIX`.
 
 Específicos
 -----------
 
-+ Discutir processos de produção da arquitetura e do espaço urbano e de estruturação dos territórios luso-brasileiros, em suas linhas gerais e especificidades locais;
-+ Desenvolver uma visão crítica sobre instrumentos, métodos e conceitos subjacentes a transformações urbanísticas e à produção da arquitetura;
-+ Apreender os métodos e as técnicas vigentes na pesquisa de objetos e temas arquitetônicos e urbanos.
++ Discutir processos de produção da arquitetura e do espaço
+  urbano e de estruturação dos territórios luso-brasileiros, em
+  suas linhas gerais e especificidades locais;
++ Desenvolver uma visão crítica sobre instrumentos, métodos e
+  conceitos subjacentes a transformações urbanísticas e à
+  produção da arquitetura;
++ Apreender os métodos e as técnicas vigentes na pesquisa de
+  objetos e temas arquitetônicos e urbanos.
 
 
 Conteúdo Programático
@@ -51,29 +60,43 @@ Conteúdo Programático
 Unidade I: Formação e Ocupação de Territórios
 ---------------------------------------------
 
-1. Formação dos territórios luso-brasileiros e o Império Português; debate historiográfico sobre cidades coloniais de matriz ibérica;
-2. Vilas e cidades como agentes da estruturação de territórios: conceitos fundamentais;
+1. Formação dos territórios luso-brasileiros e o Império
+   Português; debate historiográfico sobre cidades coloniais de
+   matriz ibérica;
+2. Vilas e cidades como agentes da estruturação de
+   territórios: conceitos fundamentais;
 3. Arquitetura militar e fortificação;
 4. Matrizes africanas; arquitetura do açúcar no litoral;
-5. Análise comparada da formação de traçados urbanos; territórios e ocupação urbana na interiorização da ocupação colonial;
+5. Análise comparada da formação de traçados urbanos;
+   territórios e ocupação urbana na interiorização da ocupação
+   colonial;
 
 
 Unidade II: Cultura Arquitetônica Colonial
 ------------------------------------------
 
- 6. Matrizes indígenas; arquitetura jesuítica e aldeamentos missionários.
- 7. Arquitetura religiosa nos séculos `XVII` e `XVIII`: igrejas, catedrais e conventos das ordens primeiras;
+ 6. Matrizes indígenas; arquitetura jesuítica e aldeamentos
+    missionários.
+ 7. Arquitetura religiosa nos séculos `XVII` e `XVIII`:
+    igrejas, catedrais e conventos das ordens primeiras;
  8. Arquitetura vernácula e vivências domésticas;
- 9. Arte e arquitetura religiosa nas regiões de mineração: padroado e ordens terceiras;
-10. Formação de territórios, demarcação de fronteiras e transformações urbanas no século `XVIII`.
+ 9. Arte e arquitetura religiosa nas regiões de mineração:
+    padroado e ordens terceiras;
+10. Formação de territórios, demarcação de fronteiras e
+    transformações urbanas no século `XVIII`.
 
 
 Unidade III: Século XIX
 -----------------------
 
-11. Políticas de promoção e ensino da arte e da arquitetura no século `XIX`; o papel da corte e a difusão da prática erudita;
-12. Diversificações arquitetônicas no século `XIX`: café, cosmopolitismo, industrialização e a contribuição dos imigrantes;
-13. Transformações urbanas no século `XIX`: vilas ferroviárias, colônias e reformas urbanas;
+11. Políticas de promoção e ensino da arte e da arquitetura
+    no século `XIX`; o papel da corte e a difusão da prática
+    erudita;
+12. Diversificações arquitetônicas no século `XIX`: café,
+    cosmopolitismo, industrialização e a contribuição dos
+    imigrantes;
+13. Transformações urbanas no século `XIX`: vilas
+    ferroviárias, colônias e reformas urbanas;
 14. Nacionalismo, patrimônio e preservação.
 
 
@@ -93,11 +116,24 @@ Avaliação
 Observações Gerais
 ------------------
 
-+ Todas as entregas serão realizadas exclusivamente via Moodle-`FAU` (não confundir com o Aprender-UnB!), de modo que os alunos ainda não cadastrados na plataforma devem fazê-lo o quanto antes;
-+ A não entrega de qualquer um dos trabalhos (excetuada a lista de exercícios) implicará a reprovação sumária na disciplina com menção `SR`, independentemente da nota obtida nos demais trabalhos;
-+ Plágio na elaboração de qualquer trabalho ou na lista de exercícios implicará a reprovação sumária na disciplina com menção `SR`, e o encaminhamento do caso ao Colegiado de Graduação da `FAU`-UnB;
-+ A Lei de Diretrizes e Bases do Ensino Superior exige, para cursos presenciais, a freqüência às aulas em no mínimo 75% da carga horária da disciplina;
-+ Inexiste, na referida lei, a figura do “abono de faltas”, mesmo com atestado médico (ressalvados os casos enquadrados como regime domiciliar);
++ Todas as entregas serão realizadas exclusivamente via
+  Moodle-`FAU` (não confundir com o Aprender-UnB!), de modo que
+  os alunos ainda não cadastrados na plataforma devem fazê-lo o
+  quanto antes;
++ A não entrega de qualquer um dos trabalhos (excetuada a
+  lista de exercícios) implicará a reprovação sumária na
+  disciplina com menção `SR`, independentemente da nota obtida
+  nos demais trabalhos;
++ Plágio na elaboração de qualquer trabalho ou na lista de
+  exercícios implicará a reprovação sumária na disciplina com
+  menção `SR`, e o encaminhamento do caso ao Colegiado de
+  Graduação da `FAU`-UnB;
++ A Lei de Diretrizes e Bases do Ensino Superior exige, para
+  cursos presenciais, a freqüência às aulas em no mínimo 75% da
+  carga horária da disciplina;
++ Inexiste, na referida lei, a figura do “abono de faltas”,
+  mesmo com atestado médico (ressalvados os casos enquadrados
+  como regime domiciliar);
 + Cada atraso será registrado como ¼ de falta.
 
 
@@ -116,7 +152,8 @@ Atividades
 Bibliografia
 ============
 
-Obs.: Os itens da bibliografia adotada nesta turma são diferentes daqueles mencionados no MatrículaWeb.
+Obs.: Os itens da bibliografia adotada nesta turma são
+diferentes daqueles mencionados no MatrículaWeb.
 
 Básica
 ------
@@ -245,10 +282,10 @@ Obs.: Cronograma sujeito a alterações.
 |     |       |       | Prazo para envio dos resumos                                         | `SANTOS`, Paulo F. _Formação de Cidades no Brasil Colonial_. Rio de Janeiro: Editora `UFRJ`, 2001, trecho a definir |
 |  15 | 08/10 | 07/10 | Discussão dos resumos e apresentação do exercício: Comunicação       ||
 |  16 | 10/10 | 10/10 | Arquitetura urbana e habitação em São Paulo, Minas Gerais e Goiás    | `COELHO`, _Arquitetura da mineração em Goiás_ |
-|  17 | 15/10 | 14/10 | Demarcação de fronteiras e transformações urbanas no século XVIII    | `ARAÚJO`, Renata Klautau Malcher de. A Razão na Selva: Pombal e a Reforma Urbana da Amazónia. _Camões_ Revista de Letras e Cultura Lusófonas. Lisboa, Instituto Camões, n. 15–16, jan./jun. 2003. |
+|  17 | 15/10 | 14/10 | Demarcação de fronteiras e transformações urbanas no século `XVIII`  | `ARAÚJO`, Renata Klautau Malcher de. A Razão na Selva: Pombal e a Reforma Urbana da Amazónia. _Camões_ Revista de Letras e Cultura Lusófonas. Lisboa, Instituto Camões, n. 15–16, jan./jun. 2003. |
 
 |     |       |       | `UNIDADE III`                                                        ||
-|  18 | 17/10 | 17/10 | 
+|  18 | 17/10 | 17/10 | Orientação para a elaboração de comunicações                         ||
 |  19 | 22/10 | 21/10 | “Metodologia científica”: técnicas de redação e documentação         | `ECO`, _Como se faz uma tese_, p. 7–32|
 |  20 | 24/10 | 24/10 | Políticas e ensino da arte e da arquitetura no século `XIX`          | `GONZAGA DUQUE`, _A arte brasileira_, p. 257–262 |
 |  21 | 29/10 | 28/10 | Neoclassicismo, Missão Artística Francesa e Academia de Belas-Artes  | `MORALES DE LOS RÍOS`, _Grandjean de Montigny_, p. 145–161 |
