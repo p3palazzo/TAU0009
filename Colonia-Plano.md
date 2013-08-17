@@ -140,13 +140,14 @@ Observações Gerais
 Atividades
 ----------
 
-| Nome                       | Peso | Descrição               |
-| :------------------------- | ---: | :---------------------- |
-| Lista de Exercícios        |  15% | Questões dissertativas ou outras atividades referentes ao conteúdo das aulas e das leituras                                      |
+| Nome                       | Peso | Descrição                                          |
+| :------------------------- | ---: | :------------------------------------------------- |
+| Lista de Exercícios        |  15% | Uma ou duas questões dissertativas referentes ao conteúdo das leituras indicadas para cada aula no cronograma                    |
 | Análise de Obra            |  20% | Verbete enciclopédico no padrão Wikipédia, apresentando análise de obra de arquitetura ou de traçado urbano                      |
-| Resumo Expandido           |  15% | Resposta à chamada de trabalhos do seminário, na forma de resumo expandido e bibliografia comentada                              |
+| Organização de Seminário   |  10% | Concepção de sessão temática de seminário acadêmico e lançamento de chamada de trabalhos (atividade em grupos de 4 a 5 alunos)   |
+| Resumo para Seminário      |  15% | Resposta à chamada de trabalhos do seminário, na forma de resumo expandido e bibliografia comentada                              |
 | Comunicação                |  30% | Texto de pesquisa sobre tema atinente à Sessão Temática escolhida para o Seminário, com base no Resumo apresentado anteriormente |
-| Revista Científica         |  20% | Elaboração e apresentação de uma publicação reunindo artigos, análises, e seções livres (em grupos de 4 a 5 alunos)              |
+| Seminário: Mesa de Debates |  10% | Apresentação oral e visual das comunicações e discussão entre os grupos                                                          |
 
 
 Bibliografia
