@@ -6,7 +6,7 @@
 > até fins do século XIX. Arquitetura indígena, vernácula e dos
 > imigrantes.
 
-## Unidade I · Cidades e redes na fundação do mundo moderno
+### Unidade I · Cidades e redes na fundação do mundo moderno ###
 
 Trabalho I: Análise de sítio
 
@@ -14,7 +14,7 @@ Trabalho I: Análise de sítio
 2. Teorias da arquitetura (Renascimento)
 3. Perspectiva e teatralidade urbana (cidade barroca)
 
-## Unidade II · Elementos da arquitetura
+### Unidade II · Elementos da arquitetura ###
 
 Trabalho II: Arqueologia da edificação
 
@@ -22,7 +22,7 @@ Trabalho II: Arqueologia da edificação
 5. Elementos da arquitetura clássica
 6. Revestimentos e estratigrafia
 
-## Unidade III · Elementos de composição
+### Unidade III · Elementos de composição ###
 
 Trabalho III: Critérios de intervenção num bem cultural
 
@@ -30,7 +30,7 @@ Trabalho III: Critérios de intervenção num bem cultural
 8. Casas nobres
 9. Especializações da casa moderna
 
-## Unidade IV · Linguagem e caráter
+### Unidade IV · Linguagem e caráter ###
 
 10. Arquitetura religiosa como paradigma classicista luso-brasileiro
 11. Ecletismo
