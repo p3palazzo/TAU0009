@@ -6,7 +6,9 @@
 > até fins do século XIX. Arquitetura indígena, vernácula e dos
 > imigrantes.
 
-### Unidade I · Cidades e redes na fundação do mundo moderno ###
+![GitHub Pages](https://github.com/p3palazzo/TAU0009/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+
+### Unidade I · Paradigmas urbanísticos ###
 
 Trabalho I: Análise de sítio
 

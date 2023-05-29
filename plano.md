@@ -114,8 +114,8 @@ daqueles mencionados no MatrículaWeb.
 -   GONZAGA DUQUE ESTRADA, Luiz. **[A arte
     brasileira](http://moodle.fau.unb.br/moodle/file.php/115/Material/Gozaga_Duque-Conclusao.pdf)**.
     Campinas: Mercado de Letras, 1995.
--   HOLANDA, Sérgio Buarque de. **[Raízes do
-    Brasil](http://moodle.fau.unb.br/moodle/file.php/115/Material/Raizes_do_Brasil_-_Sergio_Buarque_de_Holanda_-_Brasil_Historia_Sociedade_Heranca_Cultura.pdf)**.
+-   HOLANDA, Sérgio Buarque de. [**Raízes do
+    Brasil**](http://moodle.fau.unb.br/moodle/file.php/115/Material/Raizes_do_Brasil_-_Sergio_Buarque_de_Holanda_-_Brasil_Historia_Sociedade_Heranca_Cultura.pdf).
     São Paulo: Companhia das Letras, 1995.
 -   HOMEM, Maria Cecília Naclério. **O Palacete Paulistano e outras
     formas de morar da elite cafeeira**. São Paulo, Martins

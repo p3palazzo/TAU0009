@@ -1,8 +1,8 @@
-::: {#page-content .row}
-::: {#region-main .col-sm-8 .col-md-9}
 # [Arquitetura e Urbanismo no Brasil Colônia e Império]{style="text-decoration: line-through;"} Arquitetura e Urbanismo na tradição luso-brasileira
 
-### [Arquitetura brasileira como problema crítico e historiográfico](https://aprender.ead.unb.br/mod/book/view.php?id=359180 "Arquitetura brasileira como problema crítico e historiográfico"){.autolink}
+## Unidade I Territórios
+
+### Arquitetura brasileira como problema crítico e historiográfico
 
 -   O lugar da arquitetura brasileira no « Ocidente »
 -   Visualidade na cultura portuguesa
@@ -17,8 +17,6 @@ Leitura
     em: <https://www.moma.org/calendar/exhibitions/2304>
 :   MOUTINHO, M. **Arquitectura popular portuguesa**. Lisboa: Estampa,
     1995, p. 35--67, 141--154.
-:::
-:::
 
 -   ::: {#module-359180}
     <div>
@@ -106,21 +104,13 @@ Leitura
 
 [19 março - 25 março]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 19 março - 25 março {#março---25-março .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### [Colonização dos territórios portugueses](https://aprender.ead.unb.br/mod/book/view.php?id=360509 "Colonização dos territórios portugueses"){.autolink} {#formação-dos-territórios-luso-brasileiros-e-o-império-português}
 
 -   Urbanização de Portugal desde o século XIV e as vilas reais;
@@ -141,8 +131,9 @@ Leitura complementar
     2, p. 11--45,  dez.  2013.  Disponível
     em: <http://ref.scielo.org/7tj6b2>
 :   VALLA, Margarida. A engenharia militar na construção da
-    cidade. **Anais*:*** Seminário de História da Cidade e do
+    cidade. **Anais:** Seminário de História da Cidade e do
     Urbanismo, v. 6, n. 3, 1 ago. 2012
+
 :::
 :::
 
@@ -233,21 +224,13 @@ Leitura complementar
 
 [26 março - 1 abril]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 26 março - 1 abril {#março---1-abril .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Territórios no leste da América do Sul até o século XVI[](https://aprender.ead.unb.br/mod/resource/view.php?id=208579) {#territórios-e-arquiteturas-indígenas}
 
 -   Caminhos e redes territoriais
@@ -271,6 +254,7 @@ Leitura complementar
     Amazonia. **Antiquity**, v. 83, n. 322, p. 1084--1095, fev. 2009.
     Disponível
     em: <https://www.cambridge.org/core/product/identifier/S0003598X00099373/type/journal_article>
+
 :::
 :::
 
@@ -310,21 +294,13 @@ Leitura complementar
 
 [2 abril - 8 abril]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 2 abril - 8 abril {#abril---8-abril .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Urbanização no litoral atlântico da África {#urbanização-na-costa-da-mina-e-arquitetura-do-açúcar}
 
 -   Os conjuntos étnico-culturais nagô e kongo
@@ -337,7 +313,7 @@ Leitura básica
     Editora, 2003.
 
 Leitura complementar
-:   CASA-GRANDE & Senzala. **Wikipédia*:*** A enciclopédia livre.
+:   CASA-GRANDE & Senzala. **Wikipédia:** A enciclopédia livre.
     Disponível
     em: <http://pt.wikipedia.org/wiki/Casa-Grande_%26_Senzala>. Acesso
     em: 6 abr. 2013.
@@ -346,6 +322,7 @@ Leitura complementar
     p. 209--253, 1943. Disponível
     em: <http://portal.iphan.gov.br/uploads/publicacao/RevPat07_m.pdf>.
     Acesso em: 17 ago. 2017.
+
 :::
 :::
 
@@ -411,21 +388,13 @@ Leitura complementar
 
 [9 abril - 15 abril]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 9 abril - 15 abril {#abril---15-abril .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Morada senhorial luso-brasileira {#sertanismo-e-ocupação-urbana-morada-paulista}
 
 -   Moradas paulistas: arquitetura rural do século XVII e suas
@@ -450,21 +419,13 @@ Leitura complementar
 
 [16 abril - 22 abril]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 16 abril - 22 abril {#abril---22-abril .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### [Arquitetura religiosa: epítome do « estilo colonial »](https://aprender.ead.unb.br/mod/resource/view.php?id=221201) {#arquitetura-jesuítica-e-aldeamentos-missionários}
 
 -   Arquitetura jesuítica e franciscana: maneirismo e « estilo chão »
@@ -490,21 +451,13 @@ Leitura
 
 [23 abril - 29 abril]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 23 abril - 29 abril {#abril---29-abril .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### [Rede urbana na América portuguesa](https://aprender.ead.unb.br/mod/resource/view.php?id=221441) {#traçados-urbanos-em-regiões-de-mineração}
 
 -   Reformulação da administração territorial na colônia
@@ -516,8 +469,8 @@ width="1" height="1"}
 
 Leitura
 :   FONSECA, Cláudia Damasceno. Urbs e civitas: a formação dos espaços e
-    territórios urbanos nas minas setecentistas. *Anais do Museu
-    Paulista:* História e Cultura Material, v. 20, n. 1, p. 77--108,
+    territórios urbanos nas minas setecentistas. *Anais do Museu
+    Paulista:* História e Cultura Material, v. 20, n. 1, p. 77--108,
     jun. 2012. Disponível em: <http://ref.scielo.org/b5xz69>
 :::
 :::
@@ -823,21 +776,13 @@ Leitura
 
 [30 abril - 6 maio]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 30 abril - 6 maio {#abril---6-maio .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ## Unidade II Arquitetura brasileira
 
 ### [Arte e arquitetura na consolidação do Antigo Regime](https://aprender.ead.unb.br/mod/book/view.php?id=374749 "Arte e arquitetura na consolidação do Antigo Regime"){.autolink} {#rio-de-janeiro-capital-arte-e-cultura-urbana}
@@ -934,21 +879,13 @@ Leitura
 
 [7 maio - 13 maio]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}[Semana atual]{.accesshide}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 7 maio - 13 maio {#maio---13-maio .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### [Belas-artes e arquitetura oficial na crise do Antigo Regime](https://aprender.ead.unb.br/mod/book/view.php?id=375774 "Belas-artes e arquitetura oficial na crise do Antigo Regime"){.autolink} {#a-missão-artística-francesa}
 
 -   Sistematização das Belas-artes e da técnica
@@ -995,21 +932,13 @@ Leitura básica
 
 [14 maio - 20 maio]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 14 maio - 20 maio {#maio---20-maio .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### [Arquitetura senhorial no século XIX](https://aprender.ead.unb.br/mod/resource/view.php?id=229153) {#arquitetura-rural-no-sudeste-do-império}
 
 -   Introdução e expansão da cafeicultura
@@ -1028,21 +957,13 @@ Leitura
 
 [21 maio - 27 maio]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 21 maio - 27 maio {#maio---27-maio .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Dinâmicas urbanas e formação de freguesias
 
 -   Urbanização após o ciclo do ouro
@@ -1051,8 +972,8 @@ width="1" height="1"}
 
 Leitura
 :   BUENO, B. P. S. Tecido urbano e mercado imobiliário em São Paulo:
-    metodologia de estudo com base na décima urbana de 1809. *Anais do
-    museu paulista:* história e cultura material, jun. 2005. v. 13, n.
+    metodologia de estudo com base na décima urbana de 1809. *Anais do
+    museu paulista:* história e cultura material, jun. 2005. v. 13, n.
     1, p. 59--97. Disponível
     em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142005000100003&lng=pt&nrm=iso>.
     Acesso em: 16 set. 2013.
@@ -1084,21 +1005,13 @@ Leitura
 
 [28 maio - 3 junho]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 28 maio - 3 junho {#maio---3-junho .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Diversificação da arquitetura urbana
 :::
 :::
@@ -1106,21 +1019,13 @@ width="1" height="1"}
 
 [4 junho - 10 junho]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 4 junho - 10 junho {#junho---10-junho .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ## Unidade III O « Brasil » como problema arquitetônico
 
 ### Arte acadêmica
@@ -1137,21 +1042,13 @@ width="1" height="1"}
 
 [11 junho - 17 junho]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 11 junho - 17 junho {#junho---17-junho .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Novas capitais e reformas urbanas nos séculos XIX e XX {#novas-capitais-do-século-xix}
 
 -   Territorialidade das províncias e logística de comunicações
@@ -1159,8 +1056,8 @@ width="1" height="1"}
 -   Urbanismo positivista: o caso de Belo Horizonte
 
 Leitura
-:   SALGUEIRO, H. A. (Org.). *Cidades capitais do século
-    XIX:* racionalidade, cosmopolitismo e transferência de modelos. São
+:   SALGUEIRO, H. A. (Org.). *Cidades capitais do século
+    XIX:* racionalidade, cosmopolitismo e transferência de modelos. São
     Paulo: Edusp, 2001.
 :::
 :::
@@ -1168,21 +1065,13 @@ Leitura
 
 [18 junho - 24 junho]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 18 junho - 24 junho {#junho---24-junho .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Modernidade: vilas operárias, prédios altos e palacetes urbanos
 
 -   Alterações espaciais na moradia urbana
@@ -1195,21 +1084,13 @@ width="1" height="1"}
 
 [25 junho - 1 julho]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 25 junho - 1 julho {#junho---1-julho .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Monumentalidade e erudição
 
 -   Novos tipos de edifícios públicos e coletivos
@@ -1220,21 +1101,13 @@ width="1" height="1"}
 
 [2 julho - 8 julho]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 2 julho - 8 julho {#julho---8-julho .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Arquitetura nacional do neocolonial ao art déco
 
 -   Contexto dos estilos nacionais e a contribuição dos arquitetos
@@ -1247,21 +1120,13 @@ width="1" height="1"}
 
 [9 julho - 15 julho]{.hidden .sectionname}
 
-::: {.left .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
-::: {.right .side}
-![](https://aprender.ead.unb.br/theme/image.php/aprender1/core/1554316208/spacer){.spacer
-width="1" height="1"}
-:::
-
 ::: {.content}
+
 ### 9 julho - 15 julho {#julho---15-julho .sectionname}
 
 ::: {.summary}
 ::: {.no-overflow}
+
 ### Entrega final do memorial dos trabalhos da disciplina
 :::
 :::
