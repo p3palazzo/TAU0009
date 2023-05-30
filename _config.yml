@@ -297,16 +297,16 @@ defaults:
       share: true
       related: true
   # _obra
-    - scope:
-        path: ""
-        type: obra
-      values:
-        layout: single
-        author_profile: false
-        read_time: false
-        comments: false
-        share: true
-        related: true
+  - scope:
+      path: ""
+      type: obra
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: true
 
 
 # Collections
