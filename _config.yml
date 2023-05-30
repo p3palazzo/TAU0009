@@ -315,31 +315,6 @@ collections:
   - obra:
       output: true
       permalink: /:collection/:name/
-      sort_by: date_tl
   # pessoa
   - pessoa:
-      sort_by: date_tl
-  # unidade1
-  - unidade1:
-      title    : "Unidade I · Paradigmas urbanísticos"
-      output   : true
-      permalink: /:collection/:name/
-      order:
-  # unidade2
-  - unidade2:
-      title    : "Unidade II · Elementos da arquitetura"
-      output   : true
-      permalink: /:collection/:name/
-      order:
-  # unidade3
-  - unidade3:
-      title    : "Unidade III · Elementos de composição"
-      output   : true
-      permalink: /:collection/:name/
-      order:
-  # unidade4
-  - unidade4:
-      title    : "Unidade IV · Linguagem e caráter"
-      output   : true
-      permalink: /:collection/:name/
-      order:
+      output: false
