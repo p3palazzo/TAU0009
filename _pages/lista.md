@@ -1,5 +1,8 @@
-Lista de Exercícios
-===================
+---
+title: "Lista de Exercícios"
+published: false
+permalink: /lista/
+---
 
 Aula 2: Formação de Territórios
 -------------------------------

@@ -1,3 +1,9 @@
+---
+title: "Banco de questões para prova"
+published: false
+permalink: /questoes/
+---
+
 # Formas Urbanas e Arquitetura Cívica (1,0) #
 
 Esquematize a inserção urbana de uma igreja de ordem terceira em Ouro

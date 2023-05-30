@@ -1,4 +1,7 @@
-# [Arquitetura e Urbanismo no Brasil Colônia e Império]{style="text-decoration: line-through;"} Arquitetura e Urbanismo na tradição luso-brasileira
+---
+title: '<span style="text-decoration: line-through;">Arquitetura e Urbanismo no Brasil Colônia e Império</span> Arquitetura e Urbanismo na tradição luso-brasileira'
+permalink: /programa/
+---
 
 ## Unidade I Territórios
 
