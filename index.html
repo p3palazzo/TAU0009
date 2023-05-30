@@ -1,5 +1,5 @@
 ---
-title         : "Programa e cronograma"
+title         : "Arquitetura e Urbanismo no Brasil Colônia e Império"
 layout        : archive
 entries_layout: grid
 classes       : wide
@@ -11,26 +11,19 @@ header:
   overlay_filter: 0.5
   caption:
 tagline: |
-  <dl>
-    <dt>Ementa</dt>
-    <dd>
-      Produção arquitetônica e processo de urbanização do
-      descobrimento até fins do século
-      <span class="smallcaps">XIX</span>. Arquitetura indígena,
-      vernácula e dos imigrantes.
-    </dd>
-    <dt>Objetivo de aprendizagem</dt>
-    <dd></dd>
-  </dl>
+  Produção arquitetônica e processo de urbanização do
+  Descobrimento até fins do século
+  <span class="smallcaps">XIX</span>. Arquitetura indígena,
+  vernácula e dos imigrantes.
 ---
 
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
   {% unless collection.output == false or collection.label == "posts" %}
-    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% capture title %}{{ collection.title }}{% endcapture %}
     {% if label != written_label %}
-      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ title }}</h2>
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
