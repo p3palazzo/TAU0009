@@ -312,9 +312,9 @@ defaults:
 # Collections
 collections:
   # obra
-  - obra:
-      output: true
-      permalink: /:collection/:name/
+  obra:
+    output: true
+    permalink: /:collection/:name/
   # pessoa
-  - pessoa:
-      output: false
+  pessoa:
+    output: false
