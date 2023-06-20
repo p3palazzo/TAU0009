@@ -845,7 +845,7 @@ references:
   ISBN: 978-972-9375-49-1
   issued:
     - year: 2015
-  language: pt-PT
+  language: pt
   publisher: Campo Arqueológico de Mértola
   publisher-place: Mértola
   source: Open WorldCat
@@ -1009,7 +1009,7 @@ references:
   ISBN: 978-972-8479-79-4
   issued:
     - year: 2014
-  language: pt-PT
+  language: pt
   page: 70–93
   publisher: Argumentum
   publisher-place: Lisboa
@@ -1031,10 +1031,10 @@ references:
   citation-key: fernandes:2014morfologia
   container-title: 'A jangada de pedra: Geografias Ibero-Afro-Americanas'
   event-place: Guimarães
-  event-title: Atas do <span class="smallcaps">XIV</span> Colóquio Ibérico de Geografia
+  event-title: Atas do <span smallcaps="smallcaps">XIV</span> Colóquio Ibérico de Geografia
   issued:
     - year: 2014
-  language: pt-PT
+  language: pt
   page: 2364-2368
   publisher-place: Guimarães
   title: >-
@@ -2663,7 +2663,7 @@ references:
   genre: Tese (doutoramento) em História da Arte
   issued:
     - year: 2009
-  language: pt-PT
+  language: pt
   license: openAccess
   publisher: Faculdade de Letras da Universidade de Coimbra
   source: estudogeral.uc.pt
@@ -2885,8 +2885,8 @@ references:
   event-place: Lisboa
   issued:
     - year: 2006
-  language: pt-PT
-  publisher: <span class="smallcaps">IST</span> Press
+  language: pt
+  publisher: <span smallcaps="smallcaps">IST</span> Press
   publisher-place: Lisboa
   title: Tratado de arquitectura
   translator:
