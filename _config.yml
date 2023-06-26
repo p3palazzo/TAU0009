@@ -10,8 +10,8 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-#theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : "minimal-mistakes-jekyll"
+#remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -27,7 +27,7 @@ description: >
 url                      : https://palazzo.arq.br
 baseurl                  : /TAU0009
 repository               : p3palazzo/TAU0009
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/media/teaser.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -194,7 +194,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: kramdown
+markdown: Pandoc
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -202,21 +202,16 @@ incremental: false
 
 
 # Markdown Processing
-kramdown:
-  input: kramdown
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..3
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+pandoc:
+  extensions:
+    defaults: _data/defaults.yaml
 
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  quiet_deps: true # https://github.com/mmistakes/minimal-mistakes/issues/4054#issuecomment-1396536483
   load_paths:
     - reveal.js
 
@@ -236,6 +231,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-pandoc
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -285,6 +281,14 @@ compress_html:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      header:
+        overlay_filter: 0.5
+      comments: false
+      share: false
+      related: false
   # _posts
   - scope:
       path: ""
@@ -303,18 +307,58 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: false
-      comments: false
-      share: true
-      related: true
+  # _unidade-1
+  - scope:
+      path: ""
+      type: fundamentos
+    values:
+      author: Pedro Palazzo
+      author_profile: false
+      layout: single
+      read_time: true
+      toc: true
+  # _unidade-2
+  - scope:
+      path: ""
+      type: tipos
+    values:
+      author: Pedro Palazzo
+      author_profile: false
+      layout: single
+      read_time: true
+      toc: true
+  # _unidade-3
+  - scope:
+      path: ""
+      type: estilos
+    values:
+      author: Pedro Palazzo
+      author_profile: false
+      layout: single
+      read_time: true
+      toc: true
 
 
 # Collections
 collections:
-  # obra
+  # _obra
   obra:
-    output: true
-    permalink: /:collection/:name/
-  # pessoa
+    output: false
+  # _pessoa
   pessoa:
     output: false
+  # _unidade 1
+  fundamentos:
+    unidade: 1
+    output: true
+    permalink: /aula/:name/
+  # _unidade 2
+  tipos:
+    unidade: 2
+    output: true
+    permalink: /aula/:name/
+  # _unidade 3
+  estilos:
+    unidade: 3
+    output: true
+    permalink: /aula/:name/

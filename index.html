@@ -1,5 +1,5 @@
 ---
-title         : "Arquitetura e Urbanismo no Brasil Colônia e Império"
+title         : "Programa e Cronograma"
 layout        : archive
 entries_layout: grid
 classes       : wide
@@ -7,9 +7,9 @@ toc           : false
 read_time     : false
 author_profile: true
 header:
-  overlay_image:
+  overlay_image: "https://iiif-prod.nypl.org/index.php?id=54539&t=v"
   overlay_filter: 0.5
-  caption:
+  caption: "Johann Moritz Rugendas, [Rua Direita no Rio de Janeiro](https://digitalcollections.nypl.org/items/510d47d9-7b85-a3d9-e040-e00a18064a99), 1835"
 tagline: |
   Produção arquitetônica e processo de urbanização do
   Descobrimento até fins do século
@@ -19,11 +19,12 @@ tagline: |
 
 {% capture written_label %}'None'{% endcapture %}
 
-{% for collection in site.collections %}
+{% assign collections = site.collections | sort: "unidade" %}
+{% for collection in collections %}
   {% unless collection.output == false or collection.label == "posts" %}
-    {% capture title %}{{ collection.title }}{% endcapture %}
+    {% capture title %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
-      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ title }}</h2>
+      <h2 id="{{ label | slugify }}">{{ title | capitalize}}</h2>
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}

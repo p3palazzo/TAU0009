@@ -1,8 +1,8 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 3.9.0"
+gem "jekyll", "4.3.2"
 gem "minimal-mistakes-jekyll", "~> 4.24"
+gem "stringex"
 group :jekyll_plugins do
-  gem "github-pages"
   gem "jekyll-data"
   gem "jekyll-include-cache"
   gem "jekyll-redirect-from"
@@ -12,4 +12,5 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jekyll-feed"
+  gem "jekyll-pandoc"
 end

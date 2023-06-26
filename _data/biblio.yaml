@@ -366,7 +366,9 @@ references:
   source: Open WorldCat
   title: >-
     Los intelectuales latinoamericanos entre la modernidad y la tradición,
-    siglos XIX y XX
+    siglos <span smallcaps="smallcaps">XIX</span> y <span
+    smallcaps="smallcaps">XX</span>
+  title-short: Los intelectuales latinoamericanos entre la modernidad y la tradición
   type: book
 
 - id: caniggia:1997analisi
@@ -900,7 +902,9 @@ references:
   publisher: Monumenta/IPHAN
   publisher-place: Brasília, Brazil
   source: Library of Congress ISBN
-  title: 'Fazendas do sul de Minas Gerais: arquitetura rural nos séculos XVIII e XIX'
+  title: >-
+    Fazendas do sul de Minas Gerais: arquitetura rural nos séculos <span
+    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
   title-short: Fazendas do sul de Minas Gerais
   type: book
 
@@ -1134,7 +1138,8 @@ references:
   source: Crossref
   title: >-
     Uma morfologia dos quilombos nas Américas, séculos <span
-    class="smallcaps">XVI-XIX</span>
+    smallcaps="smallcaps">XVI-XIX</span>
+  title-short: Uma morfologia dos quilombos nas Américas
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-59702012000500014&lng=pt&tlng=pt
@@ -1600,7 +1605,7 @@ references:
       day: 14
   author:
     - family: Lemos
-      given: Carlos Alberto Cerqueira
+      given: Carlos A. C.
   citation-key: lemos:1993transformacoes
   collection-title: Nova série
   container-title: 'Anais do Museu Paulista: História e Cultura Material'
@@ -1617,7 +1622,8 @@ references:
   source: www.revistas.usp.br
   title: >-
     Transformações do espaço habitacional ocorridas na arquitetura brasileira do
-    século <span smallcaps="smallcaps">xix</span>
+    século <span smallcaps="smallcaps">XIX</span>
+  title-short: Transformações do espaço habitacional
   type: article-journal
   URL: http://www.revistas.usp.br/anaismp/article/view/5277
   volume: '1'
@@ -1629,7 +1635,7 @@ references:
       day: 9
   author:
     - family: Lemos
-      given: Carlos Alberto Cerqueira
+      given: Carlos A. C.
   citation-key: lemos:2012nova12
   container-title: Arquitextos
   ISSN: 1809-6298
@@ -2164,7 +2170,7 @@ references:
   title-short: Urban space and national identity in early twentieth century São Paulo
   type: book
 
-- id: pereira:2005historiografiaxxxi
+- id: pereira:2005historiografiaXXXI
   accessed:
     - year: 2018
       month: 5
@@ -2172,7 +2178,7 @@ references:
   author:
     - family: Pereira
       given: Sonia Gomes
-  citation-key: pereira:2005historiografiaxxxi
+  citation-key: pereira:2005historiografiaXXXI
   container-title: Estudos Ibero-Americanos
   ISSN: 0101-4064
   issue: '2'
@@ -2286,7 +2292,7 @@ references:
   type: article-journal
   URL: http://www.etnolinguistica.org/biblio:sa-1979-habitacao
 
-- id: sampaio:1916planta1
+- id: sampaio:1916planta
   accessed:
     - year: 2019
       month: 3
@@ -2294,7 +2300,7 @@ references:
   author:
     - family: Sampaio
       given: Theodoro Fernandes
-  citation-key: sampaio:1916planta1
+  citation-key: sampaio:1916planta
   container-title: >-
     Annaes do 5. Congresso Brazileiro de Geographia realizado na Cidade do
     Salvador, Estado da Bahia, de 7 a 16 de setembro de 1916
@@ -2362,7 +2368,7 @@ references:
   source: Open WorldCat
   title: >-
     Casas de engenho do Rio de Janeiro — século <span
-    smallcaps="smallcaps">xviii</span> — metodologia de estudo a partir de
+    smallcaps="smallcaps">XVIII</span> — metodologia de estudo a partir de
     múltiplas fontes
   title-short: Casas de engenho do Rio de Janeiro
   type: chapter
@@ -2440,7 +2446,7 @@ references:
   title: Das casas de morada às casas de vivenda
   type: chapter
 
-- id: simoes:2013permanencias5
+- id: simoes:2013permanencias
   abstract: >-
     A partir da compreensão dos processos de ocupação das áreas de colina em
     cidades brasileiras e portuguesas, associados à tradição urbanística
@@ -2476,7 +2482,7 @@ references:
       given: José Geraldo
     - family: Campos
       given: Candido Malta
-  citation-key: simoes:2013permanencias5
+  citation-key: simoes:2013permanencias
   container-title: urbe. Revista Brasileira de Gestão Urbana
   container-title-short: urbe, Rev. Bras. Gest. Urbana
   DOI: 10.7213/urbe.7785
@@ -2624,7 +2630,7 @@ references:
   title: História de Portugal
   type: book
 
-- id: thompson-fawcett:1998leon13
+- id: thompsonfawcett:1998leon13
   accessed:
     - year: 2019
       month: 3
@@ -2632,7 +2638,7 @@ references:
   author:
     - family: Thompson-Fawcett
       given: Michelle
-  citation-key: thompson-fawcett:1998leon13
+  citation-key: thompsonfawcett:1998leon13
   container-title: Planning Perspectives
   DOI: 10.1080/026654398364518
   ISSN: 0266-5433, 1466-4518
@@ -2671,6 +2677,29 @@ references:
   type: thesis
   URL: https://estudogeral.uc.pt/handle/10316/13529
 
+- id: trindade:2013urbanismo
+  accessed:
+    - year: 2018
+      month: 11
+      day: 3
+  author:
+    - family: Trindade
+      given: Luísa
+  call-number: 711.4(469)(043.2)
+  citation-key: trindade:2013urbanismo
+  DOI: 10.14195/978-989-26-0772-6
+  event-place: Coimbra
+  ISBN: 978-989-26-0772-6
+  issued:
+    - year: 2013
+  language: pt-PT
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: Crossref
+  title: Urbanismo na composição de Portugal
+  type: book
+  URL: http://dx.doi.org/10.14195/978-989-26-0772-6
+
 - id: turazzi:2009iconografia
   author:
     - family: Turazzi
@@ -2694,7 +2723,7 @@ references:
   title-short: Iconografia e patrimônio
   type: book
 
-- id: valla:2012engenharia6
+- id: valla:2012engenharia
   abstract: >-
     A prática de intervenção dos portugueses nos diversos territórios como
     África, Oriente levou à consolidação de teorias e de trocas de experiências
@@ -2718,7 +2747,7 @@ references:
     - family: Valla
       given: Margarida
   call-number: 711.034(81)
-  citation-key: valla:2012engenharia6
+  citation-key: valla:2012engenharia
   container-title: 'Anais: Seminário de História da Cidade e do Urbanismo'
   issue: '3'
   issued:
