@@ -366,6 +366,7 @@ collections:
     order:
       - base.md
       - nobre.md
+      - patio.md
       - especial.md
   # _unidade 3
   estilos:

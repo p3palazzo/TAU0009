@@ -1,6 +1,6 @@
 ---
 title: "Estética da monarquia liberal"
-date: 2023-11-23
+date: 2023-12-07
 header:
   teaser:
   overlay_image:
