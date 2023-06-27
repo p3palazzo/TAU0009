@@ -352,6 +352,12 @@ collections:
     unidade: 1
     output: true
     permalink: /aula/:name/
+    order:
+      - substrato.md
+      - territorialidade.md
+      - pombalismo.md
+      - elementos.md
+      - industrial.md
   # _unidade 2
   tipos:
     unidade: 2
