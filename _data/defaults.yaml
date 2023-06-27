@@ -5,10 +5,11 @@ metadata:
   lang: pt-BR
   # pandoc-crossref metadata
   figureTitle: Figura
+  subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
   tableTitle: Tabela
   tblPrefix:
-  - tab.
-  - tabs.
+    - tab.
+    - tabs.
 filters:
   - pandoc-crossref
   - citeproc
