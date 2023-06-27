@@ -363,8 +363,16 @@ collections:
     unidade: 2
     output: true
     permalink: /aula/:name/
+    order:
+      - base.md
+      - nobre.md
+      - especial.md
   # _unidade 3
   estilos:
     unidade: 3
     output: true
     permalink: /aula/:name/
+    order:
+      - igreja.md
+      - liberal.md
+      - nacional.md
