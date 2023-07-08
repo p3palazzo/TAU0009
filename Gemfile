@@ -1,0 +1,17 @@
+source "https://rubygems.org"
+gem "jekyll", "4.2.2"
+gem "minimal-mistakes-jekyll", "~> 4.24"
+gem "stringex"
+gem "webrick"
+group :jekyll_plugins do
+  gem "jekyll-data"
+  gem "jekyll-include-cache"
+  gem "jekyll-redirect-from"
+  gem "jekyll-relative-links"
+  gem "jekyll-seo-tag"
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-pandoc"
+end

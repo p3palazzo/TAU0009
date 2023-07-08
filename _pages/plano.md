@@ -1,11 +1,14 @@
-# [Arquitetura e Urbanismo no Brasil Colônia e Império]{style="text-decoration: line-through;"} Arquitetura e Urbanismo na tradição luso-brasileira
+---
+title: '<span style="text-decoration: line-through;">Arquitetura e Urbanismo no Brasil Colônia e Império</span> Arquitetura e Urbanismo na tradição luso-brasileira'
+permalink: /plano/
+---
 
-### Ementa
+## Ementa ##
 
 Produção arquitetônica e processo de urbanização do descobrimento até
 fins do século XIX. Arquitetura indígena, vernácula e dos imigrantes.
 
-### Ao final do semestre, você vai ser capaz de... {#ementa}
+## Ao final do semestre, você vai ser capaz de... ##
 
 -   Desenvolver elementos constituintes da pesquisa histórica em
     arquitetura e urbanismo;
@@ -14,7 +17,7 @@ fins do século XIX. Arquitetura indígena, vernácula e dos imigrantes.
 -   Intervir no ambiente construído de nossa região em harmonia com as
     suas tradições vernáculas e eruditas.
 
-### Para chegar lá, nós vamos...
+## Para chegar lá, nós vamos... ##
 
 -   Ter aulas expositivas às terças-feiras e aulas práticas às
     quintas-feiras;
@@ -27,7 +30,7 @@ fins do século XIX. Arquitetura indígena, vernácula e dos imigrantes.
     50,0) em **cada um** dos questionários e trabalhos,
     independentemente da média ponderada final.
 
-### Eu me comprometo a... {#atividades}
+## Eu me comprometo a... ##
 
 -   Complementar em sala de aula o conteúdo transmitido pelo livro-texto
     e tirar dúvidas sobre esse conteúdo e sobre as atividades a serem
@@ -39,7 +42,7 @@ fins do século XIX. Arquitetura indígena, vernácula e dos imigrantes.
 -   Comunicar alterações no planejamento do semestre por meio do quadro
     de avisos gerais do Moodle.
 
-### Você se compromete a...
+## Você se compromete a... ##
 
 -   [Ler atentamente este plano de curso e os textos da disciplina
     postados no Moodle, observando os
@@ -56,12 +59,12 @@ fins do século XIX. Arquitetura indígena, vernácula e dos imigrantes.
     organizado, e portar-se de modo respeitoso em geral, especialmente
     pensando no conforto sonoro dos ateliês.
 
-### Bibliografia
+## Bibliografia ##
 
 Obs.: Os itens da bibliografia adotada nesta turma são diferentes
 daqueles mencionados no MatrículaWeb.
 
-### Bibliografia Básica {#básica}
+### Bibliografia Básica ###
 
 -   ARAÚJO, Renata Klautau Malcher de. A Razão na Selva: Pombal e a
     Reforma Urbana da Amazónia. **Camões** Revista de Letras e Cultura
@@ -114,8 +117,8 @@ daqueles mencionados no MatrículaWeb.
 -   GONZAGA DUQUE ESTRADA, Luiz. **[A arte
     brasileira](http://moodle.fau.unb.br/moodle/file.php/115/Material/Gozaga_Duque-Conclusao.pdf)**.
     Campinas: Mercado de Letras, 1995.
--   HOLANDA, Sérgio Buarque de. **[Raízes do
-    Brasil](http://moodle.fau.unb.br/moodle/file.php/115/Material/Raizes_do_Brasil_-_Sergio_Buarque_de_Holanda_-_Brasil_Historia_Sociedade_Heranca_Cultura.pdf)**.
+-   HOLANDA, Sérgio Buarque de. [**Raízes do
+    Brasil**](http://moodle.fau.unb.br/moodle/file.php/115/Material/Raizes_do_Brasil_-_Sergio_Buarque_de_Holanda_-_Brasil_Historia_Sociedade_Heranca_Cultura.pdf).
     São Paulo: Companhia das Letras, 1995.
 -   HOMEM, Maria Cecília Naclério. **O Palacete Paulistano e outras
     formas de morar da elite cafeeira**. São Paulo, Martins
@@ -166,7 +169,7 @@ daqueles mencionados no MatrículaWeb.
     <http://revistas.ceurban.com/numero1/margarida.htm>. Acesso em: 18
     mar. 2013.
 
-### Bibliografia Complementar {#complementar}
+### Bibliografia Complementar ###
 
 -   AMARAL, Aracy Abreu. **A hispanidade em São Paulo**. São Paulo:
     Nobel, 1981.

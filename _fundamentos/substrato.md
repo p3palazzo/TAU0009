@@ -1,16 +1,17 @@
 ---
-title               : "Colonização dos territórios portugueses"
-author              : "Pedro Paulo Palazzo"
-date                : "19 de março de 2019"
-csl: "./chicago-note-bibliography-with-ibid.csl"
-bibliography        : "./4080-biblio.yaml"
-lang                : "pt_br"
-suppress-bibligraphy: false
+title: "Substrato urbanístico"
+date: 2023-08-31
+category: Fundamentos
+header:
+  teaser: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/640px-Livro_das_Fortalezas_25-_Elvas.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/2560px-Livro_das_Fortalezas_25-_Elvas.jpg
+  caption: "Duarte d'Armas, [*Livro das Fortalezas* fl. 25: Elvas](https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_25-_Elvas.jpg), 1509–1510"
+excerpt: >
+  Origens da urbanização luso-brasileira e padrões tradicionais
+  de parcelamento do solo desde a Idade Média até o século
+  <span class="smallcaps">XVIII</span>.
 ---
 
-
-Origem e urbanização Portugal
-=============================
 
 O fator determinante para a política urbanizadora adotada
 pela Coroa portuguesa durante o período medieval e o Antigo
@@ -23,17 +24,146 @@ então, adaptando essas instituições à rápida expansão
 territorial em regiões esparsamente povoadas, devendo
 proceder à colonização e defesa desses novos territórios.
 Esse desafio, assumido desde as primeiras campanhas de
-colonização da península Ibérica no século XIII, prepara
+colonização da península Ibérica no século [XIII]{.smallcaps}, prepara
 a administração portuguesa para as sucessivas colonizações
 dos arquipélagos desabitados no Atlântico norte
 e equatorial, assim como para as fundações de feitorias
 e praças fortes ao longo de toda a "rota das Índias" e da
 América.
 
-O território fundador do Condado Portugalense --- parte do
+# Antes de Portugal #
+
+## Urbanização romana e islâmica ##
+
+* * * * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Reconstituição digital de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png){#fig:ammaia-3d .r-stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Mapa arqueológico de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .line .r-stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+![Reconstituição de Conimbriga, Lusitânia romana, por [Jean-Claude Golvin](https://jeanclaudegolvin.com/conimbriga/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/portugal-conimbriga-vue-generale-jc-golvin.jpg){#fig:conimbriga .r-stretch}
+
+* * * * * *
+
+![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-\_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-\_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-\_Roman_town_over_present_urban_fabric.svg.png){#fig:evora-plan .r-stretch}
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::: {#fig:evora-3d .iframe-wrapper}
+<iframe src="https://player.vimeo.com/video/125300716?h=a01a2912f1&color=fffff5&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://vimeo.com/125300716">&Eacute;vora 3D - Y&aacute;bura Project</a> por <a href="https://vimeo.com/user35396652">Gustavo Val-Flores</a>, 2015
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Aldeia--rua e quadra de blocos ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A urbanização orgânica tradicional em Portugal segue um processo comum a
+várias culturas e regiões do mundo, mas especialmente comum na Europa
+medieval. É o paradigma da aldeia--rua, uma povoação que se forma aos
+poucos pela construção de casas e equipamentos públicos ao longo de um
+percurso estruturante [@panerai:2006analise]. No mais das vezes, essa
+rua estruturante é a extremidade de um percurso de cumeada secundária,
+perto de um vau, ponte, ou outro ponto a ser defendido. Mais raramente,
+pode ser um percurso de contra-cumeada junto a uma encruzilhada ou no
+arrabalde de uma cidade existente, como em Florença
+([@fig:caniggia-maffei-1-29]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Formação de tecido urbano por traçado estruturante (ao longo do rio Arno) e traçado de implantação (ruas perpendiculares ao rio) num arrabalde de Florença, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png){#fig:caniggia-maffei-1-29 .line}
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::: {#fig:casdevide .r-stack}
+::: third
+![[ocupação inicial do traçado estruturante](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_13c_en_01.png), antes do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment}
+:::
+
+::: third
+![[abertura do traçado de implantação e de ligação](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_14c_en.png), século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment}
+:::
+
+::: third
+![[ocupação das ruas de trás](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_15c_en.png), século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment}
+:::
+
+::: third
+![[fragmentação dos quarteirão perimetral](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_16c_en.png), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment}
+:::
+
+Reconstituição da urbanização de Castelo de Vide, Portugal. Desenho:
+Pedro P. Palazzo, 2021
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A cidade de Castelo de Vide, no alto Alentejo, é um exemplo de povoação
+implantada na extremidade de um percurso de cumeada secundária
+([@fig:casdevideA]). Ela controla, ao norte, um vale estratégico por
+permitir a passagem no meio das serras que fazem a fronteira enter
+Portugal e a Espanha. Ao sul, a cidade fortificada protege um pequeno
+planalto onde se forma um mercado.
+
+Partindo do traçado estruturante forma-se um traçado de implantação, com
+ruas secundárias que alimentam, a leste, a judiaria medieval, e a oeste,
+o mercado. Esses percursos de implantação são ligados por ruas
+transversais --- os traçados de ligação --- que formam grandes quadras
+irregulares ([@fig:casdevideB]). Esses quarteirões são ocupados no seu
+perímetro, ao longo das *ruas da frente*, deixando quintais muito
+profundos no miolo.
+
+Pouco a pouco, os fundos de lotes vão sendo delimitados numa
+profundidade mais conveniente, com acesso por novas ruas de trás. Essas
+*ruas de trás*, por sua vez, acabam sendo usadas para abrir novas
+frentes de lotes, com casas menores ou mais resguardadas
+([@fig:casdevideC]). Finalmente, o miolo das grandes quadras originais
+vai sendo mais uma vez subdividido em blocos menores pela abertura de
+travessas.
+
+A configuração atual da cidade velha de Castelo de Vide se consolida por
+volta do século [XV]{.smallcaps}, quando já há frentes de lotes voltadas
+para quase todas as ruas e travessas. Especialmente na antiga judiaria,
+a nordeste da rua Direita, encontramos a configuração da "quadra de
+blocos" formada pela hierarquia de ruas da frente, ruas de trás e
+travessas [@orr:2018five].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tanto a nomenclatura tradicional portuguesa quanto a terminologia da
+tipologia processual, cunhada por Saverio Muratori e Gianfranco Caniggia
+[@caniggia:2008lettura], são importantes para compreendermos os
+processos de formação da cidade orgânica ([@tbl:urb-pt]). Vamos usar
+esses termos repetidas vezes quando falarmos de urbanização tradicional,
+portanto é importante aprendê-los.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Table: Equivalência de nomenclaturas de traçados na tipologia processual italiana e na urbanização portuguesa {#tbl:urb-pt}
+
+| Tipologia processual   | Urbanização portuguesa              |
+|------------------------|-------------------------------------|
+| Traçado estruturante   | Rua Direita, rua da frente          |
+| Traçado de implantação | Ruas da frente e transversais       |
+| Traçado de implantação | Ruas de trás (com frentes de lotes) |
+| Traçado de ligação     | Ruas de trás (com fundos de lotes)  |
+| Traçado de ligação     | Travessas (com laterais de lotes)   |
+
+# Origem e urbanização de Portugal #
+
+## Fundação de Portugal ##
+
+O território fundador do Condado Portucalense --- parte do
 Reino de Leão no século IX --- corresponde aproximadamente
 à região delimitada pelos rios Lima, ao norte, e Vouga, ao
-sul, tendo como divisa oriental o rio Douro.
+sul, tendo como divisa oriental o rio Douro ([@fig:portucale]).
 A esse território foi agregado, em meados do século XI,
 o antigo Condado de Coimbra, deslocando a fronteira da
 Portugália para o sul até aproximadamente a atual divisa
@@ -57,7 +187,9 @@ o estado português a ocupar também as planícies sedimentares
 recentes do Tejo e do Sado, assim como os maciços do Alto
 Alentejo, áreas ricas em calcário e xisto, respectivamente.
 
-![Condado Portucalense no século IX](../6060-figuras/0201-portucale.png){#fig:portucale}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Condado Portucalense no século XI](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Condado_portucalense_carte-1070-fr.png/397px-Condado_portucalense_carte-1070-fr.png){#fig:portucale .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 O espaço urbano português existente por volta da metade do
 século XIII resulta da sedimentação de traçados de origem
@@ -68,10 +200,10 @@ bem como da ocupação continuada ou reocupação de outeiros
 com vestígios de povoamento neolítico, céltico ou
 hispano-muçulmano, como em Mértola. [@costa:2015mertola]
 Planos de *castrum* romanos podem ser discernido em traçados
-como os de Braga, Bobadela, Coimbra --- a romana Aeminium
- --- assim como nas ruínas de Conimbriga
-(Condeixa-a-Velha) e Ammaia (no concelho de Marvão).
-[@corsi:2013ammaia]
+como os de Braga, Bobadela, Coimbra --- a romana Aeminium ([@fig:aeminium])
+--- assim como nas ruínas de Conimbriga
+(Condeixa-a-Velha) e Ammaia (no concelho de Marvão)
+[@corsi:2013ammaia].
 A sedimentação desses estabelecimentos *castrenses* passa
 pela introdução, durante o período hispano-muçulmano, do
 sistema de *adarves* que organizam aglomerados de casas com
@@ -126,8 +258,7 @@ bifurcam e voltam a se encontrar.
 ![Desenvolvimento de distritos urbanos a partir da derivação do traçado elementar](../6060-figuras/0203-elementar.png){#fig:elementar}
 
 
-Expansão territorial e colonização
-==================================
+## Expansão territorial e colonização ##
 
 Configurando-se inicialmente como um condado de fronteira já
 no século IX, Portugal é um estado expansionista às custas
@@ -254,8 +385,268 @@ apoio no sudeste da África, na península Arábica, na Índia
 e no Sudeste asiático. [@monteiro:2009idade, p. 418]
 
 
-Morfologia da conquista portuguesa da América
-=============================================
+# Urbanismo de colina #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As vilas de castelo no Japão e as vilas reais em Portugal, no final da
+Idade Média e início da Idade Moderna, respondem a uma necessidade de
+controle e organização do território. Mas, ao contrário dos modelos
+chinês e italiano, nas vilas japonesas e portuguesas o rigor do traçado
+geométrico é uma preocupação secundária. Pela necessidade de um processo
+realizado com poucos recursos e por causa da necessidade de adaptação a
+implantações em colina, o desenho urbano em Portugal e no Japão
+compromete a regularidade geométrica dos planos ideais. O resultado são
+conjuntos urbanos eficientes formando redes que controlam rotas
+comerciais ou defensivas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Walter Rossa. [Reproduzida pelo [CHSC]{.smallcaps}--Universidade de Coimbra](https://chsc.uc.pt/investigacao/investigadores/)](https://chsc.uc.pt/wp-content/uploads/2021/06/Foto-2-.jpg){#fig:rossa .overlay-slide}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para o urbanista e historiador português Walter Rossa ([@fig:rossa]),
+não se pode falar numa "cidade portuguesa" com características
+homogêneas, porque o processo de urbanização em Portugal é milenar e
+passou por diferentes processos históricos e condicionantes culturais,
+políticas e econômicas [@rossa:2005construcao]. Apesar disso, segundo
+ele, existe um "urbanismo português" como conjunto de modos de construir
+cidades vigentes em Portugal e no império Português --- incluindo o
+Brasil colônia --- entre os séculos [XIII]{.smallcaps} e
+[XIX]{.smallcaps}.
+
+Mesmo assim, as cidades portuguesas que existem nesse século
+[XIII]{.smallcaps} podem ser reduzidas a duas origens distintas:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Colônias romanas transformadas em cidades islâmicas;
+2. Desdobramentos de aldeias--rua.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Urbanização planejada ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A urbanização do território Português é uma política da coroa que se
+desenrola a partir de meados do século [XIII]{.smallcaps}. Os objetivos dessa política
+são povoar as fronteiras, melhorando a defesa do território, e
+racionalizar o abastecimento de alimentos, criando novas frentes
+agrícolas. O sistema das sesmarias é criado nessa época, muito antes da
+colonização do Brasil, para promover a ocupação de áreas cultiváveis
+[@lemes:2004lei].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--
+   -- Vilas de fundação em Portugal e na Índia e América portuguesas.
+   -- São Jorge da Mina  Fortificação
+   -- Mazagão
+   -- Goa, Damão e Diu
+   -- Malacca
+   -->
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O urbanismo planejado português faz parte de um processo de ocupação do
+território no oeste e norte da Europa. Exemplos desse processo são as
+*bastides*, cidades novas estabelecidas na França, como Monpazier,
+fundada em 1284 ([@fig:monpazier-drone]). Esse processo se caracteriza
+por uma distribuição igualitária de lotes por meio de um traçado
+urbanístico predominantemente regular --- mas sem necessidade de uma
+geometria totalmente rígida ([@fig:monpazier]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea de Monpazier, Guyenne, França. Foto: [prefeitura municipal de Monpazier, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vue_aérienne_de_Monpazier.jpg/1024px-Vue_aérienne_de_Monpazier.jpg){#fig:monpazier-drone .r-stretch}
+
+[prefeitura municipal de Monpazier, 2013]: https://commons.wikimedia.org/wiki/File:Vue_aérienne_de_Monpazier.jpg
+
+* * * * * *
+
+![Monpazier. Plantas da direita para a esquerda: traçado ideal, implantação efetiva e situação atual. Desenhos e foto por [Klaus Schäfer, 2003][]](https://upload.wikimedia.org/wikipedia/commons/d/d6/Beispiel_Monpazier.jpg){#fig:monpazier .r-stretch}
+
+[Klaus Schäfer, 2003]: https://commons.wikimedia.org/wiki/File:Beispiel_Monpazier.jpg
+
+* * * * * *
+
+![Vila de Caminha, do [*Livro de fortalezas*][] de Duarte d'Armas, 1510](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Livro_das_Fortalezas_115-\_Caminha.jpg/1024px-Livro_das_Fortalezas_115-\_Caminha.jpg){#fig:duarte-caminha .r-stretch}
+
+[*Livro de fortalezas*]: https://commons.wikimedia.org/wiki/Category:Livro_das_Fortalezas
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As povoações planejadas em Portugal são conhecidas como vilas novas,
+vilas de fundação ou vilas reais. A vila, atual cidade, de Caminha, é
+uma das mais antigas e foi fundada no século [XIII]{.smallcaps} sobre o
+rio Minho, na fronteira com a atual Espanha ([@fig:duarte-caminha]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Vilas como Caminha ocupam esporões na extremidade de linhas de cumeada
+secundárias ([@fig:caminha-colina]), o que fez com que Manuel Lobo e
+José Geraldo Simões Júnior chamassem a esse paradigma de "urbanismo de
+colina" [@lobo:2012urbanismo].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina .r-stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:caminha .columns}
+::: {.column width=50%}
+![Planta ideal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Caminha_plan_13c_ideal.png/299px-Caminha_plan_13c_ideal.png){#fig:caminha-ideal}
+:::
+::: {.column width=50%}
+![Reconstituição da planta real na data de fundação](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caminha_plan_13c_reconstructed_01.png/299px-Caminha_plan_13c_reconstructed_01.png){#fig:caminha-real}
+:::
+
+Vila nova de Caminha, Portugal, século [XIII]{.smallcaps}. Desenho:
+[Pedro P. Palazzo, 2021, com base em reconstituição de Luísa Trindade,
+2009](https://commons.wikimedia.org/wiki/File:Caminha_plan_13c_ideal.png)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
+O traçado ideal de Caminha foi reconstituído pela arquiteta portuguesa
+Luísa Trindade, na sua tese de doutoramento de 2009
+[@trindade:2013urbanismo]. Esse traçado se baseava no parcelamento em
+lotes com 25 palmos de testada (5,62 metros) e de 60 a 75 palmos (13,5 a
+16,87 metros) de fundo ([@fig:caminha-ideal]). Tanto o traçado
+estruturante, que formava a rua Direita, quanto as ruas de trás e as
+travessas tinham 15 palmos de largura, ou 3,37 metros. Essa medida é
+larga o suficiente para a circulação pedestre no dia-a-dia. Três praças
+foram previstas para os três edifícios cívicos da vila: de norte a sul,
+a igreja matriz, que era a sede do poder religioso, o tribunal ou sede
+do poder real, e os paços do concelho, ou seja, a câmara de vereadores
+que representava o poder municipal.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A execução do plano ideal não foi exata, e nem precisava ser
+([@fig:caminha-real]). O importante é que a divisão de lotes fosse
+relativamente regular, que o traçado estruturante ficasse na linha de
+cumeada e que as muralhas acompanhassem o contorno do esporão ([@fig:caminha-drone]).
+A política portuguesa de urbanização consistia em implantar não a imagem
+ideal de uma cidade, mas uma cidade possível que atendesse aos objetivos
+sociais, econômicos e militares da Coroa [@correia:1995pragmatismo2].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::: {#fig:caminha-drone .iframe-wrapper}
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/fbduT2k8p2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Vista aérea de Caminha por [Polychronis Drone, 2021](https://youtu.be/fbduT2k8p2Q)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Urbanização planejada de geometria orgânica: traçados estruturante e de implantação na cidade baixa de Coimbra, século [XIV]{.smallcaps}, em mapa de 1934](https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg){#fig:baixa .r-stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Parcelamento e tipologia edilícia ##
+
+![Variações sincrônicas da morada de casas mediterrânica. Esquerda: módulos de base; acima: tipos suburbanos e rurais, casa-torre saloia e monte alentejano; abaixo: habitações urbanas de frente estreita e frente larga. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Southern_Portuguese_cell_houses.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Southern_Portuguese_cell_houses.png/600px-Southern_Portuguese_cell_houses.png){#fig:morada-casas .r-stretch}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O módulo de 25 palmos para os lotes foi determinado a partir das medidas
+mais comuns no tipo da *morada de casas* ([@fig:morada-casas]). Esse
+tipo é formado por um agrupamento de células de pequenas dimensões
+(entre 4 e 5 metros de lado), com ou sem corredor longitudinal. A morada
+de casas é uma alternativa mais compacta à casa-pátio romana e árabe.
+Ambos os tipos --- casa-pátio e morada de casas --- continuaram em uso
+na Espanha, mas só a morada de casas persistiu em Portugal do final da
+Idade Média em diante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A destruição da casa-pátio em Portugal tem várias explicações possíveis:
+as mais importantes são o clima mais úmido do que no entorno do
+Mediterrâneo e a redistribuição fundiária que se seguiu à conquista de
+cidades árabes pelos reinos cristãos da península Ibérica
+[@navarro:2001urbanismo]. Um dos objetivos dessa redistribuição era
+justamente apagar os vestígios da presença árabe, e a transformação de
+casas-pátio mediterrânicas em casas correntes semelhantes às do norte da
+Europa pode ter contribuído para esse objetivo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela .r-stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+![Vista aérea do bairro Alto, Lisboa, por [Drone Snap, 2021](https://www.youtube.com/watch?embed=no&t=47&v=hWRmyqrq2MM)](){#fig:balto-drone .r-stretch}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Até agora vimos dois modos de urbanizar: por crescimento e preenchimento
+de tecidos orgânicos, na forma da aldeia--rua, e por parcelamentos
+igualitários planejados pelo Estado. A partir do Renascimento, a
+iniciativa privada aparece cada vez mais no ramo da urbanização
+planejada. O bairro Alto, em Lisboa ([@fig:balto-drone]), é um exemplo
+de loteamento especulativo do século [XVI]{.smallcaps} à margem da
+cidade medieval de Lisboa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O bairro Alto é representativo do urbanismo renascentista em Portugal.
+Aqui, o binômio rua da frente/rua de trás desaparece e não temos mais
+quadras feitas de blocos, como na aldeia--rua medieval
+[@teixeira:2012forma]. Em vez disso, só encontramos uma hierarquia de
+direções: as ruas principais, onde temos as testadas de lotes,
+desembocam no traçado estruturante --- a estrada que leva de Lisboa a
+Belém; as travessas originalmente não tinham frentes de lotes
+([@fig:balto-folque]).
+
+Além disso, o parcelamento do solo não segue mais o módulo medieval de
+testada com 25 palmos, mas a medida de uma gleba agrária da região de
+Lisboa conhecida como *chão* [@carita:1994bairro]. O chão mede 30 × 60
+palmos, ou 6,75 × 13,5 metros ([@fig:balto-chao]). Isso dá uma testada
+mais larga para construir sobrados grandes, que precisam de pátios para
+ventilação e iluminação interna. Por outro lado, a pequena profundidade
+dos lotes deixa claro que se trata de um parcelamento que não é gerado
+(só) por um percurso estruturante, mas que tenta obter o maior número
+possível de lotes postos à venda --- até porque as ruas não se alinham
+pelas curvas de nível, e sim pela orientação da gleba parcelada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:balto-plan .columns}
+::: {.column width=47.5%}
+![levantado na planta de [Filipe Folque, 1858, fl. 42](https://commons.wikimedia.org/wiki/File:Bairro_Alto_Folque_0042.jpg)](https://upload.wikimedia.org/wikipedia/commons/7/7f/Bairro_Alto_Folque_0042.jpg){#fig:balto-folque}
+:::
+::: {.column width=52.5%}
+![reconstituição do loteamento modular por [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Bairro_alto_lot_modules.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Bairro_alto_lot_modules.png/489px-Bairro_alto_lot_modules.png){#fig:balto-chao}
+:::
+
+Planta do parcelamento urbanístico do bairro Alto, Lisboa
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
+O traçado viário de padrão renascentista, com menos hierarquia viária e
+espacial do que o traçado medieval, vai formar a base do urbanismo
+português planejado durante a expansão colonial do século
+[XVI]{.smallcaps}.
+
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Morfologia da conquista da América #
+
+## Exploração e implantação inicial ##
 
 O contínuo esgarçamento geográfico do reino de Portugal no
 Sul da península Ibérica e além impõe forte pressão nos
@@ -367,7 +758,7 @@ de engenharia militar:
     si para a proteção de uma povoação ou lugar de passagem,
     não constituindo um cinturão fortificado contínuo em
     volta dessa localidade mas um sistema de pontos
-    estratégicos; [@valla:2012engenharia6]
+    estratégicos; [@valla:2012engenharia]
 (4) O traçado viário em retícula, com testadas de lotes
     sobre as quatro faces do quarteirão,
     [@teixeira:2012forma, p. 88] tendo ao seu centro
@@ -387,8 +778,7 @@ entre 1580 e 1640, espanhola, na costa leste da América do
 Sul.
 
 
-Olinda e Salvador
-=================
+## Olinda e Salvador ##
 
 Os mais antigos exemplares desses estabelecimentos, em São
 Vicente (1532) e Porto Seguro (1535), não deixaram vestígios
@@ -457,7 +847,7 @@ oferecem outras variações dentro dos paradigmas portugueses.
 O traçado originário de Salvador, dado talvez por Luís Dias
 em 1548 e executado no ano seguinte por um ajudante, foi
 reconstituído por Theodoro Sampaio em 1916.
-[@sampaio:1916planta1, *apud* @vaz:2017sertao]
+[@sampaio:1916planta, *apud* @vaz:2017sertao]
 Nessa reconstituição, é possível inferir a concepção de uma
 praça forte cujo traçado urbano é formado por duas ruas da
 frente enquadrando uma rua de trás, e cujas fortificações
@@ -558,3 +948,6 @@ de Viamão (1732) --- formando um sistema binário semelhante
 ao de Olinda e Recife ---, acaba por adquirir ela própria um
 binômio cidade alta--baixa pela especialização de áreas
 urbanas em torno da linha de cumeada e do porto.
+
+# Referências # {.unlisted}
+

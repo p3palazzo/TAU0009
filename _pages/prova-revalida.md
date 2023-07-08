@@ -1,3 +1,9 @@
+---
+title: "Exame especial para reconhecimento de diploma estrangeiro"
+published: false
+permalink: /revalida/
+---
+
 # Arquitetura Jesuítica (1,0) #
 
 Faça um desenho esquemático da planta e da fachada de um complexo
