@@ -24,10 +24,6 @@ _site :
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-%.pdf : %.md latex.yaml biblio.yaml metadata.yaml
-	@pandoc -o $@ -d _spec/latex.yaml $<
-	@echo $@
-
 .PHONY : serve
 serve :
 	@echo "####################"

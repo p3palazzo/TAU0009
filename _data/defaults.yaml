@@ -4,6 +4,7 @@ metadata:
   csl: _data/chicago-note-bibliography.csl
   lang: pt-BR
   # pandoc-crossref metadata
+  ccsLabelSep: "&nbsp;&ndash;&nbsp;"
   figureTitle: Figura
   subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
   tableTitle: Tabela
