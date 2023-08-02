@@ -1,7 +1,7 @@
 ---
-title: "Sistemas construtivos industrializados"
+title: "Industrialização"
 date: 2023-10-19
-category: Fundamentos
+category: Linguagens
 header:
   teaser:
   overlay_image:

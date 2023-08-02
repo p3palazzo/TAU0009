@@ -330,7 +330,7 @@ defaults:
   # _unidade-3
   - scope:
       path: ""
-      type: estilos
+      type: linguagens
     values:
       author: Pedro Palazzo
       author_profile: false
@@ -357,7 +357,6 @@ collections:
       - territorialidade.md
       - pombalismo.md
       - elementos.md
-      - industrial.md
   # _unidade 2
   tipos:
     unidade: 2
@@ -369,7 +368,7 @@ collections:
       - patio.md
       - especial.md
   # _unidade 3
-  estilos:
+  linguagens:
     unidade: 3
     output: true
     permalink: /aula/:name/
@@ -377,3 +376,4 @@ collections:
       - igreja.md
       - liberal.md
       - nacional.md
+      - industrial.md
