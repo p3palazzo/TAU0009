@@ -3,7 +3,7 @@ title: "Substrato urbanístico"
 date: 2023-08-31
 category: Fundamentos
 header:
-  teaser: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/640px-Livro_das_Fortalezas_25-_Elvas.jpg
+  teaser: /assets/media/320px-Livro_das_Fortalezas_25_Elvas.jpg
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/2560px-Livro_das_Fortalezas_25-_Elvas.jpg
   caption: "Duarte d'Armas, [*Livro das Fortalezas* fl. 25: Elvas](https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_25-_Elvas.jpg), 1509–1510"
 excerpt: >
