@@ -1,7 +1,47 @@
 ---
 title: '<span style="text-decoration: line-through;">Arquitetura e Urbanismo no Brasil Colônia e Império</span> Arquitetura e Urbanismo na tradição luso-brasileira'
-permalink: /programa/
 ---
+
+# Programa da ementa #
+
+- Introdução ao programa da disciplina: História do curso de
+  arquitetura, evolução da disciplina (razões conceituais e práticas).
+- Introdução (cont): Cronologia abrangida pelo programa (4 séc.),
+  vertentes: Port. Ind. Negra, estratos: Erudito vernáculo imigrante,
+  Conceitos: Espaço - tempo.
+- Introdução (cont.): Cidade, arquitetura e história: Conceitos e
+  processos. A vertente negra da arquitetura brasileira. O processo de
+  produção da arquitetura.
+- Urbanismo colonial: Portugal e Espanha, politicas e planos urbanos.
+  Seminários (raízes do Brasil).
+- Urbanismo colonial: Brasil, organização administrativa. Programas
+  urbanos. Seminário (Nestor g. Reis f: Evol. Urb. Brasil)
+- urbanismo colonial: Síntese visual
+- arquitetura indigena
+- arquitetura militar: Fortes
+- arquitetura religiosa: Conventos
+- arquitetura religiosa: Jesuítas (missões)
+- arquitetura religiosa: Franciscanos (azulejaria)
+- arquitetura vernácula e kitsch, subsistência, etc.
+- arquitetura bandeirista
+- arquitetura imigrantes (Itália, Alemanha, etc.)
+- arquitetura rural (engenhos/fazendas)
+- Conservação e restauração do patrimônio arquitetônico.
+- O barroco
+- O barroco mineiro: Significado cultural e político. Simbologia do
+  barroco brasileiro. Papel do mulato. Ordens terceiras. Ciclo do ouro e
+  urbanização interiorana. Ouro Preto e mariana. Aleijadinho, Congonhas,
+  Sabará e Diamantina. Expansão para o centro-oeste. Pirenópolis, Pilar MT.
+- Neoclássico: Antecedentes e significados. O império e o séc. XIX.
+  Landi, Montigny e Vauthier. O ensino formal da arquitetura. Ciclo do
+  café.
+- Ecletismo: Significado e analogias atuais. Pós-modernos e neocolonial.
+  Transição do século. Belém e Pelotas. Ciclos da borracha e da carne.
+- Art nouveau
+- Arquitetura do ferro: Urbanização, industrialização e pré-fabricação.
+  A crise da linguagem. Técnica x estética. Beaux arts e politécnica.
+
+# Programa 2018 #
 
 ## Unidade I Territórios
 
