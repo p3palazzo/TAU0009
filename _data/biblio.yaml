@@ -63,7 +63,7 @@ references:
   title: O domínio romano em Portugal
   type: book
 
-- id: alencastro:1997historia2
+- id: alencastro:1997historia
   abstract: >-
     "Excellent essays by top scholars (F. Novais, L. de Mello e Souza, L. Mezan
     Algranti, L. Mott, R. Vainfas, M. del Priore, L. Villalta, and I. Jancso)
@@ -71,7 +71,7 @@ references:
     colonial Brazil. Beautifully illustrated and engagingly written. Highly
     recommended"--Handbook of Latin American Studies, v. 58
   call-number: GT2402.B6 H57 1997
-  citation-key: alencastro:1997historia2
+  citation-key: alencastro:1997historia
   collection-editor:
     - family: Novais
       given: Fernando A.
@@ -228,12 +228,12 @@ references:
       given: Glória Lúcia
   type: book
 
-- id: bazin:1983arquitetura1
+- id: bazin:1983arquiteturaa
   author:
     - family: Bazin
       given: Germain
   call-number: NA5353 .B317 1983
-  citation-key: bazin:1983arquitetura1
+  citation-key: bazin:1983arquiteturaa
   contributor:
     - family: Barata
       given: Mário
@@ -251,12 +251,12 @@ references:
   type: book
   volume: '1'
 
-- id: bazin:1983arquitetura2
+- id: bazin:1983arquiteturab
   author:
     - family: Bazin
       given: Germain
   call-number: NA5353 .B317 1983
-  citation-key: bazin:1983arquitetura2
+  citation-key: bazin:1983arquiteturab
   contributor:
     - family: Barata
       given: Mário
@@ -357,6 +357,79 @@ references:
   title: 'Urban form in the Arab world: past and present'
   title-short: Urban form in the Arab world
   type: book
+
+- id: binford:1982archaeology
+  abstract: >-
+    It is suggested that if archaeologists are to be successful in understanding
+    the organization of past cultural systems they must understand the
+    organizational relationships among places which were differentially used
+    during the operation of past systems. This point is illustrated by
+    observations made among the Nunamiut Eskimo. Against this background it is
+    demonstrated that the two most common forms of archaeological systematics,
+    “assemblage”- versus “type”-based systematics, are not appropriate for the
+    study of places. In the latter case, it is not possible to analyze places as
+    such, while one cannot see places with different “content” as part of a
+    single system in the former. It is concluded that current archaeological
+    systematics are totally inappropriate for studying past systems of
+    adaptation and their evolutionary modification.
+  accessed:
+    - year: 2021
+      month: 6
+      day: 22
+  author:
+    - family: Binford
+      given: Lewis R.
+  citation-key: binford:1982archaeology
+  container-title: Journal of Anthropological Archaeology
+  container-title-short: Journal of Anthropological Archaeology
+  DOI: 10.1016/0278-4165(82)90006-X
+  ISSN: 0278-4165
+  issue: '1'
+  issued:
+    - year: 1982
+      month: 3
+      day: 1
+  language: en
+  page: 5-31
+  source: ScienceDirect
+  title: The archaeology of place
+  type: article-journal
+  URL: https://www.sciencedirect.com/science/article/pii/027841658290006X
+  volume: '1'
+
+- id: blondel:1752architecture
+  abstract: >-
+    ETH-Bibliothek (NEBIS). Architecture Françoise, ou Recueil des Plans,
+    Elevations, Coupes et Profils des Eglises, Maisons Royales, Palais, Hôtel &
+    Edifices les plus considérables [...] : avec la description de ces Edifices,
+    & des dissertations utiles & intéressantes sur chaque espece de Bâtiment : .
+    Une Introduction à l'Architecture, un Abrégé Historique de la Ville de
+    Paris, & la description des principaux Edifices du Faubourg St.Germain /
+    Jacques-François Blondel .... A Paris. A Paris : chez Charles-Antoine
+    Jombert, 1752
+  accessed:
+    - year: 2020
+      month: 12
+      day: 27
+  author:
+    - family: Blondel
+      given: Jacques-François
+  citation-key: blondel:1752architecture
+  event-place: Paris
+  issued:
+    - year: 1752
+  language: fr
+  number-of-volumes: '4'
+  publisher: Charles-Antoine Jombert
+  publisher-place: Paris
+  source: www.e-rara.ch
+  title: >-
+    Architecture françoise, ou Recueil des plans, élévations, coupes et profils
+    des églises, maisons royales, palais, hôtels  édifices les plus
+    considérables de Paris
+  title-short: Architecture françoise
+  type: book
+  URL: http://www.e-rara.ch/zut/2783140
 
 - id: boahen:2010africa
   citation-key: boahen:2010africa
@@ -487,6 +560,50 @@ references:
   type: chapter
   URL: https://doi.org/10.1007/978-3-030-33323-2_14
 
+- id: caldas:1999casa
+  author:
+    - family: Caldas
+      given: João Vieira
+  call-number: 728.6 (469.411) "17"
+  citation-key: caldas:1999casa
+  contributor:
+    - family: Correia
+      given: José Eduardo Horta
+  event-place: Porto
+  ISBN: 978-972-9483-31-8
+  issued:
+    - year: 1999
+  language: pt
+  publisher: <span class="smallcaps">FAUP</span> Publicações
+  publisher-place: Porto
+  source: Open WorldCat
+  title: >-
+    A casa rural dos arredores de Lisboa no século <span
+    class="smallcaps">XVIII</span>
+  type: book
+
+- id: caldas:2014predio
+  author:
+    - family: Caldas
+      given: João Vieira
+    - family: Pinto
+      given: Maria Rocha
+    - family: Rosado
+      given: Ana Costa
+  citation-key: caldas:2014predio
+  collection-title: II
+  container-title: Cadernos do Arquivo Municipal (Lisboa)
+  ISSN: 2183-3176
+  issue: '1'
+  issued:
+    - year: 2014
+      month: 1
+  language: pt
+  page: 131-156
+  source: Zotero
+  title: O prédio de rendimento joanino
+  type: article-journal
+
 - id: campos:2005manoel
   author:
     - family: Campos
@@ -519,9 +636,9 @@ references:
   language: pt-BR
   page: 25–37
   title: >-
-    Revisão à Escola Baiana de Pintura: um estudo sobre o pintor José Teófilo de
+    Revisão à escola baiana de pintura: um estudo sobre o pintor José Teófilo de
     Jesus
-  title-short: Revisão à Escola Baiana de Pintura
+  title-short: Revisão à escola baiana de pintura
   type: article-journal
 
 - id: cancino:2005intelectuales
@@ -660,11 +777,11 @@ references:
   title: A history of architecture and urbanism in the Americas
   type: book
 
-- id: cardoso:1943tipo7
+- id: cardoso:1943tipo
   author:
     - family: Cardoso
       given: Joaquim
-  citation-key: cardoso:1943tipo7
+  citation-key: cardoso:1943tipo
   container-title: Revista do Serviço do Patrimonio Historico e Artistico Nacional
   issued:
     - year: 1943
@@ -1154,14 +1271,14 @@ references:
       given: Cícero Ferraz
   call-number: NA8210.B69 C78 2010
   citation-key: cruz:2010fazendas
-  event-place: Brasília, Brazil
+  event-place: Brasília
   ISBN: 978-85-7334-140-9
   issued:
     - year: 2010
   language: pt-BR
   number-of-pages: '354'
-  publisher: Monumenta/IPHAN
-  publisher-place: Brasília, Brazil
+  publisher: Programa Monumenta (Iphan)
+  publisher-place: Brasília
   source: Library of Congress ISBN
   title: >-
     Fazendas do sul de Minas Gerais: arquitetura rural nos séculos <span
@@ -1263,6 +1380,33 @@ references:
     África do Século <span class="smallcaps">XII</span> ao <span
     class="smallcaps">XVI</span>
   type: book
+
+- id: etlin:1978dedans
+  abstract: >-
+    No period of architecture demonstrates more clearly than the mid-eighteenth
+    century that the home is organized according to particular architectural and
+    social systems. At that time, the design of a town mansion or a country
+    retreat was regulated bv
+  accessed:
+    - year: 2013
+      month: 8
+      day: 23
+  author:
+    - family: Etlin
+      given: Richard A.
+  citation-key: etlin:1978dedans
+  container-title: Gazette des Beaux-Arts
+  issue: '91'
+  issued:
+    - year: 1978
+      month: 4
+  language: en
+  page: 137–147
+  title: '"Les dedans," Jacques-François Blondel and the system of the home'
+  title-short: Les dedans
+  type: article-journal
+  URL: >-
+    http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home
 
 - id: fasi:2010africa
   citation-key: fasi:2010africa
@@ -1681,7 +1825,7 @@ references:
 
 - id: gonzagaduque:1995arte
   author:
-    - family: Gonzaga Duque Estrada
+    - family: Gonzaga Duque
       given: Luís
   citation-key: gonzagaduque:1995arte
   editor:
@@ -1776,6 +1920,60 @@ references:
   URL: https://www.sciencemag.org/lookup/doi/10.1126/science.1086112
   volume: '301'
 
+- id: heckenberger:2008precolumbian321
+  abstract: >-
+    Archaeology and remote sensing of an Amazon basin show that its
+    pre-Columbian inhabitants lived in distributed towns, villages, and hamlets
+    connected by roads.
+
+    Archaeology and remote sensing of an Amazon basin show that its
+    pre-Columbian inhabitants lived in distributed towns, villages, and hamlets
+    connected by roads.
+  accessed:
+    - year: 2020
+      month: 9
+      day: 21
+  author:
+    - family: Heckenberger
+      given: Michael J.
+    - family: Russell
+      given: J. Christian
+    - family: Fausto
+      given: Carlos
+    - family: Toney
+      given: Joshua R.
+    - family: Schmidt
+      given: Morgan J.
+    - family: Pereira
+      given: Edithe
+    - family: Franchetto
+      given: Bruna
+    - family: Kuikuro
+      given: Afukaka
+  citation-key: heckenberger:2008precolumbian321
+  container-title: Science
+  DOI: 10.1126/science.1159769
+  ISSN: 0036-8075, 1095-9203
+  issue: '5893'
+  issued:
+    - year: 2008
+      month: 8
+      day: 29
+  language: en
+  license: American Association for the Advancement of Science
+  page: 1214-1217
+  PMID: '18755979'
+  publisher: American Association for the Advancement of Science
+  section: Report
+  source: science.sciencemag.org
+  title: >-
+    Pre-columbian urbanism, anthropogenic landscapes, and the future of the
+    Amazon
+  title-short: Pre-columbian urbanism
+  type: article-journal
+  URL: https://science.sciencemag.org/content/321/5893/1214
+  volume: '321'
+
 - id: heizer:2001ciencia
   call-number: 50(81)
   citation-key: heizer:2001ciencia
@@ -1851,6 +2049,23 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/4490923
   volume: '61'
+
+- id: kemp:1996antiguo
+  author:
+    - family: Kemp
+      given: Barry J.
+  citation-key: kemp:1996antiguo
+  event-place: Barcelona
+  ISBN: 978-84-7423-775-7
+  issued:
+    - year: 1996
+  language: es
+  publisher: Mondadori
+  publisher-place: Barcelona
+  source: Open WorldCat
+  title: 'El antiguo Egipto: anatomía de una civilización'
+  title-short: El antiguo Egipto
+  type: book
 
 - id: kizerbo:2010metodologia
   citation-key: kizerbo:2010metodologia
@@ -2131,6 +2346,22 @@ references:
   URL: http://www.revistas.usp.br/anaismp/article/view/5277
   volume: '1'
 
+- id: lemos:1996historia
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  citation-key: lemos:1996historia
+  event-place: São Paulo
+  ISBN: 978-85-85134-53-2
+  issued:
+    - year: 1996
+  language: pt-BR
+  publisher: Contexto
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: História da casa brasileira
+  type: book
+
 - id: lemos:2012nova12
   accessed:
     - year: 2018
@@ -2207,7 +2438,7 @@ references:
     - year: 2014
       month: 2
       day: 24
-  language: pt-br
+  language: pt
   publisher: Universidade de São Paulo
   publisher-place: São Paulo
   source: www.teses.usp.br
@@ -2257,6 +2488,28 @@ references:
   title: Casas senhoriais Rio-Lisboa e seus interiores
   type: book
 
+- id: marins:2001atraves
+  author:
+    - family: Marins
+      given: Paulo César Garcez
+  call-number: NA9165 .M37 2001
+  citation-key: marins:2001atraves
+  collection-title: Série Teses
+  event-place: São Paulo
+  ISBN: 978-85-7506-021-6
+  issued:
+    - year: 2001
+  language: pt-BR
+  number-of-pages: '317'
+  publisher: 'Humanitas : Edusp'
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: >-
+    Através da rótula: sociedade e arquitetura no Brasil, séculos <span
+    class="smallcaps">XVII</span> a <span class="smallcaps">XX</span>
+  title-short: Através da rótula
+  type: book
+
 - id: mark:2002portuguese
   author:
     - family: Mark
@@ -2304,6 +2557,24 @@ references:
   type: article-journal
   URL: http://ref.scielo.org/j5nxcg
   volume: '18'
+
+- id: martins:1978partido
+  author:
+    - family: Martins
+      given: Neide Marcondes
+  citation-key: martins:1978partido
+  event-place: São Paulo
+  issued:
+    - year: 1978
+  language: pt-BR
+  publisher: Conselho Estadual de Artes e Ciências Humanas
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    O partido arquitetônico rural no século <span
+    class="smallcaps">XIX</span>:  Porto Feliz, Tietê, Laranjal Paulista
+  title-short: O partido arquitetônico rural no século XIX
+  type: book
 
 - id: martins:2013persistencia
   accessed:
@@ -2639,6 +2910,53 @@ references:
     class="smallcaps">XVIII</span>
   type: book
 
+- id: oliveira:1986casas
+  author:
+    - family: Oliveira
+      given: Ernesto Veiga
+      dropping-particle: de
+    - family: Galhano
+      given: Fernando
+  citation-key: oliveira:1986casas
+  event-place: Recife
+  ISBN: 978-85-7010-014-6
+  issued:
+    - year: 1986
+  language: pt-BR
+  publisher: Pool Editorial
+  publisher-place: Recife
+  source: Open WorldCat
+  title: Casas esguias do Porto e sobrados do Recife
+  type: book
+
+- id: oliveira:2001casas89
+  accessed:
+    - year: 2015
+      month: 2
+      day: 7
+  author:
+    - family: Oliveira
+      given: Maria Luiza Ferreira
+      dropping-particle: de
+  citation-key: oliveira:2001casas89
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  DOI: 10.1590/S0101-47142001000100003
+  ISSN: 0101-4714
+  issue: '1'
+  issued:
+    - year: 2001
+  language: pt-BR
+  page: 55-76
+  source: SciELO
+  title: >-
+    Em casas térreas com alcovas: formas de morar entre os setores médios em São
+    Paulo, 1875 e 1900
+  title-short: Em casas térreas com alcovas
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142001000100003&lng=pt&nrm=iso&tlng=pt
+  volume: 8-9
+
 - id: oliveira:2020primeiros
   author:
     - family: Oliveira
@@ -2797,7 +3115,7 @@ references:
   type: book
   URL: https://www.jstor.org/stable/10.1525/j.ctt1ffjng5
 
-- id: peixoto-mehrtens:2010urban
+- id: peixotomehrtens:2010urban
   abstract: >-
     This book focuses on how the political, cultural, and technical networks
     within the field of engineering provided the space within which an important
@@ -2806,7 +3124,7 @@ references:
   author:
     - family: Peixoto-Mehrtens
       given: C.
-  citation-key: peixoto-mehrtens:2010urban
+  citation-key: peixotomehrtens:2010urban
   ISBN: 978-0-230-11403-6
   issued:
     - year: 2010
@@ -3060,6 +3378,7 @@ references:
   publisher-place: São Paulo
   source: Open WorldCat
   title: Contribuição ao estudo da evolução urbana do Brasil (1500–1720)
+  title-short: Estudo da evolução urbana do Brasil
   type: book
 
 - id: rocha-peixoto:2000reflexos
@@ -3076,6 +3395,7 @@ references:
   title: >-
     Reflexos das luzes na terra do sol: sobre a teoria da arquitetura no Brasil
     da Independência, 1808–1831
+  title-short: Reflexos das luzes na terra do sol
   type: book
 
 - id: rossa:2006questoes
@@ -3241,7 +3561,7 @@ references:
     - year: 2013
   language: pt-BR
   page: 51–68
-  publisher: Editora <span class="smallcaps">ufrj</span>
+  publisher: Editora <span class="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: >-
@@ -3538,12 +3858,29 @@ references:
   URL: >-
     https://ihgb.org.br/pesquisa/biblioteca/item/24182-annaes-do-5-congresso-brazileiro-de-geographia-realizado-na-cidade-do-salvador,-estado-da-bahia,-de-7-a-16-de-setembro-de-1916-publicados-sob-a-direc%C3%A7%C3%A3o-do-secretario-geral-do-mesmo-congresso-professor-dr-bernardino-jos%C3%A9-de-souza.html
 
-- id: souza:2003escravidao5
+- id: souza:1993vila
+  author:
+    - family: Souza
+      given: José Antônio Soares
+      dropping-particle: de
+  citation-key: souza:1993vila
+  event-place: Niterói
+  issued:
+    - year: 1993
+  language: pt
+  number-of-pages: '530'
+  publisher: Niterói Livros
+  publisher-place: Niterói
+  source: Google Books
+  title: Da Vila Real da Praia Grande à Imperial Cidade de Niterói
+  type: book
+
+- id: souza:2003escravidao
   author:
     - family: Souza
       given: Talita Tavares Batista Amaral
       dropping-particle: de
-  citation-key: souza:2003escravidao5
+  citation-key: souza:2003escravidao
   container-title: Vértices
   issue: '2'
   issued:
@@ -3660,6 +3997,35 @@ references:
   type: article-journal
   URL: http://www.tandfonline.com/doi/abs/10.1080/026654398364518
   volume: '13'
+
+- id: tirello:2000pinturas34
+  abstract: >-
+    Adotando-se combinação entre métodos físicos e químicos de análise e
+    pesquisa histórica tradicional, e pesquisas históricas tradicionais,este
+    artigo apresenta estudos sobre o sobrado Vallim que integram capitulo de
+    tese de doutoramento da
+  accessed:
+    - year: 2015
+      month: 5
+      day: 28
+  author:
+    - family: Tirello
+      given: Regina Andrade
+  citation-key: tirello:2000pinturas34
+  container-title: Sinopses
+  issued:
+    - year: 2000
+      month: 12
+  language: pt-BR
+  page: 84–103
+  title: >-
+    As pinturas parietais de José María Villaronga no Sobrado Aguiar Vallim,
+    Bananal — Um estudo de caso
+  title-short: José María Villaronga
+  type: article-journal
+  URL: >-
+    https://www.academia.edu/6835279/AS_PINTURAS_PARIETAIS_DE_JOS%C3%89_MARIA_VILLARONGA_NO_SOBRADO_AGUIAR_VALLIM_BANANAL_1a_Parte_Revista_SINOPSES_n_34
+  volume: '34'
 
 - id: trindade:2009urbanismo
   abstract: >-
@@ -3936,7 +4302,7 @@ references:
   ISBN: 978-972-9048-66-1
   issued:
     - year: 2012
-  language: pt-PT
+  language: pt
   page: 393–408
   publisher: 'Ismai : Cedtur'
   publisher-place: Maia
@@ -3944,6 +4310,9 @@ references:
   title: >-
     Antonio Simões Ribeiro, José Joaquim da Rocha e a Escola de pintura
     quadraturística na Bahia: autoria e atribuições
+  title-short: >-
+    Antonio Simões Ribeiro, José Joaquim da Rocha e a Escola de pintura
+    quadraturística na Bahia
   type: chapter
 
 - id: vitruve:1684dix
@@ -3961,7 +4330,7 @@ references:
   title: >-
     Les dix livres d’architecture de Vitruve, corrigez et traduits nouvellement
     en françois, avec des notes & des figures
-  title-short: Dix livres d’architecture
+  title-short: Dix livres
   translator:
     - family: Perrault
       given: Claude

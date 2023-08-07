@@ -3,14 +3,7 @@ metadata:
   bibliography: _data/biblio.yaml
   csl: _data/chicago-note-bibliography.csl
   lang: pt-BR
-  # pandoc-crossref metadata
-  ccsLabelSep: "&nbsp;&ndash;&nbsp;"
-  figureTitle: Figura
-  subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
-  tableTitle: Tabela
-  tblPrefix:
-    - tab.
-    - tabs.
+  crossrefYaml: _data/pandoc-crossref.yaml
 filters:
   - pandoc-crossref
   - citeproc
