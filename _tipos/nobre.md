@@ -10,8 +10,7 @@ excerpt: >
   especializações tipológicas.
 ---
 
-Arquitetura senhorial na segunda metade do século XVIII
-=======================================================
+# Arquitetura senhorial na segunda metade do século [XVIII]{.smallcaps} #
 
 A arquitetura senhorial, cujos inventários e testamentos
 evidenciam preocupações de legitimidade sucessória, oferece
@@ -32,7 +31,7 @@ Essa configuração é exemplificada nos palacetes
 setecentistas das famílias Gama Lobo e Azevedo e Silva,
 à margem do tecido urbano de Loulé, no Algarve
 [@neves:2013duas, p. 139].
-A capela, que na chácara saloia do século XVIII assim como
+A capela, que na chácara saloia do século [XVIII]{.smallcaps} assim como
 na fazenda paulista do século anterior é frequentemente
 destacada da casa, passa a ser acoplada e até mesmo inserida
 na volumetria principal da casa.
@@ -51,10 +50,10 @@ O porão "alto" pode ser, inclusive, apenas uma ligeira
 sobrelevação da estrutura da casa acima do alicerce,
 configurando um espaço não dividido e precariamente
 utilizável como depósito ou senzala
-[@reisfilho:1983quadro, p. 40].
+[@reis:1983quadro, p. 40].
 Essa solução intermediária é uma das mais duradouras
 influências da vivenda rural sobre a morada urbana,
-principalmente a partir de meados do século XIX.
+principalmente a partir de meados do século [XIX]{.smallcaps}.
 
 A transferência da tipologia palaciana para o Brasil não
 tarda, e finca pé inicialmente no Nordeste,
@@ -97,9 +96,9 @@ acompanha o incremento do dinamismo cultural nos grandes
 centros urbanos do litoral e do Sul de Minas Gerais.
 
 A varanda circundante é introduzida desde a segunda metade
-do século XVIII nas casas de engenho no termo municipal do
+do século [XVIII]{.smallcaps} nas casas de engenho no termo municipal do
 Rio de Janeiro e na Baixada fluminense, tendo desde aí
-difusão limitada a Pernambuco, já no século XIX.
+difusão limitada a Pernambuco, já no século [XIX]{.smallcaps}.
 Essa circulação geograficamente restrita do elemento parece
 indicar a existência de modelos específicos a serem
 copiados, talvez na literatura agronômica associada aos
@@ -147,13 +146,13 @@ alpendrada e com salões distribuídos em enfiadas
 transversais --- mas essa hipotética configuração original
 é obscurecida por importantes reformas efetuadas entre 1837
 e 1880 [@santos:2013casas, p. 64].
-No final do século XVIII, a varanda bangalô espalha-se por
+No final do século [XVIII]{.smallcaps}, a varanda bangalô espalha-se por
 diversas fazendas da região, quase invariavelmente associada
 a ordens toscanas de gosto neoclássico, tal como preconizado
 pelo Padre Ignacio da Piedade Vasconcellos em seus
 *Artefactos symmetricos*, de 1733 [@neves:2013duas, p. 127].
 
-Na virada do século XIX no engenho Viegas, nas
+Na virada do século [XIX]{.smallcaps} no engenho Viegas, nas
 fazendas Colubandê, Capão do Bispo e Taquara, complementa-se
 o partido avarandado prolongando o alpendre de fundos em
 *loggias* que delimitam um pátio [@santos:2013casas, p. 59]
@@ -167,14 +166,13 @@ varanda bangalô é resolvida de variados modos.
 Quando não for possível simplesmente distribuir uma enfiada
 transversal mais compacta, a varanda pode abraçar um único
 grande salão, como é o caso no engenho Santa Helena em Água
-Preta (Pernambuco), já no século XIX.
-No engenho São Roque em Maragogi, também do século XIX,
+Preta (Pernambuco), já no século [XIX]{.smallcaps}.
+No engenho São Roque em Maragogi, também do século [XIX]{.smallcaps},
 a varanda contorna uma distribuição alentejana com corredor
 central entre dois renques de células.
 
 
-Reformulações da morada tradicional no século XIX
-=================================================
+# Reformulações da morada tradicional no século [XIX]{.smallcaps} #
 
 Contrastam com essas vivendas de pedra e cal as casas de
 fazenda do Sul de Minas Gerais, com esqueleto estrutural
@@ -194,7 +192,7 @@ adobe, assim como os muros, mas divisórias interiores podem
 ser em pau-a-pique ou tabique.
 Adobe e pau-a-pique pertencem a tradições do Norte da
 África, e o primeiro só será reintroduzido no Alentejo no
-século XIX [@fonseca:2007arquitectura]
+século [XIX]{.smallcaps} [@fonseca:2007arquitectura]
 --- após seu desaparecimento da península
 Ibérica ainda durante a Idade Média.
 
@@ -211,7 +209,7 @@ Minas.
 
 Nas fazendas mineiras é mais difícil distinguir a influência
 do tipo de composição espacial palaciana difundido no século
-XVIII da adaptação gradual da casa senhorial nortista com
+[XVIII]{.smallcaps} da adaptação gradual da casa senhorial nortista com
 varanda e salões.
 Em alguns casos, essa fluidez tipológica faz-se presente no
 próprio processo de evolução da casa de fazenda, partindo de
@@ -256,7 +254,7 @@ Esses espaços se situam, respectivamente, junto à frente
 e aos fundos do corpo principal da casa;
 o espaço familiar é por vezes configurado como uma varanda,
 em vez de um salão *intramuros*.
-No Rio de Janeiro do segundo quartel do século XIX, um
+No Rio de Janeiro do segundo quartel do século [XIX]{.smallcaps}, um
 corredor transversal é frequentemente usado para mediar
 a separação entre a zona social e a zona íntima, como no
 palácio de verão da Corte em Petrópolis (Julius Friedrich
@@ -293,7 +291,7 @@ classicista de Serlio, já popular em Portugal.
 [@neves:2013duas, p. 99]
 
 De modo mais explícito, o desenvolvimento de uma "cultura do
-refinamento" em meados do século XIX
+refinamento" em meados do século [XIX]{.smallcaps}
 [@marquese:2010vale18, p. 121]
 se concretiza em programas iconográficos específicos a salas
 de visitas e de jantar sociais, como no sobrado Aguiar Valim
@@ -310,7 +308,7 @@ e política que ultrapassa, assim, suas particularidades
 regionais para reivindicar pertencimento a uma república
 global da etiqueta aristocrática.
 
-A metade do século XIX marca a culminação de um longo
+A metade do século [XIX]{.smallcaps} marca a culminação de um longo
 processo de transformações e refinamentos que consolidam as
 tipologias da edilícia de base do Antigo Regime.
 A prosperidade cafeeira e açucareira pontua a paisagem do
@@ -332,7 +330,7 @@ identidade cultural --- e, portanto, arquitetônica --- de
 cada nação.
 Esses fatores em conjunto conduzem a rupturas, mais que
 a sucessões tipológicas, na edilícia de base da segunda
-metade do século XIX [@lemos:1993transformacoes1].
+metade do século [XIX]{.smallcaps} [@lemos:1993transformacoes1].
 Sem aportar significativas mudanças na composição das
 classes dominantes, esse processo leva, todavia,
 à formulação de conceitos teóricos e de críticas

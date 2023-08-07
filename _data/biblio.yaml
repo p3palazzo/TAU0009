@@ -40,7 +40,7 @@ references:
   publisher: Unesco
   publisher-place: Brasília
   source: Open WorldCat
-  title: África do século <span smallcaps="smallcaps">XIX</span> à década de 1880
+  title: África do século <span class="smallcaps">XIX</span> à década de 1880
   type: book
 
 - id: alarcao:1988dominio
@@ -151,6 +151,28 @@ references:
   type: article-journal
   URL: http://periodicos.sbu.unicamp.br/ojs/index.php/labore/article/view/8646223
   volume: '10'
+
+- id: argan:1973concepto
+  author:
+    - family: Argan
+      given: Giulio Carlo
+  citation-key: argan:1973concepto
+  collection-title: >-
+    Curso dictado en el Instituto Universitario de Historia de la Arquitectura,
+    Tucumán, 1961
+  event-place: Buenos Aires
+  issued:
+    - year: 1973
+  language: es
+  publisher: Nueva Visión
+  publisher-place: Buenos Aires
+  source: Open WorldCat
+  title: El concepto del espacio arquitectónico desde el barroco a nuestros días
+  title-short: El concepto del espacio arquitectónico
+  translator:
+    - family: Rainis
+      given: Liliana
+  type: book
 
 - id: arraes:2016plantar
   abstract: ":A urbanização da capitania do Piauí acompanhou, desde finais do século XVII, um complexo processo negociado entre a Coroa portuguesa, os representantes régios, a rede clientelar urdida pela Casa da Torre e a população residente em seus sertões. O que antes era conteúdo dos sertões de Rodelas passou a construir-se como identidade territorial a partir da fundação da primeira freguesia, em 1697, dedicada a Nossa Senhora da Vitória. Estruturando-se descontinuamente no tempo e no espaço, o Piauí reforma-se em 1758, ano da autonomização do seu governo. E fez-se urbano em 1761, quando D. José I e o marquês de Pombal equacionaram, por meio da carta régia de 19 de junho, um território formado por seis vilas e uma cidade. Nessa direção, o objetivo deste artigo consiste em reconstruir o processo de formação da capitania do Piauí segundo os agentes envolvidos na urbanização do território. Propõe-se descortinar as políticas da Coroa por meio da oficialização de povoações estrategicamente locadas no território visando o controle e o \"remédio\" das injustiças rotineiras do Piauí. O método de apresentar essa reconstrução vale-se da interconexão entre texto (documentação manuscrita) e imagem (mapas e fotografias), que em suas entrelinhas representam um Piauí como espaço de experiências sentidas tanto na dimensão oficial quanto no cotidiano dos seus moradores.PALAVRAS-CHAVE:\_Cartografia; Piauí; Política Territorial; Rede Urbana; Sertões do Norte; Urbanização"
@@ -315,6 +337,27 @@ references:
   title-short: História da terra e do homem no Planalto Central
   type: book
 
+- id: bianca:2000urban
+  author:
+    - family: Bianca
+      given: Stefano
+  call-number: NA9246.A65 B53 2000
+  citation-key: bianca:2000urban
+  contributor:
+    - literal: Eidgenössische Technische Hochschule Zürich
+  event-place: 'London : New York'
+  ISBN: 978-0-500-28205-2
+  issued:
+    - year: 2000
+  language: en
+  number-of-pages: '347'
+  publisher: Thames & Hudson
+  publisher-place: 'London : New York'
+  source: Library of Congress ISBN
+  title: 'Urban form in the Arab world: past and present'
+  title-short: Urban form in the Arab world
+  type: book
+
 - id: boahen:2010africa
   citation-key: boahen:2010africa
   collection-number: '7'
@@ -336,6 +379,45 @@ references:
   title: África sob dominação colonial, 1880-1935
   type: book
 
+- id: brescia:2011teatros
+  abstract: >-
+    It was during the reign of Joseph I (1750-1777) that operatic activity was
+    established in Luso-American colonies; several permanent theatres were built
+    across Portugal’s vast territories in America, most of them following the
+    architectural and administrative models already in use at the public
+    theatres of Portugal. The Opera House of Vila Rica/Ouro Preto stands out
+    amongst these Portuguese American theatres of the 18th century as the sole
+    surviving example of Portuguese public theatre typology. This paper intends
+    to outline the origins of Ouro Preto’s Opera House, considering issues of
+    its organisation and administration in the course of its existence, the
+    architecture of its 18th century building, and the innovations introduced to
+    the structure during its mid-19th century restoration.
+  accessed:
+    - year: 2019
+      month: 5
+      day: 6
+  author:
+    - family: Brescia
+      given: Rosana Marreco
+  citation-key: brescia:2011teatros
+  container-title: Revista do Instituto de Estudos Brasileiros
+  DOI: 10.11606/issn.2316-901X.v0i52p89-106
+  ISSN: 2316-901X, 0020-3874
+  issue: '52'
+  issued:
+    - year: 2011
+      month: 3
+      day: 1
+  language: pt
+  page: 89–106
+  source: Crossref
+  title: >-
+    Os teatros públicos na capital das Minas setecentistas: da casa da Ópera de
+    Vila Rica ao Theatro do Ouro Preto
+  title-short: Os teatros públicos na capital das Minas setecentistas
+  type: article-journal
+  URL: http://www.revistas.usp.br/rieb/article/view/34670
+
 - id: bruand:1981arquitetura
   author:
     - family: Bruand
@@ -350,6 +432,97 @@ references:
   source: Open WorldCat
   title: Arquitetura contemporânea no Brasil
   type: book
+
+- id: caja:2020tools
+  abstract: >-
+    Starting from the typological and morphological studies conducted in Italy
+    since the Sixties of the last century, the essay aims to investigate limits
+    and possibilities in the application of these studies to urban contexts that
+    are different from those for which they were originally conceived and
+    developed. The rediscovery of the historic city, mostly forgotten or
+    cancelled since then, both in the intentions and physically, receives from
+    here an international acknowledgement. The researches on the Islamic urban
+    phenomenon carried out by Italian scholars were strictly linked to design
+    issues. Since the end of the 1960s, in fact, several Italian architects were
+    involved in town planning activities of several cities of the Islamic world.
+  accessed:
+    - year: 2020
+      month: 8
+      day: 31
+  author:
+    - family: Caja
+      given: Michele
+    - family: Landsberger
+      given: Martina
+    - family: Fumagalli
+      given: Cecilia
+  citation-key: caja:2020tools
+  collection-title: Research for Development
+  container-title: Innovative Models for Sustainable Development in Emerging African Countries
+  DOI: 10.1007/978-3-030-33323-2_14
+  editor:
+    - family: Aste
+      given: Niccolò
+    - family: Della Torre
+      given: Stefano
+    - family: Talamo
+      given: Cinzia
+    - family: Adhikari
+      given: Rajendra Singh
+    - family: Rossi
+      given: Corinna
+  event-place: Cham
+  ISBN: 978-3-030-33323-2
+  issued:
+    - year: 2020
+  language: en
+  page: 159-167
+  publisher: Springer International
+  publisher-place: Cham
+  source: Springer Link
+  title: >-
+    Tools for reading and designing the ‘Islamic city’. Italian urban studies at
+    the crossroads
+  title-short: Tools for reading and designing the ‘Islamic city’
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-030-33323-2_14
+
+- id: campos:2005manoel
+  author:
+    - family: Campos
+      given: Adalgisa Arantes
+  citation-key: campos:2005manoel
+  event-place: Belo Horizonte
+  ISBN: 85-7654-023-1 978-85-7654-023-6
+  issued:
+    - year: 2005
+  language: pt-BR
+  publisher: C/Arte
+  publisher-place: Belo Horizonte
+  source: Open WorldCat
+  title: >-
+    Manoel da Costa Ataíde: aspectos históricos, estilı́sticos, iconográficos e
+    técnicos
+  title-short: Manoel da Costa Ataíde
+  type: book
+
+- id: campos:2010revisao
+  author:
+    - family: Campos
+      given: Maria de Fátima Hanaque
+  citation-key: campos:2010revisao
+  container-title: Cultura Visual
+  issue: '13'
+  issued:
+    - year: 2010
+      month: 5
+  language: pt-BR
+  page: 25–37
+  title: >-
+    Revisão à Escola Baiana de Pintura: um estudo sobre o pintor José Teófilo de
+    Jesus
+  title-short: Revisão à Escola Baiana de Pintura
+  type: article-journal
 
 - id: cancino:2005intelectuales
   author:
@@ -366,8 +539,8 @@ references:
   source: Open WorldCat
   title: >-
     Los intelectuales latinoamericanos entre la modernidad y la tradición,
-    siglos <span smallcaps="smallcaps">XIX</span> y <span
-    smallcaps="smallcaps">XX</span>
+    siglos <span class="smallcaps">XIX</span> y <span
+    class="smallcaps">XX</span>
   title-short: Los intelectuales latinoamericanos entre la modernidad y la tradición
   type: book
 
@@ -527,6 +700,49 @@ references:
   URL: http://www.revistas.usp.br/anaismp/article/view/5436
   volume: '14'
 
+- id: carvalho:1999mestre
+  author:
+    - family: Carvalho
+      given: Anna Maria Fausto Monteiro
+      dropping-particle: de
+  call-number: NB359.V29 C37 1999
+  citation-key: carvalho:1999mestre
+  collection-title: Espaços da arte brasileira
+  event-place: São Paulo
+  ISBN: 978-85-86374-41-8
+  issued:
+    - year: 1999
+  language: pt
+  number-of-pages: '110'
+  publisher: Cosac & Naify
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: Mestre Valentim
+  type: book
+
+- id: carvalho:2010manuel
+  author:
+    - family: Carvalho
+      given: Anna Maria Fausto Monteiro
+      dropping-particle: de
+  citation-key: carvalho:2010manuel
+  container-title: A encomenda. O artista. A obra
+  editor:
+    - family: Ferreira-Alves
+      given: Natália Marinho
+  event-place: Porto
+  ISBN: 978-989-8434-03-6
+  issued:
+    - year: 2010
+  language: pt
+  page: 55–68
+  publisher: Cepese
+  publisher-place: Porto
+  source: Open WorldCat
+  title: Manuel Dias de Oliveira e a pintura oficial da Corte no Brasil
+  title-short: Henrique José da Silva
+  type: chapter
+
 - id: castro:1995resgate
   citation-key: castro:1995resgate
   editor:
@@ -617,6 +833,22 @@ references:
   type: book
   URL: http://archive.org/details/cidadefebrilcort00chal
 
+- id: chico:1956cidade
+  author:
+    - family: Chicó
+      given: Mário Tavares
+  call-number: 711.4(547 DAM)"16"
+  citation-key: chico:1956cidade
+  container-title: Revista da Junta das Missões Geográficas e de Investigações do Ultramar
+  issue: especial
+  issued:
+    - year: 1956
+  language: pt
+  page: 319–328
+  source: www.biblartepac.gulbenkian.pt Library Catalog
+  title: A “cidade ideal” do Renascimento e as cidades portuguesas da Índia
+  type: article-journal
+
 - id: chueca:1981invariantes
   author:
     - family: Chueca Goitia
@@ -682,6 +914,35 @@ references:
   title: Os tempos da cidade. Uma metamorfose imperfeita
   title-short: Os tempos da cidade
   type: chapter
+
+- id: corsi:2010changing
+  call-number: HT114 .C45 2010
+  citation-key: corsi:2010changing
+  collection-number: '1'
+  collection-title: Ricerche. Serie maior
+  contributor:
+    - family: Universidade de Évora
+      given: ''
+  editor:
+    - family: Corsi
+      given: Cristina
+    - family: Vermeulen
+      given: Frank
+  event-place: Bologna
+  ISBN: 978-88-7849-055-0
+  issued:
+    - year: 2010
+  language: en-GB
+  number-of-pages: '395'
+  publisher: Ante quem
+  publisher-place: Bologna
+  source: Library of Congress ISBN
+  title: >-
+    Changing landscapes, the impact of Roman towns in the Western Mediterranean:
+    proceedings of the international colloquium, Castelo de Vide, Marvão,
+    15th-17th May, 2008
+  title-short: Changing landscapes, the impact of Roman towns in the Western Mediterranean
+  type: book
 
 - id: corsi:2013ammaia
   author:
@@ -904,7 +1165,7 @@ references:
   source: Library of Congress ISBN
   title: >-
     Fazendas do sul de Minas Gerais: arquitetura rural nos séculos <span
-    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XVIII</span> e <span class="smallcaps">XIX</span>
   title-short: Fazendas do sul de Minas Gerais
   type: book
 
@@ -948,6 +1209,39 @@ references:
   type: book
   URL: http://archive.org/details/histriadosnd00cunh
 
+- id: deupi:2015architectural
+  abstract: >-
+    "Architectural Temperance examines relations between Bourbon Spain and papal
+    Rome (1700-1759) through the lens of cultural politics. With a focus on key
+    Spanish architects sent to study in Rome by the Bourbon Kings, the book also
+    discusses the establishment of a program of architectural education at the
+    newly founded Real Academia de Bellas Artes de San Fernando in Madrid.
+    Victor Deupi explores why a powerful nation like Spain would temper its own
+    building traditions with the more cosmopolitan trends associated with Rome;
+    often at the expense of its own national and regional traditions. Through
+    the inclusion of previously unpublished documents and images that shed light
+    on the theoretical debates which shaped eighteenth-century architecture in
+    Rome and Madrid, Architectural Temperance provides an insight into 18th
+    century Spanish architecture in English"--
+  author:
+    - family: Deupi
+      given: Victor
+  call-number: NA2543.S6 D475 2015
+  citation-key: deupi:2015architectural
+  collection-title: Routledge research in architecture
+  event-place: London ; New York
+  ISBN: 978-0-415-72439-5
+  issued:
+    - year: 2015
+  language: en
+  number-of-pages: '214'
+  publisher: Routledge
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: 'Architectural temperance: Spain and Rome, 1700-1759'
+  title-short: Architectural temperance
+  type: book
+
 - id: diane:2010
   call-number: 960"11/15"
   citation-key: diane:2010
@@ -966,8 +1260,8 @@ references:
   publisher-place: Brasília
   source: Open WorldCat
   title: >-
-    África do Século <span smallcaps="smallcaps">XII</span> ao <span
-    smallcaps="smallcaps">XVI</span>
+    África do Século <span class="smallcaps">XII</span> ao <span
+    class="smallcaps">XVI</span>
   type: book
 
 - id: fasi:2010africa
@@ -992,9 +1286,61 @@ references:
   publisher-place: Brasília
   source: Open WorldCat
   title: >-
-    África do século <span smallcaps="smallcaps">VII</span> ao <span
-    smallcaps="smallcaps">XI</span>
+    África do século <span class="smallcaps">VII</span> ao <span
+    class="smallcaps">XI</span>
   type: book
+
+- id: fausto:2010indios
+  accessed:
+    - year: 2020
+      month: 5
+      day: 10
+  author:
+    - family: Fausto
+      given: Carlos
+  citation-key: fausto:2010indios
+  edition: '4'
+  event-place: Rio de Janeiro
+  ISBN: 978-85-7110-543-0
+  issued:
+    - year: 2010
+  language: pt
+  publisher: Jorge Zahar
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Os Índios antes do Brasil
+  type: book
+  URL: >-
+    http://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=3233642
+
+- id: fernandes:2004historia
+  accessed:
+    - year: 2016
+      month: 1
+      day: 15
+  author:
+    - family: Fernandes
+      given: Ana
+    - family: Gomes
+      given: Marco Aurélio A. de Filgueiras
+  citation-key: fernandes:2004historia
+  container-title: Ciência e Cultura
+  ISSN: 0009-6725
+  issue: '2'
+  issued:
+    - year: 2004
+      month: 4
+  language: pt-BR
+  page: 23-25
+  source: cienciaecultura.bvs.br
+  title: >-
+    História da cidade e do urbanismo no Brasil: reflexões sobre a produção
+    recente
+  title-short: História da cidade e do urbanismo no Brasil
+  type: article-journal
+  URL: >-
+    http://cienciaecultura.bvs.br/scielo.php?script=sci_abstract&pid=S0009-67252004000200015&lng=en&nrm=iso&tlng=pt
+  volume: '56'
 
 - id: fernandes:2014fundacao
   author:
@@ -1024,6 +1370,35 @@ references:
   title-short: Fundação e evolução dos traçados urbanos
   type: chapter
 
+- id: fernandes:2014genese
+  abstract: >-
+    Dissertação para obtenção do Grau de Doutor em Urbanismo, apresentada pela
+    Universidade de Lisboa - Faculdade de Arquitetura.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 30
+  author:
+    - family: Fernandes
+      given: Sérgio Miguel Padrão
+  citation-key: fernandes:2014genese
+  event-place: Lisboa
+  genre: Dissertação (Doutoramento em Urbanismo)
+  issued:
+    - year: 2014
+      month: 5
+  language: pt
+  license: openAccess
+  publisher: Faculdade de Arquitetura, Universidade Técnica de Lisboa
+  publisher-place: Lisboa
+  source: www.repository.utl.pt
+  title: >-
+    Génese e forma dos traçados das cidades portuguesas : morfologia, tipologia
+    e sedimentação
+  title-short: Génese e forma dos traçados das cidades portuguesas
+  type: thesis
+  URL: https://www.repository.utl.pt/handle/10400.5/8103
+
 - id: fernandes:2014morfologia
   author:
     - family: Fernandes
@@ -1035,7 +1410,7 @@ references:
   citation-key: fernandes:2014morfologia
   container-title: 'A jangada de pedra: Geografias Ibero-Afro-Americanas'
   event-place: Guimarães
-  event-title: Atas do <span smallcaps="smallcaps">XIV</span> Colóquio Ibérico de Geografia
+  event-title: Atas do <span class="smallcaps">XIV</span> Colóquio Ibérico de Geografia
   issued:
     - year: 2014
   language: pt
@@ -1138,7 +1513,7 @@ references:
   source: Crossref
   title: >-
     Uma morfologia dos quilombos nas Américas, séculos <span
-    smallcaps="smallcaps">XVI-XIX</span>
+    class="smallcaps">XVI-XIX</span>
   title-short: Uma morfologia dos quilombos nas Américas
   type: article-journal
   URL: >-
@@ -1164,6 +1539,36 @@ references:
   publisher-place: Lisboa
   source: Library of Congress ISBN
   title: Arquitectura de terra em Avis
+  type: book
+
+- id: franca:2004pombalismo
+  author:
+    - family: França
+      given: José-Augusto
+  citation-key: franca:2004pombalismo
+  collection-editor:
+    - family: Ferreira de Almeida
+      given: Carlos Alberto
+    - family: França
+      given: José-Augusto
+    - family: Barroca
+      given: Mário Jorge
+    - family: Serrão
+      given: Vítor Manuel
+  collection-number: '5'
+  collection-title: História da arte em Portugal
+  edition: '1'
+  event-place: Lisboa
+  ISBN: >-
+    978-972-23-2827-2 978-972-23-2841-8 978-972-23-2924-8 978-972-23-3017-6
+    978-972-23-3154-8 978-972-23-3244-6
+  issued:
+    - year: 2004
+  language: pt-PT
+  publisher: Presença
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: O pombalismo e o romantismo
   type: book
 
 - id: freyre:2001
@@ -1244,7 +1649,7 @@ references:
     - year: 2001
   language: pt-BR
   publisher: >-
-    Editora <span smallcaps="smallcaps">UFMG</span> : Fundação Casa de Rui
+    Editora <span class="smallcaps">UFMG</span> : Fundação Casa de Rui
     Barbosa
   publisher-place: 'Belo Horizonte : Rio de Janeiro'
   title: Cantos de arte na cidade
@@ -1266,7 +1671,7 @@ references:
     - year: 2001
   language: pt-BR
   publisher: >-
-    Editora <span smallcaps="smallcaps">UFMG</span> : Fundação Casa de Rui
+    Editora <span class="smallcaps">UFMG</span> : Fundação Casa de Rui
     Barbosa
   publisher-place: Belo Horizonte; Rio de Janeiro
   source: Open WorldCat
@@ -1323,6 +1728,53 @@ references:
   title-short: Brazil builds
   type: book
   URL: https://www.moma.org/calendar/exhibitions/2304
+
+- id: hakim:2010arabicislamic
+  author:
+    - family: Hakim
+      given: Besim S.
+  call-number: HT147.5 .H35 1986
+  citation-key: hakim:2010arabicislamic
+  edition: '2'
+  event-place: 'London : New York'
+  ISBN: 978-0-7103-0094-2
+  issued:
+    - year: 2010
+  language: en
+  number-of-pages: '192'
+  publisher: Routledge
+  publisher-place: 'London : New York'
+  source: Library of Congress ISBN
+  title: 'Arabic-Islamic cities: building and planning principles'
+  title-short: Arabic-Islamic cities
+  type: book
+
+- id: heckenberger:2003amazonia301
+  accessed:
+    - year: 2013
+      month: 8
+      day: 25
+  author:
+    - family: Heckenberger
+      given: M. J.
+  citation-key: heckenberger:2003amazonia301
+  container-title: Science
+  container-title-short: Science
+  DOI: 10.1126/science.1086112
+  ISSN: 0036-8075, 1095-9203
+  issue: '5640'
+  issued:
+    - year: 2003
+      month: 9
+      day: 19
+  language: en
+  page: 1710-1714
+  source: DOI.org (Crossref)
+  title: 'Amazonia 1492: pristine forest or cultural parkland?'
+  title-short: Amazonia 1492
+  type: article-journal
+  URL: https://www.sciencemag.org/lookup/doi/10.1126/science.1086112
+  volume: '301'
 
 - id: heizer:2001ciencia
   call-number: 50(81)
@@ -1432,14 +1884,14 @@ references:
       given: Dhiru A.
     - family: Hetzel
       given: Peter J.
-  event-place: Washington, <span smallcaps="smallcaps">D.C.</span>
+  event-place: Washington, <span class="smallcaps">D.C.</span>
   ISBN: 978-1-59726-578-2
   issued:
     - year: 2009
   language: en
   number-of-pages: '459'
   publisher: Island Press
-  publisher-place: Washington, <span smallcaps="smallcaps">D.C.</span>
+  publisher-place: Washington, <span class="smallcaps">D.C.</span>
   source: Library of Congress ISBN
   title: The architecture of community
   type: book
@@ -1530,6 +1982,57 @@ references:
   title-short: Architecture of regionalism in the age of globalization
   type: book
 
+- id: leite:2018urbanistica
+  abstract: >-
+    Produtos, Viagens e Consumos Artísticos compõe o essencial do que foi
+    apresentado e discutido durante o V Colóquio das Velas, que decorreu nas
+    Velas, ilha de São Jorge, de 2 a 4 de Julho de 2015. Centrado nos domínios
+    disciplinares da história da arte, história da arquitetura e do urbanismo, o
+    programa desenvolveu os temas da produção, circulação e consumos artísticos
+    realizados no espaço ultramarino português, ao longo de um arco temporal
+    globalmente situado na Idade Moderna. Visando abordagens que procurassem
+    realçar as noções de fronteiras móveis e reequacionar os moldes em que se
+    processaram as relações entre espaços imbuídos de centralidade orgânica e as
+    suas margens e periferias, o tema do colóquio procurou aprofundar linhas de
+    investigação conectadas com o plano estratégico do CHAM, em torno dos
+    conceitos de “mobilidade” e de “fronteira”.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 21
+  author:
+    - family: Leite
+      given: Antonieta Reis
+  citation-key: leite:2018urbanistica
+  container-title: >-
+    Viagens, Produtos e Consumos Artísticos. O espaço ultramarino português,
+    1450-1900
+  editor:
+    - family: Albergaria
+      given: Isabel Soares
+      dropping-particle: de
+    - family: Chaves
+      given: Duarte Nuno
+  event-place: Lisboa
+  ISBN: 978-989-8492-49-4
+  issued:
+    - year: 2018
+  language: pt-PT
+  license: openAccess
+  page: 65–78
+  publisher: >-
+    <span class="smallcaps">CHAM</span> - Centro de Humanidades da
+    Universidade Nova de Lisboa
+  publisher-place: Lisboa
+  source: run.unl.pt
+  title: >-
+    Urbanística e ordenamento do território na construção do Atlântico (século
+    <span class="smallcaps">XVI</span>). A morfologia urbana como indicador
+    em Ponta Delgada e Rio de Janeiro
+  title-short: A morfologia urbana como indicador em Ponta Delgada e Rio de Janeiro
+  type: chapter
+  URL: https://run.unl.pt/handle/10362/42613
+
 - id: lemes:2004lei
   accessed:
     - year: 2018
@@ -1548,7 +2051,7 @@ references:
   source: periodicos.unievangelica.edu.br
   title: >-
     A lei das Sesmarias e Portugal no século <span
-    smallcaps="smallcaps">XIV</span>
+    class="smallcaps">XIV</span>
   title-short: A lei das Sesmarias
   type: article-journal
   URL: >-
@@ -1622,7 +2125,7 @@ references:
   source: www.revistas.usp.br
   title: >-
     Transformações do espaço habitacional ocorridas na arquitetura brasileira do
-    século <span smallcaps="smallcaps">XIX</span>
+    século <span class="smallcaps">XIX</span>
   title-short: Transformações do espaço habitacional
   type: article-journal
   URL: http://www.revistas.usp.br/anaismp/article/view/5277
@@ -1674,6 +2177,47 @@ references:
   type: book
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
+- id: lopes:2014ocupacao
+  abstract: >-
+    Nesta dissertação apresentamos um amplo quadro da ocupação indígena
+    pré-colonial no vale do Paraíba Paulista, localizado na porção leste do
+    Estado de São Paulo. Apesar da diversidade das populações que habitaram a
+    região, nosso estudo teve como foco as populações falantes de línguas do
+    tronco linguístico Tupi, mais precisamente, aquelas associados aos grupos
+    Tupinambá (língua e cultura). Para o entendimento destes processos, além de
+    nos debruçarmos sobre as fontes disponíveis para região, desenvolvemos um
+    estudo detalhado do histórico e das atividades realizadas no sítio
+    arqueológico Santa Marina e a análise apurada do conjunto artefatual
+    cerâmico e lítico. As ações delineadas ao longo deste trabalho permitem
+    compreendermos as formas utilizadas por estas populações ao se constituírem
+    e estenderem seus domínios sóciopolíticos por séculos, ao longo da paisagem
+    valeparaibana.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 19
+  author:
+    - family: Lopes
+      given: Marcel
+  citation-key: lopes:2014ocupacao
+  DOI: 10.11606/D.71.2014.tde-21032014-144952
+  event-place: São Paulo
+  genre: Dissertação (Mestrado em Arqueologia)
+  issued:
+    - year: 2014
+      month: 2
+      day: 24
+  language: pt-br
+  publisher: Universidade de São Paulo
+  publisher-place: São Paulo
+  source: www.teses.usp.br
+  title: >-
+    Ocupação tupinambá no vale do Paraíba paulista: vista a partir da análise do
+    sítio arqueológico Santa Marina
+  title-short: Ocupação tupinambá no vale do Paraíba paulista
+  type: thesis
+  URL: http://www.teses.usp.br/teses/disponiveis/71/71131/tde-21032014-144952/
+
 - id: lopez:2016alhambras
   call-number: NA702.4 .A44 2016
   citation-key: lopez:2016alhambras
@@ -1707,7 +2251,7 @@ references:
   issued:
     - year: 2013
   language: pt-BR
-  publisher: Editora <span smallcaps="smallcaps">ufrj</span>
+  publisher: Editora <span class="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: Casas senhoriais Rio-Lisboa e seus interiores
@@ -1761,6 +2305,51 @@ references:
   URL: http://ref.scielo.org/j5nxcg
   volume: '18'
 
+- id: martins:2013persistencia
+  accessed:
+    - year: 2020
+      month: 5
+      day: 15
+  author:
+    - family: Martins
+      given: Pedro
+  citation-key: martins:2013persistencia
+  event-place: 'Barcelona : Buenos Aires'
+  event-title: V Seminario Internacional de Investigación en Urbanismo
+  ISSN: 2339-6598
+  issued:
+    - year: 2013
+      month: 6
+  language: pt
+  license: Attribution-NonCommercial-NoDerivs 3.0 Spain
+  page: 170-188
+  publisher: >-
+    Departament d'Urbanisme i Ordenació del Territori. Universitat Politècnica
+    de Catalunya
+  publisher-place: 'Barcelona : Buenos Aires'
+  source: upcommons.upc.edu
+  title: >-
+    A persistência das formas urbanas: construção de uma metodologia para a
+    leitura das pré-existências na morfologia da cidade portuguesa
+  title-short: A persistência das formas urbanas
+  type: paper-conference
+  URL: https://upcommons.upc.edu/handle/2099/14142
+
+- id: marx:1980cidade
+  author:
+    - family: Marx
+      given: Murillo
+  citation-key: marx:1980cidade
+  event-place: São Paulo
+  issued:
+    - year: 1980
+  language: pt
+  publisher: 'Melhoramentos : Edusp'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Cidade brasileira
+  type: book
+
 - id: mattoso:2000formacao
   author:
     - family: Mattoso
@@ -1804,6 +2393,35 @@ references:
   source: Open WorldCat
   title: África desde 1935
   type: book
+
+- id: meneses:1996morfologia
+  accessed:
+    - year: 2020
+      month: 4
+      day: 18
+  author:
+    - family: Meneses
+      given: Ulpiano T. Bezerra
+      dropping-particle: de
+  citation-key: meneses:1996morfologia
+  container-title: Revista <span class="smallcaps">USP</span>
+  container-title-short: Rev. USP
+  DOI: 10.11606/issn.2316-9036.v0i30p142-155
+  ISSN: 2316-9036, 0103-9989
+  issue: '30'
+  issued:
+    - year: 1996
+      month: 8
+      day: 30
+  language: pt
+  page: '142'
+  source: DOI.org (Crossref)
+  title: >-
+    Morfologia das cidades brasileiras: introdução ao estudo histórico da
+    iconografia urbana
+  title-short: Morfologia das cidades brasileiras
+  type: article-journal
+  URL: http://www.revistas.usp.br/revusp/article/view/25914
 
 - id: moffitt:2004islamic
   author:
@@ -1872,7 +2490,7 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Moderna (séculos <span smallcaps="smallcaps">XV–XVIII</span>)
+  title: Idade Moderna (séculos <span class="smallcaps">XV–XVIII</span>)
   type: chapter
 
 - id: moutinho:1995arquitectura
@@ -2017,8 +2635,25 @@ references:
   publisher: Unesco
   publisher-place: Brasília
   title: >-
-    África do século <span smallcaps="smallcaps">XVI</span> ao <span
-    smallcaps="smallcaps">XVIII</span>
+    África do século <span class="smallcaps">XVI</span> ao <span
+    class="smallcaps">XVIII</span>
+  type: book
+
+- id: oliveira:2020primeiros
+  author:
+    - family: Oliveira
+      given: João Pacheco
+      dropping-particle: de
+  citation-key: oliveira:2020primeiros
+  edition: '2'
+  event-place: Rio de Janeiro
+  ISBN: 978-85-7233-010-7
+  issued:
+    - year: 2020
+  language: pt-BR
+  publisher: 'Arquivo Nacional : Museu Nacional'
+  publisher-place: Rio de Janeiro
+  title: Os primeiros brasileiros
   type: book
 
 - id: orr:2018five
@@ -2040,6 +2675,23 @@ references:
   title: Five steps to super blocks
   type: webpage
   URL: https://www.cnu.org/publicsquare/2018/08/27/five-steps-super-blocks
+
+- id: ott:1947notas11
+  author:
+    - family: Ott
+      given: Carlos
+  citation-key: ott:1947notas11
+  container-title: Revista do Serviço do Patrimonio Historico e Artistico Nacional
+  issued:
+    - year: 1947
+  language: pt
+  page: 197–224
+  title: >-
+    Notas sôbre a procedência da arte de pintura na província da Bahia
+    (manuscrito da Biblioteca Nacional)
+  title-short: Notas sôbre a procedência da arte de pintura na província da Bahia
+  type: article-journal
+  volume: '11'
 
 - id: panerai:2006analise
   author:
@@ -2170,6 +2822,32 @@ references:
   title-short: Urban space and national identity in early twentieth century São Paulo
   type: book
 
+- id: pereira:1999arvores
+  author:
+    - family: Pereira
+      given: Magnus Roberto de Mello
+  citation-key: pereira:1999arvores
+  container-title: A cidade em debate
+  editor:
+    - family: Soller
+      given: Maria Angélica
+    - family: Matos
+      given: Maria Izilda Santos
+      dropping-particle: de
+  event-place: São Paulo
+  ISBN: 978-85-85428-41-9
+  issued:
+    - year: 1999
+  language: pt
+  page: 11-47
+  publisher: Olho d'Água
+  publisher-place: São Paulo
+  title: >-
+    De árvores e cidades: ou a difícil aceitação do verde nas cidades de
+    tradição portuguesa
+  title-short: De árvores e cidades
+  type: chapter
+
 - id: pereira:2005historiografiaXXXI
   accessed:
     - year: 2018
@@ -2189,13 +2867,58 @@ references:
   page: 143–154
   title: >-
     A historiografia da arquitetura brasileira no século <span
-    smallcaps="smallcaps">XIX</span> e os conceitos de estilo e tipologia
+    class="smallcaps">XIX</span> e os conceitos de estilo e tipologia
   title-short: >-
     A historiografia da arquitetura brasileira no século <span
-    smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XIX</span>
   type: article-journal
   URL: http://www.redalyc.org/html/1346/134618596009/
-  volume: <span smallcaps="smallcaps">XXXI</span>
+  volume: XXXI
+
+- id: pereira:2010henrique
+  author:
+    - family: Pereira
+      given: Sonia Gomes
+  citation-key: pereira:2010henrique
+  container-title: A encomenda. O artista. A obra
+  editor:
+    - family: Ferreira-Alves
+      given: Natália Marinho
+  event-place: Porto
+  ISBN: 978-989-8434-03-6
+  issued:
+    - year: 2010
+  language: pt
+  page: 547–556
+  publisher: Cepese
+  publisher-place: Porto
+  source: Open WorldCat
+  title: >-
+    Henrique José da Silva, um pintor português  na Academia Imperial de Belas
+    Artes do Rio de Janeiro
+  title-short: Henrique José da Silva
+  type: chapter
+
+- id: perouse:2001architecture
+  author:
+    - family: Pérouse de Montclos
+      given: Jean-Marie
+  citation-key: perouse:2001architecture
+  edition: '2'
+  event-place: Paris
+  ISBN: 978-2-7084-0960-6
+  issued:
+    - year: 2001
+  language: fr
+  publisher: Picard
+  publisher-place: Paris
+  source: Open WorldCat
+  title: >-
+    L'architecture à la française: du milieu du <span
+    class="smallcaps">XV</span>^e^ à la fin du <span
+    class="smallcaps">XVIII</span>^e^ siècle
+  title-short: L'architecture à la française
+  type: book
 
 - id: prous:2006brasil
   author:
@@ -2237,6 +2960,77 @@ references:
   title: História de Portugal
   type: book
 
+- id: raymond:2008process
+  abstract: >-
+    Village life had an early start in the lowlands of northwestern South
+    America, compared to most other areas of the New World. In western Ecuador
+    permanent settlements were firmly established by the late fourth millennium
+    BC. A little earlier, semi-sedentary communities developed in northern
+    Colombia. On the Pacific side of Panama sedentism lagged behind the other
+    two regions but signs of the beginnings of village life were evident by as
+    early as the middle of the third millennium BC. The ecological
+    configurations vary among each of these regions; however, each comprises a
+    lowland tropical environment, cut by rivers and bordered by the sea. In the
+    highlands of the northern Andes, the development of permanent villages was
+    delayed by two or three thousand years (Bruhns 2003; Correal Urrego 2000;
+    Lippi 2003; Raymond 1998). For each of these regions—western Ecuador,
+    northern Colombia, and Pacific Panama—archaeological sequences exist that
+    allow some insight into the social and economic conditions that existed
+    before and during the founding of sedentary communities. Here I first
+    examine each of these sequences and then attempt some comparisons between
+    the three. The character and detail of the archaeological and
+    palaeoenvironmental research vary among the three regions, which to some
+    extent limits the possibility of making valid comparisons.
+  accessed:
+    - year: 2022
+      month: 7
+      day: 6
+  author:
+    - family: Raymond
+      given: J. Scott
+  citation-key: raymond:2008process
+  container-title: The handbook of South American archaeology
+  DOI: 10.1007/978-0-387-74907-5_5
+  editor:
+    - family: Silverman
+      given: Helaine
+    - family: Isbell
+      given: William H.
+  event-place: New York
+  ISBN: 978-0-387-74907-5
+  issued:
+    - year: 2008
+  language: en
+  page: 79-90
+  publisher: Springer
+  publisher-place: New York
+  source: Springer Link
+  title: The process of sedentism in northwestern South America
+  type: chapter
+  URL: https://doi.org/10.1007/978-0-387-74907-5_5
+
+- id: reis:1964catalogo
+  abstract: >-
+    Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.
+    Departamento de História. Publicação
+  author:
+    - family: Reis Filho
+      given: Nestor Goulart
+    - family: Bruna
+      given: Paulo Júlio Valentino
+  call-number: NA9000 .S28 no.14
+  citation-key: reis:1964catalogo
+  collection-number: '14'
+  event-place: São Paulo
+  issued:
+    - year: 1964
+  language: pt
+  number-of-pages: '215'
+  publisher-place: São Paulo
+  source: dedalus.usp.br Library Catalog
+  title: Catálogo de iconografia das vilas e cidades do Brasil colonial, 1500-1720
+  type: book
+
 - id: reis:1983quadro
   author:
     - family: Reis Filho
@@ -2267,6 +3061,50 @@ references:
   source: Open WorldCat
   title: Contribuição ao estudo da evolução urbana do Brasil (1500–1720)
   type: book
+
+- id: rocha-peixoto:2000reflexos
+  author:
+    - family: Rocha-Peixoto
+      given: Gustavo
+  citation-key: rocha-peixoto:2000reflexos
+  event-place: São Paulo
+  issued:
+    - year: 2000
+  language: pt-BR
+  publisher: ProEditores
+  publisher-place: São Paulo
+  title: >-
+    Reflexos das luzes na terra do sol: sobre a teoria da arquitetura no Brasil
+    da Independência, 1808–1831
+  type: book
+
+- id: rossa:2006questoes
+  accessed:
+    - year: 2018
+      month: 11
+      day: 15
+  author:
+    - family: Rossa
+      given: Walter
+    - family: Trindade
+      given: Luísa
+  citation-key: rossa:2006questoes
+  container-title: 'Murphy : revista de história e teoria da arquitectura e do urbanismo'
+  container-title-short: Murphy
+  ISSN: 1646-3412
+  issue: '1'
+  issued:
+    - year: 2006
+  language: pt-PT
+  license: openAccess
+  page: 70-109
+  source: estudogeral.sib.uc.pt
+  title: >-
+    Questões e antecedentes da "Cidade Portuguesa": o conhecimento sobre o
+    urbanismo medieval e a sua expressão morfológica
+  title-short: Questões e antecedentes
+  type: article-journal
+  URL: https://estudogeral.sib.uc.pt/handle/10316/14351
 
 - id: sa:1979habitacao
   accessed:
@@ -2345,6 +3183,46 @@ references:
   title: A urbanização brasileira
   type: book
 
+- id: santos:2013arqueologia
+  abstract: >-
+    O trabalho aqui apresentado resulta em parte da dissertação de mestrado
+    subordinada ao tema “Arqueologia da Arquitectura. Perspectivas
+    metodológicas”, defendida na Universidade do Algarve (Portugal) em Fevereiro
+    de 2010. Pretende-se com este artigo, acima de tudo, contribuir para a
+    difusão, desenvolvimento e consolidação da Arqueologia da Arquitectura (AA),
+    uma disciplina com métodos próprios, cuja aplicação é cada vez mais
+    importante para o conhecimento do património edificado. Desta forma,
+    sistematizam-se aqui de forma concreta as linhas orientadoras da AA, seus
+    objectivos e métodos próprios, bem como os seus diferentes contextos de
+    actuação, culminando num modelo simples de aplicação do método a diferentes
+    casos.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Santos
+      given: Raquel
+  citation-key: santos:2013arqueologia
+  container-title: PARC Pesquisa em Arquitetura e Construção
+  DOI: 10.20396/parc.v4i1.8634554
+  ISSN: 1980-6809
+  issue: '1'
+  issued:
+    - year: 2013
+      month: 4
+      day: 30
+  language: pt
+  license: Copyright (c) 2018 PARC Pesquisa em Arquitetura e Construção
+  number: '1'
+  page: 5-14
+  source: periodicos.sbu.unicamp.br
+  title: 'Arqueologia da arquitectura: conceito e metodologia'
+  title-short: Arqueologia da arquitectura
+  type: article-journal
+  URL: https://periodicos.sbu.unicamp.br/ojs/index.php/parc/article/view/8634554
+  volume: '4'
+
 - id: santos:2013casas
   author:
     - family: Santos
@@ -2363,12 +3241,12 @@ references:
     - year: 2013
   language: pt-BR
   page: 51–68
-  publisher: Editora <span smallcaps="smallcaps">ufrj</span>
+  publisher: Editora <span class="smallcaps">ufrj</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: >-
     Casas de engenho do Rio de Janeiro — século <span
-    smallcaps="smallcaps">XVIII</span> — metodologia de estudo a partir de
+    class="smallcaps">XVIII</span> — metodologia de estudo a partir de
     múltiplas fontes
   title-short: Casas de engenho do Rio de Janeiro
   type: chapter
@@ -2406,6 +3284,36 @@ references:
   type: article-journal
   URL: https://bell.unochapeco.edu.br/revistas/index.php/rcc/article/view/2223
   volume: '17'
+
+- id: santos:2016reinstalling4
+  accessed:
+    - year: 2018
+      month: 11
+      day: 16
+  author:
+    - family: Santos
+      given: Joaquim Rodrigues
+  citation-key: santos:2016reinstalling4
+  container-title: Architectural Histories
+  DOI: 10.5334/ah.58
+  ISSN: 2050-5833
+  issue: '1'
+  issued:
+    - year: 2016
+      month: 6
+      day: 30
+  language: en
+  source: Crossref
+  title: >-
+    ‘Reinstalling the old city of Goa as an eternal light of portuguese
+    spirituality’: the plan for the reintegration of Old Goa at the end of the
+    colonial period
+  title-short: >-
+    ‘Reinstalling the old city of Goa as an eternal light of portuguese
+    spirituality’
+  type: article-journal
+  URL: http://journal.eahn.org/articles/10.5334/ah.58/
+  volume: '4'
 
 - id: schlee:2002arquitetos
   author:
@@ -2525,6 +3433,22 @@ references:
   type: book
   volume: '1'
 
+- id: soares:1997guarani
+  author:
+    - family: Soares
+      given: André Luis R.
+  citation-key: soares:1997guarani
+  event-place: Porto Alegre
+  issued:
+    - year: 1997
+  language: pt
+  publisher: EdiPUCRS
+  publisher-place: Porto Alegre
+  source: Open WorldCat
+  title: 'Guarani: organização social e arqueologia'
+  title-short: Guarani
+  type: book
+
 - id: sousa:2009idade
   author:
     - family: Sousa
@@ -2548,8 +3472,45 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Média (séculos <span smallcaps="smallcaps">XI–XV</span>)
+  title: Idade Média (séculos <span class="smallcaps">XI–XV</span>)
   type: chapter
+
+- id: soutto:2017casa17
+  abstract: >-
+    This work aims to investigate some assumptions for the study of the Opera
+    House of Vila Rica starting from the analysis of two letters sent by the
+    contractor João de Souza Lisboa in 1770, both of them found in the Public
+    Archive of Minas Gerais in Belo Horizonte. This documentation study can
+    provide elements to investigate the materials and idelogicals motives behind
+    the construction of the Opera House and information of organization and
+    theatrical mode of production of the theater that today, regarding all
+    existent buildings, is considered the oldest one in Latin America.
+  accessed:
+    - year: 2019
+      month: 5
+      day: 6
+  author:
+    - family: Soutto Mayor
+      given: Mariana
+  citation-key: soutto:2017casa17
+  container-title: Sala Preta
+  DOI: 10.11606/issn.2238-3867.v17i2p236-248
+  ISSN: 2238-3867, 1519-5279
+  issue: '2'
+  issued:
+    - year: 2017
+      month: 12
+      day: 26
+  language: pt
+  page: '236'
+  source: Crossref
+  title: >-
+    A Casa da Ópera de Vila Rica através do estudo de duas cartas de João de
+    Souza Lisboa
+  title-short: A Casa da Ópera de Vila Rica
+  type: article-journal
+  URL: https://www.revistas.usp.br/salapreta/article/view/138392
+  volume: '17'
 
 - id: souza:1916annaes
   accessed:
@@ -2595,6 +3556,21 @@ references:
   type: article-journal
   volume: '5'
 
+- id: tapie:1974barroco
+  author:
+    - family: Tapié
+      given: Victor Lucien
+  citation-key: tapie:1974barroco
+  event-place: 'Lisboa : São Paulo'
+  issued:
+    - year: 1974
+  language: pt
+  publisher: 'Presença : Martins Fontes'
+  publisher-place: 'Lisboa : São Paulo'
+  source: Open WorldCat
+  title: Barroco e classicismo
+  type: book
+
 - id: teixeira:2012forma
   author:
     - family: Teixeira
@@ -2610,6 +3586,37 @@ references:
   source: Open WorldCat
   title: A forma da cidade de origem portuguesa
   type: book
+
+- id: teixeira:2017identidade17
+  abstract: "Resumo\n\t\t\t\t\tUma das principais características do urbanismo de origem portuguesa consiste na adaptação do traçado às características morfológicas do sítio. Podemos observar as estratégias de desenho utilizadas para levar a cabo essa adaptação em múltiplas fundações urbanas, de várias épocas, quer em Portugal quer em territórios ultramarinos. Nos planos para a reconstrução de Lisboa, após o terramoto de 1755, encontramos diversas expressões da síntese da geometria, assumida como princípio regulador, com a adequação ao sítio e às preexistências. Planos subsequentes, dos séculos XIX e XX, mostram uma capacidade muito menor de o plano se articular harmoniosamente com o sítio. Os planos modernistas, a partir dos anos 1950 do século XX, completaram a rotura com a cultura urbana portuguesa. Embora atentos às condições ambientais, observa-se um distanciamento das lógicas de estruturação do território e das preexistências construídas. A identidade do urbanismo de origem portuguesa foi-se perdendo, tornando-se urgente levar a cabo uma reflexão crítica sobre o urbanismo tradicional português. Tal reflexão deve fundamentar quer a reabilitação dos tecidos urbanos históricos\_quer a concepção de novos espaços urbanos, renovando os laços com a nossa identidade cultural."
+  accessed:
+    - year: 2020
+      month: 9
+      day: 14
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  citation-key: teixeira:2017identidade17
+  container-title: Cadernos de Pós-Graduação em Arquitetura e Urbanismo
+  ISSN: 1809-4120
+  issue: '2'
+  issued:
+    - year: 2017
+      month: 12
+      day: 11
+  language: pt-BR
+  license: Copyright (c) 2017 Manuel C. Teixeira
+  number: '2'
+  page: 18-18
+  source: editorarevistas.mackenzie.br
+  title: >-
+    Identidade, continuidades e descontinuidades da cultura urbana portuguesa,
+    séculos <span class="smallcaps">XVIII–XX</span>
+  title-short: Identidade, continuidades e descontinuidades da cultura urbana portuguesa
+  type: article-journal
+  URL: >-
+    http://editorarevistas.mackenzie.br/index.php/cpgau/article/view/2017.2.Teixeira
+  volume: '17'
 
 - id: tengarrinha:2000historia
   citation-key: tengarrinha:2000historia
@@ -2907,6 +3914,59 @@ references:
   type: article-journal
   URL: http://journals.openedition.org/terrabrasilis/1981
 
+- id: vicente:2012antonio
+  author:
+    - family: Vicente
+      given: Mônica Farias M.
+  citation-key: vicente:2012antonio
+  container-title: O Barroco em Portugal e no Brasil
+  editor:
+    - family: Oliveira
+      given: Aurélio
+      dropping-particle: de
+    - family: Varanda
+      given: João
+    - family: Peixoto
+      given: José C.
+    - family: Gonçalves
+      given: Eduardo
+    - family: Pereira
+      given: Varico
+  event-place: Maia
+  ISBN: 978-972-9048-66-1
+  issued:
+    - year: 2012
+  language: pt-PT
+  page: 393–408
+  publisher: 'Ismai : Cedtur'
+  publisher-place: Maia
+  source: http://id.bnportugal.gov.pt/bib/bibnacional/1833404
+  title: >-
+    Antonio Simões Ribeiro, José Joaquim da Rocha e a Escola de pintura
+    quadraturística na Bahia: autoria e atribuições
+  type: chapter
+
+- id: vitruve:1684dix
+  author:
+    - literal: Vitruve
+  citation-key: vitruve:1684dix
+  edition: '2'
+  event-place: Paris
+  issued:
+    - year: 1684
+  language: fr
+  publisher: J. B. Coignard
+  publisher-place: Paris
+  source: Open WorldCat
+  title: >-
+    Les dix livres d’architecture de Vitruve, corrigez et traduits nouvellement
+    en françois, avec des notes & des figures
+  title-short: Dix livres d’architecture
+  translator:
+    - family: Perrault
+      given: Claude
+  type: book
+
 - id: vitruvio:2006tratado
   author:
     - literal: Vitrúvio
@@ -2915,7 +3975,7 @@ references:
   issued:
     - year: 2006
   language: pt
-  publisher: <span smallcaps="smallcaps">IST</span> Press
+  publisher: <span class="smallcaps">IST</span> Press
   publisher-place: Lisboa
   title: Tratado de arquitectura
   translator:

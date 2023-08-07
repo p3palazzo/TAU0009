@@ -2,9 +2,9 @@
 title: "Casa e loja"
 date: 2023-10-26
 header:
-  teaser:
-  overlay_image:
-  caption:
+  teaser: /assets/media/320px-br-pe-recife-r_cruz-schlappriz-carls-1863.jpg
+  overlay_image: /assets/media/br-pe-recife-r_cruz-schlappriz-carls-1863.jpg
+  caption: "Luís Schlappriz (desenho) e F. C. Carls (litografia), [Rua da Cruz](https://www.brasilianaiconografica.art.br/obras/18520/rua-da-cruz), Recife, 1863"
 excerpt: >
   Substrato mediterrâneo e europeu. Tipos e módulos das casas
   rurais e urbanas. Sua evolução convergente.
@@ -12,7 +12,7 @@ excerpt: >
 
 # Arqueologia do espaço doméstico rural e urbano #
 
-A metade do século XVIII  é o horizonte aproximado para boa
+A metade do século [XVIII]{.smallcaps}  é o horizonte aproximado para boa
 parte dos estudos sobre a morada luso-brasileira de extração
 vernácula, compreendendo a habitação rural e urbana do que
 se poderia chamar de "classes médias", mas também para
@@ -34,9 +34,9 @@ distribuições.
 
 A morada com escada externa, varanda e salões,
 originária do Norte de Portugal, já atestada em casas
-rurais remanescentes do século XVII e início do XVIII,
+rurais remanescentes do século [XVII]{.smallcaps} e início do [XVIII]{.smallcaps},
 continua a comparecer em fazendas da segunda metade do
-século XVIII.
+século [XVIII]{.smallcaps}.
 Concomitantemente, torna-se mais comum, na região saloia
 e além, a casa construída em alvenaria de tijolos com ou sem
 elementos em pedra, formada por quatro ou mais
@@ -50,7 +50,7 @@ As coberturas de quatro águas podem ser unitárias ou
 divididas em módulos retangulares [@caldas:1999casa].
 
 O processo de metropolização de Lisboa afigura-se já
-bastante adiantado em meados do século XVIII.
+bastante adiantado em meados do século [XVIII]{.smallcaps}.
 A tipologia da casa saloia apresenta-se, destarte, em
 algumas circunstâncias num contexto mais propriamente
 suburbano que rural, formado por pequenas quintas com
@@ -83,7 +83,7 @@ em casas térreas.
 No contexto urbano mais adensado, a enfiada de ambientes
 tende a adquirir aspecto linear e longitudinal, resultando
 na configuração do "sobrado esguio" portuense do século
-XVIII, de vocação burguesa e comercial
+[XVIII]{.smallcaps}, de vocação burguesa e comercial
 [@oliveira:1986casas], e na sua adaptação às condições
 análogas do Recife, sobretudo durante o século seguinte
 [@lemos:1996historia, p. 34--35].
@@ -120,7 +120,7 @@ aos espaços reservados para a família, nos fundos
 
 A tipologia alentejana torna-se hegemônica no tecido urbano
 brasileiro ao menos a partir do segundo quartel do século
-XVIII --- os indícios que dizem respeito à moradia urbana
+[XVIII]{.smallcaps} --- os indícios que dizem respeito à moradia urbana
 mais antiga sugerem uma preferência por enfiadas
 longitudinais, sem corredores [@santos:2013casas].
 A distribuição em plantas profundas com corredor central ou
