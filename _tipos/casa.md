@@ -1,5 +1,5 @@
 ---
-title: "Edilícia de base"
+title: "Casa e loja"
 date: 2023-10-26
 header:
   teaser:

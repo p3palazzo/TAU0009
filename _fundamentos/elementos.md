@@ -1,5 +1,5 @@
 ---
-title: "Elementos da arquitetura tradicional"
+title: "Elementos"
 date: 2023-10-05
 category: Fundamentos
 header:

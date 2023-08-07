@@ -1,6 +1,6 @@
 ---
 title: "Igrejas, capelas e ermidas"
-date: 2023-11-30
+date: 2023-11-23
 category: Linguagens
 header:
   teaser: /assets/media/320px-br-ba-ssa-piedade-victor_frond-louis_aubrun-1858.jpg

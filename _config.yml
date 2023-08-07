@@ -354,7 +354,7 @@ collections:
     permalink: /aula/:name/
     order:
       - substrato.md
-      - territorialidade.md
+      - territorio.md
       - pombalismo.md
       - elementos.md
   # _unidade 2
@@ -363,7 +363,7 @@ collections:
     output: true
     permalink: /aula/:name/
     order:
-      - base.md
+      - casa.md
       - nobre.md
       - patio.md
       - especial.md

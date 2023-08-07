@@ -1,6 +1,6 @@
 ---
 title: "Estilos nacionais"
-date: 2023-12-14
+date: 2023-12-07
 category: Linguagens
 header:
   teaser: /assets/media/320px-ranzini-estilos-colonial-pt-1929.jpg

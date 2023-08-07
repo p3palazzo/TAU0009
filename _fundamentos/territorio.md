@@ -1,5 +1,5 @@
 ---
-title: "Territorialidades"
+title: "Territórios"
 date: 2023-09-14
 category: Fundamentos
 header:

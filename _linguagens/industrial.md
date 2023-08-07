@@ -1,6 +1,6 @@
 ---
 title: "Industrialização"
-date: 2023-10-19
+date: 2023-12-14
 category: Linguagens
 header:
   teaser: /assets/media/320px-Antonio_Ferrigno-Beneficiamento-Museu_Paulista.jpg

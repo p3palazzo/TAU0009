@@ -1,5 +1,6 @@
 ---
-title         : "Programa e Cronograma"
+title         : 'Arquitetura e urbanismo'
+subtitle      : '<strike>no Brasil colônia e Império</strike> na tradição luso-brasileira'
 layout        : archive
 entries_layout: grid
 classes       : wide
@@ -10,35 +11,18 @@ header:
   overlay_image: "https://iiif-prod.nypl.org/index.php?id=54539&t=v"
   overlay_filter: 0.5
   caption: "Johann Moritz Rugendas, [Rua Direita no Rio de Janeiro](https://digitalcollections.nypl.org/items/510d47d9-7b85-a3d9-e040-e00a18064a99), 1835"
-tagline: |
-  Produção arquitetônica e processo de urbanização do
-  Descobrimento até fins do século
-  <span class="smallcaps">XIX</span>. Arquitetura indígena,
-  vernácula e dos imigrantes.
+excerpt: |
+  <dl>
+    <dt>Ementa</dt>
+    <dd>
+      Produção arquitetônica e processo de urbanização do
+      Descobrimento até fins do século
+      <span class="smallcaps">XIX</span>. Arquitetura indígena,
+      vernácula e dos imigrantes.
+    </dd>
+    <dt>Objetivo de aprendizagem</dt>
+    <dd></dd>
+  </dl>
 ---
 
-{% capture written_label %}'None'{% endcapture %}
-{% capture entries_layout %}{{ page.entries_layout }}{% endcapture %}
-
-{% assign collections = site.collections | sort: "unidade" %}
-{% for collection in collections %}
-{% unless collection.output == false or collection.label == "posts" %}
-  {% capture title %}{{ collection.label }}{% endcapture %}
-  <div class="taxonomy__section">
-    <section id="{{ label | slugify }}">
-      {% if label != written_label %}
-	<h2>{{ title | capitalize}}</h2>
-	{% capture written_label %}{{ label }}{% endcapture %}
-      {% endif %}
-      <div class="entries-{{ entries_layout }}">
-      {% for post in collection.docs %}
-	{% unless collection.output == false or collection.label == "posts" %}
-	  {% include archive-single.html type=entries_layout %}
-	{% endunless %}
-      {% endfor %}
-      </div>
-      <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-    </section>
-  </div>
-{% endunless %}
-{% endfor %}
+{% include collections-list.html %}

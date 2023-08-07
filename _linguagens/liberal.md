@@ -1,6 +1,6 @@
 ---
 title: "Classicismo imperial"
-date: 2023-12-07
+date: 2023-11-30
 category: Linguagens
 header:
   teaser: /assets/media/320px-br-rj-rj-paco-imperial-willmann-1867.jpg
