@@ -1,48 +1,5 @@
 ---
 references:
-- id: abreu:1995caso
-  author:
-    - family: Abreu
-      given: Martha
-  citation-key: abreu:1995caso
-  container-title: 'Resgate: uma janela para o oitocentos'
-  editor:
-    - family: Castro
-      given: Hebe Maria Mattos
-      dropping-particle: de
-    - family: Schnoor
-      given: Eduardo
-  event-place: Rio de Janeiro
-  issued:
-    - year: 1995
-  language: pt-BR
-  page: 165–195
-  publisher: Topbooks
-  publisher-place: Rio de Janeiro
-  title: O caso do Bracuhy
-  type: chapter
-
-- id: ajayi:2010africa
-  author:
-    - family: Ajayi
-      given: J.F. Ade
-  citation-key: ajayi:2010africa
-  collection-number: '6'
-  collection-title: História geral da África
-  edition: '2'
-  event-place: Brasília
-  ISBN: >-
-    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
-    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
-  issued:
-    - year: 2010
-  language: pt-BR
-  publisher: Unesco
-  publisher-place: Brasília
-  source: Open WorldCat
-  title: África do século <span class="smallcaps">XIX</span> à década de 1880
-  type: book
-
 - id: alarcao:1988dominio
   author:
     - family: Alarcão
@@ -62,6 +19,34 @@ references:
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: O domínio romano em Portugal
   type: book
+
+- id: aldrovandi:2011monumentalidade
+  abstract: "Resumo\n\t\t\t\t\tESTE ARTIGO ANALISA ALGUNS ASPECTOS DO HIBRIDISMO INDO-PORTUGUÊS PRESENTES NA ARTE E NA ARQUITETURA SAGRADA E SECULAR, SOB A ÓTICA DE UM DISCURSO MONUMENTAL HEGEMÔNICO ENGENDRADO PELO COLONIALISMO PORTUGUÊS EM TERRITÓRIO INDIANO."
+  accessed:
+    - year: 2020
+      month: 9
+      day: 14
+  author:
+    - family: Aldrovandi
+      given: Cibele E. V.
+  citation-key: aldrovandi:2011monumentalidade
+  container-title: Via Atlântica
+  DOI: 10.11606/va.v0i19.50773
+  ISSN: 2317-8086
+  issue: '19'
+  issued:
+    - year: 2011
+      month: 6
+      day: 30
+  language: pt
+  page: 149-164
+  source: www.periodicos.usp.br
+  title: >-
+    Monumentalidade e hibridismo indo-português: discursos visuais talhados em
+    pedra, madeira e marfim
+  title-short: Monumentalidade e hibridismo indo-português
+  type: article-journal
+  URL: http://www.periodicos.usp.br/viaatlantica/article/view/50773
 
 - id: alencastro:1997historia
   abstract: >-
@@ -107,6 +92,105 @@ references:
   title: 'Arquitectura neocolonial: América Latina, Caribe, Estados Unidos'
   title-short: Arquitectura neocolonial
   type: book
+
+- id: anacleto:1994neomanuelino
+  author:
+    - family: Anacleto
+      given: Regina
+  call-number: NA1327 .N46 1994
+  citation-key: anacleto:1994neomanuelino
+  event-place: Lisboa
+  ISBN: 978-972-95871-5-3
+  issued:
+    - year: 1994
+  language: pt
+  number-of-pages: '278'
+  publisher: >-
+    Comissão Nacional para as Comemorações dos Descobrimentos Portugueses :
+    Instituto Português do Património Arquitectónico e Arqueológico
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'O Neomanuelino: ou a reinvenção da arquitectura dos descobrimentos'
+  title-short: O Neomanuelino
+  type: book
+
+- id: aragao:2017ensaio
+  accessed:
+    - year: 2023
+      month: 6
+      day: 14
+  author:
+    - family: Aragão
+      given: Solange
+      dropping-particle: de
+  citation-key: aragao:2017ensaio
+  event-place: São Paulo
+  ISBN: 978-85-8039-178-7
+  issued:
+    - year: 2017
+  language: pt-BR
+  publisher: Blucher
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Ensaio sobre a casa brasileira do século <span
+    class="smallcaps">XIX</span>
+  type: book
+  URL: >-
+    https://openaccess.blucher.com.br/article-list/ensaio-sobre-a-casa-brasileira-do-seculo-xix-324/list
+
+- id: araujo:2003razao
+  abstract: >-
+    Em Setembro de 1751, chegava a Belém o irmão do marquês de Pombal, Francisco
+    Xavier de Mendonça Furtado. Vinha como governador da Capitania do Grão-Pará
+    e como Plenipotenciário das Demarcações. Vinha também imbuído de um projecto
+    "reformador" da região.
+
+
+    No campo da actuação política e económica a reforma fundamentou-se em três
+    peças-chave: A Lei da Liberdade dos Índios e a instituição da Companhia
+    Geral de Comércio do Grão Pará e Maranhão, ambas de 1755 e o Directório do
+    Índios, que viria ser confirmado pelo Rei em 1758. Estas medidas serão as
+    bases em que se vai sustentar a administração de Mendonça Furtado que
+    pretendia, literalmente, redesenhar a Amazónia
+
+
+    Com efeito, na base de toda a acção pombalina da Amazónia está a ideia de um
+    novo "desenho". Desenho este que pode ser lido nos vários sentidos da
+    palavra, uma vez que implicava não só a fixação de fronteiras concretamente
+    demarcadas no espaço, como também visava um outro desígnio, o da
+    transformação do quadro sócio-económico da região, que assim seria
+    "redesenhada" em moldes iluministas.
+
+
+    O processo, que designamos por "Reforma Urbana" da Amazónia, implicou num
+    "renascimento", que não foi apenas simbólico, de praticamente todas as
+    povoações da região. As vilas foram novamente baptizadas e na maior parte
+    dos casos foram redesenhadas para que, com a sua própria forma racional e
+    clara expressassem os valores ideológicos da Reforma. 
+
+
+    Para a execução deste "discurso da forma" foram uma vez mais convocados os
+    homens que já há muito faziam a "escola portuguesa de arquitectura e
+    urbanismo" e de que Pombal sabiamente fez uso, quer no Reino, quer na
+    colónia.
+  author:
+    - family: Araujo
+      given: Renata Malcher
+      dropping-particle: de
+  call-number: 711.034.8(811.7)
+  citation-key: araujo:2003razao
+  container-title: Camões
+  issue: 15–16
+  issued:
+    - literal: jan.–jun. 2003
+  language: pt-PT
+  page: 151–165
+  title: 'A razão na selva: Pombal e a reforma urbana da Amazónia'
+  title-short: A razão na selva
+  type: article-journal
+  URL: >-
+    http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html
 
 - id: araujo:2016logica10
   abstract: >-
@@ -205,6 +289,62 @@ references:
     http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142016000100257&lng=en&nrm=iso&tlng=pt
   volume: '24'
 
+- id: assumpcao:1915diccionario
+  abstract: '52'
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Assumpção
+      given: Tomaz Lino
+      dropping-particle: d'
+  call-number: AED-8897
+  citation-key: assumpcao:1915diccionario
+  contributor:
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1915
+  language: pt
+  number-of-pages: '216'
+  publisher: 'Bertrand : José Bastos'
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Diccionario dos termos d'architectura: suas definições e noções historicas:
+    com um indice remissivo dos termos correspondentes em francez
+  title-short: Diccionario dos termos d'architectura
+  type: book
+  URL: http://archive.org/details/diccionariodoste00assu
+
+- id: bastos:2012urbanismo20
+  accessed:
+    - year: 2018
+      month: 5
+      day: 14
+  author:
+    - family: Bastos
+      given: Rodrigo Almeida
+  citation-key: bastos:2012urbanismo20
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  DOI: 10.1590/S0101-47142012000100008
+  ISSN: 0101-4714
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 6
+  language: pt-BR
+  page: 201-230
+  source: SciELO
+  title: >-
+    O urbanismo conveniente luso-brasileiro na formação de povoações em Minas
+    Gerais no século <span class="smallcaps">XVIII</span>
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142012000100008&lng=en&nrm=iso&tlng=pt
+  volume: '20'
+
 - id: bazin:1983arquitetura
   author:
     - family: Bazin
@@ -227,52 +367,6 @@ references:
     - family: Nunes
       given: Glória Lúcia
   type: book
-
-- id: bazin:1983arquiteturaa
-  author:
-    - family: Bazin
-      given: Germain
-  call-number: NA5353 .B317 1983
-  citation-key: bazin:1983arquiteturaa
-  contributor:
-    - family: Barata
-      given: Mário
-  event-place: Rio de Janeiro
-  issued:
-    - year: 1983
-  language: pt-BR
-  publisher: Record
-  publisher-place: Rio de Janeiro
-  source: dedalus.usp.br Library Catalog
-  title: A arquitetura religiosa barroca no Brasil
-  translator:
-    - family: Nunes
-      given: Glória Lúcia
-  type: book
-  volume: '1'
-
-- id: bazin:1983arquiteturab
-  author:
-    - family: Bazin
-      given: Germain
-  call-number: NA5353 .B317 1983
-  citation-key: bazin:1983arquiteturab
-  contributor:
-    - family: Barata
-      given: Mário
-  event-place: Rio de Janeiro
-  issued:
-    - year: 1983
-  language: pt-BR
-  publisher: Record
-  publisher-place: Rio de Janeiro
-  source: dedalus.usp.br Library Catalog
-  title: A arquitetura religiosa barroca no Brasil
-  translator:
-    - family: Nunes
-      given: Glória Lúcia
-  type: book
-  volume: '2'
 
 - id: bazin:2010barroco
   author:
@@ -337,6 +431,30 @@ references:
   title-short: História da terra e do homem no Planalto Central
   type: book
 
+- id: bezerra:2003conforto
+  abstract: 'Orientador: Paulo Sergio Scarazzato'
+  accessed:
+    - year: 2020
+      month: 5
+      day: 13
+  author:
+    - family: Bezerra
+      given: Ines Maria Torres de Oliveira
+  citation-key: bezerra:2003conforto
+  event-place: Campinas
+  genre: Dissertação (Mestrado em Engenharia Civil)
+  issued:
+    - year: 2003
+  language: pt-BR
+  publisher: '[s.n.]'
+  publisher-place: Campinas
+  source: repositorio.unicamp.br
+  title: >-
+    Conforto ambiental no processo de reutilização de edifócios históricos
+    tombados
+  type: thesis
+  URL: http://repositorio.unicamp.br/jspui/handle/REPOSIP/258612
+
 - id: bianca:2000urban
   author:
     - family: Bianca
@@ -356,6 +474,26 @@ references:
   source: Library of Congress ISBN
   title: 'Urban form in the Arab world: past and present'
   title-short: Urban form in the Arab world
+  type: book
+
+- id: bicca:2007arquitetura
+  author:
+    - family: Bicca
+      given: Briane Elisabeth Panitz
+    - family: Bicca
+      given: Paulo Renato Silveira
+    - family: Telles
+      given: Augusto Carlos da Silva
+  citation-key: bicca:2007arquitetura
+  event-place: Brasília
+  ISBN: 978-85-7652-065-8
+  issued:
+    - year: 2007
+  language: pt-BR
+  publisher: '<span class="smallcaps">unesco</span> : Caixa Econômica Federal'
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Arquitetura na formação do Brasil
   type: book
 
 - id: binford:1982archaeology
@@ -431,25 +569,41 @@ references:
   type: book
   URL: http://www.e-rara.ch/zut/2783140
 
-- id: boahen:2010africa
-  citation-key: boahen:2010africa
-  collection-number: '7'
-  collection-title: História geral da África
-  edition: '2'
-  editor:
-    - family: Boahen
-      given: Albert Adu
+- id: bonduki:2012intervencoes
+  author:
+    - family: Bonduki
+      given: Nabil Georges
+  call-number: HT178.B7 B765 2012
+  citation-key: bonduki:2012intervencoes
+  collection-number: '3'
+  collection-title: Monumenta
   event-place: Brasília
-  ISBN: >-
-    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
-    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
+  ISBN: 978-85-7334-180-5
   issued:
-    - year: 2010
+    - year: 2012
   language: pt
-  publisher: Unesco
+  number-of-pages: '375'
+  publisher: Iphan
   publisher-place: Brasília
+  source: Library of Congress ISBN
+  title: Intervenções urbanas na recuperação de centros históricos
+  type: book
+
+- id: braga:2003conservacao
+  author:
+    - family: Braga
+      given: Márcia
+  citation-key: braga:2003conservacao
+  event-place: Rio de Janeiro
+  ISBN: 978-85-7579-047-2
+  issued:
+    - year: 2003
+  language: pt-BR
+  publisher: 'Universidade Estácio de Sá : Editora Rio'
+  publisher-place: Rio de Janeiro
   source: Open WorldCat
-  title: África sob dominação colonial, 1880-1935
+  title: 'Conservação e restauro: arquitetura brasileira'
+  title-short: Conservação e restauro
   type: book
 
 - id: brescia:2011teatros
@@ -504,6 +658,80 @@ references:
   publisher-place: São Paulo
   source: Open WorldCat
   title: Arquitetura contemporânea no Brasil
+  type: book
+
+- id: bueno:2011desenho
+  author:
+    - family: Bueno
+      given: Beatriz Piccolotto Siqueira
+  call-number: NA497.B73 B84 2011
+  citation-key: bueno:2011desenho
+  event-place: São Paulo
+  ISBN: 978-85-314-1284-4
+  issued:
+    - year: 2011
+  language: pt
+  number-of-pages: '352'
+  publisher: '<span class="smallcaps">FAPESP</span> : Edusp'
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: 'Desenho e desígnio: o Brasil dos engenheiros militares (1500-1822)'
+  title-short: Desenho e desígnio
+  type: book
+
+- id: bueno:2012sistema20
+  abstract: >-
+    O texto versa sobre o papel dos mestres-construtores na produção da
+    arquitetura nas vilas e cidades coloniais brasileiras, focalizando o sistema
+    de empreitada em etapas e o papel dos riscos e traças na concepção,
+    execução, louvação e prestação de contas das edificações. Questiona a ideia
+    de autoria única, apontando atores e assinaturas múltiplas. Analisa os
+    conhecimentos necessários, especialmente relacionados à geometria prática,
+    discutindo a relação dialética entre teoria e prática, e as fronteiras
+    tênues entre erudição e costume.
+              , 
+                This paper analyzes the role of master-builders in the practice of architecture in Brazil's colonial towns and cities,with its focus on the method of contracting by stages, and the role of sketches and outlines when designing, erecting and valuing buildings, and for rendering accounts. The notion of a single author is critically examined and the paper points to multiple actors and signatures, analyzes the knowledge required --of practical geometry in particular-- and discusses the dialectical relationship between theory and practice, as well as the tenuous boundaries between erudition and custom.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 22
+  author:
+    - family: Bueno
+      given: Beatriz Piccolotto Siqueira
+  citation-key: bueno:2012sistema20
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  container-title-short: An. mus. paul.
+  DOI: 10.1590/S0101-47142012000100011
+  ISSN: 0101-4714
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 6
+  language: pt-BR
+  page: 321-361
+  source: DOI.org (Crossref)
+  title: >-
+    Sistema de produção da arquitetura na cidade colonial brasileira: mestres de
+    ofício, "riscos" e "traças"
+  title-short: Sistema de produção da arquitetura na cidade colonial brasileira
+  type: article-journal
+  URL: http://ref.scielo.org/dh349c
+  volume: '20'
+
+- id: bury:1991arquitetura
+  author:
+    - family: Bury
+      given: John
+  citation-key: bury:1991arquitetura
+  event-place: São Paulo
+  ISBN: 85-213-0613-X 978-85-213-0613-9
+  issued:
+    - year: 1991
+  language: pt
+  publisher: Nobel
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Arquitetura e arte no Brasil colonial
   type: book
 
 - id: caja:2020tools
@@ -582,6 +810,30 @@ references:
     class="smallcaps">XVIII</span>
   type: book
 
+- id: caldas:2000arquitectura
+  archive_location: 728.6 (469.9)
+  call-number: NA1329.A96 A76 2000
+  citation-key: caldas:2000arquitectura
+  contributor:
+    - family: Fernandes
+      given: José Manuel
+    - family: Tostões
+      given: Ana
+  editor:
+    - family: Caldas
+      given: João Vieira
+  event-place: Lisboa
+  ISBN: 978-972-97668-1-7
+  issued:
+    - year: 2000
+  language: pt
+  number-of-pages: '560'
+  publisher: Ordem dos Arquitectos
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Arquitectura popular dos Açores
+  type: book
+
 - id: caldas:2014predio
   author:
     - family: Caldas
@@ -603,6 +855,56 @@ references:
   source: Zotero
   title: O prédio de rendimento joanino
   type: article-journal
+
+- id: caldas:2021construcao12
+  accessed:
+    - year: 2021
+      month: 7
+      day: 29
+  archive_location: 'Brazil: Contemporary'
+  author:
+    - family: Caldas
+      given: Lucas Rosse
+    - family: Martins
+      given: Adriana Paiva de Souza
+    - family: Filho
+      given: Romildo Dias Toledo
+  citation-key: caldas:2021construcao12
+  container-title: PARC Pesquisa em Arquitetura e Construção
+  DOI: 10.20396/parc.v12i00.8656279
+  ISSN: 1980-6809
+  issued:
+    - year: 2021
+      month: 7
+      day: 6
+  language: pt
+  license: Copyright (c) 2021 PARC Pesquisa em Arquitetura e Construção
+  page: e021015-e021015
+  source: periodicos.sbu.unicamp.br
+  title: 'Construção com terra no Brasil: avaliação ambiental da taipa de pilão'
+  title-short: Construção com terra no Brasil
+  type: article-journal
+  URL: https://periodicos.sbu.unicamp.br/ojs/index.php/parc/article/view/8656279
+  volume: '12'
+
+- id: campello:2001brilho
+  author:
+    - family: Campello
+      given: Glauco de Oliveira
+  citation-key: campello:2001brilho
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87220-37-0
+  issued:
+    - year: 2001
+  language: pt-BR
+  publisher: 'Casa da Palavra : Departamento Nacional do Livro'
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: >-
+    O brilho da simplicidade: dois estudos sobre arquitetura religiosa no Brasil
+    colonial
+  title-short: O brilho da simplicidade
+  type: book
 
 - id: campos:2005manoel
   author:
@@ -757,6 +1059,43 @@ references:
   publisher-place: Firenze
   source: Google Books
   title: Lettura dell'edilizia di base
+  type: book
+
+- id: capitel:2005arquitectura
+  author:
+    - family: Capitel
+      given: Antón
+  call-number: NA8375 .C37 2005
+  citation-key: capitel:2005arquitectura
+  event-place: Barcelona
+  ISBN: 978-84-252-2006-7
+  issued:
+    - year: 2005
+  language: es
+  number-of-pages: '199'
+  publisher: Editorial Gustavo Gili
+  publisher-place: Barcelona
+  source: Library of Congress ISBN
+  title: La arquitectura del patio
+  type: book
+
+- id: cardeira:2013castelos
+  author:
+    - family: Cardeira da Silva
+      given: Maria
+  citation-key: cardeira:2013castelos
+  event-place: Lisbao
+  ISBN: 978-989-97179-1-6
+  issued:
+    - year: 2013
+  language: pt
+  publisher: Centro em Rede de Investigação em Antropologia (CRIA)
+  publisher-place: Lisbao
+  source: Open WorldCat
+  title: >-
+    Castelos a Bombordo: etnografias de patrimónios africanos e memórias
+    portuguesas
+  title-short: Castelos a Bombordo
   type: book
 
 - id: cardinalpett:2016history
@@ -988,6 +1327,48 @@ references:
     arquitectura hispanoamericana : Manifiesto de la Alhambra
   type: book
 
+- id: clasby:2021archaeology
+  abstract: >-
+    "This volume brings together archaeologists working in Ecuador, Peru, and
+    Bolivia to construct a new prehistory of the upper Amazon, outlining
+    cultural developments from the late third millennium B.C. to the Inca Empire
+    of the sixteenth century A.D"--
+  call-number: F2519.1.A6 A73 2021
+  citation-key: clasby:2021archaeology
+  editor:
+    - family: Clasby
+      given: Ryan
+    - family: Nesbitt
+      given: Jason
+  event-place: Gainesville
+  ISBN: 978-0-8130-6690-5
+  issued:
+    - year: 2021
+  language: en
+  publisher: University Press of Florida
+  publisher-place: Gainesville
+  source: Library of Congress ISBN
+  title: >-
+    The archaeology of the Upper Amazon: complexity and interaction in the
+    Andean tropical forest
+  title-short: The archaeology of the Upper Amazon
+  type: book
+
+- id: coelho:2007arquitetura
+  author:
+    - family: Coelho
+      given: Gustavo Neiva
+  call-number: 72.034.6(817)
+  citation-key: coelho:2007arquitetura
+  event-place: Goiânia
+  issued:
+    - year: 2007
+  language: pt
+  publisher: Trilhas Urbanas
+  publisher-place: Goiânia
+  title: Arquitetura da mineração em Goiás
+  type: book
+
 - id: coelho:2014tempo
   citation-key: coelho:2014tempo
   collection-number: '2'
@@ -1031,6 +1412,48 @@ references:
   title: Os tempos da cidade. Uma metamorfose imperfeita
   title-short: Os tempos da cidade
   type: chapter
+
+- id: corona:2017dicionario
+  abstract: >-
+    Originalmente publicado em fascículos na revista Acrópole, o DICIONÁRIO DA
+    ARQUITETURA BRASILEIRA de Carlos Lemos e Eduardo Corona foi lançado na forma
+    de livro em 1973, com edição esgotada no mesmo ano. O Dicionário foi de
+    grande importância não só para os profissionais da área e estudantes mas
+    também para a história da editoria brasileira: até hoje é o primeiro
+    dicionário especializado em arquitetura brasileira, fruto de uma extensa
+    pesquisa por parte de seus realizadores. Um volume imprescindível para todos
+    os que quiserem falar de arquitetura com propriedade! A cada página o
+    dicionário traz diversos termos divertidos e inesperados, e o leitor poderá
+    constatar que Baraúna não é apenas loja de móveis, Bastião não é apelido de
+    Sebastião, Capote nem sempre é roupa de inverno, Escócia pode ser outra
+    coisa além de país do Reino Unido ou Oitão não é um oito grande!
+  author:
+    - family: Corona
+      given: Eduardo
+    - family: Lemos
+      given: Carlos
+  citation-key: corona:2017dicionario
+  collection-number: '3'
+  collection-title: <span class="smallcaps">RG</span> Facsimile
+  contributor:
+    - family: Santos
+      given: Silvana Romano
+  edition: 2ª edição
+  editor:
+    - family: Guerra
+      given: Abilio
+  event-place: São Paulo
+  ISBN: 978-85-88585-69-0
+  issued:
+    - year: 2017
+      month: 1
+      day: 1
+  language: pt
+  publisher: Romano Guerra
+  publisher-place: São Paulo
+  source: Amazon
+  title: Dicionário da arquitetura brasileira
+  type: book
 
 - id: corsi:2010changing
   call-number: HT114 .C45 2010
@@ -1086,90 +1509,20 @@ references:
   title-short: Ammaia
   type: book
 
-- id: costa:2006arquitetura
-  accessed:
-    - year: 2014
-      month: 11
-      day: 11
+- id: costa:1952arquitetura
   author:
     - family: Costa
-      given: Lucio
-  call-number: 724(81)
-  citation-key: costa:2006arquitetura
+      given: Lúcio
+  citation-key: costa:1952arquitetura
   event-place: Rio de Janeiro
-  ISBN: 978-85-03-00728-3
   issued:
-    - year: 2006
+    - year: 1952
   language: pt-BR
-  publisher: José Olympio
+  publisher: Ministério da Educação e Saúde
   publisher-place: Rio de Janeiro
-  title: Arquitetura
+  source: Open WorldCat
+  title: Arquitetura brasileira
   type: book
-  URL: https://www.academia.edu/7945231/48696093_24973569_arquitetura_lucio_costa_1
-
-- id: costa:2007aleijadinho
-  author:
-    - family: Costa
-      given: Lucio
-  citation-key: costa:2007aleijadinho
-  container-title: Sôbre arquitetura
-  event-place: Porto Alegre
-  issued:
-    - year: 2007
-  language: pt-BR
-  page: 12–16
-  publisher: Editora UniRitter
-  publisher-place: Porto Alegre
-  title: O Aleijadinho e a arquitetura tradicional
-  type: chapter
-
-- id: costa:2007consideracoes
-  author:
-    - family: Costa
-      given: Lucio
-  citation-key: costa:2007consideracoes
-  container-title: Sôbre arquitetura
-  event-place: Porto Alegre
-  issued:
-    - year: 2007
-  language: pt-BR
-  page: 111–117
-  publisher: Editora UniRitter
-  publisher-place: Porto Alegre
-  title: Considerações sôbre o ensino da arquitetura
-  type: chapter
-
-- id: costa:2007documentacao
-  author:
-    - family: Costa
-      given: Lucio
-  citation-key: costa:2007documentacao
-  container-title: Sôbre arquitetura
-  event-place: Porto Alegre
-  issued:
-    - year: 2007
-  language: pt-BR
-  page: 86-94
-  publisher: Editora UniRitter
-  publisher-place: Porto Alegre
-  title: Documentação necessária
-  type: chapter
-
-- id: costa:2007razoes
-  author:
-    - family: Costa
-      given: Lucio
-  citation-key: costa:2007razoes
-  container-title: Sôbre arquitetura
-  event-place: Porto Alegre
-  issued:
-    - year: 2007
-  language: pt-BR
-  page: 17–41
-  publisher: Editora UniRitter
-  publisher-place: Porto Alegre
-  title: Razões da nova arquitetura
-  type: chapter
 
 - id: costa:2007sobre
   author:
@@ -1326,6 +1679,71 @@ references:
   type: book
   URL: http://archive.org/details/histriadosnd00cunh
 
+- id: dalambert:1994tijolo
+  author:
+    - family: Alambert
+      given: Clara Correia
+      non-dropping-particle: d'
+  citation-key: dalambert:1994tijolo
+  contributor:
+    - family: Lemos
+      given: Carlos Alberto Cerqueira
+  event-place: São Paulo
+  genre: Dissertação (Mestrado em Arquitetura e Urbanismo)
+  issued:
+    - year: 1994
+  language: pt-BR
+  publisher: Universidade de São Paulo
+  publisher-place: São Paulo
+  title: >-
+    Tijolo nas construções paulistanas do século <span
+    class="smallcaps">XIX</span>
+  type: thesis
+
+- id: davico:2010flexibilidade
+  abstract: >-
+    Entender como a arquitectura foi concebida, projectada, executada e fruída
+    ajuda-nos a compreender o seu potencial na solução dos problemas actuais e
+    futuros associados às mudanças tecnológicas, sociais e económicas. Neste
+    artigo analisa-se o conceito de flexibilidade funcional e construtiva na
+    arquitectura tradicional portuguesa comparando esta com outros exemplos
+    internacionais. A prática arquitectónica contemporânea evidencia como os
+    conceitos de flexibilidade e de adaptabilidade são fundamentais na evolução
+    do espaço da habitação, centrando a investigação numa arquitectura modular
+    que seja ao mesmo tempo sustentável e inovadora.  A ideia de uma habitação
+    que se adapte facilmente às mudanças do estilo de vida é muito antiga,
+    podendo remeter-se às origens dos primeiros abrigos humanos.  Das mais
+    remotas eras da pré-historia até aos nossos dias, o homem procurou quaisquer
+    refúgios para se proteger contra os rigores do clima e das intempéries e
+    contra o terror da noite e por ventura por gentes hostis. Esses refúgios ou
+    abrigos apresentavam-se sob formas diversas, conforme as condições do
+    ambiente natural, e os recursos ou materiais que este fornece.  O estádio
+    mais aperfeiçoado das habitações primitivas ocorreu quando as construções
+    adquiriram a forma de planta rectangular; evoluindo para formas compostas e
+    ganhou maior dimensão, compartimentação interior, postigos e janelas. É a
+    partir deste estádio que começam a surgir as Habitações tradicionais e a
+    definir, duma forma mais relevante, diferenças tipológicas.
+  accessed:
+    - year: 2021
+      month: 9
+      day: 16
+  author:
+    - family: Davico
+      given: Alex
+    - family: Mendonça
+      given: Paulo
+  citation-key: davico:2010flexibilidade
+  container-title: Academias de Ensino de Arquitetura de Língua Portuguesa
+  issued:
+    - year: 2010
+      month: 4
+  language: pt
+  license: openAccess
+  source: repositorium.sdum.uminho.pt
+  title: A flexibilidade na arquitectura tradicional
+  type: paper-conference
+  URL: http://repositorium.sdum.uminho.pt/
+
 - id: deupi:2015architectural
   abstract: >-
     "Architectural Temperance examines relations between Bourbon Spain and papal
@@ -1359,28 +1777,6 @@ references:
   title-short: Architectural temperance
   type: book
 
-- id: diane:2010
-  call-number: 960"11/15"
-  citation-key: diane:2010
-  collection-number: '4'
-  collection-title: História Geral da África
-  edition: '2'
-  editor:
-    - family: Diane
-      given: Djibril Tasmir
-  event-place: Brasília
-  ISBN: 978-85-7652-126-6
-  issued:
-    - year: 2010
-  language: pt
-  publisher: Unesco
-  publisher-place: Brasília
-  source: Open WorldCat
-  title: >-
-    África do Século <span class="smallcaps">XII</span> ao <span
-    class="smallcaps">XVI</span>
-  type: book
-
 - id: etlin:1978dedans
   abstract: >-
     No period of architecture demonstrates more clearly than the mid-eighteenth
@@ -1408,30 +1804,19 @@ references:
   URL: >-
     http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home
 
-- id: fasi:2010africa
-  citation-key: fasi:2010africa
-  collection-number: '3'
-  collection-title: História geral da África
-  edition: '2'
+- id: fabris:1987ecletismo
+  citation-key: fabris:1987ecletismo
   editor:
-    - family: Fasi
-      given: Mohammed
-      non-dropping-particle: el
-    - family: Hrbek
-      given: I.
-  event-place: Brasília
-  ISBN: >-
-    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
-    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
+    - family: Fabris
+      given: Annateresa
+  event-place: São Paulo
   issued:
-    - year: 2010
+    - year: 1987
   language: pt-BR
-  publisher: Unesco
-  publisher-place: Brasília
-  source: Open WorldCat
-  title: >-
-    África do século <span class="smallcaps">VII</span> ao <span
-    class="smallcaps">XI</span>
+  number-of-pages: '296'
+  publisher: 'Nobel : Edusp'
+  publisher-place: São Paulo
+  title: Ecletismo na arquitetura brasileira
   type: book
 
 - id: fausto:2010indios
@@ -1485,6 +1870,23 @@ references:
   URL: >-
     http://cienciaecultura.bvs.br/scielo.php?script=sci_abstract&pid=S0009-67252004000200015&lng=en&nrm=iso&tlng=pt
   volume: '56'
+
+- id: fernandes:2006arquitectura
+  author:
+    - family: Fernandes
+      given: José Manuel
+  citation-key: fernandes:2006arquitectura
+  event-place: Lisboa
+  ISBN: 978-972-27-1488-4
+  issued:
+    - year: 2006
+  language: pt
+  publisher: Imprensa nacional-Casa da Moeda
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: 'Arquitectura portuguesa: uma síntese'
+  title-short: Arquitectura portuguesa
+  type: book
 
 - id: fernandes:2014fundacao
   author:
@@ -1566,6 +1968,64 @@ references:
   title-short: Morfologia urbana em diferentes contextos territoriais
   type: paper-conference
   URL: https://sigarra.up.pt/fmup/pt/pub_geral.pub_view?pi_pub_base_id=96325
+
+- id: figueiredo:2011caracterizacao
+  abstract: >-
+    The architectural heritage of the historical city centre of São Luís of
+    Maranhão, located in the northeast region of Brazil, has approximately 5,600
+    registered buildings, out of which 1,400 were included in the UNESCO
+    World-Heritage List in December 1997. The architectural heritage of 18th and
+    19th centuries is made up of sobrados (ground storey for commercial and
+    upper storeys for residential use), solares (constructions with
+    distinguished ﬁnishing, exclusively for residential use by privileged
+    families) and single-storey constructions where poorer families used to
+    live. Different construction systems can be found in the same building of
+    the historical city centre. It is common to have structural walls made of
+    stone masonry with lime mortar (in rare cases made of adobe) and interior
+    partition walls made of pau-a-pique (also called taipa de mão), cruz de
+    Santo André (resembling the gaiola pombalina style) and tabique. Therefore,
+    in the majority of the internal partition walls earth-based masonry is
+    found, which, in many interventions, was replaced by contemporary
+    techniques. This article discusses the earth based masonry typologies found
+    in the buildings from the 18th and 19th centuries in the historical centre
+    of São Luís belonging to the registered areas at federal and state level. It
+    characterizes the different typologies of the earth-based masonries,
+    analysing the historical, cultural and socio-economic period when they were
+    used in the region. It is designed to contribute to the scientiﬁc and
+    technological knowledge of the earth-based masonry systems used in São Luís
+    in the 18th and 19th centuries and thus to the preservation and
+    rehabilitation of its heritage.
+  accessed:
+    - year: 2021
+      month: 1
+      day: 20
+  author:
+    - family: Figueiredo
+      given: Margareth
+    - family: Varum
+      given: Humberto
+    - family: Costa
+      given: Aníbal
+  citation-key: figueiredo:2011caracterizacao
+  container-title: Arquitetura Revista
+  container-title-short: arq
+  DOI: 10.4013/arq.2011.71.08
+  ISSN: '18085741'
+  issue: '1'
+  issued:
+    - year: 2011
+      month: 6
+      day: 30
+  language: pt
+  page: 81-93
+  source: DOI.org (Crossref)
+  title: >-
+    Caracterização das técnicas construtivas em terra edificadas no século <span
+    class="smallcaps">XVIII</span> e <span class="smallcaps">XIX</span>
+    no centro histórico de São Luís (MA, Brasil)
+  type: article-journal
+  URL: http://revistas.unisinos.br/index.php/arquitetura/article/view/1280
+  volume: '7'
 
 - id: finger:2014seculo
   abstract: >-
@@ -1715,32 +2175,6 @@ references:
   title: O pombalismo e o romantismo
   type: book
 
-- id: freyre:2001
-  author:
-    - family: Freyre
-      given: Gilberto
-  call-number: '981'
-  citation-key: freyre:2001
-  editor:
-    - family: Días
-      given: Cícero
-    - family: Montenegro
-      given: Antônio
-  event-place: Rio de Janeiro
-  ISBN: 85-01-05664-2 978-85-01-05664-1
-  issued:
-    - year: 2001
-  language: Portuguese
-  publisher: Record
-  publisher-place: Rio de Janeiro
-  source: Open WorldCat
-  title: >-
-    Casa-grande & senzala: introdução à história da sociedade patriarcal no
-    Brasil
-  title-short: Casa-grande & senzala
-  type: book
-  volume: '1'
-
 - id: freyre:2003casagrande
   author:
     - family: Freyre
@@ -1781,47 +2215,6 @@ references:
   publisher-place: Rio de Janeiro
   title: A arquitetura dos engenhos
   type: chapter
-
-- id: gonzaga:2001cantos
-  author:
-    - family: Gonzaga Duque
-      given: Luís
-  citation-key: gonzaga:2001cantos
-  container-title: Impressões de um amador. Textos esparsos de crítica (1882–1909)
-  event-place: 'Belo Horizonte : Rio de Janeiro'
-  issued:
-    - year: 2001
-  language: pt-BR
-  publisher: >-
-    Editora <span class="smallcaps">UFMG</span> : Fundação Casa de Rui
-    Barbosa
-  publisher-place: 'Belo Horizonte : Rio de Janeiro'
-  title: Cantos de arte na cidade
-  type: chapter
-
-- id: gonzaga:2001impressoes
-  author:
-    - family: Gonzaga Duque
-      given: Luís
-  citation-key: gonzaga:2001impressoes
-  editor:
-    - family: Guimarães
-      given: Júlio Castañon
-    - family: Lins
-      given: Vera
-  event-place: Belo Horizonte; Rio de Janeiro
-  ISBN: 85-7041-272-X 978-85-7041-272-0
-  issued:
-    - year: 2001
-  language: pt-BR
-  publisher: >-
-    Editora <span class="smallcaps">UFMG</span> : Fundação Casa de Rui
-    Barbosa
-  publisher-place: Belo Horizonte; Rio de Janeiro
-  source: Open WorldCat
-  title: 'Impressões de um amador: textos esparsos de crítica, 1882-1909'
-  title-short: Impressões de um amador
-  type: book
 
 - id: gonzagaduque:1995arte
   author:
@@ -1872,6 +2265,87 @@ references:
   title-short: Brazil builds
   type: book
   URL: https://www.moma.org/calendar/exhibitions/2304
+
+- id: graeber:2021dawn
+  abstract: >-
+    "A trailblazing account of human history, challenging our most fundamental
+    assumptions about social evolution-from the development of agriculture and
+    cities to the emergence of "the state," political violence, and social
+    inequality-and revealing new possibilities for human emancipation"--
+  author:
+    - family: Graeber
+      given: David
+    - family: Wengrow
+      given: D.
+  call-number: CB19 .G69 2021
+  citation-key: graeber:2021dawn
+  edition: First American edition
+  event-place: New York
+  ISBN: 978-0-374-15735-7
+  issued:
+    - year: 2021
+  language: en
+  publisher: Farrar, Straus and Giroux
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: 'The dawn of everything: a new history of humanity'
+  title-short: The dawn of everything
+  type: book
+
+- id: graeber:2022despertar
+  abstract: >-
+    Neste clássico instantâneo e best-seller internacional, David Graeber e
+    David Wengrow propõem uma nova versão de nossa história ― do desenvolvimento
+    da agricultura e das cidades às origens do Estado, da democracia e da
+    desigualdade.Durante séculos, nossos ancestrais foram considerados
+    primitivos e infantis, sendo divididos em duas categorias: iguais, livres e
+    inocentes ou guerreiros e brutais. Com base no pensamento de Jean-Jacques
+    Rousseau e de Thomas Hobbes, a ideia que perdurou ao longo dos anos foi a de
+    que só poderíamos alcançar a civilização sacrificando essas liberdades ou
+    domesticando nossos instintos mais básicos.Neste livro revolucionário, o
+    antropólogo David Graeber e o arqueólogo David Wengrow demonstram como essas
+    teorias que emergiram no século XVIII foram uma reação à crítica feita por
+    povos indígenas à sociedade europeia ― e por que elas estão erradas. Ao
+    oferecer essa nova perspectiva, os autores questionam tudo o que conhecemos
+    sobre as origens da agricultura, da propriedade, das cidades, da democracia,
+    da escravidão e da própria civilização, iluminando outras formas de
+    liberdade e organização social e nos convidando a imaginar qual futuro
+    desejamos para nós mesmos.“Um banquete intelectual. Não há um único capítulo
+    que não questione (com bom humor) crenças intelectuais estabelecidas.” ―
+    Nassim Nicholas Taleb“Esta obra nos apresenta um mundo habitado por pessoas
+    inteligentes, criativas e complexas que, por milhares de anos, inventaram
+    quase todas as formas de organização social e buscaram liberdade,
+    conhecimento, experimentação e felicidade muito antes do ‘iluminismo’.” ―
+    Robin D. G. Kelley“Um fio condutor poderoso deste livro é a retomada das
+    perspectivas indígenas como influência fundamental no pensamento europeu,
+    uma contribuição valiosa para a decolonização das histórias globais.” ―
+    Rebecca Solnit
+  author:
+    - family: Graeber
+      given: David
+    - family: Wengrow
+      given: David
+  citation-key: graeber:2022despertar
+  edition: 1ª edição
+  event-place: São Paulo
+  ISBN: '9786559211722'
+  issued:
+    - year: 2022
+      month: 8
+      day: 5
+  language: pt
+  number-of-pages: '696'
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Amazon
+  title: 'O despertar de tudo: uma nova história da humanidade'
+  title-short: O despertar de tudo
+  translator:
+    - family: Marcondes
+      given: Claudio
+    - family: Bottmann
+      given: Denise
+  type: book
 
 - id: hakim:2010arabicislamic
   author:
@@ -1995,23 +2469,88 @@ references:
   title: Ciência, civilização e império nos trópicos
   type: book
 
-- id: herzog:2015frontiers
-  author:
-    - family: Herzog
-      given: Tamar
-  call-number: DP84 .H47 2015
-  citation-key: herzog:2015frontiers
-  event-place: Cambridge, Mass.
-  ISBN: 978-0-674-73538-5
+- id: hoffler:2003tradicao
+  citation-key: hoffler:2003tradicao
+  collection-number: '1'
+  collection-title: In foco
+  editor:
+    - family: Höffler
+      given: Angelica
+  event-place: Santo André
+  ISBN: 978-85-88847-35-4
   issued:
-    - year: 2015
-  language: en-US
-  number-of-pages: '384'
-  publisher: Harvard University Press
-  publisher-place: Cambridge, Mass.
+    - year: 2003
+  language: pt
+  number-of-pages: '144'
+  publisher: UniABC
+  publisher-place: Santo André
+  source: K10plus ISBN
+  title: >-
+    Tradição e modernidade na primeira metade do século <span
+    class="smallcaps">XX:</span> sociedade, educação e arte
+  title-short: Tradição e modernidade
+  type: book
+
+- id: holanda:1971semeador
+  author:
+    - family: Holanda
+      given: Sérgio Buarque
+      dropping-particle: de
+  call-number: 94(81)
+  citation-key: holanda:1971semeador
+  container-title: Raízes do Brasil, 1936-1971
+  edition: '6'
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1971
+  language: pt-BR
+  page: 61–83
+  publisher: José Olympio
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: O semeador e o ladrilhador
+  type: chapter
+
+- id: holanda:1995raizes
+  author:
+    - family: Holanda
+      given: Sérgio Buarque
+      dropping-particle: de
+  call-number: 94(81)
+  citation-key: holanda:1995raizes
+  edition: '26'
+  event-place: São Paulo
+  ISBN: 85-7164-448-9 978-85-7164-448-9
+  issued:
+    - year: 1995
+  language: pt
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Raízes do Brasil
+  type: book
+
+- id: juca:2012vilas
+  call-number: HT384.B6 V55 2012
+  citation-key: juca:2012vilas
+  editor:
+    - family: Jucá Neto
+      given: Clovis Ramiro
+    - family: Moura Filha
+      given: Maria Berthilde
+  event-place: João Pessoa
+  ISBN: 978-85-237-0562-6
+  issued:
+    - year: 2012
+  language: pt-BR
+  number-of-pages: '179'
+  publisher: <span class="smallcaps">UFPB/ PPGAU</span>
+  publisher-place: João Pessoa
   source: Library of Congress ISBN
-  title: 'Frontiers of possession: Spain and Portugal in Europe and the Americas'
-  title-short: Frontiers of possession
+  title: >-
+    Vilas, cidades e territórios: o Brasil do século <span
+    class="smallcaps">XVIII</span>
+  title-short: Vilas, cidades e territórios
   type: book
 
 - id: kamayura:2019manual
@@ -2067,25 +2606,21 @@ references:
   title-short: El antiguo Egipto
   type: book
 
-- id: kizerbo:2010metodologia
-  citation-key: kizerbo:2010metodologia
-  collection-number: '1'
-  collection-title: História Geral da África
-  edition: '2'
-  editor:
-    - family: Ki-Zerbo
-      given: Joseph
+- id: kluppel:2005manual
+  author:
+    - family: Klüppel
+      given: Griselda Pinheiro
+    - family: Santana
+      given: Mariely Cabral
+      dropping-particle: de
+  citation-key: kluppel:2005manual
   event-place: Brasília
-  ISBN: >-
-    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
-    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
   issued:
-    - year: 2010
+    - year: 2005
   language: pt-BR
-  publisher: Unesco
+  publisher: Iphan
   publisher-place: Brasília
-  source: Open WorldCat
-  title: Metodologia e pré-história da África
+  title: Manual de conservação preventiva para edificações
   type: book
 
 - id: krier:2009architecture
@@ -2175,6 +2710,24 @@ references:
     cabocla
   title-short: A Comissão Científica de Exploração
   type: chapter
+
+- id: leal:1977restauracao
+  author:
+    - family: Leal
+      given: Fernando Machado
+  citation-key: leal:1977restauracao
+  event-place: Recife
+  issued:
+    - year: 1977
+  language: pt-BR
+  publisher: Universidade Federal de Pernambuco
+  publisher-place: Recife
+  source: Open WorldCat
+  title: >-
+    Restauração e conservação de monumentos brasileiros: subsídios para o seu
+    estudo
+  title-short: Restauração e conservação de monumentos brasileiros
+  type: book
 
 - id: lefaivre:2012architecture
   author:
@@ -2286,6 +2839,27 @@ references:
   publisher-place: São Paulo
   source: Open WorldCat
   title: Arquitetura brasileira
+  type: book
+
+- id: lemos:1982arte
+  author:
+    - family: Lemos
+      given: Carlos Alberto Cerqueira
+    - family: Civita
+      given: Victor
+    - family: Leite
+      given: José Roberto Teixeira
+    - family: Jover
+      given: Ana Maria
+  citation-key: lemos:1982arte
+  event-place: São Paulo
+  issued:
+    - year: 1982
+  language: pt-BR
+  publisher: Abril
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Arte no Brasil
   type: book
 
 - id: lemos:1989alvenaria
@@ -2408,6 +2982,94 @@ references:
   type: book
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
+- id: lopes:1886india
+  abstract: '26'
+  accessed:
+    - year: 2023
+      month: 8
+      day: 9
+  author:
+    - family: Lopes Mendes
+      given: António
+  call-number: ABM-8640
+  citation-key: lopes:1886india
+  contributor:
+    - literal: Sociedade de Geografia de Lisboa
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1886
+  language: pt
+  number-of-pages: '508'
+  publisher: Imprensa Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    A India portugueza: breve descripção das possessões portuguezas na Asia,
+    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
+  title-short: A India portugueza
+  type: book
+  URL: http://archive.org/details/indiaportuguezab01lopeuoft
+  volume: '1'
+
+- id: lopes:1886indiaa
+  abstract: 26 45 52
+  accessed:
+    - year: 2023
+      month: 8
+      day: 9
+  author:
+    - family: Lopes Mendes
+      given: António
+  call-number: ABM-8640
+  citation-key: lopes:1886indiaa
+  contributor:
+    - literal: Sociedade de Geografia de Lisboa
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1886
+  language: pt
+  number-of-pages: '494'
+  publisher: Imprensa Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    A India portugueza: breve descripção das possessões portuguezas na Asia,
+    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
+  title-short: A India portugueza
+  type: book
+  URL: http://archive.org/details/indiaportuguezab02lope
+  volume: '2'
+
+- id: lopes:1886indiab
+  abstract: 26 45 52
+  accessed:
+    - year: 2023
+      month: 8
+      day: 9
+  author:
+    - family: Lopes Mendes
+      given: António
+  call-number: ABM-8640
+  citation-key: lopes:1886indiab
+  contributor:
+    - literal: Sociedade de Geografia de Lisboa
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1886
+  language: pt
+  number-of-volumes: '2'
+  publisher: Imprensa Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    A India portugueza: breve descripção das possessões portuguezas na Asia,
+    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
+  title-short: A India portugueza
+  type: book
+
 - id: lopes:2014ocupacao
   abstract: >-
     Nesta dissertação apresentamos um amplo quadro da ocupação indígena
@@ -2468,6 +3130,65 @@ references:
   source: Library of Congress ISBN
   title: 'Alhambras: arquitectura neoárabe en Latinoamérica'
   title-short: Alhambras
+  type: book
+
+- id: lyra:2016preservacao
+  author:
+    - family: Lyra
+      given: Cyro Corrêa
+  citation-key: lyra:2016preservacao
+  event-place: Brasília
+  ISBN: 978-85-7334-287-1
+  issued:
+    - year: 2016
+  language: pt-BR
+  number-of-pages: '311'
+  publisher: IPHAN
+  publisher-place: Brasília
+  source: Library of Congress ISBN
+  title: 'Preservação do patrimônio edificado: a questão do uso'
+  title-short: Preservação do patrimônio edificado
+  type: book
+
+- id: machado:2003barroco
+  author:
+    - family: Machado
+      given: Lourival Gomes
+  citation-key: machado:2003barroco
+  contributor:
+    - family: Iglésias
+      given: Francisco
+  edition: '4'
+  event-place: São Paulo
+  ISBN: 978-85-273-0359-0
+  issued:
+    - year: 2003
+  language: pt
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Barroco mineiro
+  type: book
+
+- id: machado:2020tecnoindia
+  citation-key: machado:2020tecnoindia
+  editor:
+    - family: Machado
+      given: Maria Fátima Roberto
+    - family: Portocarrero
+      given: José Afonso Botura
+    - family: Silva
+      given: Dorcas Florentino de Araújo
+  event-place: Cuiabá
+  ISBN: 978-65-86328-09-7
+  issued:
+    - year: 2020
+  language: pt-BR
+  publisher: Entrelinhas
+  publisher-place: Cuiabá
+  source: Zotero
+  title: 'Tecnoíndia: Arquitetura, antropologia e tecnologias indígenas em Mato Grosso'
+  title-short: Tecnoíndia
   type: book
 
 - id: malta:2013casas
@@ -2621,6 +3342,48 @@ references:
   title: Cidade brasileira
   type: book
 
+- id: mascarenhas:2015arquitectura
+  author:
+    - family: Mascarenhas
+      given: Jorge
+  call-number: MLCM 2017/43058 (T)
+  citation-key: mascarenhas:2015arquitectura
+  collection-number: <span class="smallcaps">XV</span>
+  collection-title: Sistemas de construção
+  event-place: Lisboa
+  ISBN: 978-972-24-1796-9
+  issued:
+    - year: 2015
+  language: pt
+  number-of-pages: '233'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Arquitectura popular portuguesa
+  title-short: Sistemas de construção
+  type: book
+
+- id: mateus:2002tecnicas
+  author:
+    - family: Mateus
+      given: João Mascarenhas
+  call-number: MLCM 2006/40626 (T)
+  citation-key: mateus:2002tecnicas
+  event-place: Lisboa
+  ISBN: 978-972-24-1234-6
+  issued:
+    - year: 2002
+  language: pt
+  number-of-pages: '430'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    Técnicas tradicionais de construção de alvenarias: a literatura técnica de
+    1750 a 1900 e o seu contributo para a conservação de edifícos históricos
+  title-short: Técnicas tradicionais de construção de alvenarias
+  type: book
+
 - id: mattoso:2000formacao
   author:
     - family: Mattoso
@@ -2642,27 +3405,26 @@ references:
   title: A formação da nacionalidade
   type: chapter
 
-- id: mazrui:2010africa
-  citation-key: mazrui:2010africa
-  collection-number: '8'
-  collection-title: História geral da África
-  edition: '2'
+- id: mattoso:2010patrimonio
+  call-number: NA1502 .P38 2010
+  citation-key: mattoso:2010patrimonio
+  collection-number: Ásia
   editor:
-    - family: Mazrui
-      given: Ali A.
-    - family: Wondji
-      given: Christophe
-  event-place: Brasília
-  ISBN: >-
-    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
-    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
+    - family: Mattoso
+      given: José
+    - family: Rossa
+      given: Walter
+  event-place: Lisboa
+  ISBN: 978-989-95758-5-1
   issued:
     - year: 2010
-  language: pt-BR
-  publisher: Unesco
-  publisher-place: Brasília
-  source: Open WorldCat
-  title: África desde 1935
+  language: pt
+  number-of-pages: '554'
+  publisher: Fundação Calouste Gulbenkian
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Património de origem portuguesa no mundo: arquitectura e urbanismo'
+  title-short: Património de origem portuguesa no mundo
   type: book
 
 - id: meneses:1996morfologia
@@ -2694,6 +3456,70 @@ references:
   type: article-journal
   URL: http://www.revistas.usp.br/revusp/article/view/25914
 
+- id: menezes:1986fortificacoes
+  author:
+    - family: Menezes
+      given: José Luiz da Mota
+  call-number: UG426.B6 M46 1986
+  citation-key: menezes:1986fortificacoes
+  contributor:
+    - family: Rodrigues
+      given: Maria do Rosário Rosa
+  event-place: Recife
+  ISBN: 978-85-7010-016-0
+  issued:
+    - year: 1986
+  language: pt
+  number-of-pages: '157'
+  publisher: Pool Editorial
+  publisher-place: Recife
+  source: dedalus.usp.br Library Catalog
+  title: >-
+    Fortificações portuguesas no Nordeste do Brasil: séculos <span
+    class="smallcaps">XVI, XVII</span> e <span
+    class="smallcaps">XVIII</span>
+  title-short: Fortificações portuguesas no Nordeste
+  type: book
+
+- id: menezes:2019materiais
+  citation-key: menezes:2019materiais
+  editor:
+    - family: Menezes
+      given: Marluci
+    - family: Silva
+      given: António Santos
+  event-place: Lisboa
+  ISBN: 978-972-49-2311-6
+  issued:
+    - year: 2019
+  language: pt-PT
+  number-of-pages: '292'
+  publisher: Laboratório Nacional de Engenharia Civil
+  publisher-place: Lisboa
+  title: 'Materiais históricos: entre tradição e inovação'
+  title-short: Materiais históricos
+  type: book
+
+- id: minke:2015manual
+  author:
+    - family: Minke
+      given: Gernot
+  citation-key: minke:2015manual
+  event-place: São Paulo
+  ISBN: 978-85-65358-84-2
+  issued:
+    - year: 2015
+  language: pt-BR
+  publisher: B4
+  publisher-place: São Paulo
+  source: K10plus ISBN
+  title: 'Manual de construção com terra: uma arquitetura sustentável'
+  title-short: Manual de construção com terra
+  translator:
+    - family: Simões
+      given: Jorge
+  type: book
+
 - id: moffitt:2004islamic
   author:
     - family: Moffitt
@@ -2717,52 +3543,6 @@ references:
     techniques of Neo-Mudéjar architecture
   title-short: The Islamic design module in Latin America
   type: book
-
-- id: mokhtar:2010africa
-  citation-key: mokhtar:2010africa
-  collection-number: '2'
-  collection-title: História geral da África
-  edition: '2'
-  editor:
-    - family: Mokhtar
-      given: Gamal
-  event-place: Brasília
-  ISBN: >-
-    978-85-7652-123-5 978-85-7652-124-2 978-85-7652-125-9 978-85-7652-126-6
-    978-85-7652-127-3 978-85-7652-128-0 978-85-7652-129-7 978-85-7652-130-3
-  issued:
-    - year: 2010
-  language: pt-BR
-  publisher: Unesco
-  publisher-place: Brasília
-  source: Open WorldCat
-  title: África antiga
-  type: book
-
-- id: monteiro:2009idade
-  author:
-    - family: Monteiro
-      given: Nuno Gonçalves
-  citation-key: monteiro:2009idade
-  container-title: História de Portugal
-  editor:
-    - family: Ramos
-      given: Rui
-    - family: Monteiro
-      given: Nuno Gonçalves
-    - family: Sousa
-      given: Bernardo Vasconcelos
-      dropping-particle: e
-  event-place: 'Lisboa : Paço de Arcos'
-  issued:
-    - year: 2009
-  language: pt
-  page: 394–850
-  publisher: 'Esfera : Expresso'
-  publisher-place: 'Lisboa : Paço de Arcos'
-  source: Open WorldCat
-  title: Idade Moderna (séculos <span class="smallcaps">XV–XVIII</span>)
-  type: chapter
 
 - id: moutinho:1995arquitectura
   author:
@@ -2865,6 +3645,22 @@ references:
   type: thesis
   URL: https://sapientia.ualg.pt/handle/10400.1/5049
 
+- id: neves:arquitetura
+  citation-key: neves:arquitetura
+  editor:
+    - family: Neves
+      given: Célia
+    - family: Maranho
+      given: Milena Fernandes
+    - family: Lelis
+      given: Natália
+    - family: Faria
+      given: Obede Borges
+  language: pt
+  source: Zotero
+  title: Arquitetura e construção com terra no Brasil
+  type: book
+
 - id: novais:1997historia
   abstract: >-
     "Excellent essays by top scholars (F. Novais, L. de Mello e Souza, L. Mezan
@@ -2887,27 +3683,6 @@ references:
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: História da vida privada no Brasil
-  type: book
-
-- id: ogot:2010africa
-  call-number: 960"15/17"
-  citation-key: ogot:2010africa
-  collection-number: '5'
-  collection-title: História Geral da África
-  edition: '2'
-  editor:
-    - family: Ogot
-      given: Bethwell Alan
-  event-place: Brasília
-  ISBN: 978-85-7652-127-3
-  issued:
-    - year: 2010
-  language: pt-BR
-  publisher: Unesco
-  publisher-place: Brasília
-  title: >-
-    África do século <span class="smallcaps">XVI</span> ao <span
-    class="smallcaps">XVIII</span>
   type: book
 
 - id: oliveira:1986casas
@@ -2957,6 +3732,56 @@ references:
     http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142001000100003&lng=pt&nrm=iso&tlng=pt
   volume: 8-9
 
+- id: oliveira:2011tecnologiaa
+  accessed:
+    - year: 2017
+      month: 5
+      day: 5
+  author:
+    - family: Oliveira
+      given: Mário Mendonça
+      dropping-particle: de
+  citation-key: oliveira:2011tecnologiaa
+  event-place: Salvador
+  ISBN: 978-85-232-0923-0 978-85-232-0772-4
+  issued:
+    - year: 2011
+  language: pt-BR
+  publisher: EdUFBA
+  publisher-place: Salvador
+  source: Open WorldCat
+  title: >-
+    Tecnologia da conservação e da restauração: materiais e estruturas : um
+    roteiro de estudos
+  title-short: Tecnologia da conservação e da restauração
+  type: book
+  URL: http://books.scielo.org/id/k8tdh
+
+- id: oliveira:2012barroco
+  citation-key: oliveira:2012barroco
+  editor:
+    - family: Oliveira
+      given: Aurélio
+      dropping-particle: de
+    - family: Varanda
+      given: João
+    - family: Peixoto
+      given: José C.
+    - family: Gonçalves
+      given: Eduardo
+    - family: Pereira
+      given: Varico
+  event-place: Maia
+  ISBN: 978-972-9048-66-1
+  issued:
+    - year: 2012
+  language: pt-PT
+  publisher: 'Ismai : Cedtur'
+  publisher-place: Maia
+  source: http://id.bnportugal.gov.pt/bib/bibnacional/1833404
+  title: O Barroco em Portugal e no Brasil
+  type: book
+
 - id: oliveira:2020primeiros
   author:
     - family: Oliveira
@@ -2973,6 +3798,43 @@ references:
   publisher-place: Rio de Janeiro
   title: Os primeiros brasileiros
   type: book
+
+- id: oosthuizen:2013truth34
+  abstract: >-
+    The paper explores, through the case study of March, a large town in the
+    northern part of the Cambridgeshire peat fens, the general invariability of
+    interpretation as planned markets of new medieval settlements that include
+    both regular plots and one or more geometric open spaces. It asks whether
+    manorial lords might achieve similar ends to those derived from medieval
+    market grants — an increase in income from rents and tolls — by applying
+    lessons learned from commercial planned settlements in other economic
+    contexts.
+  accessed:
+    - year: 2020
+      month: 9
+      day: 17
+  author:
+    - family: Oosthuizen
+      given: Susan
+  citation-key: oosthuizen:2013truth34
+  container-title: Landscape History
+  container-title-short: Landscape History
+  DOI: 10.1080/01433768.2013.797197
+  ISSN: 0143-3768, 2160-2506
+  issue: '1'
+  issued:
+    - year: 2013
+      month: 5
+  language: en
+  page: 51-80
+  source: DOI.org (Crossref)
+  title: >-
+    A ‘truth universally acknowledged’? Morphology as an indicator of Medieval
+    planned market towns
+  title-short: A ‘truth universally acknowledged’?
+  type: article-journal
+  URL: http://www.tandfonline.com/doi/abs/10.1080/01433768.2013.797197
+  volume: '34'
 
 - id: orr:2018five
   abstract: Designing a sophisticated city, one block at a time.
@@ -3011,26 +3873,6 @@ references:
   type: article-journal
   volume: '11'
 
-- id: panerai:2006analise
-  author:
-    - family: Panerai
-      given: Philippe
-  call-number: '718.04'
-  citation-key: panerai:2006analise
-  event-place: Brasília
-  ISBN: 978-85-230-0923-6
-  issued:
-    - year: 2006
-  language: pt-BR
-  publisher: Editora UnB
-  publisher-place: Brasília
-  source: Open WorldCat
-  title: Análise urbana
-  translator:
-    - family: Leitão
-      given: Francisco
-  type: book
-
 - id: paquette:2013imperial
   abstract: >-
     "As the British, French and Spanish Atlantic empires were torn apart in the
@@ -3065,6 +3907,51 @@ references:
     world, c. 1770-1850
   title-short: Imperial Portugal in the age of Atlantic revolutions
   type: book
+
+- id: pareto:2016pandegos
+  abstract: >-
+    Esta pesquisa tem por objetivo problematizar a formação dos campos da
+    engenharia e da arquitetura, na cidade de São Paulo, a partir da perspectiva
+    e da intensa atuação dos construtores não diplomados. Principais agentes da
+    construção civil e doméstica da cidade, na passagem do século XIX para o XX,
+    os chamados não diplomados não só continuaram atuando após a regulamentação
+    da profissão em 1933, como tiveram importante participação na constituição
+    do mercado de trabalho, no prestígio profissional e nos mecanismos de
+    consagração de duas das mais importantes profissões da sociedade
+    contemporânea. No entanto, por conta de sua paulatina exclusão profissional
+    e de seu esquecimento historiográfico, ainda são interpretados como menores
+    na história da arquitetura e do urbanismo. Não obstante, pela quantidade e
+    pela qualidade do que produziram, suas trajetórias trazem à baila uma cidade
+    produzida por centenas de sujeitos de múltiplas nacionalidades e práticas
+    construtivas distintas. Portanto, não se trata apenas de narrar como e por
+    que o movimento corporativo de engenheiros e arquitetos diplomados
+    paulatinamente excluiu os profissionais sem diploma, mas perceber a
+    historicidade da formação dos campos profissionais a partir de uma estreita
+    relação entre os licenciados e os diplomados, evidenciando assim um círculo
+    de distinção que não dependeu apenas da lógica do diploma.
+  accessed:
+    - year: 2019
+      month: 9
+      day: 21
+  author:
+    - family: Pareto Junior
+      given: Lindener
+  citation-key: pareto:2016pandegos
+  DOI: 10.11606/T.16.2017.tde-19122016-181951
+  genre: text
+  issued:
+    - year: 2016
+      month: 5
+      day: 25
+  language: pt-BR
+  publisher: Universidade de São Paulo
+  source: www.teses.usp.br
+  title: >-
+    Pândegos, rábulas, gamelas: os construtores não diplomados entre a
+    engenharia e a arquitetura (1890-1960)
+  title-short: Pândegos, rábulas, gamelas
+  type: thesis
+  URL: http://www.teses.usp.br/teses/disponiveis/16/16133/tde-19122016-181951/
 
 - id: peel:2016christianity
   abstract: >-
@@ -3217,6 +4104,26 @@ references:
   title-short: Henrique José da Silva
   type: chapter
 
+- id: pereira:2022arquitetura
+  author:
+    - family: Pereira
+      given: Paulo
+  call-number: NA1321 .P47 2022
+  citation-key: pereira:2022arquitetura
+  edition: 1a. edição
+  event-place: Lisboa
+  ISBN: 978-989-644-649-9
+  issued:
+    - year: 2022
+  language: pt
+  number-of-pages: '632'
+  publisher: Temas e Debates, Círculo de Leitores
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Arquitetura portuguesa: história essencial'
+  title-short: Arquitetura portuguesa
+  type: book
+
 - id: perouse:2001architecture
   author:
     - family: Pérouse de Montclos
@@ -3237,6 +4144,124 @@ references:
     class="smallcaps">XVIII</span>^e^ siècle
   title-short: L'architecture à la française
   type: book
+
+- id: pinheiro:2012neocolonial
+  author:
+    - family: Pinheiro
+      given: Maria Lúcia Bressan
+  call-number: 72.035.9+72.025(817.4)
+  citation-key: pinheiro:2012neocolonial
+  event-place: São Paulo
+  ISBN: 978-85-314-1304-9 85-314-1304-4
+  issued:
+    - year: 2012
+  language: pt-BR
+  publisher: EdUSP
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Neocolonial, modernismo e preservação do patrimônio no debate cultural dos
+    anos 1920 no Brasil
+  title-short: Neocolonial
+  type: book
+
+- id: pinto:2015portugal16
+  accessed:
+    - year: 2020
+      month: 7
+      day: 5
+  author:
+    - family: Pinto
+      given: Sandra M. G.
+  citation-key: pinto:2015portugal16
+  container-title: Anais de História de Além-Mar
+  ISSN: 0874-9671
+  issued:
+    - year: 2015
+  language: Portuguese
+  page: 369-405
+  publisher: >-
+    Universidade Nova de Lisboa, Faculdade de Ciências Sociais e Humanas, Centro
+    de História d'Aquém e d'Além Mar
+  source: novaresearch.unl.pt
+  title: >-
+    «Portugal plantou a mais duradoira de suas conquistas». Da antiga tradição
+    jurídica para a atividade construtiva em Portugal e no Brasil: inovação e
+    permanência em perspetiva comparada
+  title-short: >-
+    «Portugal plantou a mais duradoira de suas conquistas». Da antiga tradição
+    jurídica para a atividade construtiva em Portugal e no Brasil
+  type: article-journal
+  URL: >-
+    https://novaresearch.unl.pt/en/publications/portugal-plantou-a-mais-duradoira-de-suas-conquistas-da-antiga-tr
+  volume: '16'
+
+- id: prista:2014terra
+  author:
+    - family: Prista
+      given: Pedro
+  citation-key: prista:2014terra
+  event-place: Lisboa
+  ISBN: 978-972-8479-84-8
+  issued:
+    - year: 2014
+  language: pt
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: >-
+    Terra palha cal: ensaios de antropologia sobre materiais de construção
+    vernacular em Portugal = Earth straw lime : anthropological essays on
+    vernacular building materials in Portugal
+  title-short: Terra palha cal
+  type: book
+
+- id: prompt:2012arquitetura
+  abstract: >-
+    As unidades agrícolas familiares são responsáveis pela produção da maior
+    parte dos alimentos da cesta básica brasileira e abrigam a maioria da
+    população rural do país. Observa-se, entretanto, um quadro de precariedade
+    no meio rural, que tem como conseqüência extrema a migração das famílias
+    para as cidades. Um dos meios para o incremento da qualidade de vida no
+    campo é a redução do déficit habitacional, com a construção de moradias que
+    possibilitem a permanência das famílias. O uso materiais locais e naturais,
+    muitas vezes disponíveis nas propriedades, pode viabilizar a construção de
+    moradias mais adequadas ao modo de vida rural. No Oeste Catarinense, existe
+    um grupo de nove famílias que optou por construir suas moradias utilizando a
+    terra como principal matéria prima. A pesquisa lança um olhar sobre esta
+    experiência, e tem como objetivo verificar se estas moradias autoconstruídas
+    são adequadas ao seu contexto sociocultural. O trabalho tem como base um
+    referencial teórico que faz a triangulação entre os temas agricultura
+    familiar, habitação rural e arquitetura de terra, e utiliza métodos baseados
+    na etnografia. A partir da descrição das edificações, é exposta a
+    apropriação das técnicas e do espaço construído pelas famílias. Finalmente,
+    é realizada uma reflexão a respeito da satisfação dos usuários, com base nas
+    suas percepções a respeito de conforto e segurança. Os resultados demonstram
+    que as tecnologias utilizadas são adequadas e possibilitam a permanência das
+    famílias no campo. Este trabalho contribui para o aprofundamento da
+    realidade rural da região, com foco na habitação, assim como para a área das
+    investigações sobre arquitetura de terra.
+  accessed:
+    - year: 2023
+      month: 6
+      day: 15
+  author:
+    - family: Prompt
+      given: Cecília Heidrich
+  citation-key: prompt:2012arquitetura
+  event-place: Florianópolis
+  genre: Dissertação de Mestrado em Arquitetura e Urbanismo
+  issued:
+    - year: 2012
+  language: pt-BR
+  publisher: Universidade Federal de Santa Catarina
+  publisher-place: Florianópolis
+  title: >-
+    Arquitetura de terra em unidades agrícolas familiares: estudo de caso no
+    Oeste Catarinense
+  title-short: Arquitetura de terra em unidades agrícolas familiares
+  type: thesis
+  URL: http://repositorio.ufsc.br/xmlui/handle/123456789/101027
 
 - id: prous:2006brasil
   author:
@@ -3364,6 +4389,64 @@ references:
   title: Quadro da arquitetura no Brasil
   type: book
 
+- id: reis:2013liberdade
+  author:
+    - family: Reis
+      given: Lysie
+  citation-key: reis:2013liberdade
+  event-place: Salvador
+  ISBN: 978-85-232-1043-4
+  issued:
+    - year: 2013
+  language: pt-BR
+  publisher: Editora <span class="smallcaps">UFBA</span>
+  publisher-place: Salvador
+  source: Open WorldCat
+  title: >-
+    A liberdade que veio do ofício: práticas sociais e cultura dos artífices na
+    Bahia do século <span class="smallcaps">XIX</span>
+  title-short: A liberdade que veio do ofício
+  type: book
+
+- id: reis:2017memorias13
+  abstract: >-
+    Este trabalho discute o ensino para as Artes e para os Ofícios no Brasil do
+    século XIX, destacando a Bahia. Por intermédio da pesquisa em fon- tes
+    documentais, bibliografia de referência e entrevistas, tenta-se demons- trar
+    como as classes abastadas pensaram a educação dos pobres, no intuito de
+    aplacar conflitos sociais e preparar mão de obra qualificada para o fomen-
+    to da indústria. Por outro lado, pôde-se constatar que negros e mulatos, li-
+    bertos ou escravos, se utilizaram da prática do ofício como forma de
+    alcançar melhores condições de vida.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Reis
+      given: Lysie
+    - family: Trinchão
+      given: Glaucia
+  citation-key: reis:2017memorias13
+  container-title: A Cor das Letras
+  DOI: 10.13102/cl.v13i1.1464
+  ISSN: 2594-9675
+  issue: '1'
+  issued:
+    - year: 2017
+      month: 2
+      day: 25
+  language: pt-BR
+  license: Direitos autorais 2017 Universidade Estadual de Feira de Santana
+  number: '1'
+  page: 9-26
+  source: periodicos.uefs.br
+  title: 'Memórias da mestria: as artes e os ofícios dos “homens de cor”'
+  title-short: Memórias da mestria
+  type: article-journal
+  URL: http://periodicos.uefs.br/index.php/acordasletras/article/view/1464
+  volume: '13'
+
 - id: reisfilho:1968contribuicao
   author:
     - family: Reis Filho
@@ -3380,6 +4463,28 @@ references:
   title: Contribuição ao estudo da evolução urbana do Brasil (1500–1720)
   title-short: Estudo da evolução urbana do Brasil
   type: book
+
+- id: ribeiro:2011contributo
+  accessed:
+    - year: 2014
+      month: 6
+      day: 5
+  author:
+    - family: Ribeiro
+      given: Nelson Pôrto
+  citation-key: ribeiro:2011contributo
+  container-title: <span class="smallcaps">ANPUH:</span> 50 Anos
+  event-place: São Paulo
+  event-title: <span class="smallcaps">XXVI</span> Simpósio Nacional de História
+  issued:
+    - year: 2011
+  language: pt-BR
+  publisher: <span class="smallcaps">ANPUH</span>
+  publisher-place: São Paulo
+  title: Contributo para uma 'História da Construção' no Brasil
+  type: paper-conference
+  URL: >-
+    http://www.snh2011.anpuh.org/resources/anais/14/1312926097_ARQUIVO_Historia_Construcao_Brasil.pdf
 
 - id: rocha-peixoto:2000reflexos
   author:
@@ -3450,6 +4555,28 @@ references:
   type: article-journal
   URL: http://www.etnolinguistica.org/biblio:sa-1979-habitacao
 
+- id: saia:1977sao
+  author:
+    - family: Saia
+      given: Luís
+    - family: Trindade
+      given: Jaelson Bitran
+  call-number: '711.4'
+  citation-key: saia:1977sao
+  event-place: São Paulo
+  issued:
+    - year: 1977
+  language: pt-BR
+  number-of-pages: '110'
+  publisher: Secretaria da Cultura, Ciência e Tecnologia/Governo do Estado de S.Paulo
+  publisher-place: São Paulo
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    São Luis do Paraitinga: levantamento métrico-arquitetônico e fotografico, e
+    estudos da formação de uma cidade tradicional paulista
+  title-short: São Luis do Paraitinga
+  type: book
+
 - id: sampaio:1916planta
   accessed:
     - year: 2019
@@ -3479,6 +4606,36 @@ references:
   URL: >-
     https://ihgb.org.br/pesquisa/biblioteca/item/24182-annaes-do-5-congresso-brazileiro-de-geographia-realizado-na-cidade-do-salvador,-estado-da-bahia,-de-7-a-16-de-setembro-de-1916-publicados-sob-a-direc%C3%A7%C3%A3o-do-secretario-geral-do-mesmo-congresso-professor-dr-bernardino-jos%C3%A9-de-souza.html
   volume: '1'
+
+- id: santos:1951barroco
+  author:
+    - family: Santos
+      given: Paulo F.
+  citation-key: santos:1951barroco
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1951
+  language: pt
+  publisher: Kosmos
+  publisher-place: Rio de Janeiro
+  source: dedalus.usp.br Library Catalog
+  title: O barroco e o jesuítico na arquitetura do Brasil
+  type: book
+
+- id: santos:1981quatro
+  author:
+    - family: Santos
+      given: Paulo F.
+  citation-key: santos:1981quatro
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1981
+  language: pt-BR
+  publisher: Instituto de Arquitetos do Brasil
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Quatro séculos de arquitetura
+  type: book
 
 - id: santos:1993urbanizacao
   abstract: >-
@@ -3674,6 +4831,172 @@ references:
   title: Das casas de morada às casas de vivenda
   type: chapter
 
+- id: segawa:2002arquiteturas
+  author:
+    - family: Segawa
+      given: Hugo
+  citation-key: segawa:2002arquiteturas
+  event-place: São Paulo
+  ISBN: 85-314-0445-2 978-85-314-0445-0
+  issued:
+    - year: 2002
+  language: pt-BR
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Arquiteturas no Brasil: 1900–1990'
+  title-short: Arquiteturas no Brasil
+  type: book
+
+- id: silva:2005dicionario
+  author:
+    - family: Silva
+      given: Jorge Henrique Pais
+      dropping-particle: da
+    - family: Calado
+      given: Margarida
+  citation-key: silva:2005dicionario
+  collection-number: '7'
+  collection-title: Biblioteca da arte
+  edition: 1. ed
+  event-place: Lisboa
+  ISBN: 978-972-23-3336-8
+  issued:
+    - year: 2005
+  language: pt
+  number-of-pages: '395'
+  publisher: Presença
+  publisher-place: Lisboa
+  source: K10plus ISBN
+  title: Dicionário de termos de arte e arquitectura
+  type: book
+
+- id: silva:2013arquitetura
+  abstract: >-
+    O presente trabalho refere-se à compreensão e análise do processo
+    construtivo pombalino 
+
+    utilizado para a construção de partedas edificações maranhenses, com ênfase
+    na Capital do Estado, no período dos sec. XVIII e XIX.Dedicado aos mais
+    imponentes edifícios do Centro Histórico de São Luís,  é uma pesquisa que
+    une arquitetura e engenharia com história e preservação patrimonial,  com
+    importantes contribuições para a política de preservação edilícia emgeral e
+    dos monumentos arquitetônicos emparticular. É feita uma análise comparativa
+    entre os processos construtivosdos edifícios, construídos na 
+
+    Baixa deLisboa após o terremoto de 1755 e as edificadas no Bairro da Praia
+    Grande em São 
+
+    Luis nos sec. XVIII e XIX. Busca evidenciar a presença dosistema
+    construtivopombalino no 
+
+    Centro Históricode São Luis e estabelecer uma relação de características
+    marcantesentre a 
+
+    arquitetura Pombalina da Baixa de Lisboa e a arquitetura implantada em São
+    Luis durante os 
+
+    séculos XVIII e XIX. O entendimento deste sistema passa pela listagem das
+    técnicas construtivas e materiais utilizados,  pela leitura do espaço
+    interior dos edifícios,  pelo estudo do comportamento estrutural destes e
+    pela sua valorização, nomeadamente no âmbito de Patrimônio Cultural da
+    Humanidade,  apresentando a influência do sistema construtivo pombalino no
+    Centro Histórico de São Luis como um marco característico da arquitetura e
+    do urbanismo. Todo este estudo foi elaborado com os seguintes objetivos:
+    alertar  para os  erros construtivos ocorridos em intervenções nas
+    edificações do Centro Histórico da Capital maranhense,  prejudicando um
+    patrimônio histórico pertencente a todos nós,  e fornecer bases para os
+    critérios de recuperação destes edifícios, à luz dos usos e funcionalidades
+    atuais. Além disso, o presente trabalho lança elementos para desenvolvimento
+    de novas pesquisas, abrindopossibilidade de aprofundamento das questões
+    estudadas, além de defender uma questão relativamente recente na cidade, 
+    sobre os fundamentos teóricos e práticos da existência de uma “arquitetura
+    pombalina” em São Luis-Ma.
+    ______________________________________________________________________________
+    ABSTRACT
+  accessed:
+    - year: 2019
+      month: 2
+      day: 15
+  author:
+    - family: Silva
+      given: Luis Leizon Cabral
+  citation-key: silva:2013arquitetura
+  event-place: Brasília
+  genre: Dissertação (Mestrado em Arquitetura)
+  issued:
+    - year: 2013
+      month: 6
+      day: 5
+  language: pt-BR
+  license: Acesso Aberto
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  source: repositorio.unb.br
+  title: >-
+    Arquitetura civil portuguesa : análise das características do sistema
+    construtivo pombalino no centro histórico de São Luís - MA
+  title-short: Arquitetura civil portuguesa
+  type: thesis
+  URL: http://repositorio.unb.br/handle/10482/13256
+
+- id: silva:2020tecnologias26
+  abstract: >-
+    Here we present a synthesis of a mapping of technologies derived from the
+    African matrix in Brazil, showing that they make up a rich tradition that
+    has, however, been made invisible by Eurocentric interpretations, which
+    disregard distinct forms of knowledge production and artifacts that do not
+    fit the dominant narrative about the technological development. The research
+    is developed from the studies in Africanities contrasting the paradigms
+    developed by Eurocentric theories and seeks to show, not exhaustively, the
+    richness of the African matrix from its technological manifestations.
+  accessed:
+    - year: 2022
+      month: 11
+      day: 30
+  author:
+    - family: Silva
+      given: Lucas César Rodrigues
+      dropping-particle: da
+    - family: Dias
+      given: Rafael de Brito
+  citation-key: silva:2020tecnologias26
+  container-title: Linhas Crí­ticas
+  DOI: 10.26512/lc.v26.2020.28089
+  ISSN: 1981-0431
+  issued:
+    - year: 2020
+      month: 8
+      day: 25
+  language: pt
+  license: Copyright (c) 2020 Lucas César Rodrigues da Silva, Rafael de Brito Dias
+  page: e28089-e28089
+  source: periodicos.unb.br
+  title: >-
+    As tecnologias derivadas da matriz africana no Brasil: um estudo
+    exploratório
+  title-short: As tecnologias derivadas da matriz africana no Brasil
+  type: article-journal
+  URL: https://periodicos.unb.br/index.php/linhascriticas/article/view/28089
+  volume: '26'
+
+- id: silveira:1999casapatio
+  author:
+    - family: Silveira
+      given: Ângelo Costa
+  call-number: 728.3 (547)
+  citation-key: silveira:1999casapatio
+  event-place: Porto
+  ISBN: 978-972-9483-36-3
+  issued:
+    - year: 1999
+  language: pt
+  publisher: Facultade de Arquitectura da Universidade de Porto
+  publisher-place: Porto
+  source: Open WorldCat
+  title: A Casa-Pátio de Goa
+  type: book
+
 - id: simoes:2013permanencias
   abstract: >-
     A partir da compreensão dos processos de ocupação das áreas de colina em
@@ -3769,31 +5092,25 @@ references:
   title-short: Guarani
   type: book
 
-- id: sousa:2009idade
+- id: sousa:1994arquitetura
   author:
     - family: Sousa
-      given: Bernardo Vasconcelos
-      dropping-particle: e
-  citation-key: sousa:2009idade
-  container-title: História de Portugal
-  editor:
-    - family: Ramos
-      given: Rui
-    - family: Monteiro
-      given: Nuno Gonçalves
-    - family: Sousa
-      given: Bernardo Vasconcelos
-      dropping-particle: e
-  event-place: 'Lisboa : Paço de Arcos'
+      given: Alberto José
+      dropping-particle: de
+  citation-key: sousa:1994arquitetura
+  edition: 1. ed
+  event-place: São Paulo
+  ISBN: 978-85-7266-038-9
   issued:
-    - year: 2009
-  language: pt
-  page: 45–392
-  publisher: 'Esfera : Expresso'
-  publisher-place: 'Lisboa : Paço de Arcos'
-  source: Open WorldCat
-  title: Idade Média (séculos <span class="smallcaps">XI–XV</span>)
-  type: chapter
+    - year: 1994
+  language: pt-BR
+  number-of-pages: '120'
+  publisher: Pini
+  publisher-place: São Paulo
+  source: K10plus ISBN
+  title: 'Arquitetura neoclássica brasileira: um reexame'
+  title-short: Arquitetura neoclássica brasileira
+  type: book
 
 - id: soutto:2017casa17
   abstract: >-
@@ -3875,24 +5192,6 @@ references:
   title: Da Vila Real da Praia Grande à Imperial Cidade de Niterói
   type: book
 
-- id: souza:2003escravidao
-  author:
-    - family: Souza
-      given: Talita Tavares Batista Amaral
-      dropping-particle: de
-  citation-key: souza:2003escravidao
-  container-title: Vértices
-  issue: '2'
-  issued:
-    - year: 2003
-      month: 5
-  language: pt
-  page: 11–23
-  title: Escravidão interna na África antes do tráfico negreiro
-  title-short: Escravidão interna na África
-  type: article-journal
-  volume: '5'
-
 - id: tapie:1974barroco
   author:
     - family: Tapié
@@ -3906,6 +5205,44 @@ references:
   publisher-place: 'Lisboa : São Paulo'
   source: Open WorldCat
   title: Barroco e classicismo
+  type: book
+
+- id: tavares:20228o
+  abstract: >-
+    FIPA - International Forum of Architectural Heritage Portugal Brazil is a
+    forum for debate between the scientific community, the academic community
+    and institutions and companies involved in the enhancement, protection and
+    rehabilitation of built heritage. The 8th edition of FIPA brought together
+    several specialists and promoted debates around the central issue "Heritage
+    at risk", with this publication having some of the communications presented.
+    The 8 FIPA was organized in Portugal by the University of Aveiro and the
+    DGPC - General Directorate of Cultural Heritage and had several other
+    Portuguese and Brazilian entities in its implementation.
+
+
+    O FIPA - Fórum Internacional do Património Arquitetónico Portugal Brasil é
+    um fórum de debate entre a comunidade científica, a comunidade académica e
+    as instituições e empresas ligadas à valorização, proteção e reabilitação do
+    Património edificado. A 8ª edição do FIPA reuniu vários especialistas e
+    promoveu debates em torno da questão central "Património em risco", tendo
+    esta publicação algumas das comunicações apresentadas. O 8 FIPA teve como
+    organização em Portugal a Universidade de Aveiro e a DGPC - Direção Geral do
+    Património Cultural e contou com várias outras entidades portuguesas e
+    brasileiras na sua implementação.
+  citation-key: tavares:20228o
+  editor:
+    - family: Tavares
+      given: Alice
+    - family: Costa
+      given: Aníbal
+  ISBN: 978-989-54-8512-3
+  issued:
+    - year: 2022
+      month: 6
+      day: 2
+  language: pt
+  source: ResearchGate
+  title: 8.º Fórum internacional do património arquitetónico Portugal–Brasil
   type: book
 
 - id: teixeira:2012forma
@@ -3955,6 +5292,23 @@ references:
     http://editorarevistas.mackenzie.br/index.php/cpgau/article/view/2017.2.Teixeira
   volume: '17'
 
+- id: telles:1975atlas
+  author:
+    - family: Telles
+      given: Augusto Carlos da Silva
+  citation-key: telles:1975atlas
+  event-place: '[Rio de Janeiro]'
+  issued:
+    - year: 1975
+  language: pt
+  publisher: >-
+    Ministério da Educação e Cultura, Departamento de Assuntos Culturais,
+    Fundação Nacional de Material Escolar
+  publisher-place: '[Rio de Janeiro]'
+  source: Open WorldCat
+  title: Atlas dos monumentos históricos e artísticos do Brasil
+  type: book
+
 - id: tengarrinha:2000historia
   citation-key: tengarrinha:2000historia
   contributor:
@@ -3998,6 +5352,27 @@ references:
   URL: http://www.tandfonline.com/doi/abs/10.1080/026654398364518
   volume: '13'
 
+- id: tirapeli:2008igrejasa
+  author:
+    - family: Tirapeli
+      given: Percival
+  call-number: NA5353 .T567 2008
+  citation-key: tirapeli:2008igrejasa
+  contributor:
+    - family: Salim
+      given: Alex
+  event-place: São Paulo
+  ISBN: 978-85-85371-75-3
+  issued:
+    - year: 2008
+  language: pt-BR
+  number-of-pages: '335'
+  publisher: Metalivros
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: Igrejas barrocas do Brasil
+  type: book
+
 - id: tirello:2000pinturas34
   abstract: >-
     Adotando-se combinação entre métodos físicos e químicos de análise e
@@ -4027,28 +5402,85 @@ references:
     https://www.academia.edu/6835279/AS_PINTURAS_PARIETAIS_DE_JOS%C3%89_MARIA_VILLARONGA_NO_SOBRADO_AGUIAR_VALLIM_BANANAL_1a_Parte_Revista_SINOPSES_n_34
   volume: '34'
 
-- id: trindade:2009urbanismo
-  abstract: >-
-    Tese de doutoramento em História (História da Arte), apresentada à Fac. de
-    Letras da Universidade de Coimbra
+- id: tognon:2011desenho27
   accessed:
-    - year: 2018
-      month: 11
-      day: 3
+    - year: 2013
+      month: 5
+      day: 10
+  author:
+    - family: Tognon
+      given: Marcos
+  citation-key: tognon:2011desenho27
+  container-title: Varia Historia
+  DOI: 10.1590/S0104-87752011000200008
+  ISSN: 0104-8775
+  issue: '46'
+  issued:
+    - year: 2011
+      month: 12
+  language: pt-BR
+  page: 547-556
+  source: SciELO
+  title: O desenho e a história da técnica na arquitetura do Brasil colonial
+  title-short: O desenho e a história da técnica
+  type: article-journal
+  URL: http://ref.scielo.org/358tst
+  volume: '27'
+
+- id: torres:2004sao
+  author:
+    - family: Torres
+      given: Terciano
+  call-number: F2651.S257 S37 2004
+  citation-key: torres:2004sao
+  event-place: São Paulo
+  ISBN: 978-85-250-3740-4
+  issued:
+    - year: 2004
+  language: pt-BR
+  publisher: Editora
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: 'São Paulo. Pátio do Colégio: uma história ilustrada a bico de pena'
+  title-short: São Paulo Pátio do Colégio
+  type: book
+
+- id: trindade:2002casa
   author:
     - family: Trindade
       given: Luísa
-  citation-key: trindade:2009urbanismo
-  genre: Tese (doutoramento) em História da Arte
+  call-number: 728 (469.322)
+  citation-key: trindade:2002casa
+  collection-number: '1'
+  collection-title: Coimbra - Património
+  event-place: Coimbra
+  ISBN: 978-972-97542-8-9
   issued:
-    - year: 2009
+    - year: 2002
   language: pt
-  license: openAccess
-  publisher: Faculdade de Letras da Universidade de Coimbra
-  source: estudogeral.uc.pt
-  title: Urbanismo na composição de Portugal
-  type: thesis
-  URL: https://estudogeral.uc.pt/handle/10316/13529
+  number-of-pages: '198'
+  publisher: Câmara Municipal
+  publisher-place: Coimbra
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    A casa corrente em Coimbra: dos finais da Idade Média aos inícios da Época
+    Moderna
+  title-short: A casa corrente em Coimbra
+  type: book
+
+- id: trindade:2010sao
+  author:
+    - family: Trindade
+      given: Jaelson Bitran
+  citation-key: trindade:2010sao
+  event-place: São Paulo
+  issued:
+    - year: 2010
+  language: pt-BR
+  publisher: Superintendência do Iphan em São Paulo
+  publisher-place: São Paulo
+  title: São Luiz do Paraitinga
+  type: book
 
 - id: trindade:2013urbanismo
   accessed:
@@ -4094,6 +5526,33 @@ references:
     Iconografia e patrimônio: o Catálogo da Exposição de História do Brasil e a
     fisionomia da nação
   title-short: Iconografia e patrimônio
+  type: book
+
+- id: valdez:2013arqueologia
+  call-number: F3721 .A775 2011
+  citation-key: valdez:2013arqueologia
+  collection-number: tomo 35
+  collection-title: Colección "Actes & mémoires de l'Institut français d'études andines"
+  edition: Primera edición
+  editor:
+    - family: Valdez
+      given: Francisco
+  event-place: 'Lima : Quito : Institut de recherche pour le développement, IRD'
+  ISBN: 978-9942-09-157-4
+  issued:
+    - year: 2013
+  language: es
+  number-of-pages: '386'
+  publisher: >-
+    Instituto Francés de Estudios Andinos, <span class="smallcaps">UMIFRE
+    17, MAE-CNRS</span> ; Ediciones Abya-Yala
+  publisher-place: 'Lima : Quito : Institut de recherche pour le développement, IRD'
+  source: Library of Congress ISBN
+  title: >-
+    Arqueología amazónica: las civilizaciones ocultas del bosque tropical: actas
+    del coloquio internacional Arqueología Regional en la Amazonía Occidental:
+    Temáticas, Resultados y Políticas
+  title-short: Arqueología amazónica
   type: book
 
 - id: valla:2012engenharia
@@ -4223,6 +5682,23 @@ references:
   URL: >-
     http://www.livrariacultura.com.br/p/arquitetura-dos-indios-da-amazonia-42110222
 
+- id: vasconcellos:1979arquitetura
+  author:
+    - family: Vasconcellos
+      given: Sylvio
+      dropping-particle: de
+  citation-key: vasconcellos:1979arquitetura
+  event-place: Belo Horizonte
+  issued:
+    - year: 1979
+  language: pt-BR
+  publisher: Universidade Federal de Minas Gerais
+  publisher-place: Belo Horizonte
+  source: Open WorldCat
+  title: Arquitetura no Brasil, sistemas construtivos
+  title-short: Sistemas construtivos
+  type: book
+
 - id: vasconcellos:2011vila
   author:
     - family: Vasconcellos
@@ -4315,6 +5791,85 @@ references:
     quadraturística na Bahia
   type: chapter
 
+- id: viegas:2017papel18
+  abstract: >-
+    As definições de poligonais de tombamento de Sítios Históricos Urbanos
+    surgiram da necessidade de preservação de valores artísticos e históricos
+    das cidades que cada vez mais sofrem transformações em suas formas urbanas.
+    Essa necessidade preservacionista foi institucionalizada durante o século
+    XX, mas faz parte de um longo processo histórico de valorização do
+    patrimônio urbano. O objetivo do artigo é a discussão desse processo,
+    evidenciando o papel das ambiências históricas que compõem os núcleos
+    iniciais de nossas cidades, principalmente nos processos de definição de
+    poligonais de tombamento de Sítios Históricos Urbanos, por meio de pesquisa
+    bibliográfica e documental, que teve como fontes primárias as teorias dos
+    restauradores ao longo dos séculos, os documentos patrimoniais (convenções,
+    tratados, recomendações, resoluções, cartas, orientações, princípios e
+    normas patrimoniais) e as normas, decretos, leis, entre outros instrumentos
+    reguladores que operam no Brasil a partir das primeiras décadas do século
+    XX. Como contribuição, este trabalho apresenta alguns aspectos que
+    determinam a preservação de ambiências históricas, para que ainda possam ser
+    vivenciadas pela sociedade.
+  accessed:
+    - year: 2018
+      month: 8
+      day: 30
+  archive_location: Reconhecimento de patrimônios
+  author:
+    - family: Viegas
+      given: Cíntia Camila Liberalino
+    - family: Teixeira
+      given: Rubenilson Brazão
+  citation-key: viegas:2017papel18
+  container-title: Cadernos de História
+  DOI: 10.5752/P.2237-8871.2017v18n28p28
+  ISSN: 2237-8871
+  issue: '28'
+  issued:
+    - year: 2017
+      month: 5
+      day: 13
+  language: pt-BR
+  license: Direitos autorais 2017 Cadernos de História
+  page: 28-48
+  source: periodicos.pucminas.br
+  title: >-
+    O papel da ambiência histórica nos processos de tombamento de Sítios
+    Históricos Urbanos
+  type: article-journal
+  URL: >-
+    http://periodicos.pucminas.br/index.php/cadernoshistoria/article/view/P.2237-8871.2017v18n28p28
+  volume: '18'
+
+- id: vieira:2017influencia
+  abstract: >-
+    Dissertação de Mestrado Integrado em Arquitetura, com a especialização em
+    Urbanismo apresentada na Faculdade de Arquitetura da Universidade de Lisboa
+    para obtenção do grau de Mestre.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 15
+  author:
+    - family: Vieira
+      given: Jessica Teixeira
+  citation-key: vieira:2017influencia
+  container-title-short: Utilização das pré-existências na construção de uma identidade urbana
+  event-place: Lisboa
+  genre: Dissertação (Mestrado Integrado em Arquitectura)
+  issued:
+    - year: 2017
+      month: 3
+      day: 6
+  language: pt
+  license: openAccess
+  publisher: Universidade de Lisboa, Faculdade de Arquitetura
+  publisher-place: Lisboa
+  source: www.repository.utl.pt
+  title: Influência árabe na arquitectura portuguesa
+  type: thesis
+  URL: https://www.repository.utl.pt/handle/10400.5/14187
+
 - id: vitruve:1684dix
   author:
     - literal: Vitruve
@@ -4334,22 +5889,6 @@ references:
   translator:
     - family: Perrault
       given: Claude
-  type: book
-
-- id: vitruvio:2006tratado
-  author:
-    - literal: Vitrúvio
-  citation-key: vitruvio:2006tratado
-  event-place: Lisboa
-  issued:
-    - year: 2006
-  language: pt
-  publisher: <span class="smallcaps">IST</span> Press
-  publisher-place: Lisboa
-  title: Tratado de arquitectura
-  translator:
-    - family: Maciel
-      given: M. Justino
   type: book
 
 - id: waisman:1993interior
@@ -4390,4 +5929,51 @@ references:
   type: webpage
   URL: >-
     http://www.ihgrgs.org.br/artigos/membros/G%C3%BCnter%20Weimer%20-%20Evolu%C3%A7%C3%A3o%20da%20Arquitetura%20Ind%C3%ADgena,%202014.pdf
+
+- id: weissheimer:2012imigracao
+  call-number: NA7299.R53 I55 2012
+  citation-key: weissheimer:2012imigracao
+  collection-number: '1'
+  collection-title: Edições técnicas sobre patrimônio material
+  contributor:
+    - family: Gonçalves
+      given: Rogério Bessa
+  editor:
+    - family: Weissheimer
+      given: Maria Regina
+  event-place: Brasília
+  ISBN: 978-85-7334-201-7
+  issued:
+    - year: 2012
+  language: pt-BR
+  number-of-pages: '89'
+  publisher: >-
+    IPHAN, Instituto do Patrimônio Histórico e Artístico Nacional, Ministério da
+    Cultura, Governo Federal Brasil
+  publisher-place: Brasília
+  source: Library of Congress ISBN
+  title: Imigração japonesa no Vale do Ribeira em São Paulo
+  type: book
+
+- id: zanini:1983historia
+  citation-key: zanini:1983historia
+  contributor:
+    - family: Costa
+      given: Cacilda Teixeira
+      dropping-particle: da
+    - family: Albuquerque
+      given: Marília Saboya
+      dropping-particle: de
+  editor:
+    - family: Zanini
+      given: Walter
+  event-place: São Paulo
+  issued:
+    - year: 1983
+  language: pt-BR
+  publisher: 'Instituto Walther Moreira Salles : Fundação Djalma Guimarães'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: História geral da arte no Brasil
+  type: book
 ...
