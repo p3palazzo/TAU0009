@@ -75,25 +75,8 @@ perímetro de lavoura e de floresta manejada no seu entorno imediato
 Os vários *teko\'á* que formam uma aliança política são organizados em
 volta de percursos estruturantes nas cumeadas do terreno, entre os rios
 maiores ([@fig:guara]). Esse território político é chamado de *guará*.
-
 A implantação de povoações na extremidade das cumeadas secundárias
 permite o controle visual e estratégico de um território bastante amplo.
-Com o desenvolvimento da agricultura em várias regiões do mundo, essas
-povoações se adensam. Então, o senso intuitivo de um território
-controlado por cada comunidade vai se transformando no desenho de
-fronteiras mais ou menos estáveis entre cidades-estado
-[@kemp:1996antiguo]. Isto é, a definição institucionalizada do
-território vem *antes* de uma hierarquização social e política muito
-pronunciada ([@fig:kemp]). Essa territorialidade é uma característica
-fundamental do processo de urbanização.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kemp}
-<div class="r-stack">![aldeias igualitárias](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033a.png){#fig:kempA .line .fragment .fade-out .current-visible}
-![vilas agrárias](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033b.png){#fig:kempB .line .fragment .current-visible}
-![cidades-estado emergentes](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033c.png){#fig:kempC .line .fragment .current-visible}</div>
-
-Diagrama da formação de cidades-estado no Egito neolítico, segundo Kemp
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Conclusão #
 
