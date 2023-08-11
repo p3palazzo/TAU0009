@@ -7,7 +7,7 @@ header:
   caption:
 excerpt: >
   Habitação coletiva e modernização dos modos de morar. Sanitarismo
-  e tecnicismo. Habitação salubre e arquitetura da saúde.
+  e tecnicismo. Paisagens industriais.
 ---
 
 # Arquitetura civil e obras públicas #
