@@ -53,15 +53,223 @@ América.
 
 * * * * * *
 
-![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-\_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-\_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-\_Roman_town_over_present_urban_fabric.svg.png){#fig:evora-plan .r-stretch}
-
-* * * * * *
-
 :::::::::::::::::::::::::::::::::::::::: {#fig:evora-3d .iframe-wrapper}
 <iframe src="https://player.vimeo.com/video/125300716?h=a01a2912f1&color=fffff5&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://vimeo.com/125300716">&Eacute;vora 3D - Y&aacute;bura Project</a> por <a href="https://vimeo.com/user35396652">Gustavo Val-Flores</a>, 2015
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Urbanismo arabizado e *des-arabizado* ##
+
+Tecidos arabizados nos séculos VIII a X, tais como
+a Alfama lisboeta ou o centro de Évora, formaram-se pela
+sedimentação e hierarquização da malha viária romana
+preexistente (@fig:evora). O traçado castrense de ruas pouco
+diferenciadas deu então lugar à hierarquização funcional e
+espacial entre ruas comerciais de maior largura e adarves
+residenciais, por vezes formando becos. Equipamentos
+coletivos --- chafariz, madraçal, banhos, locais de devoção
+--- passaram a estar setorizados nessa hierarquia viária
+segundo a abrangência de seu uso. Em alguns casos, é
+possível reconstituir um padrão de reparcelamento do solo
+com lotes compactos, afeito à construção de moradas
+introvertidas e dotadas de pátio central.
+
+![Perímetro da cidade romana de Évora evidenciando a sedimentação do traçado romano. Editado pelo autor com base em mapa de Cristóvão Aires, 1902 [@aires:1902historia1, XII]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
+
+O sistema de hierarquia viária e parcelamento do solo
+característico da arabização cultural e política da
+península Ibérica constitui mais um tipo de substrato que
+uma prática persistente na urbanização portuguesa
+subsequente.
+O desenho de novos traçados de ruas e de novas subdivisões
+da propriedade do solo constitui o aspecto do
+desenvolvimento mais diretamente sujeito às intenções
+políticas do poder vigente e ao sistema de referenciais
+técnicos que este poder detém.
+O modo arabizado de estruturar o espaço urbano resultava, na
+península Ibérica, numa ordem urbana em três níveis:
+
+1. Alcáçova, sinalizando o centro do poder político
+   e demarcando a presença islâmica por excelência, é o
+   núcleo fortificado dominante do conjunto urbano, podendo
+   conter também as residências da elite governante
+   e, mais raramente, a mesquita maior
+   [@mazzoli-guintard:2000ciudades, p. 138--140];
+
+2. Almedina, cidade amuralhada, frequentemente
+   correspondia à sedimentação de um traçado romano
+   preexistente, e se dividia, conforme o permitissem as
+   dimensões e a configuração do traçado, em distritos
+   tendendo a agrupar as diferentes comunidades
+   religiosas de muçulmanos, judeus e cristãos;[^almedina]
+
+3. Arrabaldes, estendendo a mancha urbana para além da
+   cerca, organizavam-se mais nitidamente em função de
+   atividades econômicas --- comércio e artesanato --- do
+   que em torno de equipamentos e atividades comunitárias.
+
+[^almedina]: A terminologia urbanística de al-Ândalus
+  é notoriamente inconsistente. Mazzoli-Guintard alerta
+  sobre a ocorrência intercambiável dos substantivos
+  qā'ida, almedina, qarya e ḥiṣn, que designam diferentes
+  posições hierárquicas ou importâncias dos núcleos
+  habitados. Apenas o conceito de almedina tende
+  a estar preferencialmente associado a uma sede de poder
+  político e, nesse sentido, por vezes se confunde com
+  o papel político da alcáçova
+  [@mazzoli-guintard:2000ciudades, p. 25, 35].
+
+A reurbanização árabe do substrato romano formou, portanto,
+característicos sistemas de distritos com elevada identidade
+formal e social, sendo amplamente autogeridos pelas
+diferentes comunidades religiosas --- aljamas ---, quando
+não pelas corporações de ofício, que neles
+mantinham e controlavam as suas respectivas
+"liturgias do cotidiano" [@bianca:2000urban, p. 27--29].
+Tais distritos, adensando-se organicamente e tendo sua
+infraestrutura em grande parte controlada pela própria
+organização comunitária [@bianca:2000urban, p. 39],
+eram circunscritos por ruas comerciais e pelas cercas
+urbanas que, juntamente com a mesquita maior e o mercado,
+sinalizavam a presença de uma autoridade política superior.
+
+Esse modo de organizar a gestão do espaço urbano, antes que
+a sua forma, resultou numa configuração de ruas principais
+delimitando extensas *quadras* pouco permeáveis, por sua vez
+subdivididas por sistemas secundários de adarves e largos
+para formar *blocos* de lotes e casas.
+Os pontos focais dessas quadras são cruzamentos ou pequenos
+largos onde se situavam equipamentos comunitários, tais como
+bicas ou locais de culto, e por vezes algum comércio
+[@mazzoli-guintard:2000ciudades, p. 98].
+
+----------------------
+
+Como seria de se esperar, dada a persistência dos traçados
+viários na longa duração [@lavedan:1926questce],
+essa característica segregação espacial em vários níveis
+persistiu nas cidades hispanomuçulmanas incorporadas ao
+reino de Portugal.
+Para além da resiliência de traçados preexistentes, todavia,
+a lógica de distritos circundados por um traçado
+estruturador e contendo, em seu interior, um traçado viário
+secundário, continuou a comparecer em sítios urbanos
+portugueses fundados ou ocupados dos séculos XIII e XIV em
+diante.
+
+A judiaria de Castelo de Vide, assentamento extramuros
+atestado no século XIV, é um dos mais antigos exemplares de
+urbanização na forma de uma *quadra de blocos* no reino de
+Portugal da dinastia afonsina.
+O distrito é nitidamente delimitado ao sul pela rua de Santa
+Maria, traçado estruturador do crescimento urbano sobre
+a linha de cumeada, e ao norte pela encosta onde, no século
+XVII, seria construída uma nova cintura defensiva.
+A malha viária interna ao distrito converge num largo
+central onde se situa uma bica (@fig:vide).
+Já na dinastia de Avis, e num contexto livre das restrições
+espaciais que caracterizam as judiarias, o crescimento do
+núcleo urbano de Angra do Heroísmo, no século XV, resultou
+em configuração semelhante.
+Dois traçados viários estruturadores, aproximadamente
+paralelos, foram conectados por uma rede secundária de
+adarves, "ruas de trás" [@teixeira:2012forma]
+e largos introvertidos.
+
+![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século XV, mostrando o traçado estruturante que delimita um bloco de quadras (sombreados em rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](https://hcommons.org/app/uploads/sites/1001411/2021/05/pt-castelo_vide-judiaria-tracado.png){#fig:vide}
+
+Se a ocupação urbana hispanomuçulmana operou sobretudo uma
+sedimentação dos traçados e parcelamentos de origem romana,
+a reorganização territorial da conquista portuguesa
+implicou, por sua vez, modificações profundas na
+estruturação dos tecidos urbanos.
+Ao mesmo tempo, as práticas urbanísticas que viriam
+a configurar uma "tradição luso-brasileira"
+[@lobo:2012urbanismo] incorporaram aspectos da
+hierarquização do espaço público de extração árabe, assim
+como operaram ajustes graduais em parcelamentos do solo
+preexistentes.
+Tais aspectos são mais perceptíveis na cidade portuguesa
+enquanto tipos de substrato
+[Conceito desenvolvido por @caniggia:1997analisi]
+do que como práticas persistentes após a conquista.
+Ainda assim, subjazem a concepção da cidade luso-brasileira
+enquanto traçado fragmentado e de baixa acessibilidade
+[@medeiros:2006urbis].
+
+Entretanto, a reorganização territorial da Coroa
+portuguesa sob a dinastia dos Borgonhas, de meados do século
+XIII ao primeiro quartel do XIV [@trindade:2013urbanismo],
+se caracterizou pela introdução de um
+saber fazer urbanístico oriundo do Norte da Europa.
+Esse saber fazer se impôs a tecidos urbanos de origem
+predominantemente romana e apenas parcialmente
+arabizados.
+A política urbanizadora levada a cabo por D. Afonso III e
+D. Dinis (@fig:caminha) apresenta, tanto no processo quanto na morfologia,
+características das coetâneas *bastides* erigidas pelas
+autoridades inglesas e francesas no atual sudoeste da
+França, fundamentalmente redutíveis aos propósitos de
+controle administrativo e militar do território, e de
+expansão da base agrária [@falini:1978politica, p. 99].
+
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:caminha .columns}
+::: {.column width=50%}
+![Planta ideal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Caminha_plan_13c_ideal.png/299px-Caminha_plan_13c_ideal.png){#fig:caminha-ideal}
+:::
+::: {.column width=50%}
+![Reconstituição da planta real na data de fundação](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caminha_plan_13c_reconstructed_01.png/299px-Caminha_plan_13c_reconstructed_01.png){#fig:caminha-real}
+:::
+
+Vila de fundação de Caminha, Portugal, século [XIII]{.smallcaps}.
+Desenho: [Pedro P. Palazzo, 2021, com base em reconstituição de Luísa
+Trindade, 2009](https://commons.wikimedia.org/wiki/File:Caminha_plan_13c_ideal.png)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+A sobreposição ou justaposição das novas práticas aos
+tecidos históricos interrompeu a vigência de processos de
+transformação urbana de herança hispanomuçulmana, sobretudo
+no que dizia respeito à configuração dos lotes de moradas.
+A transformação mais marcante sofrida pelo urbanismo
+hispanomuçulmano em Portugal disse respeito, portanto, ao
+parcelamento do solo.
+
+A tipologia do parcelamento do solo nas vilas de fundação
+afonsinas baseava-se numa distribuição relativamente
+igualitária de lotes urbanos, de casais ou chácaras
+suburbanas, e de glebas cultiváveis
+[@falini:1978politica, p. 102].
+Tal configuração seria, por princípio, avessa ao modo de
+urbanização árabe ao prever o controle centralizado do poder
+político sobre a ocupação do espaço urbano.
+Forçava-se, assim, não apenas a exteriorização do controle
+sobre a subdivisão do solo, mas também, e principalmente,
+a exteriorização de atividades da alçada doméstica
+e comunitária para ruas e largos com um caráter público mais
+marcado.
+
+Tal reformulação não se limitou às vilas de fundação,
+estendendo-se também ao reparcelamento de núcleos urbanos
+preexistentes, aquando da expulsão de comunidades mudéjares
+para os arrabaldes e da ocupação dos espaços intramuros por
+populações cristãs.[^judiarias]
+Aos lotes largos e compactos que permitiam a implantação
+das casas com pátio na tradição árabe-mediterrânica,
+a redistribuição fundiária levada a cabo pelo conquistador
+português substituiu os lotes estreitos e profundos do
+urbanismo norte-atlântico, mesmo nas ensolaradas regiões do
+Alentejo e do Algarve.
+
+[^judiarias]: Ao contrário do ocorrido com a imediata
+deportação das comunidades muçulmanas para fora dos espaços
+urbanos privilegiados, a reorganização dos espaços
+tradicionalmente ocupados pelas comunidades judaicas em
+verdadeiras judiarias reclusas e fortemente adensadas só se
+efetivaria de finais do século XIV a meados do XV
+[@trindade:2009urbanismo, p. 626].
 
 ## Aldeia--rua e quadra de blocos ##
 
@@ -155,6 +363,7 @@ Table: Equivalência de nomenclaturas de traçados na tipologia processual itali
 | Traçado de implantação | Ruas de trás (com frentes de lotes) |
 | Traçado de ligação     | Ruas de trás (com fundos de lotes)  |
 | Traçado de ligação     | Travessas (com laterais de lotes)   |
+
 
 # Origem e urbanização de Portugal #
 
@@ -492,21 +701,6 @@ colina" [@lobo:2012urbanismo].
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina .r-stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-------
-
-:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:caminha .columns}
-::: {.column width=50%}
-![Planta ideal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Caminha_plan_13c_ideal.png/299px-Caminha_plan_13c_ideal.png){#fig:caminha-ideal}
-:::
-::: {.column width=50%}
-![Reconstituição da planta real na data de fundação](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Caminha_plan_13c_reconstructed_01.png/299px-Caminha_plan_13c_reconstructed_01.png){#fig:caminha-real}
-:::
-
-Vila nova de Caminha, Portugal, século [XIII]{.smallcaps}. Desenho:
-[Pedro P. Palazzo, 2021, com base em reconstituição de Luísa Trindade,
-2009](https://commons.wikimedia.org/wiki/File:Caminha_plan_13c_ideal.png)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
