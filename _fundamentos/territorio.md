@@ -12,7 +12,7 @@ excerpt: >
   Paisagens e fortificações.
 ---
 
-# Raios de ação #
+# Raios de ação e a outra lei da gravidade #
 
 A implantação do assentamento determina um
 raio de ação da comunidade. Ou melhor, vários raios de ação, segundo as
@@ -35,6 +35,10 @@ Binford [@binford:1982archaeology]. Os raios de ação diferenciados da
 coleta cotidiana, por um lado, e das expedições de caça que duram vários
 dias, por outro, definem um zoneamento econômico do território
 ([@fig:binford]).
+
+## Lei da gravidade dos assentamentos ##
+
+@barjamovic:2019trade134
 
 # Sudeste da Amazônia no século [XI]{.smallcaps} #
 
