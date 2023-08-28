@@ -46,6 +46,92 @@ no Brasil e no mundo atlântico de influência portuguesa.
 
 # Metodologia #
 
+## O semestre e as unidades ##
+
+O programa do nosso semestre se divide em três unidades de conteúdo.
+Cada um desses três ciclos e unidades está associado a um objetivo de
+aprendizagem e a uma atividade que conta para a nota final. Ao final do
+ciclo de cada Unidade, você vai ter:
+
+1. Estudado a competência que você precisa adquirir nessa unidade,
+   conforme os objetivos de aprendizagem, tirando suas dúvidas pelos
+   fóruns da disciplina no Moodle ou na aula presencial;
+2. Entregue um trabalho valendo nota, demonstrando o seu domínio dessa
+   competência, respeitando a data de entrega prevista.
+3. Participado ativamente das demais atividades propostas.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
+<i class="fas fa-exclamation-triangle"></i>
+
+~ Você precisa *entregar* todas as atividades que valem nota,
+  além de obter 50 pontos no total do semestre. Se deixar de entregar
+  algum dos trabalhos, você receberá automaticamente a menção `SR`,
+  *mesmo que tenha pontuação total suficiente*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## A semana ##
+
+<!--
+   -A semana é o nosso bloco
+   -mínimo de trabalho: o conteúdo, o controle de frequência e a entrega de
+   -atividades, por exemplo, são programados *por semana* e não por *dia* de
+   -aula.
+   -->
+
+Cada semana corresponde a um tópico de conteúdo específico que contribui
+para o objetivo de aprendizagem da sua Unidade.
+Ao final de cada semana, você vai ter:
+
+<i class="fas fa-book-reader"></i>
+
+: Estudado as notas de aula escritas *e* as leituras obrigatórias (se
+  puder, consulte também as leituras sugeridas);
+
+<i class="fas fa-comments"></i>
+
+: Tirado suas dúvidas sobre o conteúdo e o desenvolvimento do trabalho
+  da Unidade;
+
+<i class="fas fa-chalkboard-teacher"></i>
+
+: Participado ativamente da aula presencial, discutindo o conteúdo e
+  orientando a produção do trabalho da Unidade em andamento.
+
+## O trabalho em casa ##
+
+<i class="fas fa-calendar-check"></i>
+
+: Para aproveitar melhor a aula presencial, você deve fazer as leituras
+  e começar o desenvolvimento do trabalho *antes* do horário da aula.
+  Assim, poderá tirar suas dúvidas sobre o conteúdo e orientar o
+  trabalho de modo mais produtivo.
+
+As atividades do semestre foram dimensionadas para ocuparem, em média, 8
+horas de trabalho por semana. Dependendo das suas necessidades, você pode
+dedicar, por exemplo, a cada semana:
+
+|           |                                     |             |
+|-----------|-------------------------------------|-------------|
+| Estudo    | Aulas expositivas, leituras         | 3 a 4 horas |
+| Aplicação | Desenvolver e orientar os trabalhos | 4 a 5 horas |
+
+<i class="fas fa-exclamation-triangle"></i> 
+
+: Essa previsão é meramente indicativa e pode variar de pessoa para pessoa.
+
+## O dia de aula ##
+
+Os nossos encontros presenciais serão aulas *invertidas*. O
+que queremos dizer com isso? No ensino *normal*, o horário da aula é
+usado para transmissão do conteúdo, geralmente na forma expositiva, e os
+alunos desenvolvem os trabalhos fora do horário da aula. Já numa aula
+invertida, *você* estuda o conteúdo no horário que for mais
+conveniente, e o nosso encontro ao vivo é dedicado ao desenvolvimento
+supervisionado dos trabalhos, a tirar dúvidas sobre o conteúdo, e a
+outras dinâmicas interativas. Nesse sistema, a aula é conduzida *por
+vocês* --- pelas suas demandas e necessidades na elaboração dos
+trabalhos e na compreensão do conteúdo.
+
 # Apoio ao aluno #
 
 Para além do horário de aula, o professor e os monitores da disciplina
@@ -54,9 +140,8 @@ tirar dúvidas.
 
 O professor
 
-: estará disponível, no mais das vezes, às terças-feiras das 16h às
-  18h nos fundos da sala de reuniões no Mezanino Norte da
-  [FAU]{.smallcaps}--UnB.
+: estará disponível às terças-feiras das 16h às 18h nos fundos da sala
+  de reuniões no Mezanino Norte da [FAU]{.smallcaps}--UnB.
 
 # Consolidação da aprendizagem #
 
@@ -81,21 +166,21 @@ especialização, onde metade da turma escolherá cada abordagem. O
 desenvolvimento dos módulos especializados depende do conteúdo gerado no
 módulo básico.
 
-Módulo básico · Arqueologia
+Módulo básico › Arqueologia
 
 : Analisar um edifício e identificar a sua implantação no contexto
   urbano ou rural, sistemas construtivos, ornamentos, alterações
   sofridas, vulnerabilidades e patologias. Propor uma hipótese de
   reconstituição do edifício no seu estado mais íntegro concebível.
 
-Módulo especializado A · Crítica
+Módulo especializado A › Crítica
 
 : Analisar o contexto de produção e uso do mesmo edifício, considerando
   as relações sociais, políticas e econômicas entre seus agentes, bem
   como as atitudes destes frente às preexistências e ao entorno do
   edifício.
 
-Módulo especializado B · Composição
+Módulo especializado B › Composição
 
 : Propor uma intervenção de acréscimo no mesmo edifício ou no seu
   entorno imediato, visando ao incremento da coerência do conjunto com o

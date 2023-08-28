@@ -39,7 +39,8 @@ title: '<span style="text-decoration: line-through;">Arquitetura e Urbanismo no 
   Transição do século. Belém e Pelotas. Ciclos da borracha e da carne.
 - Art nouveau
 - Arquitetura do ferro: Urbanização, industrialização e pré-fabricação.
-  A crise da linguagem. Técnica x estética. Beaux arts e politécnica.
+  A crise da linguagem. Técnica x estética. Beaux arts e
+  politécnica.
 
 # Programa 2018 #
 
@@ -145,16 +146,8 @@ Leitura
     </div>
     :::
 
-[19 março - 25 março]{.hidden .sectionname}
 
-::: {.content}
-
-### 19 março - 25 março {#março---25-março .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
-
-### [Colonização dos territórios portugueses](https://aprender.ead.unb.br/mod/book/view.php?id=360509 "Colonização dos territórios portugueses"){.autolink} {#formação-dos-territórios-luso-brasileiros-e-o-império-português}
+### Colonização dos territórios portugueses
 
 -   Urbanização de Portugal desde o século XIV e as vilas reais;
 -   Colonização do Brasil no contexto da rede territorial portuguesa do
@@ -177,8 +170,6 @@ Leitura complementar
     cidade. **Anais:** Seminário de História da Cidade e do
     Urbanismo, v. 6, n. 3, 1 ago. 2012
 
-:::
-:::
 
 -   ::: {#module-360509}
     <div>
@@ -263,18 +254,8 @@ Leitura complementar
 
     </div>
     :::
-:::
 
-[26 março - 1 abril]{.hidden .sectionname}
-
-::: {.content}
-
-### 26 março - 1 abril {#março---1-abril .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
-
-### Territórios no leste da América do Sul até o século XVI[](https://aprender.ead.unb.br/mod/resource/view.php?id=208579) {#territórios-e-arquiteturas-indígenas}
+### Territórios no leste da América do Sul até o século XVI
 
 -   Caminhos e redes territoriais
 -   Manejo florestal
@@ -298,8 +279,6 @@ Leitura complementar
     Disponível
     em: <https://www.cambridge.org/core/product/identifier/S0003598X00099373/type/journal_article>
 
-:::
-:::
 
 -   ::: {#module-208625}
     <div>
@@ -333,16 +312,6 @@ Leitura complementar
 
     </div>
     :::
-:::
-
-[2 abril - 8 abril]{.hidden .sectionname}
-
-::: {.content}
-
-### 2 abril - 8 abril {#abril---8-abril .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Urbanização no litoral atlântico da África {#urbanização-na-costa-da-mina-e-arquitetura-do-açúcar}
 
@@ -366,8 +335,6 @@ Leitura complementar
     em: <http://portal.iphan.gov.br/uploads/publicacao/RevPat07_m.pdf>.
     Acesso em: 17 ago. 2017.
 
-:::
-:::
 
 -   ::: {#module-356827}
     <div>
@@ -427,16 +394,6 @@ Leitura complementar
 
     </div>
     :::
-:::
-
-[9 abril - 15 abril]{.hidden .sectionname}
-
-::: {.content}
-
-### 9 abril - 15 abril {#abril---15-abril .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Morada senhorial luso-brasileira {#sertanismo-e-ocupação-urbana-morada-paulista}
 
@@ -456,20 +413,8 @@ Leitura complementar
     Históricos**, v. 29, n. 57, p. 235--262, abr. 2016. Disponível em:
     \<<http://dx.doi.org/10.1590/S0103-21862016000100013>\>. Acesso em:
     22 ago. 2017.
-:::
-:::
-:::
 
-[16 abril - 22 abril]{.hidden .sectionname}
-
-::: {.content}
-
-### 16 abril - 22 abril {#abril---22-abril .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
-
-### [Arquitetura religiosa: epítome do « estilo colonial »](https://aprender.ead.unb.br/mod/resource/view.php?id=221201) {#arquitetura-jesuítica-e-aldeamentos-missionários}
+### Arquitetura religiosa: epítome do « estilo colonial »
 
 -   Arquitetura jesuítica e franciscana: maneirismo e « estilo chão »
 -   Autenticidade e originalidade da arquitetura brasileira no discurso
@@ -488,20 +433,8 @@ Leitura
     p. 33--41, 2001.
 :   MACHADO, Lourival Gomes. Viagem a Ouro Preto In: *Barroco mineiro*.
     São Paulo: Perspectiva, p. 177--189, 1973.
-:::
-:::
-:::
 
-[23 abril - 29 abril]{.hidden .sectionname}
-
-::: {.content}
-
-### 23 abril - 29 abril {#abril---29-abril .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
-
-### [Rede urbana na América portuguesa](https://aprender.ead.unb.br/mod/resource/view.php?id=221441) {#traçados-urbanos-em-regiões-de-mineração}
+### Rede urbana na América portuguesa
 
 -   Reformulação da administração territorial na colônia
 -   Traçados urbanos: paradigmas do arraial e do risco "na sua
@@ -515,8 +448,6 @@ Leitura
     territórios urbanos nas minas setecentistas. *Anais do Museu
     Paulista:* História e Cultura Material, v. 20, n. 1, p. 77--108,
     jun. 2012. Disponível em: <http://ref.scielo.org/b5xz69>
-:::
-:::
 
 -   ::: {#module-370203}
     <div>
@@ -815,20 +746,10 @@ Leitura
 
     </div>
     :::
-:::
-
-[30 abril - 6 maio]{.hidden .sectionname}
-
-::: {.content}
-
-### 30 abril - 6 maio {#abril---6-maio .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ## Unidade II Arquitetura brasileira
 
-### [Arte e arquitetura na consolidação do Antigo Regime](https://aprender.ead.unb.br/mod/book/view.php?id=374749 "Arte e arquitetura na consolidação do Antigo Regime"){.autolink} {#rio-de-janeiro-capital-arte-e-cultura-urbana}
+### Arte e arquitetura na consolidação do Antigo Regime
 
 -   O lugar das artes plásticas na cultura portuguesa
 -   Arte sacra na época do "alinhamento a Roma"
@@ -839,8 +760,6 @@ Leitura
 :   ROCHA-PEIXOTO, G. **Reflexos das Luzes na terra do Sol:** Sobre a
     Teoria da Arquitetura no Brasil da Independência, 1808-1831. São
     Paulo: ProEditores, p. 136--156, 2000.
-:::
-:::
 
 -   ::: {#module-374749}
     <div>
@@ -918,18 +837,8 @@ Leitura
 
     </div>
     :::
-:::
 
-[7 maio - 13 maio]{.hidden .sectionname}
-
-::: {.content}
-
-### 7 maio - 13 maio {#maio---13-maio .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
-
-### [Belas-artes e arquitetura oficial na crise do Antigo Regime](https://aprender.ead.unb.br/mod/book/view.php?id=375774 "Belas-artes e arquitetura oficial na crise do Antigo Regime"){.autolink} {#a-missão-artística-francesa}
+### Belas-artes e arquitetura oficial na crise do Antigo Regime
 
 -   Sistematização das Belas-artes e da técnica
 -   Arquitetura cívica
@@ -941,8 +850,6 @@ Leitura básica
 :   MORALES DE LOS RÍOS Filho, Adolfo. **Grandjean de Montigny e a
     evolução da arte brasileira.** Rio de Janeiro: A Noite, p.
     144--161, 1943.
-:::
-:::
 
 -   ::: {#module-375774}
     <div>
@@ -971,18 +878,8 @@ Leitura básica
 
     </div>
     :::
-:::
 
-[14 maio - 20 maio]{.hidden .sectionname}
-
-::: {.content}
-
-### 14 maio - 20 maio {#maio---20-maio .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
-
-### [Arquitetura senhorial no século XIX](https://aprender.ead.unb.br/mod/resource/view.php?id=229153) {#arquitetura-rural-no-sudeste-do-império}
+### Arquitetura senhorial no século XIX
 
 -   Introdução e expansão da cafeicultura
 -   Transformações na configuração das fazendas
@@ -994,18 +891,6 @@ Leitura
     34, p. 84--103, dez. 2000. Disponível
     em: <https://www.academia.edu/6835279/AS_PINTURAS_PARIETAIS_DE_JOS%C3%89_MARIA_VILLARONGA_NO_SOBRADO_AGUIAR_VALLIM_BANANAL_1a_Parte_Revista_SINOPSES_n_34>.
     Acesso em: 27 mai. 2015
-:::
-:::
-:::
-
-[21 maio - 27 maio]{.hidden .sectionname}
-
-::: {.content}
-
-### 21 maio - 27 maio {#maio---27-maio .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Dinâmicas urbanas e formação de freguesias
 
@@ -1020,8 +905,6 @@ Leitura
     1, p. 59--97. Disponível
     em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142005000100003&lng=pt&nrm=iso>.
     Acesso em: 16 set. 2013.
-:::
-:::
 
 -   ::: {#module-338378}
     <div>
@@ -1044,30 +927,9 @@ Leitura
 
     </div>
     :::
-:::
-
-[28 maio - 3 junho]{.hidden .sectionname}
-
-::: {.content}
-
-### 28 maio - 3 junho {#maio---3-junho .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Diversificação da arquitetura urbana
-:::
-:::
-:::
 
-[4 junho - 10 junho]{.hidden .sectionname}
-
-::: {.content}
-
-### 4 junho - 10 junho {#junho---10-junho .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ## Unidade III O « Brasil » como problema arquitetônico
 
@@ -1079,18 +941,6 @@ Leitura
     artístico
 -   Brasileiros no exterior e estrangeiros no Brasil
 -   Paisagem como fulcro da « arte nacional »
-:::
-:::
-:::
-
-[11 junho - 17 junho]{.hidden .sectionname}
-
-::: {.content}
-
-### 11 junho - 17 junho {#junho---17-junho .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Novas capitais e reformas urbanas nos séculos XIX e XX {#novas-capitais-do-século-xix}
 
@@ -1102,18 +952,6 @@ Leitura
 :   SALGUEIRO, H. A. (Org.). *Cidades capitais do século
     XIX:* racionalidade, cosmopolitismo e transferência de modelos. São
     Paulo: Edusp, 2001.
-:::
-:::
-:::
-
-[18 junho - 24 junho]{.hidden .sectionname}
-
-::: {.content}
-
-### 18 junho - 24 junho {#junho---24-junho .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Modernidade: vilas operárias, prédios altos e palacetes urbanos
 
@@ -1121,35 +959,11 @@ Leitura
 -   Arquitetura ferroviária e a introdução dos sistemas construtivos
     industrializados
 -   Vilas operárias e regulamentação das habitações populares
-:::
-:::
-:::
-
-[25 junho - 1 julho]{.hidden .sectionname}
-
-::: {.content}
-
-### 25 junho - 1 julho {#junho---1-julho .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Monumentalidade e erudição
 
 -   Novos tipos de edifícios públicos e coletivos
 -   Ecletismo na arquitetura residencial
-:::
-:::
-:::
-
-[2 julho - 8 julho]{.hidden .sectionname}
-
-::: {.content}
-
-### 2 julho - 8 julho {#julho---8-julho .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Arquitetura nacional do neocolonial ao art déco
 
@@ -1157,20 +971,6 @@ Leitura
     estrangeiros
 -   Heranças mourisca e indígena e influências norteamericanas
 -   Art déco e classicismo no contexto dos debates sobre o nacionalismo
-:::
-:::
-:::
-
-[9 julho - 15 julho]{.hidden .sectionname}
-
-::: {.content}
-
-### 9 julho - 15 julho {#julho---15-julho .sectionname}
-
-::: {.summary}
-::: {.no-overflow}
 
 ### Entrega final do memorial dos trabalhos da disciplina
-:::
-:::
-:::
+
