@@ -2,9 +2,9 @@
 title: "Casa e loja"
 date: 2023-10-26
 header:
-  teaser: /assets/media/320px-br-pe-recife-r_cruz-schlappriz-carls-1863.jpg
-  overlay_image: /assets/media/br-pe-recife-r_cruz-schlappriz-carls-1863.jpg
-  caption: "Luís Schlappriz (desenho) e F. C. Carls (litografia), [Rua da Cruz](https://www.brasilianaiconografica.art.br/obras/18520/rua-da-cruz), Recife, 1863"
+  teaser: /assets/media/320px-abigail-mundo-novo.jpg
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/24/Abigail_de_Andrade\,_1888\,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg
+  caption: "Abigail de Andrade, [Estrada do Mundo Novo com o Pão de Açúcar ao fundo](https://commons.wikimedia.org/wiki/File:Abigail_de_Andrade,_1888,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg), 1888"
 excerpt: >
   Substrato mediterrâneo e europeu. Tipos e módulos das casas
   rurais e urbanas. Sua evolução convergente.

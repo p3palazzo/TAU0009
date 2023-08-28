@@ -1,5 +1,5 @@
 ---
-title: "Igrejas, capelas e ermidas"
+title: "Renascença, barroco e rococó"
 date: 2023-11-23
 category: Linguagens
 header:

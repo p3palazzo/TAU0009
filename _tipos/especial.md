@@ -2,9 +2,9 @@
 title: "Casas especializadas"
 date: 2023-11-16
 header:
-  teaser:
-  overlay_image:
-  caption:
+  teaser: /assets/media/320px-br-rj-rj-teatro-rossio-arago.jpg
+  overlay_image: /assets/media/br-rj-rj-teatro-rossio-arago.jpg
+  caption: "Jacques Arago, [Vista do teatro na praça do Rossio, Rio de Janeiro](https://www.brasilianaiconografica.art.br/obras/18145/avue-de-la-salle-de-spetacle-sur-la-place-do-rocio-a-rio-de-janeiro), 1825"
 excerpt: >
   Habitação coletiva e modernização dos modos de morar. Sanitarismo
   e tecnicismo. Paisagens industriais.
