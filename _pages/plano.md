@@ -28,16 +28,16 @@ no Brasil e no mundo atlântico de influência portuguesa.
 
 ## Específicos ##
 
-1. Desenvolver elementos constituintes da pesquisa histórica em
-   arquitetura e urbanismo, situando o ambiente construído no contexto
-   das relações sociais, políticas e econômicas atinentes à sua produção
-   e uso.
-
-2. Conhecer os fundamentos teóricos e técnicos da preservação,
+1. Conhecer os fundamentos teóricos e técnicos da preservação,
    conservação e restauro de bens imóveis, desde a análise arqueológica
    da sua materialidade até a reconstituição do seu processo histórico,
    empregando com desenvoltura o vocabulário da construção e da cidade
-   luso-brasileira tradicional e contemporânea;
+   luso-brasileira tradicional e contemporânea.
+
+2. Desenvolver elementos constituintes da pesquisa histórica em
+   arquitetura e urbanismo, situando o ambiente construído no contexto
+   das relações sociais, políticas e econômicas atinentes à sua produção
+   e uso.
 
 3. Ser capaz de intervir no ambiente construído da nossa região em
    harmonia com as suas tradições vernáculas e eruditas, bem como com o
