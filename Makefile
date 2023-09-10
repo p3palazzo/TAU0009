@@ -30,8 +30,8 @@ serve : bibliografias
 	bundle exec jekyll serve --future
 
 _includes/%.html : _data/%.json _data/chicago-note-bibliography.csl
-	@pandoc -f csljson --citeproc -Mlang=pt_BR \
-		--csl=_data/chicago-note-bibliography.csl \
+	@$(PANDOC) -f csljson --citeproc -Mlang=pt_BR \
+		--csl=$(word 2,$^) \
 		-o $@ $<
 	@echo "🔄 $@"
 
