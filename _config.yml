@@ -178,6 +178,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - Makefile
   - node_modules
   - package.json
   - package-lock.json
