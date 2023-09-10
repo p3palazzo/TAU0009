@@ -698,7 +698,7 @@ references:
   ISBN: 978-85-7579-047-2
   issued:
     - year: 2003
-  language: pt-BR
+  language: pt
   publisher: 'Universidade Estácio de Sá : Editora Rio'
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -807,7 +807,7 @@ references:
   issued:
     - year: 2012
       month: 6
-  language: pt-BR
+  language: pt
   page: 321-361
   source: DOI.org (Crossref)
   title: >-
@@ -1898,7 +1898,7 @@ references:
   genre: Dissertação (Mestrado em Arquitetura e Urbanismo)
   issued:
     - year: 1994
-  language: pt-BR
+  language: pt
   publisher: Universidade de São Paulo
   publisher-place: São Paulo
   title: >-
@@ -3057,7 +3057,7 @@ references:
   event-place: Recife
   issued:
     - year: 1977
-  language: pt-BR
+  language: pt
   publisher: Universidade Federal de Pernambuco
   publisher-place: Recife
   source: Open WorldCat
@@ -3885,7 +3885,7 @@ references:
   ISBN: 978-85-65358-84-2
   issued:
     - year: 2015
-  language: pt-BR
+  language: pt
   publisher: B4
   publisher-place: São Paulo
   source: K10plus ISBN
@@ -4260,7 +4260,7 @@ references:
   ISBN: 978-85-232-0923-0 978-85-232-0772-4
   issued:
     - year: 2011
-  language: pt-BR
+  language: pt
   publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
@@ -4845,7 +4845,7 @@ references:
   genre: Dissertação de Mestrado em Arquitetura e Urbanismo
   issued:
     - year: 2012
-  language: pt-BR
+  language: pt
   publisher: Universidade Federal de Santa Catarina
   publisher-place: Florianópolis
   title: >-
@@ -5001,7 +5001,7 @@ references:
   ISBN: 978-85-232-1043-4
   issued:
     - year: 2013
-  language: pt-BR
+  language: pt
   publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
@@ -5039,7 +5039,7 @@ references:
     - year: 2017
       month: 2
       day: 25
-  language: pt-BR
+  language: pt
   license: Direitos autorais 2017 Universidade Estadual de Feira de Santana
   number: '1'
   page: 9-26
@@ -5076,13 +5076,13 @@ references:
     - family: Ribeiro
       given: Nelson Pôrto
   citation-key: ribeiro:2011contributo
-  container-title: <span class="smallcaps">ANPUH:</span> 50 Anos
+  container-title: <span smallcaps="smallcaps">ANPUH:</span> 50 Anos
   event-place: São Paulo
-  event-title: <span class="smallcaps">XXVI</span> Simpósio Nacional de História
+  event-title: <span smallcaps="smallcaps">XXVI</span> Simpósio Nacional de História
   issued:
     - year: 2011
-  language: pt-BR
-  publisher: <span class="smallcaps">ANPUH</span>
+  language: pt
+  publisher: <span smallcaps="smallcaps">ANPUH</span>
   publisher-place: São Paulo
   title: Contributo para uma 'História da Construção' no Brasil
   type: paper-conference
@@ -5654,7 +5654,7 @@ references:
     - year: 2013
       month: 6
       day: 5
-  language: pt-BR
+  language: pt
   license: Acesso Aberto
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasília
@@ -6310,7 +6310,7 @@ references:
   issued:
     - year: 2011
       month: 12
-  language: pt-BR
+  language: pt
   page: 547-556
   source: SciELO
   title: O desenho e a história da técnica na arquitetura do Brasil colonial
@@ -6581,7 +6581,7 @@ references:
   event-place: Belo Horizonte
   issued:
     - year: 1979
-  language: pt-BR
+  language: pt
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
   source: Open WorldCat
