@@ -6,10 +6,15 @@ header:
   teaser: /assets/media/320px-Livro_das_Fortalezas_25_Elvas.jpg
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/2560px-Livro_das_Fortalezas_25-_Elvas.jpg
   caption: "Duarte d'Armas, [*Livro das Fortalezas* fl. 25: Elvas](https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_25-_Elvas.jpg), 1509–1510"
-excerpt: >
+excerpt: |
   Origens da urbanização luso-brasileira e padrões tradicionais
   de parcelamento do solo desde a Idade Média até o século
   <span class="smallcaps">XVIII</span>.
+
+  <dl>
+    <dt>Leitura</dt>
+    <dd>Teixeira, Manuel C. <em>A forma da cidade de origem portuguesa</em>. São Paulo: Unesp : Imprensa Oficial do Estado, 2012.</dd>
+  </dl>
 ---
 
 
@@ -35,8 +40,6 @@ América.
 
 ## Urbanização romana e islâmica ##
 
-* * * * * *
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Reconstituição digital de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png){#fig:ammaia-3d .r-stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -49,19 +52,14 @@ América.
 
 * * * * * *
 
-![Reconstituição de Conimbriga, Lusitânia romana, por [Jean-Claude Golvin](https://jeanclaudegolvin.com/conimbriga/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/portugal-conimbriga-vue-generale-jc-golvin.jpg){#fig:conimbriga .r-stretch}
+![Reconstituição de Conimbriga, Lusitânia romana, por [Jean-Claude Golvin](https://jeanclaudegolvin.com/conimbriga/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/portugal-conimbriga-vue-generale-jc-golvin.jpg){#fig:conimbriga .r-stretch .outset}
 
 * * * * * *
 
-:::::::::::::::::::::::::::::::::::::::: {#fig:evora-3d .iframe-wrapper}
-<iframe src="https://player.vimeo.com/video/125300716?h=a01a2912f1&color=fffff5&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<a href="https://vimeo.com/125300716">&Eacute;vora 3D - Y&aacute;bura Project</a> por <a href="https://vimeo.com/user35396652">Gustavo Val-Flores</a>, 2015
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Urbanismo arabizado e *des-arabizado* ##
 
-Tecidos arabizados nos séculos VIII a X, tais como
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tecidos arabizados nos séculos [VIII]{.smallcaps} a [X]{.smallcaps}, tais como
 a Alfama lisboeta ou o centro de Évora, formaram-se pela
 sedimentação e hierarquização da malha viária romana
 preexistente (@fig:evora). O traçado castrense de ruas pouco
@@ -74,9 +72,17 @@ segundo a abrangência de seu uso. Em alguns casos, é
 possível reconstituir um padrão de reparcelamento do solo
 com lotes compactos, afeito à construção de moradas
 introvertidas e dotadas de pátio central.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Perímetro da cidade romana de Évora evidenciando a sedimentação do traçado romano. Editado pelo autor com base em mapa de Cristóvão Aires, 1902 [@aires:1902historia1, XII]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Perímetro da cidade romana de Évora evidenciando a sedimentação do traçado romano. Editado pelo autor com base em mapa de [Cristóvão Aires, 1902][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/600px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+[Cristóvão Aires, 1902]: http://id.bnportugal.gov.pt/bib/catbnp/755897
+
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O sistema de hierarquia viária e parcelamento do solo
 característico da arabização cultural e política da
 península Ibérica constitui mais um tipo de substrato que
@@ -89,7 +95,9 @@ políticas do poder vigente e ao sistema de referenciais
 técnicos que este poder detém.
 O modo arabizado de estruturar o espaço urbano resultava, na
 península Ibérica, numa ordem urbana em três níveis:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 1. Alcáçova, sinalizando o centro do poder político
    e demarcando a presença islâmica por excelência, é o
    núcleo fortificado dominante do conjunto urbano, podendo
@@ -108,6 +116,7 @@ península Ibérica, numa ordem urbana em três níveis:
    cerca, organizavam-se mais nitidamente em função de
    atividades econômicas --- comércio e artesanato --- do
    que em torno de equipamentos e atividades comunitárias.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [^almedina]: A terminologia urbanística de al-Ândalus
   é notoriamente inconsistente. Mazzoli-Guintard alerta
@@ -120,6 +129,9 @@ península Ibérica, numa ordem urbana em três níveis:
   o papel político da alcáçova
   [@mazzoli-guintard:2000ciudades, p. 25, 35].
 
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A reurbanização árabe do substrato romano formou, portanto,
 característicos sistemas de distritos com elevada identidade
 formal e social, sendo amplamente autogeridos pelas
@@ -138,14 +150,18 @@ Esse modo de organizar a gestão do espaço urbano, antes que
 a sua forma, resultou numa configuração de ruas principais
 delimitando extensas *quadras* pouco permeáveis, por sua vez
 subdivididas por sistemas secundários de adarves e largos
-para formar *blocos* de lotes e casas.
+para formar *quarteirões* de lotes e casas.
 Os pontos focais dessas quadras são cruzamentos ou pequenos
 largos onde se situavam equipamentos comunitários, tais como
 bicas ou locais de culto, e por vezes algum comércio
-[@mazzoli-guintard:2000ciudades, p. 98].
+[@mazzoli-guintard:2000ciudades, p. 98] (@fig:espirito).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-----------------------
+![Largo e chafariz do Espírito Santo, Marvão, Alto Alentejo. Foto: [Pedro P. Palazzo, 2018](https://commons.wikimedia.org/wiki/File:Chafariz_do_Espírito_Santo_\(43371863604\).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chafariz_do_Espírito_Santo_\(43371863604\).jpg/1024px-Chafariz_do_Espírito_Santo_\(43371863604\).jpg){#fig:espirito .outset}
 
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Como seria de se esperar, dada a persistência dos traçados
 viários na longa duração [@lavedan:1926questce],
 essa característica segregação espacial em vários níveis
@@ -155,12 +171,12 @@ Para além da resiliência de traçados preexistentes, todavia,
 a lógica de distritos circundados por um traçado
 estruturador e contendo, em seu interior, um traçado viário
 secundário, continuou a comparecer em sítios urbanos
-portugueses fundados ou ocupados dos séculos XIII e XIV em
+portugueses fundados ou ocupados dos séculos [XIII]{.smallcaps} e [XIV]{.smallcaps} em
 diante.
 
 A judiaria de Castelo de Vide, assentamento extramuros
-atestado no século XIV, é um dos mais antigos exemplares de
-urbanização na forma de uma *quadra de blocos* no reino de
+atestado no século [XIV]{.smallcaps}, é um dos mais antigos exemplares de
+urbanização na forma de uma *quadra de quarteirões* no reino de
 Portugal da dinastia afonsina.
 O distrito é nitidamente delimitado ao sul pela rua de Santa
 Maria, traçado estruturador do crescimento urbano sobre
@@ -170,15 +186,98 @@ A malha viária interna ao distrito converge num largo
 central onde se situa uma bica (@fig:vide).
 Já na dinastia de Avis, e num contexto livre das restrições
 espaciais que caracterizam as judiarias, o crescimento do
-núcleo urbano de Angra do Heroísmo, no século XV, resultou
+núcleo urbano de Angra do Heroísmo, no século [XV]{.smallcaps}, resultou
 em configuração semelhante.
 Dois traçados viários estruturadores, aproximadamente
 paralelos, foram conectados por uma rede secundária de
 adarves, "ruas de trás" [@teixeira:2012forma]
 e largos introvertidos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século XV, mostrando o traçado estruturante que delimita um bloco de quadras (sombreados em rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](https://hcommons.org/app/uploads/sites/1001411/2021/05/pt-castelo_vide-judiaria-tracado.png){#fig:vide}
+![Reconstituição da judiaria de Castelo de Vide (Alto Alentejo) no século [XV]{.smallcaps}, mostrando o traçado estruturante que delimita uma quadra de quarteirões (sombreados em rosa) delimitados por ruas da frente (tracejado) e contendo ruas de trás (ruas sem tracejado). Desenho do autor](https://hcommons.org/app/uploads/sites/1001411/2021/05/pt-castelo_vide-judiaria-tracado.png){#fig:vide .outset}
 
+* * * * * * * * * * * *
+
+# Origem e urbanização de Portugal #
+
+## Fundação de Portugal ##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Condado Portucalense no século [XI]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Condado_portucalense_carte-1070-fr.png/397px-Condado_portucalense_carte-1070-fr.png){#fig:portucale .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O território fundador do Condado Portucalense --- parte do
+Reino de Leão no século [IX]{.smallcaps} --- corresponde aproximadamente
+à região delimitada pelos rios Lima, ao norte, e Vouga, ao
+sul, tendo como divisa oriental o rio Douro ([@fig:portucale]).
+A esse território foi agregado, em meados do século [XI]{.smallcaps},
+o antigo Condado de Coimbra, deslocando a fronteira da
+Portugália para o sul até aproximadamente a atual divisa
+entre os distritos de Coimbra e Leiria.
+O núcleo inicial desse território é densamente povoado ao
+longo dos cursos inferiores dos principais rios, no litoral
+atlântico e sobre a principal rota terrestre
+noroeste--sudeste, de origem romana
+[@alarcao:1988dominio, p. 88],
+que liga a sede da diocese em Braga a Coimbra passando por
+Guimarães --- primeira capital do reino de Portugal ---,
+Lamego e Viseu. [@mattoso:2000formacao, p. 12]
+Compreende, também, extensas áreas pouco povoadas, como as
+serras de Trás-os-Montes e da Beira Interior. Trata-se, no
+conjunto, de uma região de clima atlântico --- temperado
+e úmido --- com planícies sedimentares estreitas e encostas
+rochosas predominantemente formadas por maciços de granito
+e xisto. [@moutinho:1995arquitectura, p. 12]
+As conquistas territoriais dos séculos [XIII]{.smallcaps} e [XIV]{.smallcaps} levam
+o estado português a ocupar também as planícies sedimentares
+recentes do Tejo e do Sado, assim como os maciços do Alto
+Alentejo, áreas ricas em calcário e xisto, respectivamente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço urbano português existente por volta da metade do
+século [XIII]{.smallcaps} resulta da sedimentação de traçados de origem
+romana [@coelho:2014tempos, p. 22] e da formação de
+*aldeias-rua* medievais geradas a partir de caminhos
+lineares, [@panerai:2006analise, p. 62]
+bem como da ocupação continuada ou reocupação de outeiros
+com vestígios de povoamento neolítico, céltico ou
+hispano-muçulmano, como em Mértola. [@costa:2015mertola]
+Planos de *castrum* romanos podem ser discernido em traçados
+como os de Braga ([@fig:braga1109]), Bobadela, Coimbra --- a romana Aeminium
+--- assim como nas ruínas de Conimbriga
+(Condeixa-a-Velha) e Ammaia (no concelho de Marvão)
+[@corsi:2013ammaia].
+A sedimentação desses estabelecimentos *castrenses* passa
+pela introdução, durante o período hispano-muçulmano, do
+sistema de *adarves* que organizam aglomerados de casas com
+pátio; estas, por sua vez, são reparceladas após a conquista
+portuguesa em lotes lineares,
+[@trindade:2013urbanismo, p. 68--80]
+As *alcáçovas* implantadas em outeiros, como em Coimbra ou
+Elvas, também são objeto de adensamento pela introdução de
+moradias no interior do recinto murado da cidadela,
+subsistindo a sua sequência de cercas apenas como substrato
+discernível no parcelamento urbanístico.
+[@caniggia:1997analisi, p. 59]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Braga em 1109, com o perímetro abandonado da cidade romana de Bracara Augusta ainda visível. Reconstituição por [César Figueiredo, 2022][]](https://i.pinimg.com/originals/86/79/57/8679573b704593c227a4a902e2da5e4d.jpg){#fig:braga1109 .outset}
+
+[César Figueiredo, 2022]: https://twitter.com/CF_illustration/status/1605581855360573442/photo/1
+
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::: {#fig:evora-3d .iframe-wrapper .outset}
+<iframe class="outset" src="https://player.vimeo.com/video/125300716?h=a01a2912f1&color=fffff5&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://vimeo.com/125300716">&Eacute;vora 3D - Y&aacute;bura Project</a> por <a href="https://vimeo.com/user35396652">Gustavo Val-Flores</a>, 2015
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Se a ocupação urbana hispanomuçulmana operou sobretudo uma
 sedimentação dos traçados e parcelamentos de origem romana,
 a reorganização territorial da conquista portuguesa
@@ -187,8 +286,8 @@ estruturação dos tecidos urbanos.
 Ao mesmo tempo, as práticas urbanísticas que viriam
 a configurar uma "tradição luso-brasileira"
 [@lobo:2012urbanismo] incorporaram aspectos da
-hierarquização do espaço público de extração árabe, assim
-como operaram ajustes graduais em parcelamentos do solo
+hierarquização do espaço público de extração árabe ([@fig:evora-3d]),
+assim como operaram ajustes graduais em parcelamentos do solo
 preexistentes.
 Tais aspectos são mais perceptíveis na cidade portuguesa
 enquanto tipos de substrato
@@ -196,16 +295,18 @@ enquanto tipos de substrato
 do que como práticas persistentes após a conquista.
 Ainda assim, subjazem a concepção da cidade luso-brasileira
 enquanto traçado fragmentado e de baixa acessibilidade
-[@medeiros:2006urbis].
+[@medeiros:2013urbis].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * *
 
 Entretanto, a reorganização territorial da Coroa
 portuguesa sob a dinastia dos Borgonhas, de meados do século
-XIII ao primeiro quartel do XIV [@trindade:2013urbanismo],
-se caracterizou pela introdução de um
-saber fazer urbanístico oriundo do Norte da Europa.
-Esse saber fazer se impôs a tecidos urbanos de origem
-predominantemente romana e apenas parcialmente
-arabizados.
+[XIII]{.smallcaps} ao primeiro quartel do [XIV]{.smallcaps}
+[@trindade:2013urbanismo], se caracterizou pela introdução de um saber
+fazer urbanístico oriundo do Norte da Europa. Esse saber fazer se impôs
+a tecidos urbanos de origem predominantemente romana e apenas
+parcialmente arabizados.
 A política urbanizadora levada a cabo por D. Afonso III e
 D. Dinis (@fig:caminha) apresenta, tanto no processo quanto na morfologia,
 características das coetâneas *bastides* erigidas pelas
@@ -213,6 +314,31 @@ autoridades inglesas e francesas no atual sudoeste da
 França, fundamentalmente redutíveis aos propósitos de
 controle administrativo e militar do território, e de
 expansão da base agrária [@falini:1978politica, p. 99].
+
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tal reformulação não se limitou às vilas de fundação,
+estendendo-se também ao reparcelamento de núcleos urbanos
+preexistentes, aquando da expulsão de comunidades mudéjares
+para os arrabaldes e da ocupação dos espaços intramuros por
+populações cristãs.[^judiarias]
+Aos lotes largos e compactos que permitiam a implantação
+das casas com pátio na tradição árabe-mediterrânica,
+a redistribuição fundiária levada a cabo pelo conquistador
+português substituiu os lotes estreitos e profundos do urbanismo
+norte-atlântico conhecidos como "lotes góticos", mesmo nas ensolaradas
+regiões do Alentejo e do Algarve.
+
+[^judiarias]: Ao contrário do ocorrido com a imediata
+deportação das comunidades muçulmanas para fora dos espaços
+urbanos privilegiados, a reorganização dos espaços
+tradicionalmente ocupados pelas comunidades judaicas em
+verdadeiras judiarias reclusas e fortemente adensadas só se
+efetivaria de finais do século [XIV]{.smallcaps} a meados do [XV]{.smallcaps}
+[@trindade:2013urbanismo, p. 626].
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * * * * * * * *
 
@@ -229,6 +355,7 @@ Desenho: [Pedro P. Palazzo, 2021, com base em reconstituição de Luísa
 Trindade, 2009](https://commons.wikimedia.org/wiki/File:Caminha_plan_13c_ideal.png)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A sobreposição ou justaposição das novas práticas aos
 tecidos históricos interrompeu a vigência de processos de
 transformação urbana de herança hispanomuçulmana, sobretudo
@@ -250,28 +377,13 @@ sobre a subdivisão do solo, mas também, e principalmente,
 a exteriorização de atividades da alçada doméstica
 e comunitária para ruas e largos com um caráter público mais
 marcado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Tal reformulação não se limitou às vilas de fundação,
-estendendo-se também ao reparcelamento de núcleos urbanos
-preexistentes, aquando da expulsão de comunidades mudéjares
-para os arrabaldes e da ocupação dos espaços intramuros por
-populações cristãs.[^judiarias]
-Aos lotes largos e compactos que permitiam a implantação
-das casas com pátio na tradição árabe-mediterrânica,
-a redistribuição fundiária levada a cabo pelo conquistador
-português substituiu os lotes estreitos e profundos do
-urbanismo norte-atlântico, mesmo nas ensolaradas regiões do
-Alentejo e do Algarve.
+## Aldeia--rua e quadra de quarteirões ##
 
-[^judiarias]: Ao contrário do ocorrido com a imediata
-deportação das comunidades muçulmanas para fora dos espaços
-urbanos privilegiados, a reorganização dos espaços
-tradicionalmente ocupados pelas comunidades judaicas em
-verdadeiras judiarias reclusas e fortemente adensadas só se
-efetivaria de finais do século XIV a meados do XV
-[@trindade:2009urbanismo, p. 626].
-
-## Aldeia--rua e quadra de blocos ##
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Formação de tecido urbano por traçado estruturante (ao longo da costa) e traçado de implantação (ruas perpendiculares à costa) em Ponta Delgada, Açores, século [XVI]{.smallcaps}, segundo Sérgio Fernandes, 2014](https://hcommons.org/app/uploads/sites/1002372/2023/08/pt-acores-pdelgada-fernandes-sistemas-lineares-xvi.png){#fig:delgada-xvi .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A urbanização orgânica tradicional em Portugal segue um processo comum a
@@ -282,28 +394,79 @@ percurso estruturante [@panerai:2006analise]. No mais das vezes, essa
 rua estruturante é a extremidade de um percurso de cumeada secundária,
 perto de um vau, ponte, ou outro ponto a ser defendido. Mais raramente,
 pode ser um percurso de contra-cumeada junto a uma encruzilhada ou no
-arrabalde de uma cidade existente, como em Florença
-([@fig:caniggia-maffei-1-29]).
+arrabalde de uma cidade existente, como em Ponta Delgada, nos Açores
+([@fig:delgada-xvi]).
+
+* * * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Formação de tecido urbano por traçado estruturante (ao longo do rio Arno) e traçado de implantação (ruas perpendiculares ao rio) num arrabalde de Florença, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png){#fig:caniggia-maffei-1-29 .line}
+* * * * * * * * * * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Duplicação do tecido estruturante em linhas paralelas de contra-cumeada em Ponta Delgada, Açores, século [XVII]{.smallcaps}, segundo Sérgio Fernandes, 2014](){#fig:delgada-xvii .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As aldeias-rua se originam do traçado elementar
+[@fernandes:2014fundacao, p. 76] formado por um *largo*
+sobre uma estrada troncal geralmente conhecida como a *rua
+direita*, no qual se implanta um
+equipamento coletivo --- oratório, bica, feira evoluindo, em
+tempo, para uma igreja matriz, chafariz, praça comercial...
+A partir do parcelamento do solo em escala urbana ribeirinho
+à estrada troncal e da duplicação desse caminho principal
+formando duas *ruas da frente* mais ou menos paralelas (@fig:delgada-xvii)
+--- pois o processo de urbanização "raramente se efetua sem
+espessura e seguindo uma única linha"
+[@panerai:2006analise, p. 65] --- constitui-se uma área de
+fundos de lotes entre as vias principais, aos quais dá
+acesso uma *rua de trás* paralela às ruas da frente e que
+desemboca nelas através de *travessas*.
+[@teixeira:2012forma, p. 88]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Com o adensamento do espaço urbano, o tecido pode ser
+reparcelado com a criação de novas frentes de lotes voltadas
+para as ruas de trás e, mais raramente, para as travessas.
+Esse processo resulta na formação de "superquadras" ou
+distritos compostos pelos quarteirões parcelados entre as
+ruas da frente, tendo caráter gregário, cívico e comercial
+em seu perímetro e reservado, utilitário e residencial em
+seu interior. [@krier:2009architecture, p. 135]
+Esses distritos frequentemente possuem suas próprias praças
+interiores dotadas de equipamentos de vizinhança, tais como
+bicas ou banhos públicos, especialmente em se tratando de
+áreas controladas, tais como as judiarias e mourarias
+medievais.
+Uma variante do traçado elementar é o traçado fusiforme que,
+adequando-se a uma topografia com forte declividade
+transversal, introduz um par de ruas principais que se
+bifurcam e voltam a se encontrar.
+[@fernandes:2014fundacao, p. 80]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Desenvolvimento de distritos urbanos a partir da derivação do traçado elementar](){#fig:elementar}
+
 
 * * * * * *
 
-:::::::::::::::::::::::::::::::::::::::: {#fig:casdevide .r-stack}
-::: third
+:::::::::::::::::::::::::::::::::::::::: {#fig:casdevide .r-stack .outset}
+::: half
 ![[ocupação inicial do traçado estruturante](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_13c_en_01.png), antes do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment}
 :::
 
-::: third
+::: half
 ![[abertura do traçado de implantação e de ligação](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_14c_en.png), século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment}
 :::
 
-::: third
+::: half
 ![[ocupação das ruas de trás](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_15c_en.png), século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment}
 :::
 
-::: third
+::: half
 ![[fragmentação dos quarteirão perimetral](https://commons.wikimedia.org/wiki/File:Castelo_de_Vide_plan_16c_en.png), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment}
 :::
 
@@ -332,14 +495,14 @@ profundidade mais conveniente, com acesso por novas ruas de trás. Essas
 *ruas de trás*, por sua vez, acabam sendo usadas para abrir novas
 frentes de lotes, com casas menores ou mais resguardadas
 ([@fig:casdevideC]). Finalmente, o miolo das grandes quadras originais
-vai sendo mais uma vez subdividido em blocos menores pela abertura de
+vai sendo mais uma vez subdividido em quarteirões menores pela abertura de
 travessas.
 
 A configuração atual da cidade velha de Castelo de Vide se consolida por
 volta do século [XV]{.smallcaps}, quando já há frentes de lotes voltadas
 para quase todas as ruas e travessas. Especialmente na antiga judiaria,
 a nordeste da rua Direita, encontramos a configuração da "quadra de
-blocos" formada pela hierarquia de ruas da frente, ruas de trás e
+quarteirões" formada pela hierarquia de ruas da frente, ruas de trás e
 travessas [@orr:2018five].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -365,118 +528,17 @@ Table: Equivalência de nomenclaturas de traçados na tipologia processual itali
 | Traçado de ligação     | Travessas (com laterais de lotes)   |
 
 
-# Origem e urbanização de Portugal #
-
-## Fundação de Portugal ##
-
-O território fundador do Condado Portucalense --- parte do
-Reino de Leão no século IX --- corresponde aproximadamente
-à região delimitada pelos rios Lima, ao norte, e Vouga, ao
-sul, tendo como divisa oriental o rio Douro ([@fig:portucale]).
-A esse território foi agregado, em meados do século XI,
-o antigo Condado de Coimbra, deslocando a fronteira da
-Portugália para o sul até aproximadamente a atual divisa
-entre os distritos de Coimbra e Leiria.
-O núcleo inicial desse território é densamente povoado ao
-longo dos cursos inferiores dos principais rios, no litoral
-atlântico e sobre a principal rota terrestre
-noroeste--sudeste, de origem romana
-[@alarcao:1988dominio, p. 88],
-que liga a sede da diocese em Braga a Coimbra passando por
-Guimarães --- primeira capital do reino de Portugal ---,
-Lamego e Viseu. [@mattoso:2000formacao, p. 12]
-Compreende, também, extensas áreas pouco povoadas, como as
-serras de Trás-os-Montes e da Beira Interior. Trata-se, no
-conjunto, de uma região de clima atlântico --- temperado
-e úmido --- com planícies sedimentares estreitas e encostas
-rochosas predominantemente formadas por maciços de granito
-e xisto. [@moutinho:1995arquitectura, p. 12]
-As conquistas territoriais dos séculos XIII e XIV levam
-o estado português a ocupar também as planícies sedimentares
-recentes do Tejo e do Sado, assim como os maciços do Alto
-Alentejo, áreas ricas em calcário e xisto, respectivamente.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Condado Portucalense no século XI](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Condado_portucalense_carte-1070-fr.png/397px-Condado_portucalense_carte-1070-fr.png){#fig:portucale .nobg}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-O espaço urbano português existente por volta da metade do
-século XIII resulta da sedimentação de traçados de origem
-romana [@coelho:2014tempos, p. 22] e da formação de
-*aldeias-rua* medievais geradas a partir de caminhos
-lineares, [@panerai:2006analise, p. 62]
-bem como da ocupação continuada ou reocupação de outeiros
-com vestígios de povoamento neolítico, céltico ou
-hispano-muçulmano, como em Mértola. [@costa:2015mertola]
-Planos de *castrum* romanos podem ser discernido em traçados
-como os de Braga, Bobadela, Coimbra --- a romana Aeminium ([@fig:aeminium])
---- assim como nas ruínas de Conimbriga
-(Condeixa-a-Velha) e Ammaia (no concelho de Marvão)
-[@corsi:2013ammaia].
-A sedimentação desses estabelecimentos *castrenses* passa
-pela introdução, durante o período hispano-muçulmano, do
-sistema de *adarves* que organizam aglomerados de casas com
-pátio; estas, por sua vez, são reparceladas após a conquista
-portuguesa em lotes lineares,
-[@trindade:2009urbanismo, p. 68--80]
-As *alcáçovas* implantadas em outeiros, como em Coimbra ou
-Elvas, também são objeto de adensamento pela introdução de
-moradias no interior do recinto murado da cidadela,
-subsistindo a sua sequência de cercas apenas com substrato
-discernível no parcelamento urbanístico.
-[@caniggia:1997analisi, p. 59]
-
-![Traçado romano de Aeminium reconstituído sob a malha urbana atual de Coimbra](../6060-figuras/0202-aeminium.png){#fig:aeminium}
-
-Já as aldeias-rua se originam do traçado elementar
-[@fernandes:2014fundacao, p. 76] formado por um *largo*
-sobre uma estrada troncal geralmente conhecida como a *rua
-direita*, no qual se implanta um
-equipamento coletivo --- oratório, bica, feira evoluindo, em
-tempo, para uma igreja matriz, chafariz, praça comercial...
-A partir do parcelamento do solo em escala urbana ribeirinho
-à estrada troncal e da duplicação desse caminho principal
-formando duas *ruas da frente* mais ou menos paralelas
---- pois o processo de urbanização "raramente se efetua sem
-espessura e seguindo uma única linha"
-[@panerai:2006analise, p. 65] --- constitui-se uma área de
-fundos de lotes entre as vias principais, aos quais dá
-acesso uma *rua de trás* paralela às ruas da frente e que
-desemboca nelas através de *travessas*.
-[@teixeira:2012forma, p. 88]
-
-Com o adensamento do espaço urbano, o tecido pode ser
-reparcelado com a criação de novas frentes de lotes voltadas
-para as ruas de trás e, mais raramente, para as travessas.
-Esse processo resulta na formação de "superquadras" ou
-distritos compostos pelos quarteirões parcelados entre as
-ruas da frente, tendo caráter gregário, cívico e comercial
-em seu perímetro e reservado, utilitário e residencial em
-seu interior. [@krier:2009architecture, p. 135]
-Esses distritos frequentemente possuem suas próprias praças
-interiores dotadas de equipamentos de vizinhança, tais como
-bicas ou banhos públicos, especialmente em se tratando de
-áreas controladas, tais como as judiarias e mourarias
-medievais.
-Uma variante do traçado elementar é o traçado fusiforme que,
-adequando-se a uma topografia com forte declividade
-transversal, introduz um par de ruas principais que se
-bifurcam e voltam a se encontrar.
-[@fernandes:2014fundacao, p. 80]
-
-![Desenvolvimento de distritos urbanos a partir da derivação do traçado elementar](../6060-figuras/0203-elementar.png){#fig:elementar}
-
 
 ## Expansão territorial e colonização ##
 
 Configurando-se inicialmente como um condado de fronteira já
-no século IX, Portugal é um estado expansionista às custas
+no século [IX]{.smallcaps}, Portugal é um estado expansionista às custas
 de todos os reinos vizinhos, desde sua emancipação do Reino
 de Leão em 1096, sob o conde e rei D. Afonso Henriques,
 passando pela rápida campanha de conquistas militares sobre
 o reino de Badajoz e o império Almôada, que conduz à conquista
 de Lisboa e Santarém --- principais centros urbanos do Sul
---- já em meados do século XII
+--- já em meados do século [XII]{.smallcaps}
 [@mattoso:2000formacao, p. 12] e até o confronto sucessório
 e territorial com Castela, culminando na vitória portuguesa
 em Aljubarrota em 1385.
@@ -492,7 +554,7 @@ Mais ainda, a consolidação da independência portuguesa abre
 oportunidades para a expansão territorial para além do
 Algarve, sobre as ilhas do Atlântico Norte e a costa do
 Marrocos, já planejada, senão executada, desde meados do
-século XIV. [@sousa:2009idade, p. 253]
+século [XIV]{.smallcaps}. [@sousa:2009idade, p. 253]
 
 Desde 1250, e principalmente sob os reis Afonso III
 (1238--1253), D. Dinis (1279--1325) e Fernando I
@@ -501,7 +563,7 @@ colonizadora do território ancorada em dois mecanismos
 paralelos: de 1250 a 1325, a instituição de *cidades de
 fundação*, povoações planejadas à semelhança das *bastides*
 francesas, visando ao controle militar e administrativo de
-zonas de fronteira, [@trindade:2009urbanismo, p. 9]
+zonas de fronteira, [@trindade:2013urbanismo, p. 9]
 e, a partir de 1375, a *Lei das Sesmarias* editada por D.
 Fernando I, determinando o povoamento do espaço rural para
 o incremento da produção de alimentos ao complementar os
@@ -510,13 +572,13 @@ a particulares. [@sousa:2009idade, p. 262]
 
 A vila de fundação aproxima-se do paradigma comum
 a diversas povoações castelãs planejadas na Europa a partir
-do século XII: implantada sobre um outeiro, a vila
+do século [XII]{.smallcaps}: implantada sobre um outeiro, a vila
 fortificada tem configuração linear, determinada
 por duas ou mais ruas da frente acompanhando a linha de
 cumeada e enquadrando entre si as ruas de trás que, nesse
 caso, são prefiguradas e não resultado do adensamento
 gradual.
-[@trindade:2009urbanismo, p. 170]
+[@trindade:2013urbanismo, p. 170]
 O traçado regulador da malha viária frequentemente conduz do
 castelo, implantado numa das cabeceiras da vila, até
 o expansivo *terreiro*, por isso mesmo situado extramuros,
@@ -530,19 +592,28 @@ crescem organicamente a partir do traçado elementar
 [@teixeira:2012forma, p. 90] --- por 50 de fundos,
 confrontando ruas da frente, de trás e travessas com 30, 20
 e 10 palmos de largura, respectivamente.
-[@trindade:2009urbanismo, p. 196]
+[@trindade:2013urbanismo, p. 196]
 Em tempo, urbaniza-se um subúrbio em volta do terreiro, que
 passa a ser parcialmente ocupado por estalagens permanentes,
 dando origem ao característico parcelamento das *praças do
 comércio*, com lotes estreitos, densamente edificados
 e desprovidos de ruas de trás.
 
+* * * * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Angra do Heroísmo, Açores, mapa por [J. Baptista Amorim de Freitas, 1870][]. Linha cheia: traçado estruturante espontâneo, linhas pontilhadas: traçado de implantação planejado](https://hcommons.org/app/uploads/sites/1002372/2023/08/pt-acores-angra-estruturante.jpg){#fig:angra}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[J. Baptista Amorim de Freitas, 1870]: https://purl.pt/1399
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ambos os paradigmas da urbanização portuguesa medieval ---
 a aldeia-rua e a vila de fundação --- fazem-se presentes na
 expansão ultramarina de Portugal, por vezes
 concomitantemente num mesmo tecido urbano.
 A colonização dos arquipélagos da Madeira, conhecido desde
-o século XIV, e dos Açores, explorado no início do XV,
+o século [XIV]{.smallcaps}, e dos Açores, explorado no início do [XV]{.smallcaps},
 inicia-se efetivamente em 1425 e 1439, respectivamente.
 [@sousa:2009idade, p. 385]
 A implantação de portos urbanizados nessas ilhas segue
@@ -561,12 +632,14 @@ Praia (Ilha de Santiago, arquipélago do Cabo Verde),
 fundadas respectivamente em 1474 e 1615, observa-se
 a combinação de ambos os paradigmas: um núcleo planejado
 apiado sobre um traçado elementar.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ponta Delgada, Açores](../6060-figuras/0204-pontadelgada.png){#fig:delgada}
+* * * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na sequência de conquistas militares na costa atlântica do
 Marrocos e de empreendimentos mercantilistas no golfo da
-Guiné, desde a segunda metade do século XV, o controle do
+Guiné, desde a segunda metade do século [XV]{.smallcaps}, o controle do
 litoral por parte dos portugueses dá-se pela edificação de
 *feitorias* --- praças fortes de traçado planejado que não
 estabelecem um controle administrativo ou militar direto
@@ -574,7 +647,7 @@ sobre o interior do território, concentrando-se em
 interditar a navegação e dependendo, portanto, do comércio
 para seu abastecimento.
 A implantação dessas feitorias, iniciada com São Jorge da
-Mina em 1482, responde, portanto,
+Mina em 1482 ([@fig:elmina]), responde, portanto,
 a oportunidades econômicas junto aos reinos africanos com os
 quais a Coroa portuguesa estabelece relações diplomáticas
 e comerciais, diretamente ou por meio de concessões
@@ -592,6 +665,11 @@ conhecimentos adquiridos junto aos etíopes, árabes e malaios
 para estabelecerem rotas de longo curso com poucos pontos de
 apoio no sudeste da África, na península Arábica, na Índia
 e no Sudeste asiático. [@monteiro:2009idade, p. 418]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Hans Propheet, Vista do forte da Mina e castelo de São Tiago, 1629. [Arquivo Nacional dos Países Baixos [AMH-7708-NA]{.smallcaps}][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg/1024px-AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg){#fig:elmina .outset}
+
+[Arquivo Nacional dos Países Baixos [AMH-7708-NA]{.smallcaps}]: https://commons.wikimedia.org/wiki/File:AMH-7708-NA_View_of_the_fort_and_the_roadstead_at_Elmina.jpg
 
 
 # Urbanismo de colina #
@@ -795,7 +873,7 @@ cidade medieval de Lisboa.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O bairro Alto é representativo do urbanismo renascentista em Portugal.
 Aqui, o binômio rua da frente/rua de trás desaparece e não temos mais
-quadras feitas de blocos, como na aldeia--rua medieval
+quadras feitas de quarteirões menores, como na aldeia--rua medieval
 [@teixeira:2012forma]. Em vez disso, só encontramos uma hierarquia de
 direções: as ruas principais, onde temos as testadas de lotes,
 desembocam no traçado estruturante --- a estrada que leva de Lisboa a
@@ -870,7 +948,7 @@ fundada em 1506 --- por trajetos de longo curso como os de
 Vasco da Gama em 1497 e Pedro Álvares Cabral em 1500.
 
 Apesar disso, nenhuma das sucessivas expedições reais
-à costa da América nas duas primeiras décadas do século XVI
+à costa da América nas duas primeiras décadas do século [XVI]{.smallcaps}
 --- Duarte Pacheco em 1498, Cabral em 1500, Gaspar de Lemos
 em 1501, Gonçalo Coelho em 1503, Cristóvão Jacques em
 1516, Martim Afonso de Sousa em 1531 --- chega a
@@ -897,7 +975,7 @@ capitanias hereditárias é original no âmbito da expansão
 ultramarina portuguesa por tratar-se de uma reivindicação
 e conquista de amplos territórios já povoados.
 Esse procedimento contrasta tanto com a colonização dos
-arquipélagos atlânticos desabitados ao longo do século XV,
+arquipélagos atlânticos desabitados ao longo do século [XV]{.smallcaps},
 quanto com o estabelecimento de feitorias e praças fortes
 junto a estados africanos e asiáticos sem ampla conquista
 territorial.
@@ -917,11 +995,11 @@ extensão, de direito e de fato, da organização
 administrativa e espacial do reino de Portugal.
 
 Esse vazio político-territorial, descrito nos mapas
-portugueses dos séculos XVI a XVIII como um *sertão* --- ou
+portugueses dos séculos [XVI]{.smallcaps} a [XVIII]{.smallcaps} como um *sertão* --- ou
 seja, um deserto ---, fabricado pelo próprio ato da
 conquista, permite e legitima um processo de colonização que
 continua devendo muito aos métodos e arcabouços legais dos
-séculos XIII e XIV.
+séculos [XIII]{.smallcaps} e [XIV]{.smallcaps}.
 No entanto, a união das coroas ibéricas, sobrevinda menos de
 cinco décadas após o gradual início dessa política
 urbanizadora por meio da instituição das capitanias
@@ -937,7 +1015,7 @@ A forma das povoações fundadas na costa leste da América do
 Sul --- antes e depois da união Ibérica, sobrevinda em 1580
 --- resulta da combinação parcial e variegada de quatro
 padrões morfológicos portugueses e espanhóis herdados do
-século XV e atualizados segundo as novas técnicas italianas
+século [XV]{.smallcaps} e atualizados segundo as novas técnicas italianas
 de engenharia militar:
 
 (1) O *urbanismo de colina* [@lobo:2012urbanismo], variante
@@ -961,7 +1039,7 @@ de engenharia militar:
 
 Os dois primeiros tipos remontam, como  já foi visto,
 à colonização da península Ibérica pelo reino de Portugal
-nos séculos XIII e XIV, ao passo que os dois últimos
+nos séculos [XIII]{.smallcaps} e [XIV]{.smallcaps}, ao passo que os dois últimos
 representam a incorporação, numa cultura técnica
 e urbanística portuguesa, de elementos da cidade
 renascentista e da técnica militar moderna, a partir de
@@ -1000,7 +1078,7 @@ interstício ou de outros caminhos terrestres.
 Sua inserção no território diz respeito, sobretudo, a formar
 o ponto fulcral de uma rede de cerca de 50 engenhos
 --- a maior concentração de estabelecimentos produtivos em
-todo o litoral do Brasil no século XVII ---
+todo o litoral do Brasil no século [XVII]{.smallcaps} ---
 Gradualmente, o conjunto formado pelas vilas e engenhos
 circundantes passa a ser protegido por um sistema de fortes
 e baterias que alcança desde Itamaracá, ao norte, até o cabo
@@ -1009,7 +1087,7 @@ quilômetros em volta dos núcleos urbanos.
 
 O traçado de Olinda, mais preservado em sua feição original
 do que o do Recife, que foi redesenhado diversas vezes nos
-séculos XVII, XVIII e XIX, evidencia outras características
+séculos [XVII]{.smallcaps}, [XVIII]{.smallcaps} e [XI]{.smallcaps}X, evidencia outras características
 marcantes da urbanização portuguesa no Brasil.
 Uma delas é a articulação entre os estabelecimentos civis
 e religiosos na estruturação do espaço urbano.
@@ -1035,7 +1113,7 @@ da urbanização portuguesa.
 
 * * * *
 
-As duas cidades reais fundadas no Brasil no século XVI,
+As duas cidades reais fundadas no Brasil no século [XVI]{.smallcaps},
 antes da união Ibérica --- Salvador e o Rio de Janeiro ---
 oferecem outras variações dentro dos paradigmas portugueses.
 O traçado originário de Salvador, dado talvez por Luís Dias
@@ -1048,7 +1126,7 @@ frente enquadrando uma rua de trás, e cujas fortificações
 aderem à moderna técnica militar.
 Trata-se de um sistema da maior simplicidade, reminiscente
 na forma e na escala das vilas de fundação erigidas em
-Portugal a partir da segunda metade do século XIII.
+Portugal a partir da segunda metade do século [XIII]{.smallcaps}.
 À guisa de alcáçova, no ponto mais elevado do outeiro,
 implantam-se o palácio dos governadores e a câmara
 municipal, enquadrando um largo sobre a rua Direita.
@@ -1090,7 +1168,7 @@ o Colégio Jesuítico e o Convento de São Francisco, seguindo
 a linha de cumeada descendente até o antigo terreiro
 comercial extramuros --- o atual Largo do Pelourinho ---
 e daí por entre vários conventos e igrejas icônicos,
-construídos nos séculos XVII e XVIII.
+construídos nos séculos [XVII]{.smallcaps} e [XVIII]{.smallcaps}.
 O rápido crescimento urbano para o norte evidencia
 a inserção de Salvador numa lógica territorial dinâmica, na
 qual a densa rede de engenhos do Recôncavo exerce uma
@@ -1117,7 +1195,7 @@ a união política e as práticas urbanísticas espanholas
 deixam marcas na organização territorial e no desenho urbano
 dos espaços portugueses.
 Os traçados urbanos de São Luís e São Cristóvão, ambos
-datados da primeira metade do século XVII, demonstram
+datados da primeira metade do século [XVII]{.smallcaps}, demonstram
 a aplicação de práticas da engenharia espanhola, com uma
 malha viária xadrez sem uma clara hierarquia distinguindo
 ruas da frente e de trás, testadas de lotes nos quatro lados
