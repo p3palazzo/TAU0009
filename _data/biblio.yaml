@@ -316,6 +316,52 @@ references:
   type: book
   URL: http://archive.org/details/diccionariodoste00assu
 
+- id: barjamovic:2019trade134
+  abstract: >-
+    We analyze a large data set of commercial records produced by Assyrian
+    merchants in the nineteenth century BCE. Using the information from these
+    records, we estimate a structural gravity model of long-distance trade in
+    the Bronze Age. We use our structural gravity model to locate lost ancient
+    cities. In many cases, our estimates confirm the conjectures of historians
+    who follow different methodologies. In some instances, our estimates confirm
+    one conjecture against others. We also structurally estimate ancient city
+    sizes and offer evidence in support of the hypothesis that large cities tend
+    to emerge at the intersections of natural transport routes, as dictated by
+    topography. Finally, we document persistent patterns in the distribution of
+    city sizes across four millennia, find a distance elasticity of trade in the
+    Bronze Age close to modern estimates, and show suggestive evidence that the
+    distribution of ancient city sizes, inferred from trade data, is well
+    approximated by Zipf’s law.
+  accessed:
+    - year: 2023
+      month: 8
+      day: 28
+  author:
+    - family: Barjamovic
+      given: Gojko
+    - family: Chaney
+      given: Thomas
+    - family: Coşar
+      given: Kerem
+    - family: Hortaçsu
+      given: Ali
+  citation-key: barjamovic:2019trade134
+  container-title: The Quarterly Journal of Economics
+  DOI: 10.1093/qje/qjz009
+  ISSN: 0033-5533, 1531-4650
+  issue: '3'
+  issued:
+    - year: 2019
+      month: 8
+      day: 1
+  language: en
+  page: 1455-1503
+  source: DOI.org (Crossref)
+  title: Trade, merchants, and the lost cities of the Bronze Age
+  type: article-journal
+  URL: https://academic.oup.com/qje/article/134/3/1455/5420484
+  volume: '134'
+
 - id: bastos:2012urbanismo20
   accessed:
     - year: 2018
