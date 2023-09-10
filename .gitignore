@@ -2,6 +2,7 @@ Gemfile.lock
 _csl/
 _site/
 _downloads/
+_includes/biblio-*.html
 .cache
 .jekyll-cache/
 .jekyll-metadata

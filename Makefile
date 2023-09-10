@@ -4,7 +4,8 @@ VPATH = . assets
 vpath %.bib _bibliography
 vpath %.html . _includes _layouts _site
 vpath %.scss _sass slides/reveal.js/css/theme/template
-vpath %.yaml . _spec _data
+vpath %.yaml . _data
+vpath %.json _data
 
 PANDOC_V := 3.1.1
 JEKYLL_V := 4.2.2
@@ -19,15 +20,26 @@ SASS    = _revealjs-settings.scss \
 # {{{1 Recipes
 #      =======
 .PHONY : _site
-_site :
+_site : bibliografias
 	@echo "####################"
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 .PHONY : serve
-serve :
-	@echo "####################"
-	@docker run --rm -v "`pwd`:/srv/jekyll" \
-		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-		$(JEKYLL) jekyll serve --future
+serve : bibliografias
+	bundle exec jekyll serve --future
+
+_includes/%.html : _data/%.json _data/chicago-note-bibliography.csl
+	@pandoc -f csljson --citeproc -Mlang=pt_BR \
+		--csl=_data/chicago-note-bibliography.csl \
+		-o $@ $<
+	@echo "🔄 $@"
+
+.PHONY : bibliografias
+bibliografias : _includes/biblio-basica.html \
+	_includes/biblio-complementar.html _includes/biblio-dicionarios.html
+
+watch :
+	while sleep 1 ; do ls _data/*.json \
+		| entr -d make bibliografias ; done
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :

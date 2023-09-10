@@ -10,7 +10,7 @@ header:
   caption      : "Johann Moritz Rugendas, [Rua Direita no Rio de Janeiro](https://digitalcollections.nypl.org/items/510d47d9-7b85-a3d9-e040-e00a18064a99), 1835"
 ---
 
-# Apresentação da disciplina #
+<!--# Apresentação da disciplina #-->
 
 # Ementa #
 
