@@ -134,7 +134,7 @@ references:
   source: Open WorldCat
   title: >-
     Ensaio sobre a casa brasileira do século <span
-    smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XIX</span>
   type: book
   URL: >-
     https://openaccess.blucher.com.br/article-list/ensaio-sobre-a-casa-brasileira-do-seculo-xix-324/list
@@ -337,7 +337,7 @@ references:
   source: SciELO
   title: >-
     O urbanismo conveniente luso-brasileiro na formação de povoações em Minas
-    Gerais no século <span smallcaps="smallcaps">XVIII</span>
+    Gerais no século <span class="smallcaps">XVIII</span>
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142012000100008&lng=en&nrm=iso&tlng=pt
@@ -488,7 +488,7 @@ references:
   issued:
     - year: 2007
   language: pt-BR
-  publisher: '<span smallcaps="smallcaps">unesco</span> : Caixa Econômica Federal'
+  publisher: '<span class="smallcaps">unesco</span> : Caixa Econômica Federal'
   publisher-place: Brasília
   source: Open WorldCat
   title: Arquitetura na formação do Brasil
@@ -726,7 +726,7 @@ references:
     - year: 2011
   language: pt
   number-of-pages: '352'
-  publisher: '<span smallcaps="smallcaps">FAPESP</span> : Edusp'
+  publisher: '<span class="smallcaps">FAPESP</span> : Edusp'
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: 'Desenho e desígnio: o Brasil dos engenheiros militares (1500-1822)'
@@ -856,12 +856,12 @@ references:
   issued:
     - year: 1999
   language: pt
-  publisher: <span smallcaps="smallcaps">FAUP</span> Publicações
+  publisher: <span class="smallcaps">FAUP</span> Publicações
   publisher-place: Porto
   source: Open WorldCat
   title: >-
     A casa rural dos arredores de Lisboa no século <span
-    smallcaps="smallcaps">XVIII</span>
+    class="smallcaps">XVIII</span>
   type: book
 
 - id: caldas:2000arquitectura
@@ -1012,8 +1012,8 @@ references:
   source: Open WorldCat
   title: >-
     Los intelectuales latinoamericanos entre la modernidad y la tradición,
-    siglos <span smallcaps="smallcaps">XIX</span> y <span
-    smallcaps="smallcaps">XX</span>
+    siglos <span class="smallcaps">XIX</span> y <span
+    class="smallcaps">XX</span>
   title-short: Los intelectuales latinoamericanos entre la modernidad y la tradición
   type: book
 
@@ -1507,7 +1507,7 @@ references:
       given: Carlos
   citation-key: corona:2017dicionario
   collection-number: '3'
-  collection-title: <span smallcaps="smallcaps">RG</span> Facsimile
+  collection-title: <span class="smallcaps">RG</span> Facsimile
   contributor:
     - family: Santos
       given: Silvana Romano
@@ -1584,7 +1584,7 @@ references:
   source: run.unl.pt
   title: >-
     Pragmatismo e utopismo na criação urbanística de raiz portuguesa no século
-    <span smallcaps="smallcaps">XVIII</span>
+    <span class="smallcaps">XVIII</span>
   title-short: Pragmatismo e utopismo
   type: article-journal
   URL: https://run.unl.pt/handle/10362/6785
@@ -1795,7 +1795,7 @@ references:
   source: Library of Congress ISBN
   title: >-
     Fazendas do sul de Minas Gerais: arquitetura rural nos séculos <span
-    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XVIII</span> e <span class="smallcaps">XIX</span>
   title-short: Fazendas do sul de Minas Gerais
   type: book
 
@@ -1857,7 +1857,7 @@ references:
   publisher-place: São Paulo
   title: >-
     Tijolo nas construções paulistanas do século <span
-    smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XIX</span>
   type: thesis
 
 - id: davico:2010flexibilidade
@@ -2016,12 +2016,12 @@ references:
     - year: 1978
   language: it
   page: 97–106
-  publisher: <span smallcaps="smallcaps">CISCU</span> ; Marsilio
+  publisher: <span class="smallcaps">CISCU</span> ; Marsilio
   publisher-place: Lucca; Venezia
   source: Open WorldCat
   title: >-
     La politica delle città nuove nel sud-ovest della Francia nel <span
-    smallcaps="smallcaps">XIII</span> e <span smallcaps="smallcaps">XIV</span>
+    class="smallcaps">XIII</span> e <span class="smallcaps">XIV</span>
     secolo
   title-short: La politica delle città nuove nel sud-ovest della Francia
   type: chapter
@@ -2161,7 +2161,7 @@ references:
   citation-key: fernandes:2014morfologia
   container-title: 'A jangada de pedra: Geografias Ibero-Afro-Americanas'
   event-place: Guimarães
-  event-title: Atas do <span smallcaps="smallcaps">XIV</span> Colóquio Ibérico de Geografia
+  event-title: Atas do <span class="smallcaps">XIV</span> Colóquio Ibérico de Geografia
   issued:
     - year: 2014
   language: pt
@@ -2226,7 +2226,7 @@ references:
   source: DOI.org (Crossref)
   title: >-
     Caracterização das técnicas construtivas em terra edificadas no século <span
-    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XVIII</span> e <span class="smallcaps">XIX</span>
     no centro histórico de São Luís (MA, Brasil)
   type: article-journal
   URL: http://revistas.unisinos.br/index.php/arquitetura/article/view/1280
@@ -2322,7 +2322,7 @@ references:
   source: Crossref
   title: >-
     Uma morfologia dos quilombos nas Américas, séculos <span
-    smallcaps="smallcaps">XVI-XIX</span>
+    class="smallcaps">XVI-XIX</span>
   title-short: Uma morfologia dos quilombos nas Américas
   type: article-journal
   URL: >-
@@ -2761,7 +2761,7 @@ references:
   source: K10plus ISBN
   title: >-
     Tradição e modernidade na primeira metade do século <span
-    smallcaps="smallcaps">XX:</span> sociedade, educação e arte
+    class="smallcaps">XX:</span> sociedade, educação e arte
   title-short: Tradição e modernidade
   type: book
 
@@ -2818,12 +2818,12 @@ references:
     - year: 2012
   language: pt-BR
   number-of-pages: '179'
-  publisher: <span smallcaps="smallcaps">UFPB/ PPGAU</span>
+  publisher: <span class="smallcaps">UFPB/ PPGAU</span>
   publisher-place: João Pessoa
   source: Library of Congress ISBN
   title: >-
     Vilas, cidades e territórios: o Brasil do século <span
-    smallcaps="smallcaps">XVIII</span>
+    class="smallcaps">XVIII</span>
   title-short: Vilas, cidades e territórios
   type: book
 
@@ -2908,14 +2908,14 @@ references:
       given: Dhiru A.
     - family: Hetzel
       given: Peter J.
-  event-place: Washington, <span smallcaps="smallcaps">D.C.</span>
+  event-place: Washington, <span class="smallcaps">D.C.</span>
   ISBN: 978-1-59726-578-2
   issued:
     - year: 2009
   language: en
   number-of-pages: '459'
   publisher: Island Press
-  publisher-place: Washington, <span smallcaps="smallcaps">D.C.</span>
+  publisher-place: Washington, <span class="smallcaps">D.C.</span>
   source: Library of Congress ISBN
   title: The architecture of community
   type: book
@@ -3077,17 +3077,15 @@ references:
   ISBN: 978-989-8492-49-4
   issued:
     - year: 2018
-  language: pt-PT
+  language: pt
   license: openAccess
   page: 65–78
-  publisher: >-
-    <span smallcaps="smallcaps">CHAM</span> - Centro de Humanidades da
-    Universidade Nova de Lisboa
+  publisher: Centro de Humanidades da Universidade Nova de Lisboa
   publisher-place: Lisboa
   source: run.unl.pt
   title: >-
     Urbanística e ordenamento do território na construção do Atlântico (século
-    <span smallcaps="smallcaps">XVI</span>). A morfologia urbana como indicador
+    <span class="smallcaps">XVI</span>). A morfologia urbana como indicador
     em Ponta Delgada e Rio de Janeiro
   title-short: A morfologia urbana como indicador em Ponta Delgada e Rio de Janeiro
   type: chapter
@@ -3111,7 +3109,7 @@ references:
   source: periodicos.unievangelica.edu.br
   title: >-
     A lei das Sesmarias e Portugal no século <span
-    smallcaps="smallcaps">XIV</span>
+    class="smallcaps">XIV</span>
   title-short: A lei das Sesmarias
   type: article-journal
   URL: >-
@@ -3206,7 +3204,7 @@ references:
   source: www.revistas.usp.br
   title: >-
     Transformações do espaço habitacional ocorridas na arquitetura brasileira do
-    século <span smallcaps="smallcaps">XIX</span>
+    século <span class="smallcaps">XIX</span>
   title-short: Transformações do espaço habitacional
   type: article-journal
   URL: http://www.revistas.usp.br/anaismp/article/view/5277
@@ -3495,7 +3493,7 @@ references:
   issued:
     - year: 2013
   language: pt-BR
-  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
+  publisher: Editora <span class="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: Casas senhoriais Rio-Lisboa e seus interiores
@@ -3519,7 +3517,7 @@ references:
   source: Library of Congress ISBN
   title: >-
     Através da rótula: sociedade e arquitetura no Brasil, séculos <span
-    smallcaps="smallcaps">XVII</span> a <span smallcaps="smallcaps">XX</span>
+    class="smallcaps">XVII</span> a <span class="smallcaps">XX</span>
   title-short: Através da rótula
   type: book
 
@@ -3585,7 +3583,7 @@ references:
   source: Open WorldCat
   title: >-
     O partido arquitetônico rural no século <span
-    smallcaps="smallcaps">XIX</span>:  Porto Feliz, Tietê, Laranjal Paulista
+    class="smallcaps">XIX</span>:  Porto Feliz, Tietê, Laranjal Paulista
   title-short: O partido arquitetônico rural no século XIX
   type: book
 
@@ -3634,32 +3632,12 @@ references:
   title: Cidade brasileira
   type: book
 
-- id: mascarenhas:2015arquitectura
+- id: mascarenhas-mateus:2002tecnicas
   author:
-    - family: Mascarenhas
-      given: Jorge
-  call-number: MLCM 2017/43058 (T)
-  citation-key: mascarenhas:2015arquitectura
-  collection-number: <span smallcaps="smallcaps">XV</span>
-  collection-title: Sistemas de construção
-  event-place: Lisboa
-  ISBN: 978-972-24-1796-9
-  issued:
-    - year: 2015
-  language: pt
-  number-of-pages: '233'
-  publisher: Horizonte
-  publisher-place: Lisboa
-  source: Library of Congress ISBN
-  title: Arquitectura popular portuguesa
-  type: book
-
-- id: mateus:2002tecnicas
-  author:
-    - family: Mateus
-      given: João Mascarenhas
+    - family: Mascarenhas-Mateus
+      given: João
   call-number: MLCM 2006/40626 (T)
-  citation-key: mateus:2002tecnicas
+  citation-key: mascarenhas-mateus:2002tecnicas
   event-place: Lisboa
   ISBN: 978-972-24-1234-6
   issued:
@@ -3673,6 +3651,26 @@ references:
     Técnicas tradicionais de construção de alvenarias: a literatura técnica de
     1750 a 1900 e o seu contributo para a conservação de edifícos históricos
   title-short: Técnicas tradicionais de construção de alvenarias
+  type: book
+
+- id: mascarenhas:2015arquitectura
+  author:
+    - family: Mascarenhas
+      given: Jorge
+  call-number: MLCM 2017/43058 (T)
+  citation-key: mascarenhas:2015arquitectura
+  collection-number: <span class="smallcaps">XV</span>
+  collection-title: Sistemas de construção
+  event-place: Lisboa
+  ISBN: 978-972-24-1796-9
+  issued:
+    - year: 2015
+  language: pt
+  number-of-pages: '233'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Arquitectura popular portuguesa
   type: book
 
 - id: mattoso:2000formacao
@@ -3736,7 +3734,7 @@ references:
   source: Library of Congress ISBN
   title: >-
     Ciudades de al-Andalus: España y Portugal en la época musulmana, siglos
-    <span smallcaps="smallcaps">VIII-XV</span>
+    <span class="smallcaps">VIII-XV</span>
   title-short: Ciudades de al-Andalus
   type: book
 
@@ -3769,7 +3767,7 @@ references:
       given: Ulpiano T. Bezerra
       dropping-particle: de
   citation-key: meneses:1996morfologia
-  container-title: Revista <span smallcaps="smallcaps">USP</span>
+  container-title: Revista <span class="smallcaps">USP</span>
   container-title-short: Rev. USP
   DOI: 10.11606/issn.2316-9036.v0i30p142-155
   ISSN: 2316-9036, 0103-9989
@@ -3808,8 +3806,8 @@ references:
   source: dedalus.usp.br Library Catalog
   title: >-
     Fortificações portuguesas no Nordeste do Brasil: séculos <span
-    smallcaps="smallcaps">XVI, XVII</span> e <span
-    smallcaps="smallcaps">XVIII</span>
+    class="smallcaps">XVI, XVII</span> e <span
+    class="smallcaps">XVIII</span>
   title-short: Fortificações portuguesas no Nordeste
   type: book
 
@@ -3824,7 +3822,7 @@ references:
   ISBN: 978-972-49-2311-6
   issued:
     - year: 2019
-  language: pt-PT
+  language: pt
   number-of-pages: '292'
   publisher: Laboratório Nacional de Engenharia Civil
   publisher-place: Lisboa
@@ -3898,7 +3896,7 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Moderna (séculos <span smallcaps="smallcaps">XV–XVIII</span>)
+  title: Idade Moderna (séculos <span class="smallcaps">XV–XVIII</span>)
   type: chapter
 
 - id: morales:1955teoria
@@ -4195,7 +4193,7 @@ references:
   issued:
     - year: 2008
   language: pt-BR
-  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
+  publisher: Editora <span class="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: 'História da arte no Brasil: textos de síntese'
@@ -4433,7 +4431,7 @@ references:
     - year: 2016
       month: 5
       day: 25
-  language: pt-BR
+  language: pt
   publisher: Universidade de São Paulo
   source: www.teses.usp.br
   title: >-
@@ -4562,10 +4560,10 @@ references:
   page: 143–154
   title: >-
     A historiografia da arquitetura brasileira no século <span
-    smallcaps="smallcaps">XIX</span> e os conceitos de estilo e tipologia
+    class="smallcaps">XIX</span> e os conceitos de estilo e tipologia
   title-short: >-
     A historiografia da arquitetura brasileira no século <span
-    smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XIX</span>
   type: article-journal
   URL: http://www.redalyc.org/html/1346/134618596009/
   volume: XXXI
@@ -4630,8 +4628,8 @@ references:
   source: Open WorldCat
   title: >-
     L'architecture à la française: du milieu du <span
-    smallcaps="smallcaps">XV</span>^e^ à la fin du <span
-    smallcaps="smallcaps">XVIII</span>^e^ siècle
+    class="smallcaps">XV</span>^e^ à la fin du <span
+    class="smallcaps">XVIII</span>^e^ siècle
   title-short: L'architecture à la française
   type: book
 
@@ -4654,7 +4652,7 @@ references:
   publisher-place: Rio de Janeiro
   title: >-
     Gosto neoclássico: atores e práticas artísticas no Brasil no século <span
-    smallcaps="smallcaps">XIX</span>
+    class="smallcaps">XIX</span>
   title-short: Gosto neoclássico
   type: book
 
@@ -4701,9 +4699,7 @@ references:
     «Portugal plantou a mais duradoira de suas conquistas». Da antiga tradição
     jurídica para a atividade construtiva em Portugal e no Brasil: inovação e
     permanência em perspetiva comparada
-  title-short: >-
-    «Portugal plantou a mais duradoira de suas conquistas». Da antiga tradição
-    jurídica para a atividade construtiva em Portugal e no Brasil
+  title-short: Portugal plantou a mais duradoira de suas conquistas
   type: article-journal
   URL: >-
     https://novaresearch.unl.pt/en/publications/portugal-plantou-a-mais-duradoira-de-suas-conquistas-da-antiga-tr
@@ -4960,12 +4956,12 @@ references:
   issued:
     - year: 2013
   language: pt-BR
-  publisher: Editora <span smallcaps="smallcaps">UFBA</span>
+  publisher: Editora <span class="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
   title: >-
     A liberdade que veio do ofício: práticas sociais e cultura dos artífices na
-    Bahia do século <span smallcaps="smallcaps">XIX</span>
+    Bahia do século <span class="smallcaps">XIX</span>
   title-short: A liberdade que veio do ofício
   type: book
 
@@ -5115,7 +5111,7 @@ references:
   genre: Concurso para provimento de duas vagas de professor associado
   issued:
     - year: 2005
-  language: pt-PT
+  language: pt
   page: '75'
   publisher: Faculdade de Ciências e Tecnologia da Universidade de Coimbra
   publisher-place: Coimbra
@@ -5141,7 +5137,7 @@ references:
   issue: '1'
   issued:
     - year: 2006
-  language: pt-PT
+  language: pt
   license: openAccess
   page: 70-109
   source: estudogeral.sib.uc.pt
@@ -5187,9 +5183,9 @@ references:
   event-place: São Paulo
   issued:
     - year: 1977
-  language: pt-BR
+  language: pt
   number-of-pages: '110'
-  publisher: Secretaria da Cultura, Ciência e Tecnologia/Governo do Estado de S.Paulo
+  publisher: Secretaria da Cultura, Ciência e Tecnologia, Governo do Estado de S.Paulo
   publisher-place: São Paulo
   source: webopac.sib.uc.pt Library Catalog
   title: >-
@@ -5339,12 +5335,12 @@ references:
     - year: 2013
   language: pt-BR
   page: 51–68
-  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
+  publisher: Editora <span class="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: >-
     Casas de engenho do Rio de Janeiro — século <span
-    smallcaps="smallcaps">XVIII</span> — metodologia de estudo a partir de
+    class="smallcaps">XVIII</span> — metodologia de estudo a partir de
     múltiplas fontes
   title-short: Casas de engenho do Rio de Janeiro
   type: chapter
@@ -5548,8 +5544,8 @@ references:
   source: DOI.org (Crossref)
   title: >-
     Engenhos e fazendas de café em Campinas (séc. <span
-    smallcaps="smallcaps">XVIII</span>–séc. <span
-    smallcaps="smallcaps">XX</span>)
+    class="smallcaps">XVIII</span>–séc. <span
+    class="smallcaps">XX</span>)
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142006000100004&lng=pt&tlng=pt
@@ -5930,7 +5926,7 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Média (séculos <span smallcaps="smallcaps">XI–XV</span>)
+  title: Idade Média (séculos <span class="smallcaps">XI–XV</span>)
   type: chapter
 
 - id: soutto:2017casa17
@@ -6066,6 +6062,35 @@ references:
   title: 8.º Fórum internacional do património arquitetónico Portugal–Brasil
   type: book
 
+- id: teixeira:2004descricao
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Teixeira
+      given: Joaquim
+  citation-key: teixeira:2004descricao
+  event-place: Porto
+  genre: >-
+    Prova de aptidão pedagógica e capacidade técnica para acesso à categoria de
+    Assistente
+  issued:
+    - year: 2004
+  language: pt
+  license: openAccess
+  publisher: Universidade do Porto
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    Descrição do sistema construtivo da casa burguesa do Porto entre os séculos
+    <span class="smallcaps">XVII</span> e <span
+    class="smallcaps">XIX</span>. Contributo para uma história da construção
+    arquitectónica em Portugal
+  title-short: Descrição do sistema construtivo da casa burguesa do Porto
+  type: thesis
+  URL: https://repositorio-aberto.up.pt/handle/10216/39475
+
 - id: teixeira:2012forma
   author:
     - family: Teixeira
@@ -6106,7 +6131,7 @@ references:
   source: editorarevistas.mackenzie.br
   title: >-
     Identidade, continuidades e descontinuidades da cultura urbana portuguesa,
-    séculos <span smallcaps="smallcaps">XVIII–XX</span>
+    séculos <span class="smallcaps">XVIII–XX</span>
   title-short: Identidade, continuidades e descontinuidades da cultura urbana portuguesa
   type: article-journal
   URL: >-
@@ -6365,7 +6390,7 @@ references:
   language: es
   number-of-pages: '386'
   publisher: >-
-    Instituto Francés de Estudios Andinos, <span smallcaps="smallcaps">UMIFRE
+    Instituto Francés de Estudios Andinos, <span class="smallcaps">UMIFRE
     17, MAE-CNRS</span> ; Ediciones Abya-Yala
   publisher-place: 'Lima : Quito : Institut de recherche pour le développement, IRD'
   source: Library of Congress ISBN
@@ -6554,7 +6579,7 @@ references:
     - year: 2003
   language: pt-BR
   number-of-pages: '257'
-  publisher: Editora <span smallcaps="smallcaps">ucg</span>
+  publisher: Editora <span class="smallcaps">ucg</span>
   publisher-place: Goiânia
   source: Library of Congress ISBN
   title: 'A casa goiana: documentação arquitetônica'
