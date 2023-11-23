@@ -114,6 +114,57 @@ references:
   title-short: O Neomanuelino
   type: book
 
+- id: andre:2016arquitectura
+  abstract: >-
+    O livro “Arquitectura Popular. Tradição e Vanguarda”, propõe uma
+    sistematização historiográfica, uma reflexão teórica e uma abordagem
+    contemporânea da arquitectura popular, num abrangente arco temporal de
+    finais do século XIX a finais do século XX, colocando em paralelo e em
+    confronto Portugal e Espanha, inseridos no contexto Europeu. A atenção e o
+    foco centrado na arquitectura popular, parte integrante da cultura
+    arquitectónica nacional em cada momento, insere-se num contexto mais vasto,
+    de valorização da geografia como matriz, de propaganda das diferentes
+    regiões nacionais, de valorização do mundo rural, e da construção de uma
+    imagética iconográfica de um passado, tudo em prol de definição de um
+    carácter nacional. 
+
+    Os olhares, as leituras, e as interpretações do mundo popular levadas a cabo
+    por antropólogos, etnólogos, geógrafos, engenheiros agrónomos, e
+    arquitectos, permitem posicionar o popular como uma plataforma entre o
+    tradicional e o moderno, oscilando entre uma manipulação dirigida pelo
+    poder, e uma alternativa desejada pela vanguarda. Os conceitos operativos
+    são normalmente colocados em confronto nas mais diversas variantes: tradição
+    vs modernidade; nacional vs internacional; verdadeiro vs supérfluo;
+    academismo vs vanguardismo; erudito vs vernáculo. O livro procura assim
+    desenvolver um exercício de história comparada, como reflexão conjunta de
+    problemas que foram comuns e singulares, e que caracterizaram o debate e a
+    cultura arquitectónica de ambos os países.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 12
+  citation-key: andre:2016arquitectura
+  editor:
+    - family: André
+      given: Paula
+    - family: Sambricio
+      given: Carlos
+  event-place: Lisboa
+  ISBN: 978-989-732-973-9
+  issued:
+    - year: 2016
+  language: pt
+  license: openAccess
+  publisher: >-
+    <span smallcaps="smallcaps">Dinâmia’cet-iul</span> do <span
+    smallcaps="smallcaps">iscte</span> - Instituto Universitário de Lisboa
+  publisher-place: Lisboa
+  source: repositorio.iscte-iul.pt
+  title: Arquitectura popular. Tradição e vanguarda
+  title-short: Arquitectura popular
+  type: book
+  URL: https://repositorio.iscte-iul.pt/handle/10071/12359
+
 - id: aragao:2017ensaio
   accessed:
     - year: 2023
@@ -128,7 +179,7 @@ references:
   ISBN: 978-85-8039-178-7
   issued:
     - year: 2017
-  language: pt-BR
+  language: pt
   publisher: Blucher
   publisher-place: São Paulo
   source: Open WorldCat
@@ -138,6 +189,30 @@ references:
   type: book
   URL: >-
     https://openaccess.blucher.com.br/article-list/ensaio-sobre-a-casa-brasileira-do-seculo-xix-324/list
+
+- id: araujo:1998universo
+  archive_location: 711 (469) "14/18"
+  call-number: HT384.P8 U54 1998
+  citation-key: araujo:1998universo
+  edition: '1'
+  editor:
+    - family: Araujo
+      given: Renata Malcher
+      dropping-particle: de
+    - family: Carita
+      given: Helder
+  event-place: Lisboa
+  ISBN: 978-972-8325-70-1
+  issued:
+    - year: 1998
+  language: pt
+  number-of-pages: '569'
+  publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: 'Universo urbanístico português 1415-1822: colectânea de estudos'
+  title-short: Universo urbanístico português 1415-1822
+  type: book
 
 - id: araujo:2003razao
   abstract: >-
@@ -256,6 +331,18 @@ references:
   translator:
     - family: Rainis
       given: Liliana
+  type: book
+
+- id: arquitectura:1961
+  citation-key: arquitectura:1961
+  event-place: Lisboa
+  issued:
+    - year: 1961
+  language: pt
+  number-of-volumes: '2'
+  publisher: Sindicato Nacional dos Arquitectos
+  publisher-place: Lisboa
+  title: Arquitectura popular em Portugal
   type: book
 
 - id: arraes:2016plantar
@@ -401,7 +488,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1983
-  language: pt-BR
+  language: pt
   number-of-volumes: '2'
   publisher: Record
   publisher-place: Rio de Janeiro
@@ -489,7 +576,7 @@ references:
   genre: Dissertação (Mestrado em Engenharia Civil)
   issued:
     - year: 2003
-  language: pt-BR
+  language: pt
   publisher: '[s.n.]'
   publisher-place: Campinas
   source: repositorio.unicamp.br
@@ -639,10 +726,8 @@ references:
       given: Rômulo
     - family: Delpino
       given: Rossana
-    - family: Migoto
-      given: Milena
   citation-key: bonelli:2005manual
-  collection-number: '1'
+  collection-number: '2'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
   issued:
@@ -650,7 +735,7 @@ references:
   language: pt-BR
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
-  title: 'Manual prático: uso da cal'
+  title: 'Manual prático: saneamento básico residencial'
   type: book
 
 - id: bonelli:2005manuala
@@ -677,8 +762,10 @@ references:
       given: Rômulo
     - family: Delpino
       given: Rossana
+    - family: Migoto
+      given: Milena
   citation-key: bonelli:2005manualb
-  collection-number: '2'
+  collection-number: '1'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
   issued:
@@ -686,7 +773,7 @@ references:
   language: pt-BR
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
-  title: 'Manual prático: saneamento básico residencial'
+  title: 'Manual prático: uso da cal'
   type: book
 
 - id: braga:2003conservacao
@@ -1198,12 +1285,12 @@ references:
   title-short: Castelos a Bombordo
   type: book
 
-- id: cardinal-pett:2016history
+- id: cardinalpett:2016history
   author:
     - family: Cardinal-Pett
       given: Clare
   call-number: NA2543.S6 C349 2016
-  citation-key: cardinal-pett:2016history
+  citation-key: cardinalpett:2016history
   event-place: New York
   ISBN: 978-0-415-53492-5
   issued:
@@ -1830,13 +1917,14 @@ references:
       given: Cícero Ferraz
   call-number: NA8210.B69 C78 2010
   citation-key: cruz:2010fazendas
+  collection-title: Programa Monumenta
   event-place: Brasília
   ISBN: 978-85-7334-140-9
   issued:
     - year: 2010
-  language: pt-BR
+  language: pt
   number-of-pages: '354'
-  publisher: Programa Monumenta (Iphan)
+  publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   source: Library of Congress ISBN
   title: >-
@@ -2396,6 +2484,43 @@ references:
   title: Arquitectura de terra em Avis
   type: book
 
+- id: franca:1980lisboa
+  author:
+    - family: França
+      given: José Augusto
+  citation-key: franca:1980lisboa
+  collection-number: '53'
+  collection-title: Biblioteca Breve de Artes Visuais
+  edition: '1'
+  event-place: Lisboa
+  issued:
+    - year: 1980
+  language: pt
+  publisher: Instituto de Cultura e Língua Portuguesa, M.E.C.
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: 'Lisboa: urbanismo e arquitectura'
+  title-short: Lisboa
+  type: book
+
+- id: franca:1989reconstrucao
+  author:
+    - family: França
+      given: José Augusto
+  citation-key: franca:1989reconstrucao
+  collection-number: '12'
+  collection-title: Biblioteca Breve
+  edition: '3'
+  event-place: Lisboa
+  issued:
+    - year: 1989
+  language: pt
+  publisher: 'Instituto de cultura e lingua portuguesa : Ministerio da Educação'
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: A reconstrução de Lisboa e a arquitectura pombalina
+  type: book
+
 - id: franca:2004pombalismo
   author:
     - family: França
@@ -2424,6 +2549,27 @@ references:
   publisher-place: Lisboa
   source: Open WorldCat
   title: O pombalismo e o romantismo
+  type: book
+
+- id: freyre:1971casa
+  author:
+    - family: Freyre
+      given: Gilberto
+  citation-key: freyre:1971casa
+  collection-title: Enciclopédia da Vida Brasileira
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1971
+  language: pt
+  number-of-pages: '97'
+  publisher: Grifo
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: >-
+    A casa brasileira: tentativa de síntese de três diferentes abordagens, já
+    realizadas pelo autor, de um assunto complexo: a antropológica, a histórica,
+    a sociológica
+  title-short: A casa brasileira
   type: book
 
 - id: freyre:2003casagrande
@@ -2462,6 +2608,147 @@ references:
   title: Caderno de encargos
   type: book
 
+- id: garcia:2014arquitectura
+  accessed:
+    - year: 2023
+      month: 7
+      day: 28
+  citation-key: garcia:2014arquitectura
+  editor:
+    - family: García Hermida
+      given: Alejandro
+  event-place: Madrid
+  ISBN: 978-84-943132-3-3
+  issued:
+    - year: 2014
+  language: es
+  publisher: Mairea
+  publisher-place: Madrid
+  source: Open WorldCat
+  title: >-
+    Arquitectura e identitad local: seminario internacional Escuela Técnica
+    Superior de Arquitectura de Madrid, 23 y 24 de Octubre de 2014
+  title-short: Arquitectura e identitad local
+  type: book
+  URL: https://intbauspain.com/publicaciones/
+
+- id: garcia:2018projecto
+  citation-key: garcia:2018projecto
+  editor:
+    - family: García Hermida
+      given: Alejandro
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: >-
+    Um projecto de futuro para a Beirã (Marvão): baseado na arquitectura e
+    urbanismo de tradição alentejana
+  title-short: Um projecto de futuro para a Beirã
+  type: book
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
+- id: garcia:2018reconstrucao
+  accessed:
+    - year: 2023
+      month: 10
+      day: 16
+  citation-key: garcia:2018reconstrucao
+  editor:
+    - family: García Hermida
+      given: Alejandro
+  event-place: Madrid
+  ISBN: 978-84-949500-1-8
+  issued:
+    - year: 2018
+  language: es
+  publisher: <span smallcaps="smallcaps">INTBAU</span> España
+  publisher-place: Madrid
+  title: >-
+    A reconstrução do património cultural: Seminario internacional Escuela
+    Técnica Superior de Arquitectura de Madrid, 7 y 8 de noviembre de 2018
+  title-short: A reconstrução do património cultural
+  type: book
+  URL: https://intbauspain.com/publicaciones/
+
+- id: garcia:2019nova
+  abstract: >-
+    Each year this international seminar is held in Madrid to coincide with the
+    award ceremony of the Rafael Manzano Prize for New Traditional Architecture.
+    The seminar helps to encourage traditional building, architecture and urban
+    design amongst younger professionals who specialise in construction,
+    architecture and urbanism.
+    https://www.intbau.org/international-new-vernacular-architecture-seminar-madrid
+  accessed:
+    - year: 2023
+      month: 7
+      day: 28
+  citation-key: garcia:2019nova
+  contributor:
+    - family: Gómez-Gordo Villa
+      given: Rebeca
+    - family: Adam
+      given: Robert
+  editor:
+    - family: García Hermida
+      given: Alejandro
+  event-place: Madrid
+  ISBN: 978-84-09-14635-2
+  issued:
+    - year: 2019
+  language: es
+  publisher: <span smallcaps="smallcaps">INTBAU</span> España
+  publisher-place: Madrid
+  source: Open WorldCat
+  title: >-
+    Nova arquitectura vernácula : seminário internacional : Escuela Técnica
+    Superior de Arquitectura de Madrid <span
+    smallcaps="smallcaps">(ETSAM),</span> 17 y 18 de octubre de 2019
+  title-short: Nueva arquitectura vernácula
+  translator:
+    - family: Navarro
+      given: Angela O'Driscoll
+    - family: Vasconcelos
+      given: Vítor
+    - family: Pérez del Cojo
+      given: Cristina
+    - family: Tous
+      given: Margarita Estapé
+  type: book
+  URL: https://intbauspain.com/publicaciones/
+
+- id: garcia:2023projecto
+  accessed:
+    - year: 2023
+      month: 10
+      day: 17
+  citation-key: garcia:2023projecto
+  editor:
+    - family: García Hermida
+      given: Alejandro
+    - family: Gil Fernández
+      given: Guillermo
+    - family: Gómez-Gordo Villa
+      given: Rebeca
+  event-place: Lisboa
+  ISBN: 978-989-33-4329-6
+  issued:
+    - year: 2023
+  language: pt
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  source: dialnet.unirioja.es
+  title: >-
+    Um projecto de futuro para Lajes do Pico: com base na arquitectura e
+    urbanismo da tradição local
+  title-short: Um projecto de futuro para Lajes do Pico
+  type: book
+  URL: https://www.premiorafaelmanzano.com/pt-pt/publicacoes/
+
 - id: gomes:1994arquitetura
   author:
     - family: Gomes
@@ -2498,8 +2785,8 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt-BR
-  publisher: Instituto do Patrimônio Histórico e Artístico Nacional
+  language: pt
+  publisher: Iphan
   publisher-place: Brasília
   title: Manual de elaboração de projetos de preservação do patrimônio cultural
   type: book
@@ -3170,7 +3457,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1979
-  language: pt-BR
+  language: pt
   publisher: 'Melhoramentos : Edusp'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3191,7 +3478,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1982
-  language: pt-BR
+  language: pt
   publisher: Abril
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3265,7 +3552,7 @@ references:
   ISBN: 978-85-85134-53-2
   issued:
     - year: 1996
-  language: pt-BR
+  language: pt
   publisher: Contexto
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3319,7 +3606,7 @@ references:
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
 - id: lopes:1886india
-  abstract: '26'
+  abstract: 26 45 52
   accessed:
     - year: 2023
       month: 8
@@ -3329,6 +3616,34 @@ references:
       given: António
   call-number: ABM-8640
   citation-key: lopes:1886india
+  contributor:
+    - literal: Sociedade de Geografia de Lisboa
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1886
+  language: pt
+  number-of-volumes: '2'
+  publisher: Imprensa Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    A India portugueza: breve descripção das possessões portuguezas na Asia,
+    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
+  title-short: A India portugueza
+  type: book
+
+- id: lopes:1886indiaa
+  abstract: '26'
+  accessed:
+    - year: 2023
+      month: 8
+      day: 9
+  author:
+    - family: Lopes Mendes
+      given: António
+  call-number: ABM-8640
+  citation-key: lopes:1886indiaa
   contributor:
     - literal: Sociedade de Geografia de Lisboa
     - literal: Robarts - University of Toronto
@@ -3348,36 +3663,6 @@ references:
   URL: http://archive.org/details/indiaportuguezab01lopeuoft
   volume: '1'
 
-- id: lopes:1886indiaa
-  abstract: 26 45 52
-  accessed:
-    - year: 2023
-      month: 8
-      day: 9
-  author:
-    - family: Lopes Mendes
-      given: António
-  call-number: ABM-8640
-  citation-key: lopes:1886indiaa
-  contributor:
-    - literal: Sociedade de Geografia de Lisboa
-    - literal: Robarts - University of Toronto
-  event-place: Lisboa
-  issued:
-    - year: 1886
-  language: pt
-  number-of-pages: '494'
-  publisher: Imprensa Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    A India portugueza: breve descripção das possessões portuguezas na Asia,
-    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
-  title-short: A India portugueza
-  type: book
-  URL: http://archive.org/details/indiaportuguezab02lope
-  volume: '2'
-
 - id: lopes:1886indiab
   abstract: 26 45 52
   accessed:
@@ -3396,7 +3681,7 @@ references:
   issued:
     - year: 1886
   language: pt
-  number-of-volumes: '2'
+  number-of-pages: '494'
   publisher: Imprensa Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -3405,6 +3690,8 @@ references:
     dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
   title-short: A India portugueza
   type: book
+  URL: http://archive.org/details/indiaportuguezab02lope
+  volume: '2'
 
 - id: lopes:2014ocupacao
   abstract: >-
@@ -3491,10 +3778,10 @@ references:
     - family: Machado
       given: Lourival Gomes
   citation-key: machado:2003barroco
-  contributor:
+  edition: '4'
+  editor:
     - family: Iglésias
       given: Francisco
-  edition: '4'
   event-place: São Paulo
   ISBN: 978-85-273-0359-0
   issued:
@@ -3538,7 +3825,7 @@ references:
   ISBN: 978-85-87145-58-1
   issued:
     - year: 2013
-  language: pt-BR
+  language: pt
   publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -3678,27 +3965,6 @@ references:
   title: Cidade brasileira
   type: book
 
-- id: mascarenhas-mateus:2002tecnicas
-  author:
-    - family: Mascarenhas-Mateus
-      given: João
-  call-number: MLCM 2006/40626 (T)
-  citation-key: mascarenhas-mateus:2002tecnicas
-  event-place: Lisboa
-  ISBN: 978-972-24-1234-6
-  issued:
-    - year: 2002
-  language: pt
-  number-of-pages: '430'
-  publisher: Horizonte
-  publisher-place: Lisboa
-  source: Library of Congress ISBN
-  title: >-
-    Técnicas tradicionais de construção de alvenarias: a literatura técnica de
-    1750 a 1900 e o seu contributo para a conservação de edifícos históricos
-  title-short: Técnicas tradicionais de construção de alvenarias
-  type: book
-
 - id: mascarenhas:2015arquitectura
   author:
     - family: Mascarenhas
@@ -3717,6 +3983,27 @@ references:
   publisher-place: Lisboa
   source: Library of Congress ISBN
   title: Arquitectura popular portuguesa
+  type: book
+
+- id: mascarenhasmateus:2002tecnicas
+  author:
+    - family: Mascarenhas-Mateus
+      given: João
+  call-number: MLCM 2006/40626 (T)
+  citation-key: mascarenhasmateus:2002tecnicas
+  event-place: Lisboa
+  ISBN: 978-972-24-1234-6
+  issued:
+    - year: 2002
+  language: pt
+  number-of-pages: '430'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    Técnicas tradicionais de construção de alvenarias: a literatura técnica de
+    1750 a 1900 e o seu contributo para a conservação de edifícos históricos
+  title-short: Técnicas tradicionais de construção de alvenarias
   type: book
 
 - id: mattoso:2000formacao
@@ -3762,12 +4049,12 @@ references:
   title-short: Património de origem portuguesa no mundo
   type: book
 
-- id: mazzoli-guintard:2000ciudades
+- id: mazzoliguintard:2000ciudades
   author:
     - family: Mazzoli-Guintard
       given: Christine
   call-number: 711.4(46)
-  citation-key: mazzoli-guintard:2000ciudades
+  citation-key: mazzoliguintard:2000ciudades
   edition: '1'
   event-place: Granada
   ISBN: 978-84-931194-1-6
@@ -3831,6 +4118,35 @@ references:
   title-short: Morfologia das cidades brasileiras
   type: article-journal
   URL: http://www.revistas.usp.br/revusp/article/view/25914
+
+- id: menezes:1964vaos
+  abstract: >-
+    Após 40 anos de trabalhos, pesquisas e viagens acumulei um acervo
+    bibliográfico interessante. Agora desejo disponibilizar este material, em
+    uma serie de publicações, para pessoas jovens e a quem interessar possa.
+    Este livro destina-se a arquitetos, historiadores e estudantes de
+    arquitetura. Apresenta de forma simples e didática os diversos tipos de vãos
+    existentes nos edifícios erguidos durante o barroco mineiro, séculos XVII,
+    XVIII e meados do século XIX. São analisados os elementos componentes,
+    materiais e processos construtivos das portas, janelas, óculos, seteiras e
+    outros vãos.
+  author:
+    - family: Menezes
+      given: Ivo Porto
+      dropping-particle: de
+    - family: Menezes
+      given: Marcia Veloso
+      dropping-particle: de
+  citation-key: menezes:1964vaos
+  event-place: Belo Horizonte
+  issued:
+    - year: 1964
+  language: pt
+  publisher: Editora <span smallcaps="smallcaps">UFMG</span>
+  publisher-place: Belo Horizonte
+  source: Amazon
+  title: Vãos na arquitetura tradicional mineira
+  type: book
 
 - id: menezes:1986fortificacoes
   author:
@@ -4216,7 +4532,7 @@ references:
   ISBN: 978-85-7334-069-3
   issued:
     - year: 2008
-  language: pt-BR
+  language: pt
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasilia
   source: Open WorldCat
@@ -4397,7 +4713,7 @@ references:
   ISBN: 978-85-230-0923-6
   issued:
     - year: 2006
-  language: pt-BR
+  language: pt
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -4472,7 +4788,7 @@ references:
       given: Lindener
   citation-key: pareto:2016pandegos
   DOI: 10.11606/T.16.2017.tde-19122016-181951
-  genre: text
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
   issued:
     - year: 2016
       month: 5
@@ -4587,7 +4903,7 @@ references:
   title-short: De árvores e cidades
   type: chapter
 
-- id: pereira:2005historiografiaXXXI
+- id: pereira:2005historiografiaxxxi
   accessed:
     - year: 2018
       month: 5
@@ -4595,14 +4911,14 @@ references:
   author:
     - family: Pereira
       given: Sonia Gomes
-  citation-key: pereira:2005historiografiaXXXI
+  citation-key: pereira:2005historiografiaxxxi
   container-title: Estudos Ibero-Americanos
   ISSN: 0101-4064
   issue: '2'
   issued:
     - year: 2005
       month: 12
-  language: pt-BR
+  language: pt
   page: 143–154
   title: >-
     A historiografia da arquitetura brasileira no século <span
@@ -4644,7 +4960,7 @@ references:
       given: Paulo
   call-number: NA1321 .P47 2022
   citation-key: pereira:2022arquitetura
-  edition: 1a. edição
+  edition: 1.ª edição
   event-place: Lisboa
   ISBN: 978-989-644-649-9
   issued:
@@ -4742,7 +5058,7 @@ references:
     de História d'Aquém e d'Além Mar
   source: novaresearch.unl.pt
   title: >-
-    «Portugal plantou a mais duradoira de suas conquistas». Da antiga tradição
+    ‘Portugal plantou a mais duradoira de suas conquistas’. Da antiga tradição
     jurídica para a atividade construtiva em Portugal e no Brasil: inovação e
     permanência em perspetiva comparada
   title-short: Portugal plantou a mais duradoira de suas conquistas
@@ -4985,7 +5301,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1983
-  language: pt-BR
+  language: pt
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -5144,6 +5460,22 @@ references:
   type: book
   URL: http://biblioteca.ciarte.pt/tratados/obras/r/Rodrigues1875.html
 
+- id: rodrigues:1975documentario
+  author:
+    - family: Rodrigues
+      given: José Wasth
+  citation-key: rodrigues:1975documentario
+  event-place: São Paulo
+  issued:
+    - year: 1975
+  language: pt
+  publisher: Livraria Martins
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Documentário arquitetônico: relativo à antiga construção civil no Brasil'
+  title-short: Documentário arquitetônico
+  type: book
+
 - id: rossa:2005construcao
   accessed:
     - year: 2019
@@ -5212,7 +5544,7 @@ references:
   issue: '12'
   issued:
     - year: 1979
-  language: pt-BR
+  language: pt
   page: 129–142
   title: Habitação Indígena no alto Xingu
   type: article-journal
@@ -5415,7 +5747,7 @@ references:
     - year: 2014
       month: 7
       day: 30
-  language: pt-BR
+  language: pt
   license: Direitos autorais 2016 Revista Cadernos do Ceom
   number: '18'
   page: 213-242
@@ -5462,12 +5794,8 @@ references:
   citation-key: schlee:2002arquitetos
   event-place: Brasília
   issued:
-    date-parts:
-      - - '2002'
-  language: pt-BR
-  original-date:
     - year: 2002
-      circa: true
+  language: pt
   publisher-place: Brasília
   title: Os arquitetos e a historiografia da arquitetura indígena
   type: manuscript
@@ -5819,7 +6147,6 @@ references:
   type: book
 
 - id: sousa:1899diccionario
-  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
       month: 11
@@ -5830,13 +6157,12 @@ references:
       dropping-particle: de
   call-number: '9923093150001551'
   citation-key: sousa:1899diccionario
-  contributor:
-    - literal: Getty Research Institute
   event-place: Lisboa
   issued:
     - year: 1899
   language: pt
-  number-of-pages: '518'
+  number-of-pages: '600'
+  number-of-volumes: '3'
   publisher: Impr. Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -5844,38 +6170,8 @@ references:
     Diccionario historico e documental dos architectos, engenheiros e
     constructores portuguezes ou a serviço de Portugal
   type: book
-  URL: http://archive.org/details/diccionariohisto03vite
-  volume: '3'
 
 - id: sousa:1899diccionarioa
-  accessed:
-    - year: 2019
-      month: 11
-      day: 27
-  author:
-    - family: Sousa Viterbo
-      given: Francisco Marques
-      dropping-particle: de
-  call-number: '9923093150001551'
-  citation-key: sousa:1899diccionarioa
-  contributor:
-    - literal: Getty Research Institute
-  event-place: Lisboa
-  issued:
-    - year: 1899
-  language: pt
-  number-of-pages: '618'
-  publisher: Impr. Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    Diccionario historico e documental dos architectos, engenheiros e
-    constructores portuguezes ou a serviço de Portugal
-  type: book
-  URL: http://archive.org/details/diccionariohisto01vite
-  volume: '1'
-
-- id: sousa:1899diccionariob
   abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
@@ -5886,7 +6182,7 @@ references:
       given: Francisco Marques
       dropping-particle: de
   call-number: '9923093150001551'
-  citation-key: sousa:1899diccionariob
+  citation-key: sousa:1899diccionarioa
   contributor:
     - literal: Getty Research Institute
   event-place: Lisboa
@@ -5904,7 +6200,36 @@ references:
   URL: http://archive.org/details/diccionariohisto02vite
   volume: '2'
 
+- id: sousa:1899diccionariob
+  accessed:
+    - year: 2019
+      month: 11
+      day: 27
+  author:
+    - family: Sousa Viterbo
+      given: Francisco Marques
+      dropping-particle: de
+  call-number: '9923093150001551'
+  citation-key: sousa:1899diccionariob
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Lisboa
+  issued:
+    - year: 1899
+  language: pt
+  number-of-pages: '618'
+  publisher: Impr. Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Diccionario historico e documental dos architectos, engenheiros e
+    constructores portuguezes ou a serviço de Portugal
+  type: book
+  URL: http://archive.org/details/diccionariohisto01vite
+  volume: '1'
+
 - id: sousa:1899diccionarioc
+  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
       month: 11
@@ -5915,12 +6240,13 @@ references:
       dropping-particle: de
   call-number: '9923093150001551'
   citation-key: sousa:1899diccionarioc
+  contributor:
+    - literal: Getty Research Institute
   event-place: Lisboa
   issued:
     - year: 1899
   language: pt
-  number-of-pages: '600'
-  number-of-volumes: '3'
+  number-of-pages: '518'
   publisher: Impr. Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -5928,6 +6254,8 @@ references:
     Diccionario historico e documental dos architectos, engenheiros e
     constructores portuguezes ou a serviço de Portugal
   type: book
+  URL: http://archive.org/details/diccionariohisto03vite
+  volume: '3'
 
 - id: sousa:1994arquitetura
   author:
@@ -5940,7 +6268,7 @@ references:
   ISBN: 978-85-7266-038-9
   issued:
     - year: 1994
-  language: pt-BR
+  language: pt
   number-of-pages: '120'
   publisher: Pini
   publisher-place: São Paulo
@@ -6146,7 +6474,7 @@ references:
   ISBN: 978-85-393-0175-1 978-85-401-0033-6
   issued:
     - year: 2012
-  language: pt-BR
+  language: pt
   publisher: 'Unesp : Imprensa Oficial do Estado'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6244,12 +6572,12 @@ references:
   URL: http://www.tandfonline.com/doi/abs/10.1080/026654398364518
   volume: '13'
 
-- id: tirapeli:2008igrejas
+- id: tirapeli:2008igrejasa
   author:
     - family: Tirapeli
       given: Percival
   call-number: NA5353 .T567 2008
-  citation-key: tirapeli:2008igrejas
+  citation-key: tirapeli:2008igrejasa
   contributor:
     - family: Salim
       given: Alex
@@ -6389,7 +6717,7 @@ references:
   ISBN: 978-989-26-0772-6
   issued:
     - year: 2013
-  language: pt-PT
+  language: pt
   publisher: Imprensa da Universidade de Coimbra
   publisher-place: Coimbra
   source: Crossref
@@ -6670,6 +6998,27 @@ references:
   type: article-journal
   URL: http://journals.openedition.org/terrabrasilis/1981
 
+- id: verissimo:2002500
+  author:
+    - family: Veríssimo
+      given: Francisco Salvador
+    - family: Bittar
+      given: William
+  citation-key: verissimo:2002500
+  edition: '2'
+  event-place: Rio de Janeio
+  ISBN: 978-85-00-00716-3
+  issued:
+    - year: 2002
+  language: pt
+  publisher: Ediouro
+  publisher-place: Rio de Janeio
+  source: Câmara Brasileira do Livro ISBN
+  title: >-
+    500 anos da casa no Brasil: as transformações da arquitetura e da utilização
+    do espaço de moradia
+  type: book
+
 - id: vicente:2012antonio
   author:
     - family: Vicente
@@ -6743,7 +7092,7 @@ references:
     - year: 2017
       month: 5
       day: 13
-  language: pt-BR
+  language: pt
   license: Direitos autorais 2017 Cadernos de História
   page: 28-48
   source: periodicos.pucminas.br
@@ -6824,6 +7173,22 @@ references:
   title-short: El interior de la historia
   type: book
 
+- id: walker:2007theory
+  author:
+    - family: Walker
+      given: Charles Howard
+  citation-key: walker:2007theory
+  event-place: New York
+  ISBN: 978-0-393-73233-7
+  issued:
+    - year: 2007
+  language: en
+  publisher: W.W. Norton
+  publisher-place: New York
+  source: Open WorldCat
+  title: Theory of mouldings
+  type: book
+
 - id: weimer:2005arquitetura
   author:
     - family: Weimer
@@ -6834,7 +7199,7 @@ references:
   ISBN: 978-85-7827-504-4
   issued:
     - year: 2005
-  language: pt-BR
+  language: pt
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6901,7 +7266,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1983
-  language: pt-BR
+  language: pt
   publisher: 'Instituto Walther Moreira Salles : Fundação Djalma Guimarães'
   publisher-place: São Paulo
   source: Open WorldCat
