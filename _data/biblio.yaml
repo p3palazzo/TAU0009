@@ -726,10 +726,8 @@ references:
       given: Rômulo
     - family: Delpino
       given: Rossana
-    - family: Migoto
-      given: Milena
   citation-key: bonelli:2005manual
-  collection-number: '1'
+  collection-number: '2'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
   issued:
@@ -737,7 +735,7 @@ references:
   language: pt-BR
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
-  title: 'Manual prático: uso da cal'
+  title: 'Manual prático: saneamento básico residencial'
   type: book
 
 - id: bonelli:2005manuala
@@ -764,8 +762,10 @@ references:
       given: Rômulo
     - family: Delpino
       given: Rossana
+    - family: Migoto
+      given: Milena
   citation-key: bonelli:2005manualb
-  collection-number: '2'
+  collection-number: '1'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
   issued:
@@ -773,7 +773,7 @@ references:
   language: pt-BR
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
-  title: 'Manual prático: saneamento básico residencial'
+  title: 'Manual prático: uso da cal'
   type: book
 
 - id: braga:2003conservacao
@@ -1285,12 +1285,12 @@ references:
   title-short: Castelos a Bombordo
   type: book
 
-- id: cardinal-pett:2016history
+- id: cardinalpett:2016history
   author:
     - family: Cardinal-Pett
       given: Clare
   call-number: NA2543.S6 C349 2016
-  citation-key: cardinal-pett:2016history
+  citation-key: cardinalpett:2016history
   event-place: New York
   ISBN: 978-0-415-53492-5
   issued:
@@ -3606,7 +3606,7 @@ references:
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
 - id: lopes:1886india
-  abstract: '26'
+  abstract: 26 45 52
   accessed:
     - year: 2023
       month: 8
@@ -3616,6 +3616,34 @@ references:
       given: António
   call-number: ABM-8640
   citation-key: lopes:1886india
+  contributor:
+    - literal: Sociedade de Geografia de Lisboa
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1886
+  language: pt
+  number-of-volumes: '2'
+  publisher: Imprensa Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    A India portugueza: breve descripção das possessões portuguezas na Asia,
+    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
+  title-short: A India portugueza
+  type: book
+
+- id: lopes:1886indiaa
+  abstract: '26'
+  accessed:
+    - year: 2023
+      month: 8
+      day: 9
+  author:
+    - family: Lopes Mendes
+      given: António
+  call-number: ABM-8640
+  citation-key: lopes:1886indiaa
   contributor:
     - literal: Sociedade de Geografia de Lisboa
     - literal: Robarts - University of Toronto
@@ -3635,36 +3663,6 @@ references:
   URL: http://archive.org/details/indiaportuguezab01lopeuoft
   volume: '1'
 
-- id: lopes:1886indiaa
-  abstract: 26 45 52
-  accessed:
-    - year: 2023
-      month: 8
-      day: 9
-  author:
-    - family: Lopes Mendes
-      given: António
-  call-number: ABM-8640
-  citation-key: lopes:1886indiaa
-  contributor:
-    - literal: Sociedade de Geografia de Lisboa
-    - literal: Robarts - University of Toronto
-  event-place: Lisboa
-  issued:
-    - year: 1886
-  language: pt
-  number-of-pages: '494'
-  publisher: Imprensa Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    A India portugueza: breve descripção das possessões portuguezas na Asia,
-    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
-  title-short: A India portugueza
-  type: book
-  URL: http://archive.org/details/indiaportuguezab02lope
-  volume: '2'
-
 - id: lopes:1886indiab
   abstract: 26 45 52
   accessed:
@@ -3683,7 +3681,7 @@ references:
   issued:
     - year: 1886
   language: pt
-  number-of-volumes: '2'
+  number-of-pages: '494'
   publisher: Imprensa Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -3692,6 +3690,8 @@ references:
     dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
   title-short: A India portugueza
   type: book
+  URL: http://archive.org/details/indiaportuguezab02lope
+  volume: '2'
 
 - id: lopes:2014ocupacao
   abstract: >-
@@ -3965,27 +3965,6 @@ references:
   title: Cidade brasileira
   type: book
 
-- id: mascarenhas-mateus:2002tecnicas
-  author:
-    - family: Mascarenhas-Mateus
-      given: João
-  call-number: MLCM 2006/40626 (T)
-  citation-key: mascarenhas-mateus:2002tecnicas
-  event-place: Lisboa
-  ISBN: 978-972-24-1234-6
-  issued:
-    - year: 2002
-  language: pt
-  number-of-pages: '430'
-  publisher: Horizonte
-  publisher-place: Lisboa
-  source: Library of Congress ISBN
-  title: >-
-    Técnicas tradicionais de construção de alvenarias: a literatura técnica de
-    1750 a 1900 e o seu contributo para a conservação de edifícos históricos
-  title-short: Técnicas tradicionais de construção de alvenarias
-  type: book
-
 - id: mascarenhas:2015arquitectura
   author:
     - family: Mascarenhas
@@ -4004,6 +3983,27 @@ references:
   publisher-place: Lisboa
   source: Library of Congress ISBN
   title: Arquitectura popular portuguesa
+  type: book
+
+- id: mascarenhasmateus:2002tecnicas
+  author:
+    - family: Mascarenhas-Mateus
+      given: João
+  call-number: MLCM 2006/40626 (T)
+  citation-key: mascarenhasmateus:2002tecnicas
+  event-place: Lisboa
+  ISBN: 978-972-24-1234-6
+  issued:
+    - year: 2002
+  language: pt
+  number-of-pages: '430'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    Técnicas tradicionais de construção de alvenarias: a literatura técnica de
+    1750 a 1900 e o seu contributo para a conservação de edifícos históricos
+  title-short: Técnicas tradicionais de construção de alvenarias
   type: book
 
 - id: mattoso:2000formacao
@@ -4049,12 +4049,12 @@ references:
   title-short: Património de origem portuguesa no mundo
   type: book
 
-- id: mazzoli-guintard:2000ciudades
+- id: mazzoliguintard:2000ciudades
   author:
     - family: Mazzoli-Guintard
       given: Christine
   call-number: 711.4(46)
-  citation-key: mazzoli-guintard:2000ciudades
+  citation-key: mazzoliguintard:2000ciudades
   edition: '1'
   event-place: Granada
   ISBN: 978-84-931194-1-6
@@ -4903,7 +4903,7 @@ references:
   title-short: De árvores e cidades
   type: chapter
 
-- id: pereira:2005historiografiaXXXI
+- id: pereira:2005historiografiaxxxi
   accessed:
     - year: 2018
       month: 5
@@ -4911,7 +4911,7 @@ references:
   author:
     - family: Pereira
       given: Sonia Gomes
-  citation-key: pereira:2005historiografiaXXXI
+  citation-key: pereira:2005historiografiaxxxi
   container-title: Estudos Ibero-Americanos
   ISSN: 0101-4064
   issue: '2'
@@ -6147,7 +6147,6 @@ references:
   type: book
 
 - id: sousa:1899diccionario
-  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
       month: 11
@@ -6158,13 +6157,12 @@ references:
       dropping-particle: de
   call-number: '9923093150001551'
   citation-key: sousa:1899diccionario
-  contributor:
-    - literal: Getty Research Institute
   event-place: Lisboa
   issued:
     - year: 1899
   language: pt
-  number-of-pages: '518'
+  number-of-pages: '600'
+  number-of-volumes: '3'
   publisher: Impr. Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -6172,38 +6170,8 @@ references:
     Diccionario historico e documental dos architectos, engenheiros e
     constructores portuguezes ou a serviço de Portugal
   type: book
-  URL: http://archive.org/details/diccionariohisto03vite
-  volume: '3'
 
 - id: sousa:1899diccionarioa
-  accessed:
-    - year: 2019
-      month: 11
-      day: 27
-  author:
-    - family: Sousa Viterbo
-      given: Francisco Marques
-      dropping-particle: de
-  call-number: '9923093150001551'
-  citation-key: sousa:1899diccionarioa
-  contributor:
-    - literal: Getty Research Institute
-  event-place: Lisboa
-  issued:
-    - year: 1899
-  language: pt
-  number-of-pages: '618'
-  publisher: Impr. Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    Diccionario historico e documental dos architectos, engenheiros e
-    constructores portuguezes ou a serviço de Portugal
-  type: book
-  URL: http://archive.org/details/diccionariohisto01vite
-  volume: '1'
-
-- id: sousa:1899diccionariob
   abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
@@ -6214,7 +6182,7 @@ references:
       given: Francisco Marques
       dropping-particle: de
   call-number: '9923093150001551'
-  citation-key: sousa:1899diccionariob
+  citation-key: sousa:1899diccionarioa
   contributor:
     - literal: Getty Research Institute
   event-place: Lisboa
@@ -6232,7 +6200,36 @@ references:
   URL: http://archive.org/details/diccionariohisto02vite
   volume: '2'
 
+- id: sousa:1899diccionariob
+  accessed:
+    - year: 2019
+      month: 11
+      day: 27
+  author:
+    - family: Sousa Viterbo
+      given: Francisco Marques
+      dropping-particle: de
+  call-number: '9923093150001551'
+  citation-key: sousa:1899diccionariob
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Lisboa
+  issued:
+    - year: 1899
+  language: pt
+  number-of-pages: '618'
+  publisher: Impr. Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Diccionario historico e documental dos architectos, engenheiros e
+    constructores portuguezes ou a serviço de Portugal
+  type: book
+  URL: http://archive.org/details/diccionariohisto01vite
+  volume: '1'
+
 - id: sousa:1899diccionarioc
+  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
       month: 11
@@ -6243,12 +6240,13 @@ references:
       dropping-particle: de
   call-number: '9923093150001551'
   citation-key: sousa:1899diccionarioc
+  contributor:
+    - literal: Getty Research Institute
   event-place: Lisboa
   issued:
     - year: 1899
   language: pt
-  number-of-pages: '600'
-  number-of-volumes: '3'
+  number-of-pages: '518'
   publisher: Impr. Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -6256,6 +6254,8 @@ references:
     Diccionario historico e documental dos architectos, engenheiros e
     constructores portuguezes ou a serviço de Portugal
   type: book
+  URL: http://archive.org/details/diccionariohisto03vite
+  volume: '3'
 
 - id: sousa:1994arquitetura
   author:
@@ -6572,12 +6572,12 @@ references:
   URL: http://www.tandfonline.com/doi/abs/10.1080/026654398364518
   volume: '13'
 
-- id: tirapeli:2008igrejas
+- id: tirapeli:2008igrejasa
   author:
     - family: Tirapeli
       given: Percival
   call-number: NA5353 .T567 2008
-  citation-key: tirapeli:2008igrejas
+  citation-key: tirapeli:2008igrejasa
   contributor:
     - family: Salim
       given: Alex
