@@ -1,3 +1,0 @@
----
-title: "Praça do Comércio"
----
