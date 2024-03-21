@@ -156,7 +156,7 @@ references:
   language: pt
   license: openAccess
   publisher: >-
-    <span class="smallcaps">Dinâmia’cet-iul</span> do <span
+    <span smallcaps="smallcaps">Dinâmia’cet-iul</span> do <span
     smallcaps="smallcaps">iscte</span> - Instituto Universitário de Lisboa
   publisher-place: Lisboa
   source: repositorio.iscte-iul.pt
@@ -164,6 +164,118 @@ references:
   title-short: Arquitectura popular
   type: book
   URL: https://repositorio.iscte-iul.pt/handle/10071/12359
+
+- id: andreacci:2011madeiras62
+  abstract: >-
+    Resumo A madeira é um dos mais antigos materiais usados pelo homem para
+    diversas finalidades. O período Barroco mineiro é marcado pelo fabrico de
+    elementos arquitetônicos e artísticos religiosos, a partir do emprego da
+    madeira. Neste viés, conhecer as plantas por meio da cultura material
+    utilizadas por populações significa entender ou se aproximar do sentido
+    simbólico ou real da relação estabelecida entre o homem e o meio ambiente no
+    qual está inserido. O presente estudo objetivou identificar taxonomicamente
+    e estabelecer relações etnobotânicas sobre as espécies vegetais utilizadas
+    na construção da igreja Nossa Senhora da Conceição, datada de 1876 e
+    localizada no distrito de Matozinhos, estado de Minas Gerais. A
+    identificação taxonômica das espécies baseou-se na caracterização anatômica
+    das amostras de lenho obtidas das estruturas arquitetônicas que compõem a
+    igreja e comparação com material lenhoso de referência coletado em formações
+    vegetacionais próximas, além de consultas bibliográficas. Preparações
+    histológicas foram confeccionadas seguindo os planos transversal,
+    longitudinal radial e tangencial para as observações microscópicas. A
+    descrição do lenho adotou a terminologia proposta pela IAWA. Dados
+    etnobotânicos sobre as essências foram obtidos na literatura especializada.
+    A anatomia das madeiras históricas permitiu a identificação de três taxa:
+    Myracrodruon urundeuva, Dipteryx sp. e Andira sp. Os resultados obtidos
+    sugerem que o patrimônio arquitetônico em estudo foi edificado com lenho de
+    espécies selecionadas para tal finalidade uma vez que apresentam
+    características estruturais e físicas que lhes conferem qualidade
+    necessária. Os resultados fornecem subsídios para futuras ações de
+    conservação do mesmo.
+              , 
+                Abstract Wood is one of the oldest building materials used by man for many different purposes. The Barroco period of Minas Gerais state is marked by the manufacturing of architectural and religious art made of wood. To know which plants are used by people, through the material cultural, we must understand the real or symbolic meaning of the relationship between man and the environment where he lives. This study aimed to identify taxonomically and establish ethnobotanical relationships for the plant species used in the construction of the Nossa Senhora da Conceição church, dated 1876 and located in the city of Matozinhos, Minas Gerais. Taxonomic identification was based on the anatomical characteristics of wood samples obtained from the architectural structures that make up the church and comparison with reference wood material collected in nearby plant formations plus reference texts. Histological preparations were made following the transverse, radial longitudinal and tangential sections for microscopic observations. Wood description adopted the terminology proposed by IAWA. Ethnobotanical data was obtained from specialized texts. The anatomy of historical wood samples allowed the identification of three taxa: Myracrodruon urundeuva, Dipteryx sp. and Andira sp. The results suggest that this architectural heritage was built with the wood of species chosen specifically for this purpose since the samples have structural and physical traits that attest to wood quality. The results provide a basis for future conservation efforts.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 13
+  author:
+    - family: Andreacci
+      given: Fernando
+    - family: Melo Júnior
+      given: João Carlos Ferreira
+      dropping-particle: de
+  citation-key: andreacci:2011madeiras62
+  container-title: Rodriguésia
+  container-title-short: Rodriguésia
+  DOI: 10.1590/2175-7860201162202
+  ISSN: 2175-7860
+  issue: '2'
+  issued:
+    - year: 2011
+      month: 6
+  language: pt-BR
+  page: 241-251
+  source: DOI.org (Crossref)
+  title: >-
+    Madeiras históricas do barroco mineiro: interfaces entre o patrimônio
+    cultural material e a anatomia da madeira
+  title-short: Madeiras históricas do barroco mineiro
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2175-78602011000200241&lng=pt&tlng=pt
+  volume: '62'
+
+- id: andrews:2009measured
+  call-number: TA625 .M43 2009
+  citation-key: andrews:2009measured
+  edition: 2nd ed
+  editor:
+    - family: Andrews
+      given: D. D.
+    - family: Bedford
+      given: Jon
+    - family: Papworth
+      given: Heather
+  event-place: Swindon
+  ISBN: 978-1-84802-047-4
+  issued:
+    - year: 2009
+  language: en
+  number-of-pages: '70'
+  publisher: English Heritage
+  publisher-place: Swindon
+  source: Library of Congress ISBN
+  title: >-
+    Measured and drawn: techniques and practice for the metric survey of
+    historic buildings
+  title-short: Measured and drawn
+  type: book
+
+- id: aparicio:2023herramientas
+  abstract: >-
+    Las reconstrucciones virtuales en 3D son puzzles históricos que, carentes de
+    muchas de sus piezas, nos ponen el reto de recrear los vacíos de la forma
+    más coherente posible. Para ello, es fundament…
+  accessed:
+    - year: 2023
+      month: 10
+      day: 27
+  author:
+    - family: Aparicio Resco
+      given: Pablo
+  citation-key: aparicio:2023herramientas
+  container-title: PAR - Arqueología y Patrimonio Virtual
+  issued:
+    - year: 2023
+      month: 1
+      day: 26
+  language: es
+  title: >-
+    Herramientas de trazabilidad científica aplicadas a la reconstrucción
+    virtual en 3D de la antigua basilica de San Pedro del Vaticano (s. IV)
+  type: post-weblog
+  URL: >-
+    https://parpatrimonioytecnologia.wordpress.com/2023/01/26/herramientas-de-trazabilidad-cientifica-s-pedro/
 
 - id: aragao:2017ensaio
   accessed:
@@ -403,6 +515,116 @@ references:
   type: book
   URL: http://archive.org/details/diccionariodoste00assu
 
+- id: azevedo:1913auxiliar
+  author:
+    - family: Azevedo
+      given: Cornelio Carneiro de Barros
+      dropping-particle: e
+    - family: Marques
+      given: Alfredo de Azevedo
+  citation-key: azevedo:1913auxiliar
+  edition: 4. ed. revista, melhorada e augmentada
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1913
+  language: pt
+  number-of-pages: '382'
+  publisher: Alves
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: >-
+    Auxiliar do constructor, contendo a nomenclatura technologica e alphabetica
+    da construcção
+  title-short: Auxiliar do constructor
+  type: book
+
+- id: azkarate:2022arqueologia
+  abstract: >-
+    Este libro ha sido realizado en el marco del proyecto de investigación
+    PROMETEO/2019/035, LIMOS. LItoral y MOntañaS en transición: arqueología del
+    cambio social en las comarcas meridionales de la Comunidad Valenciana,
+    financiado por la Generalitat Valenciana.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 27
+  author:
+    - family: Azkarate Garai-Olaun
+      given: Agustín
+    - family: Doménech-Belda
+      given: Carolina
+    - family: Escribano-Ruiz
+      given: Sergio
+    - family: Gutiérrez Lloret
+      given: Sonia
+    - family: Kiss
+      given: Débora Marcela
+    - family: Sánchez Pinto
+      given: Iban
+    - family: Solaun Bustinza
+      given: José Luis
+  citation-key: azkarate:2022arqueologia
+  collection-number: '9'
+  collection-title: Petracos
+  event-place: Alicante
+  ISBN: 978-84-13-02202-4
+  issued:
+    - year: 2022
+  language: spa
+  license: '© del texto e imágenes: los autores'
+  publisher: >-
+    Universidad de Alicante. Instituto Universitario de Investigación en
+    Arqueología y Patrimonio Histórico
+  publisher-place: Alicante
+  source: rua.ua.es
+  title: >-
+    Arqueología de la arquitectura: una experiencia práctica para el análisis
+    arqueológico de edificios históricos
+  title-short: Arqueología de la arquitectura
+  type: book
+  URL: http://rua.ua.es/dspace/handle/10045/130142
+
+- id: baganha:2018aprendendo
+  author:
+    - family: Baganha
+      given: José
+    - family: Duany
+      given: Douglas
+    - family: Equipaje
+      given: Ruth M.
+    - family: Florentino
+      given: Rui
+    - family: García Hermida
+      given: Alejandro
+    - family: Gómez-Gordo Villa
+      given: Rebeca
+    - family: Martínez
+      given: Frank
+    - family: Miller
+      given: Christopher
+  citation-key: baganha:2018aprendendo
+  container-title: >-
+    Um projecto de futuro para a Beirã (Marvão) baseado na arquitectura e
+    urbanismo de tradição alentejana
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt
+  page: 45-90
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: >-
+    Aprendendo a partir da construção, da arquitectura e do urbanismo
+    tradicionais alentejanos
+  title-short: Tipologia da edificação
+  type: chapter
+  URL: >-
+    https://premiorafaelmanzano.com/pt-pt/escolas-de-verao/marvao-summer-school-2018/
+
 - id: barjamovic:2019trade134
   abstract: >-
     We analyze a large data set of commercial records produced by Assyrian
@@ -449,6 +671,30 @@ references:
   URL: https://academic.oup.com/qje/article/134/3/1455/5420484
   volume: '134'
 
+- id: barreto:2010conservar
+  author:
+    - family: Barreto
+      given: Juliana Cunha
+    - family: Milet
+      given: Vera
+  call-number: F2651.O4 B374 2010
+  citation-key: barreto:2010conservar
+  contributor:
+    - family: Centro de Estudos Avançados da Conservação Integrada
+      given: ''
+  event-place: Olinda
+  ISBN: 978-85-98747-13-2
+  issued:
+    - year: 2010
+  language: pt
+  number-of-pages: '55'
+  publisher: Centro de Estudos Avançados da Conservação Integrada
+  publisher-place: Olinda
+  source: Library of Congress ISBN
+  title: 'Conservar: Olinda boas práticas no casario'
+  title-short: Conservar
+  type: book
+
 - id: bastos:2012urbanismo20
   accessed:
     - year: 2018
@@ -470,11 +716,82 @@ references:
   source: SciELO
   title: >-
     O urbanismo conveniente luso-brasileiro na formação de povoações em Minas
-    Gerais no século <span class="smallcaps">XVIII</span>
+    Gerais no século <span smallcaps="smallcaps">XVIII</span>
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142012000100008&lng=en&nrm=iso&tlng=pt
   volume: '20'
+
+- id: batalha:1966arquitectura
+  author:
+    - family: Batalha
+      given: Fernando
+  citation-key: batalha:1966arquitectura
+  event-place: Coimbra
+  issued:
+    - year: 1966
+  language: por
+  number-of-pages: '32'
+  publisher: Gráfica de Coimbra
+  publisher-place: Coimbra
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'A arquitectura em Angola: ciclo conguês ; Arquitectura antiga de Luanda'
+  title-short: A arquitectura em Angola
+  type: book
+
+- id: batalha:1966casa
+  author:
+    - family: Batalha
+      given: Fernando
+  call-number: '72'
+  citation-key: batalha:1966casa
+  event-place: Luanda
+  issued:
+    - year: 1966
+  language: pt
+  number-of-pages: '16'
+  publisher: <span smallcaps="smallcaps">SPAL</span>
+  publisher-place: Luanda
+  source: webopac.sib.uc.pt Library Catalog
+  title: Uma casa setecentista de Luanda
+  type: book
+
+- id: batalha:2006angola
+  author:
+    - family: Batalha
+      given: Fernando
+  citation-key: batalha:2006angola
+  event-place: Lisboa
+  ISBN: 978-972-699-681-1
+  issued:
+    - year: 2006
+  language: pt
+  publisher: Vega
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: 'Angola: arquitectura e história'
+  title-short: Angola
+  type: book
+
+- id: batalha:2008povoacoes
+  author:
+    - family: Batalha
+      given: Fernando
+    - family: Fernandes
+      given: José Manuel
+  call-number: '908'
+  citation-key: batalha:2008povoacoes
+  event-place: Lisboa
+  ISBN: 978-972-24-1605-4
+  issued:
+    - year: 2008
+  language: pt
+  number-of-pages: '136'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: Povoações históricas de Angola
+  type: book
 
 - id: bazin:1983arquitetura
   author:
@@ -498,6 +815,29 @@ references:
     - family: Nunes
       given: Glória Lúcia
   type: book
+
+- id: bazin:1983arquiteturaa
+  author:
+    - family: Bazin
+      given: Germain
+  call-number: NA5353 .B317 1983
+  citation-key: bazin:1983arquiteturaa
+  contributor:
+    - family: Barata
+      given: Mário
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1983
+  language: pt-BR
+  publisher: Record
+  publisher-place: Rio de Janeiro
+  source: dedalus.usp.br Library Catalog
+  title: A arquitetura religiosa barroca no Brasil
+  translator:
+    - family: Nunes
+      given: Glória Lúcia
+  type: book
+  volume: '1'
 
 - id: bazin:2010barroco
   author:
@@ -621,7 +961,7 @@ references:
   issued:
     - year: 2007
   language: pt-BR
-  publisher: '<span class="smallcaps">unesco</span> : Caixa Econômica Federal'
+  publisher: '<span smallcaps="smallcaps">unesco</span> : Caixa Econômica Federal'
   publisher-place: Brasília
   source: Open WorldCat
   title: Arquitetura na formação do Brasil
@@ -726,8 +1066,10 @@ references:
       given: Rômulo
     - family: Delpino
       given: Rossana
+    - family: Migoto
+      given: Milena
   citation-key: bonelli:2005manual
-  collection-number: '2'
+  collection-number: '1'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
   issued:
@@ -735,7 +1077,7 @@ references:
   language: pt-BR
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
-  title: 'Manual prático: saneamento básico residencial'
+  title: 'Manual prático: uso da cal'
   type: book
 
 - id: bonelli:2005manuala
@@ -762,10 +1104,8 @@ references:
       given: Rômulo
     - family: Delpino
       given: Rossana
-    - family: Migoto
-      given: Milena
   citation-key: bonelli:2005manualb
-  collection-number: '1'
+  collection-number: '2'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
   issued:
@@ -773,7 +1113,7 @@ references:
   language: pt-BR
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
-  title: 'Manual prático: uso da cal'
+  title: 'Manual prático: saneamento básico residencial'
   type: book
 
 - id: braga:2003conservacao
@@ -792,6 +1132,33 @@ references:
   title: 'Conservação e restauro: arquitetura brasileira'
   title-short: Conservação e restauro
   type: book
+
+- id: brandao:2009espaco
+  accessed:
+    - year: 2021
+      month: 7
+      day: 19
+  author:
+    - family: Brandão
+      given: Fernando Augusto Albuquerque
+  citation-key: brandao:2009espaco
+  container-title: África
+  DOI: 10.11606/issn.2526-303X.v0i24-26p175-192
+  ISSN: 2526-303X
+  issue: 24-26
+  issued:
+    - year: 2009
+      month: 12
+      day: 9
+  language: pt
+  license: Copyright (c) 2015 Africa (São Paulo)
+  number: 24-26
+  page: 175-192
+  source: www.revistas.usp.br
+  title: 'O espaço urbano no contexto colonial: o caso de Luanda'
+  title-short: O espaço urbano no contexto colonial
+  type: article-journal
+  URL: https://www.revistas.usp.br/africa/article/view/74022
 
 - id: brescia:2011teatros
   abstract: >-
@@ -859,7 +1226,7 @@ references:
     - year: 2011
   language: pt
   number-of-pages: '352'
-  publisher: '<span class="smallcaps">FAPESP</span> : Edusp'
+  publisher: '<span smallcaps="smallcaps">FAPESP</span> : Edusp'
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: 'Desenho e desígnio: o Brasil dos engenheiros militares (1500-1822)'
@@ -989,7 +1356,7 @@ references:
   issued:
     - year: 1999
   language: pt
-  publisher: <span class="smallcaps">FAUP</span> Publicações
+  publisher: <span smallcaps="smallcaps">FAUP</span> Publicações
   publisher-place: Porto
   source: Open WorldCat
   title: >-
@@ -1145,7 +1512,7 @@ references:
   source: Open WorldCat
   title: >-
     Los intelectuales latinoamericanos entre la modernidad y la tradición,
-    siglos <span class="smallcaps">XIX</span> y <span
+    siglos <span smallcaps="smallcaps">XIX</span> y <span
     smallcaps="smallcaps">XX</span>
   title-short: Los intelectuales latinoamericanos entre la modernidad y la tradición
   type: book
@@ -1285,12 +1652,12 @@ references:
   title-short: Castelos a Bombordo
   type: book
 
-- id: cardinalpett:2016history
+- id: cardinal-pett:2016history
   author:
     - family: Cardinal-Pett
       given: Clare
   call-number: NA2543.S6 C349 2016
-  citation-key: cardinalpett:2016history
+  citation-key: cardinal-pett:2016history
   event-place: New York
   ISBN: 978-0-415-53492-5
   issued:
@@ -1311,7 +1678,7 @@ references:
   container-title: Revista do Serviço do Patrimônio Histórico e Artístico Nacional
   issued:
     - year: 1943
-  language: pt-BR
+  language: pt
   page: 209–256
   title: Um tipo de casa rural do Distrito Federal e Estado do Rio
   type: article-journal
@@ -1416,7 +1783,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1995
-  language: pt-BR
+  language: pt
   publisher: Topbooks
   publisher-place: Rio de Janeiro
   title: 'Resgate: uma janela para o oitocentos'
@@ -1511,6 +1878,40 @@ references:
   title: A “cidade ideal” do Renascimento e as cidades portuguesas da Índia
   type: article-journal
 
+- id: ching:1998arquitetura
+  author:
+    - family: Ching
+      given: Francis D. K.
+  citation-key: ching:1998arquitetura
+  event-place: São Paulo
+  issued:
+    - year: 1998
+  language: pt-BR
+  number-of-pages: '399'
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  title: Arquitetura, forma, espaço e ordem
+  type: book
+
+- id: ching:2017representacao
+  author:
+    - family: Ching
+      given: Francis D. K.
+  citation-key: ching:2017representacao
+  edition: '6'
+  event-place: Porto Alegre
+  ISBN: 978-85-8260-437-3
+  issued:
+    - year: 2017
+  language: pt-BR
+  publisher: Bookman
+  publisher-place: Porto Alegre
+  title: Representação gráfica em arquitetura
+  translator:
+    - family: Salvaterra
+      given: Alexandre
+  type: book
+
 - id: chueca:1981invariantes
   author:
     - family: Chueca Goitia
@@ -1532,6 +1933,27 @@ references:
     Invariantes castizos de la arquitectura española : Invariantes en la
     arquitectura hispanoamericana : Manifiesto de la Alhambra
   type: book
+
+- id: clark:1998conservation
+  accessed:
+    - year: 2024
+      month: 3
+      day: 7
+  author:
+    - family: Clark
+      given: Kate
+  citation-key: clark:1998conservation
+  container-title: Context
+  issue: '57'
+  issued:
+    - year: 1998
+      month: 3
+  language: en
+  page: 7-10
+  title: 'Conservation plans: a guide for the perplexed'
+  title-short: Conservation plans
+  type: article-journal
+  URL: http://ihbconline.co.uk/context/57/6/
 
 - id: clasby:2021archaeology
   abstract: >-
@@ -1640,7 +2062,7 @@ references:
       given: Carlos
   citation-key: corona:2017dicionario
   collection-number: '3'
-  collection-title: <span class="smallcaps">RG</span> Facsimile
+  collection-title: <span smallcaps="smallcaps">RG</span> Facsimile
   contributor:
     - family: Santos
       given: Silvana Romano
@@ -1661,7 +2083,7 @@ references:
   title: Dicionário da arquitetura brasileira
   type: book
 
-- id: correia:1995pragmatismo
+- id: correia:1995pragmatismo2
   abstract: >-
     Tendo defendido uma Tese de Doutoramento em História da Arte 
 
@@ -1702,7 +2124,7 @@ references:
   author:
     - family: Correia
       given: José Eduardo Horta
-  citation-key: correia:1995pragmatismo
+  citation-key: correia:1995pragmatismo2
   container-title: >-
     Revista da Faculdade de Ciências Sociais e Humanas (Universidade Nova de
     Lisboa)
@@ -1717,7 +2139,7 @@ references:
   source: run.unl.pt
   title: >-
     Pragmatismo e utopismo na criação urbanística de raiz portuguesa no século
-    <span class="smallcaps">XVIII</span>
+    <span smallcaps="smallcaps">XVIII</span>
   title-short: Pragmatismo e utopismo
   type: article-journal
   URL: https://run.unl.pt/handle/10362/6785
@@ -1773,7 +2195,7 @@ references:
   publisher: Universidade de Évora
   publisher-place: Évora
   source: Open WorldCat
-  title: 'Ammaia: a Roman town in Lusitania = Ammaia : uma cidade Romana na Lusitania'
+  title: 'Ammaia: a Roman town in Lusitania'
   title-short: Ammaia
   type: book
 
@@ -1785,7 +2207,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1952
-  language: pt-BR
+  language: pt
   publisher: Ministério da Educação e Saúde
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1807,7 +2229,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1978
-  language: pt-BR
+  language: pt
   license: Catalogue en ligne de la Bibliothèque nationale de France
   number-of-pages: '72'
   publisher: Instituto Brasileiro de Geografia e Estatística
@@ -1823,6 +2245,7 @@ references:
       given: Lúcio
   call-number: 72(81)
   citation-key: costa:2007sobre
+  edition: '2'
   editor:
     - family: Xavier
       given: Alberto
@@ -1830,7 +2253,7 @@ references:
   ISBN: 978-85-60100-08-8
   issued:
     - year: 2007
-  language: pt-BR
+  language: pt
   publisher: UniRitter
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -1929,9 +2352,28 @@ references:
   source: Library of Congress ISBN
   title: >-
     Fazendas do sul de Minas Gerais: arquitetura rural nos séculos <span
-    smallcaps="smallcaps">XVIII</span> e <span class="smallcaps">XIX</span>
+    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
   title-short: Fazendas do sul de Minas Gerais
   type: book
+
+- id: cruz:2011patologia
+  author:
+    - family: Cruz
+      given: Helena
+  citation-key: cruz:2011patologia
+  event-place: Santarém (Portugal)
+  event-title: II Curso Livre Internacional de Património
+  issued:
+    - year: 2011
+  language: pt
+  page: '9'
+  publisher: >-
+    Associação Portuguesa dos Municípios com centro histórico : Forum UNESCO
+    Portugal
+  publisher-place: Santarém (Portugal)
+  source: Zotero
+  title: Patologia, avaliação e conservação de estruturas de madeira
+  type: paper-conference
 
 - id: cunha:1992historia
   abstract: >-
@@ -1962,7 +2404,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1992
-  language: pt-BR
+  language: pt
   number-of-pages: '658'
   publisher: >-
     Fundação de Amparo à Pesquisa do Estado de São Paulo : Companhia das Letras
@@ -2071,6 +2513,54 @@ references:
   title-short: Architectural temperance
   type: book
 
+- id: diez:2023documentacao
+  accessed:
+    - year: 2023
+      month: 10
+      day: 17
+  author:
+    - family: Díez Oronoz
+      given: Aritz
+    - family: Baganha
+      given: José Franqueira
+    - family: García Hermida
+      given: Alejandro
+    - family: Iparraguirre Barbero
+      given: Imanol
+    - family: Martinez
+      given: Frank
+    - family: Palazzo
+      given: Pedro P.
+    - family: Silva
+      given: Jorge Santos
+    - family: Steil
+      given: Lucien
+  citation-key: diez:2023documentacao
+  container-title: >-
+    Um projecto de futuro para Lajes do Pico: com base na arquitectura e
+    urbanismo da tradição local
+  editor:
+    - family: García Hermida
+      given: Alejandro
+    - family: Gil Fernández
+      given: Guillermo
+    - family: Gómez-Gordo Villa
+      given: Rebeca
+  event-place: Lisboa
+  ISBN: 978-989-33-4329-6
+  issued:
+    - year: 2023
+  language: pt
+  page: 79-131
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  source: dialnet.unirioja.es
+  title: >-
+    Documentação da construção, arquitetura e urbanismo tradicionais da ilha do
+    Pico
+  type: chapter
+  URL: https://www.premiorafaelmanzano.com/pt-pt/publicacoes/
+
 - id: diogo:2009recuperacao
   call-number: F2510 .R386 2009
   citation-key: diogo:2009recuperacao
@@ -2089,6 +2579,109 @@ references:
   source: Library of Congress ISBN
   title: Recuperação de imóveis privados em centros históricos
   type: book
+
+- id: donato:2009cidade
+  abstract: >-
+    O estudo consiste de uma análise de documentos iconográficos referentes a
+    cinco cidades portuguesas Luanda, em Angola, Ilha de Moçambique, em
+    Moçambique, Salvador, no Brasil, Goa, na Índia e Macau, na China durante
+    seus respectivos períodos coloniais. Por meio de comparação dos núcleos
+    urbanos iniciais, este trabalho pretende reconhecer Lisboa como modelo na
+    criação de novas cidades durante do século XVI, além de identificar padrões
+    na estruturação e consolidação dos centros urbanos nas Províncias
+    Ultramarinas. Dentre os contextos políticos, econômicos e religiosos que
+    impulsionaram a expansão marítima portuguesa, a necessidade de consolidação
+    e de unificação do Reino levou os reis de Portugal a adotar políticas que
+    resultaram na criação de um vasto e próspero Império que se espalhou por
+    todo o globo. Teriam sido os continentes, os oceanos e as longas distâncias
+    barreiras à unidade cultural lusófona? Supondo que Lisboa tivesse de fato
+    sido o modelo na implantação dos primeiros núcleos urbanos, quais eram as
+    características comuns das novas cidades fundadas? Embora as cidades
+    ultramarinas estivessem geograficamente afastadas umas das outras e de
+    Lisboa, através da ação dos navegadores se consolidou, nas referidas
+    cidades, um Império unificado por uma linguagem urbanística e arquitetônica
+    comum, que era um reflexo da imagem de Lisboa.
+    _________________________________________________________________________________
+    ABSTRACT
+  accessed:
+    - year: 2020
+      month: 5
+      day: 15
+  author:
+    - family: Donato
+      given: Lila
+  citation-key: donato:2009cidade
+  event-place: Brasília
+  genre: Dissertação (Mestrado em Arquitetura e Urbanismo)
+  issued:
+    - year: 2009
+      month: 6
+  language: pt
+  license: Acesso Aberto
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  source: repositorio.unb.br
+  title: >-
+    A cidade portuguesa nas províncias ultramarinas : uma análise iconográfica
+    comparativa : Ilha de Moçambique, Goa, Salvador, Macau e Luanda
+  title-short: A cidade portuguesa nas províncias ultramarinas
+  type: thesis
+  URL: https://repositorio.unb.br/handle/10482/4181
+
+- id: embaby:2014heritage10
+  abstract: >-
+    Protecting the built heritage and conserving the local traditional and
+    cultural values of communities for future generations present a real
+    challenge for developers, architects, and professional education programs
+    which are responsible for preparing the courses focused on heritage
+    conservation aspects, learning respectful aware design with cultural
+    context, and qualified graduates in planning, design, and implementation of
+    conservation projects. The paper aims to propose an educational methodology
+    for dealing with heritage conservation projects: “adaptive reuse of historic
+    buildings” in design studios of architecture and interior design programs,
+    by promoting a design philosophy which supports the integrated approaches of
+    revitalizing heritage values of the traditional communities and creates new
+    activities appropriated with: conservation principles, sense of historic
+    buildings and its cultural context, and continuous with local communities
+    needs. The main issue of the paper is to formulate design processes which
+    can assist and develop students’ abilities to reconstruct and represent the
+    heritage building’s interior within the historic context of sensitive
+    conditions to its architecturally and historically significant features
+    adopted with the new activities. The paper presents two examples of
+    student’s senior project titled with “adaptive reuse of Jeddah historic
+    houses as a tool for developing the cultural tourism” (Kingdom of Saudi
+    Arabia). By evaluating the design processes, concepts, and outcomes the
+    paper concluded that the architectural education programs which focused on
+    revitalization and conservation of communities’ heritage values – throughout
+    developing student’s creative and investigative skills – can be considered
+    as an effective approach in cultural heritage conservation projects.
+  accessed:
+    - year: 2018
+      month: 11
+      day: 8
+  author:
+    - family: Embaby
+      given: Mohga E.
+  citation-key: embaby:2014heritage10
+  container-title: HBRC Journal
+  container-title-short: HBRC Journal
+  DOI: 10.1016/j.hbrcj.2013.12.007
+  ISSN: 1687-4048
+  issue: '3'
+  issued:
+    - year: 2014
+      month: 12
+      day: 1
+  language: en
+  page: 339-350
+  source: ScienceDirect
+  title: >-
+    Heritage conservation and architectural education: “An educational
+    methodology for design studios”
+  title-short: Heritage conservation and architectural education
+  type: article-journal
+  URL: http://www.sciencedirect.com/science/article/pii/S1687404814000030
+  volume: '10'
 
 - id: etlin:1978dedans
   abstract: >-
@@ -2150,12 +2743,12 @@ references:
     - year: 1978
   language: it
   page: 97–106
-  publisher: <span class="smallcaps">CISCU</span> ; Marsilio
+  publisher: <span smallcaps="smallcaps">CISCU</span> ; Marsilio
   publisher-place: Lucca; Venezia
   source: Open WorldCat
   title: >-
     La politica delle città nuove nel sud-ovest della Francia nel <span
-    smallcaps="smallcaps">XIII</span> e <span class="smallcaps">XIV</span>
+    smallcaps="smallcaps">XIII</span> e <span smallcaps="smallcaps">XIV</span>
     secolo
   title-short: La politica delle città nuove nel sud-ovest della Francia
   type: chapter
@@ -2198,7 +2791,7 @@ references:
   issued:
     - year: 2004
       month: 4
-  language: pt-BR
+  language: pt
   page: 23-25
   source: cienciaecultura.bvs.br
   title: >-
@@ -2226,6 +2819,70 @@ references:
   title: 'Arquitectura portuguesa: uma síntese'
   title-short: Arquitectura portuguesa
   type: book
+
+- id: fernandes:2012fichas
+  abstract: >-
+    O patrimônio rural da cidade de Campinas tem em sua configuração técnicas
+    construtivas em que se utiliza a terra. A partir da segunda metade do século
+    XIX impulsionada pela expansão da economia cafeeira e pela riqueza acumulada
+    pelo açúcar, a cidade tornou-se detentora de uma vasta área com fazendas
+    rurais, inseridas na atual malha urbana. Podemos explanar que a conservação
+    da arquitetura e das construções em terra, foi um dos temas discutidos no I
+    Fórum Nacional do Patrimônio Cultural de 2009, realizado em Ouro Preto,
+    Minas Gerais. As construções em terra estão presentes na maioria das
+    edificações rurais e para se conceituar o patrimônio cultural rural é
+    preciso reconhecer e valorizar todos os elementos naturais e constituídos
+    quanto às técnicas, às crenças, os costumes e o saber fazer do meio rural.
+    Muitos modelos de gestão para preservação do patrimônio estão em uso, mas o
+    modelo SICG do IPHAN apresenta novidades. O objetivo deste artigo é
+    apresentar o modelo de gestão SICG (Sistema Integrado de Conhecimento e
+    Gestão) do IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional) do
+    Brasil com seus modelos de fichas de inventário de patrimônios históricos e
+    através da análise de uma ficha de inventário contribuir para o
+    questionamento de métodos de proteção e conservação. Saber reconhecer o
+    valor patrimonial das técnicas construtivas da arquitetura rural da terra
+    roxa (região de Campinas) na qual predominam as taipas e outras técnicas nos
+    fará delimitar um justo lugar no valor de memória do patrimônio. A
+    metodologia tem como base o estudo da arquitetura rural, além da análise das
+    fichas de inventário do SICG (1). A documentação pesquisada inclui textos,
+    fichas, mapas, assim como material gráfico e iconográfico. Tomamos como
+    objeto de análise o estudo de caso da fazenda de café Mato Dentro em
+    Campinas que possui casa-sede, capela e tulha tombadas pelo Condephaat e
+    pelo Condepacc órgãos estaduais e municipais respectivamente de proteção do
+    patrimônio cultural. Com grande relevância para a cidade devido seu contexto
+    na história campineira. Tem várias técnicas construtivas tais como a
+    taipa-de-pilão, o pau-a-pique, a alvenaria de tijolos, a alvenaria de pedra,
+    o ladrilho hidráulico e a telha de colo ou capa-canal. Sendo assim,
+    questionamentos se formaram devido à inovação do assunto e a idéia de
+    utilização de uma tecnologia eficaz.
+  accessed:
+    - year: 2021
+      month: 1
+      day: 20
+  author:
+    - family: Fernandes Martins
+      given: Sandra Cristina
+    - family: Rossignolo
+      given: João Adriano
+  citation-key: fernandes:2012fichas
+  container-title: digitAR - Revista Digital de Arqueologia, Arquitectura e Artes
+  container-title-short: digitAR
+  DOI: 10.14195/2182-844X_1_7
+  ISSN: 2182-844X
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 12
+      day: 5
+  language: pt
+  source: DOI.org (Crossref)
+  title: >-
+    Fichas de inventário: <span smallcaps="smallcaps">SICG</span> (Sistema
+    Integrado de Conhecimento e Gestão) do Iphan: estudo de caso em patrimônio
+    rural
+  title-short: Fichas de inventário
+  type: article-journal
+  URL: https://impactum-journals.uc.pt/digitar/article/view/_1_7
 
 - id: fernandes:2014fundacao
   author:
@@ -2295,7 +2952,7 @@ references:
   citation-key: fernandes:2014morfologia
   container-title: 'A jangada de pedra: Geografias Ibero-Afro-Americanas'
   event-place: Guimarães
-  event-title: Atas do <span class="smallcaps">XIV</span> Colóquio Ibérico de Geografia
+  event-title: Atas do <span smallcaps="smallcaps">XIV</span> Colóquio Ibérico de Geografia
   issued:
     - year: 2014
   language: pt
@@ -2360,7 +3017,7 @@ references:
   source: DOI.org (Crossref)
   title: >-
     Caracterização das técnicas construtivas em terra edificadas no século <span
-    smallcaps="smallcaps">XVIII</span> e <span class="smallcaps">XIX</span>
+    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
     no centro histórico de São Luís (MA, Brasil)
   type: article-journal
   URL: http://revistas.unisinos.br/index.php/arquitetura/article/view/1280
@@ -2463,6 +3120,104 @@ references:
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-59702012000500014&lng=pt&tlng=pt
   volume: '19'
 
+- id: florentino:2023dimensoes
+  accessed:
+    - year: 2023
+      month: 9
+      day: 27
+  author:
+    - family: Florentino
+      given: Rui
+    - family: Gaspar
+      given: Cláudia Braga
+    - family: Tenreiro
+      given: José Pedro de Galhardo
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: florentino:2023dimensoes
+  container-title: Ambientes em mudança
+  editor:
+    - family: Lourenço
+      given: Paulo B.
+    - family: Maia
+      given: Carlos
+    - family: Melo
+      given: Arnaldo Sousa
+    - family: Vale
+      given: Clara Pimenta
+      dropping-particle: do
+  event-place: Guimarães
+  event-title: 4.º Congresso Internacional de História da Construção Luso-Brasileira
+  issued:
+    - year: 2023
+  language: pt
+  license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
+  page: 749-761
+  publisher: Universidade do Minho
+  publisher-place: Guimarães
+  title: >-
+    Dimensões tradicionais do projeto urbano em cidades portuguesas: do
+    terramoto à república
+  title-short: Dimensões tradicionais do projeto urbano em cidades portuguesas
+  type: paper-conference
+  URL: >-
+    https://drive.google.com/file/d/1SvU-hrDLtBhJUj7SwOXITxOchExBbJtT/view?usp=sharing
+
+- id: florenzano:2021cor29
+  abstract: >-
+    RESUMO A segunda metade do século XX foi marcada pela revisão e crítica à
+    ideologia do movimento moderno e por novas abordagens dos conceitos de
+    cultura e de história, cujas reverberações estenderam-se aos bens culturais.
+    O objeto do patrimônio começou a abranger novas temporalidades e naturezas
+    de valor patrimonial e passou a ser aplicado a tipologias materiais e
+    imateriais, momento em que produz uma mercadoria e um objeto de consumo.
+    Inseridas nesse contexto, as cores das superfícies arquitetônicas refletem
+    as práticas de preservação e os princípios gerais que norteiam as
+    intervenções. Nesse cenário, este artigo enfatiza as narrativas imagéticas e
+    identifica a recorrência de atitudes estruturantes na base das intervenções
+    cromáticas em bens culturais edificados. Identificadas como paradigmas,
+    fundamentam-se no culto ao valor de novidade, em tendências cromáticas como
+    o uso do amarelo na arquitetura historicista e no turismo cultural. O artigo
+    analisa a existência de tais paradigmas a partir de intervenções cromáticas
+    realizadas em bens culturais edificados no Brasil. O referencial teórico
+    aborda o conceito de imagem urbana e é fundamentado nas reflexões de Jean
+    Baudrillard, Guy Debord, Pierre Jeudy, no restauro crítico de Cesare Brandi
+    e na interpretação cultural contemporânea de Flávio Carsalade. Os resultados
+    demonstram que apesar do discurso teórico consolidado que preconiza a
+    análise caso a caso, na prática as decisões projetuais cromáticas não
+    refletem as tendências atuais da teoria da restauração e revelam que a
+    questão da cor no patrimônio cultural não foi superada e deve ser discutida
+    em toda sua complexidade histórica, teórica e fenomenológica.
+              , 
+                ABSTRACT The second half of the 20th century was marked by the revision and critique to the modern movement ideology and by new approaches to culture and history, whose reverberations extended to cultural goods. With that, the notion of cultural heritage expands and incorporates material and immaterial typologies, producing a commodity and an object of consumption. In this context, the colors of architectural surfaces reflect the preservation practices and general principles guiding the interventions. This article emphasizes the narratives of urban images and identifies the recurrence of certain paradigms - which express the value of novelty within a chromatic trend, such as the use of yellow in historicist architecture and the cultural tourism - on the basis of chromatic interventions conducted in Brazilian historic buildings. The theoretical framework consists of the reflections of Jean Baudrillard, Guy Debord, and Pierre Jeudy; the critical restoration of Cesare Brandi; and the cultural interpretation of Flávio Carsalade. Results indicate that, although the consolidated theory recommends a case-by-case analysis, in practice, design decisions are not supported by current trends in restoration theory, besides revealing that the issue of chromatic interventions in cultural heritage has not been overcome and should be discussed in its historical, theoretical, and phenomenological complexity.
+  accessed:
+    - year: 2023
+      month: 7
+      day: 15
+  author:
+    - family: Florenzano
+      given: Luciana da Silva
+    - family: Ribeiro
+      given: Rosina Trevisan Martins
+  citation-key: florenzano:2021cor29
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  container-title-short: An. mus. paul.
+  DOI: 10.1590/1982-02672021v29e55
+  ISSN: 1982-0267, 0101-4714
+  issued:
+    - year: 2021
+  language: pt
+  page: e55
+  source: DOI.org (Crossref)
+  title: >-
+    Da cor à imagem urbana: paradigmas contemporâneos nas cores do patrimônio
+    cultural brasileiro
+  title-short: Da cor à imagem urbana
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142021000100463&tlng=pt
+  volume: '29'
+
 - id: fonseca:2007arquitectura
   author:
     - family: Fonseca
@@ -2483,6 +3238,72 @@ references:
   source: Library of Congress ISBN
   title: Arquitectura de terra em Avis
   type: book
+
+- id: fontinha:2021metais
+  abstract: >-
+    Os materiais metálicos do século XX apresentam pro- priedades físicas e de
+    resistência à corrosão com in- teresse para a arquitetura, tendo neste
+    âmbito uma ampla gama de aplicações. Contudo, estão sujeitos a degradação,
+    frequentemente associada às condições de utilização e ambiente de exposição,
+    cujas conse- quências vão desde alterações estéticas à perda de
+    funcionalidade dos componentes e estruturas em que se encontram aplicados.
+    Neste artigo, descreve-se o comportamento típico de vários materiais
+    metálicos correntemente usados nas edificações, quando usa- dos em
+    componentes de arquitetura exterior, corre- lacionando-o com a corrosividade
+    ambiental e modos de utilização. O conjunto de informação reunida teve como
+    objetivo contribuir para uma seleção adequada dos metais a aplicar numa
+    determinada obra.
+  author:
+    - family: Fontinha
+      given: Rute
+  citation-key: fontinha:2021metais
+  collection-title: '2'
+  container-title: Cadernos do Arquivo Municipal (Lisboa)
+  ISSN: 2183-3176
+  issue: '16'
+  issued:
+    - year: 2021
+      month: 7
+  language: pt
+  page: 181-204
+  title: 'Metais “modernos” em património edificado: desempenho em ambiente exterior'
+  title-short: Metais “modernos” em património edificado
+  type: article-journal
+
+- id: fraile:2007infografia
+  abstract: >-
+    Autoría: Francisco José López Fraile.
+
+    Localización: Primer Simposio de la Investigación y Difusión
+    Arqueopaleontológica en el Marco de la Iniciativa Privada: Madrid,
+    Guadalajara 24 y 25 de octubre de 2007 : Primer Simposio AUDEMA, 2007.
+
+    Artículo de Libro en Dialnet.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 23
+  author:
+    - family: Fraile
+      given: Francisco José López
+  citation-key: fraile:2007infografia
+  container-title: >-
+    Primer Simposio de la Investigación y Difusión Arqueopaleontológica en el
+    Marco de la Iniciativa Privada
+  event-title: Primer Simposio AUDEMA
+  ISBN: 978-84-611-4123-4
+  issued:
+    - year: 2007
+  language: es
+  page: 429-444
+  section: >-
+    Primer Simposio de la Investigación y Difusión Arqueopaleontológica en el
+    Marco de la Iniciativa Privada: Madrid, Guadalajara 24 y 25 de octubre de
+    2007 : Primer Simposio AUDEMA
+  source: dialnet.unirioja.es
+  title: La infografía 3D como sistema de documentación y divulgación
+  type: paper-conference
+  URL: https://dialnet.unirioja.es/servlet/articulo?codigo=2905011
 
 - id: franca:1980lisboa
   author:
@@ -2551,6 +3372,64 @@ references:
   title: O pombalismo e o romantismo
   type: book
 
+- id: freire:2020uso14
+  accessed:
+    - year: 2021
+      month: 1
+      day: 2
+  archive_location: Thillois [Reims] França / France
+  author:
+    - family: Freire de Oliveira
+      given: Adriana
+    - family: Scharffhausen
+      given: Jean-Baptiste
+    - family: Albuquerque Lapa
+      given: Tomás
+  citation-key: freire:2020uso14
+  container-title: Labor e Engenho
+  container-title-short: Labor e Eng.
+  DOI: 10.20396/labore.v14i0.8663507
+  ISSN: 2176-8846
+  issued:
+    - year: 2020
+      month: 12
+      day: 23
+  language: pt
+  license: Copyright (c) 2020 Labor e Engenho
+  page: e020019-e020019
+  source: periodicos.sbu.unicamp.br
+  title: >-
+    Uso de tecnologias digitais no processo de documentação do patrimônio: o
+    caso do vilarejo de Thillois na França
+  title-short: Uso de tecnologias digitais no processo de documentação do patrimônio
+  type: article-journal
+  URL: https://periodicos.sbu.unicamp.br/ojs/index.php/labore/article/view/8663507
+  volume: '14'
+
+- id: freudenthal:2007angola
+  author:
+    - family: Freudenthal
+      given: Aida
+    - family: Fernandes
+      given: José Manuel
+    - family: Janeiro
+      given: Maria de Lurdes
+  citation-key: freudenthal:2007angola
+  contributor:
+    - family: Loureiro
+      given: João M
+  ISBN: 978-972-99633-7-7
+  issued:
+    - year: 2007
+  language: pt
+  publisher: Printer Portuguesa
+  source: Open WorldCat
+  title: >-
+    Angola no século <span smallcaps="smallcaps">XIX</span>: cidades, território
+    e arquitecturas
+  title-short: Angola no século <span smallcaps="smallcaps">XIX</span>
+  type: book
+
 - id: freyre:1971casa
   author:
     - family: Freyre
@@ -2582,7 +3461,7 @@ references:
   ISBN: 978-85-260-0869-4
   issued:
     - year: 2003
-  language: pt-BR
+  language: pt
   publisher: Global
   publisher-place: São Paulo
   source: Open WorldCat
@@ -2666,7 +3545,7 @@ references:
   issued:
     - year: 2018
   language: es
-  publisher: <span class="smallcaps">INTBAU</span> España
+  publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
   title: >-
     A reconstrução do património cultural: Seminario internacional Escuela
@@ -2701,7 +3580,7 @@ references:
   issued:
     - year: 2019
   language: es
-  publisher: <span class="smallcaps">INTBAU</span> España
+  publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
   source: Open WorldCat
   title: >-
@@ -2749,6 +3628,31 @@ references:
   type: book
   URL: https://www.premiorafaelmanzano.com/pt-pt/publicacoes/
 
+- id: gibert:1999tratado
+  citation-key: gibert:1999tratado
+  contributor:
+    - family: Arce
+      given: Ignacio
+    - literal: Universidad Politécnica de Madrid
+    - literal: Departamento de Construcción y Tecnología Arquitectónicas
+  editor:
+    - family: Gibert Trueba
+      given: Luis M.
+    - family: Bestard Martínez
+      given: Rita
+    - family: Bustamante Montoro
+      given: Rosa
+  event-place: Madrid
+  issued:
+    - year: 1999
+  language: es
+  number-of-volumes: '2'
+  publisher: Munilla-Lería
+  publisher-place: Madrid
+  source: Open WorldCat
+  title: Tratado de rehabilitación
+  type: book
+
 - id: gomes:1994arquitetura
   author:
     - family: Gomes
@@ -2763,7 +3667,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1994
-  language: pt-BR
+  language: pt
   page: 28–41
   publisher: Nova Fronteira
   publisher-place: Rio de Janeiro
@@ -2791,6 +3695,49 @@ references:
   title: Manual de elaboração de projetos de preservação do patrimônio cultural
   type: book
 
+- id: goncalves:2022patrimonio
+  accessed:
+    - year: 2023
+      month: 6
+      day: 14
+  citation-key: goncalves:2022patrimonio
+  DOI: 10.29327/560428.1-11
+  edition: '1'
+  editor:
+    - family: Gonçalves
+      given: Pedro Henrique
+    - family: Zanoni
+      given: Vanda Alice Garcia
+    - family: Silva
+      given: Caio Frederico E
+    - family: Paes
+      given: Carina Folena
+    - family: Ziebell
+      given: Clarissa Sartori
+    - family: Lima
+      given: Fabíolla Xavier Rocha Ferreira
+    - family: Pereira
+      given: Natália Biscaglia
+    - family: Fabrício
+      given: Marcio Minto
+    - family: Borges
+      given: Ariane Magda
+    - family: Soster
+      given: Sandra Schmitt
+  event-place: Goiânia
+  ISBN: '9786599238499'
+  issued:
+    - year: 2022
+  language: pt
+  number-of-pages: '492'
+  publisher: LaSUS <span smallcaps="smallcaps">FAU</span>
+  publisher-place: Goiânia
+  source: DOI.org (Crossref)
+  title: 'Patrimônio 4.0: conectando dimensões da realidade'
+  title-short: OpenHBIM
+  type: book
+  URL: https://www.patrimonio40.tec.br/anais
+
 - id: gonzaga:2006madeira
   author:
     - family: Gonzaga
@@ -2799,12 +3746,14 @@ references:
   collection-number: '6'
   collection-title: Cadernos técnicos Monumenta
   event-place: Brasília
+  ISBN: 978-85-7334-035-8
   issued:
     - year: 2006
   language: pt-BR
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: 'Madeira: uso e conservação'
+  title-short: Madeira
   type: book
 
 - id: gonzagaduque:1995arte
@@ -3069,12 +4018,41 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 2001
-  language: pt-BR
+  language: pt
   publisher: Access
   publisher-place: Rio de Janeiro
   source: BnF
   title: Ciência, civilização e império nos trópicos
   type: book
+
+- id: henriques:1998lurbanisation
+  archive_location: 711 (469) "14/18"
+  author:
+    - family: Henriques
+      given: Isabel Castro
+  call-number: HT384.P8 U54 1998
+  citation-key: henriques:1998lurbanisation
+  container-title: 'Universo urbanístico português 1415-1822: colectânea de estudos'
+  edition: '1'
+  editor:
+    - family: Araujo
+      given: Renata
+    - family: Carita
+      given: Helder
+  event-place: Lisboa
+  ISBN: 978-972-8325-70-1
+  issued:
+    - year: 1998
+  language: fr
+  page: 313–330
+  publisher: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    L'urbanisation commerciale en Angola au <span
+    smallcaps="smallcaps">XIX</span>^e^ siècle
+  title-short: L'urbanisation commerciale en Angola
+  type: chapter
 
 - id: hoffler:2003tradicao
   citation-key: hoffler:2003tradicao
@@ -3137,6 +4115,30 @@ references:
   title: Raízes do Brasil
   type: book
 
+- id: icomos:2005recommendations
+  accessed:
+    - year: 2017
+      month: 1
+      day: 23
+  author:
+    - family: Icomos
+      given: International Council on Monuments and Sites
+    - family: Iscarsah
+      given: >-
+        International Scientific Committee for Analysis and Restoration of
+        Structures of Architectural Heritage
+  citation-key: icomos:2005recommendations
+  issued:
+    - year: 2005
+      month: 11
+  language: en
+  page: '39'
+  title: >-
+    Recommendations for the analysis, conservation and structural restoration of
+    architectural heritage
+  type: report
+  URL: https://iscarsah.files.wordpress.com/2014/11/iscarsah-guidelines.pdf
+
 - id: juca:2012vilas
   call-number: HT384.B6 V55 2012
   citation-key: juca:2012vilas
@@ -3149,9 +4151,9 @@ references:
   ISBN: 978-85-237-0562-6
   issued:
     - year: 2012
-  language: pt-BR
+  language: pt
   number-of-pages: '179'
-  publisher: <span class="smallcaps">UFPB/ PPGAU</span>
+  publisher: <span smallcaps="smallcaps">UFPB/ PPGAU</span>
   publisher-place: João Pessoa
   source: Library of Congress ISBN
   title: >-
@@ -3241,14 +4243,14 @@ references:
       given: Dhiru A.
     - family: Hetzel
       given: Peter J.
-  event-place: Washington, <span class="smallcaps">D.C.</span>
+  event-place: Washington, <span smallcaps="smallcaps">D.C.</span>
   ISBN: 978-1-59726-578-2
   issued:
     - year: 2009
   language: en
   number-of-pages: '459'
   publisher: Island Press
-  publisher-place: Washington, <span class="smallcaps">D.C.</span>
+  publisher-place: Washington, <span smallcaps="smallcaps">D.C.</span>
   source: Library of Congress ISBN
   title: The architecture of community
   type: book
@@ -3262,7 +4264,7 @@ references:
   ISBN: 978-85-314-1550-0
   issued:
     - year: 2016
-  language: pt-BR
+  language: pt
   publisher: Edusp
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3288,6 +4290,31 @@ references:
     Art and architecture in Spain and Portugal and their American dominions,
     1500 to 1800
   type: book
+
+- id: kuhl:2006historia
+  accessed:
+    - year: 2020
+      month: 5
+      day: 13
+  author:
+    - family: Kühl
+      given: Beatriz Mugayar
+  citation-key: kuhl:2006historia
+  container-title: Revista <span smallcaps="smallcaps">CPC</span>
+  container-title-short: Rev. CPC
+  DOI: 10.11606/issn.1980-4466.v0i1p16-40
+  ISSN: 1980-4466
+  issue: '1'
+  issued:
+    - year: 2006
+      month: 4
+      day: 1
+  language: pt-BR
+  page: '16'
+  source: DOI.org (Crossref)
+  title: História e ética na conservação e na restauração de monumentos históricos
+  type: article-journal
+  URL: http://www.revistas.usp.br/cpc/article/view/15579
 
 - id: kury:2001comissao
   author:
@@ -3317,6 +4344,27 @@ references:
     cabocla
   title-short: A Comissão Científica de Exploração
   type: chapter
+
+- id: lacerda:2012plano
+  citation-key: lacerda:2012plano
+  editor:
+    - family: Lacerda
+      given: Norma
+    - family: Zancheti
+      given: Silvio Mendes
+  event-place: Olinda
+  ISBN: 978-85-98747-19-4
+  issued:
+    - year: 2012
+      month: 8
+      day: 9
+  language: pt-BR
+  publisher: Centro de Estudos Avançados da Conservação Integrada
+  publisher-place: Olinda
+  source: Câmara Brasileira do Livro ISBN
+  title: 'Plano de gestão da conservação urbana: conceitos e métodos'
+  title-short: Plano de gestão da conservação urbana
+  type: book
 
 - id: lavedan:1926questce
   author:
@@ -3418,7 +4466,7 @@ references:
   source: run.unl.pt
   title: >-
     Urbanística e ordenamento do território na construção do Atlântico (século
-    <span class="smallcaps">XVI</span>). A morfologia urbana como indicador
+    <span smallcaps="smallcaps">XVI</span>). A morfologia urbana como indicador
     em Ponta Delgada e Rio de Janeiro
   title-short: A morfologia urbana como indicador em Ponta Delgada e Rio de Janeiro
   type: chapter
@@ -3437,7 +4485,7 @@ references:
   issue: '1'
   issued:
     - year: 2004
-  language: pt-BR
+  language: pt
   page: 70–89
   source: periodicos.unievangelica.edu.br
   title: >-
@@ -3495,7 +4543,7 @@ references:
   ISBN: 978-85-213-0465-4
   issued:
     - year: 1989
-  language: pt-BR
+  language: pt
   publisher: Nobel
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3531,13 +4579,13 @@ references:
     - year: 1993
       month: 1
       day: 1
-  language: pt-BR
+  language: pt
   license: Direitos autorais
   page: 95-106
   source: www.revistas.usp.br
   title: >-
     Transformações do espaço habitacional ocorridas na arquitetura brasileira do
-    século <span class="smallcaps">XIX</span>
+    século <span smallcaps="smallcaps">XIX</span>
   title-short: Transformações do espaço habitacional
   type: article-journal
   URL: http://www.revistas.usp.br/anaismp/article/view/5277
@@ -3574,12 +4622,85 @@ references:
   issued:
     - year: 2012
       month: 2
-  language: pt-BR
+  language: pt
   page: '00'
   title: Uma nova proposta de abordagem da história da arquitetura brasileira
   type: article-journal
   URL: http://www.vitruvius.com.br/revistas/read/arquitextos/12.141/4214
   volume: '12'
+
+- id: lepage:1986manual
+  abstract: Trata do uso racional dos nossos recursos florestais.
+  citation-key: lepage:1986manual
+  editor:
+    - family: Lepage
+      given: E. S
+  event-place: São Paulo
+  ISBN: 978-85-09-00005-9
+  issued:
+    - year: 1986
+  language: pt-BR
+  publisher: Instituto de Pesquisas Tecnológicas do Estado de São Paulo
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Manual de preservação de madeiras
+  type: book
+
+- id: lira:2010patrimonio
+  author:
+    - family: Lira
+      given: Flaviana Barreto
+  call-number: F2510 .L57 2010
+  citation-key: lira:2010patrimonio
+  collection-number: '51'
+  collection-title: Coleção Teses dissertações
+  event-place: Recife
+  ISBN: 978-85-7315-869-4
+  issued:
+    - year: 2010
+  language: pt-BR
+  number-of-pages: '277'
+  publisher: Editora Universitária UFPE
+  publisher-place: Recife
+  source: Library of Congress ISBN
+  title: >-
+    Patrimônio cultural e autenticidade: montagem de um sistema de indicadores
+    para o monitoramento
+  title-short: Patrimônio cultural e autenticidade
+  type: book
+
+- id: lira:2020desafios17
+  abstract: "Significância cultural, integridade e autenticidade\_são noções balizadoras da conservação de bens culturais\_em todo o mundo. Todavia, ainda há desafiosa serem enfrentados quanto à operacionalização\_dessas noções. Observa-se haver certas sobreposições\_ou influências mútuas entre elas que levam auma questão central: ainda que na teoria possam ser\_compreendidasb isoladamente, na prática essa separação\_não se revela factível. Diante dessa problemática,\_este artigo objetiva investigar autenticidade, integridade e significância cultural na contemporaneidade a partir da ótica da relação de interdependência\_\_indissociabilidade existente entre elas. Em termos teóricos, autores como Stovel, Jokilehto, Mason, Lira, Silva e Zancheti, são referências basilares. Como forma de refletir sobre essa sobreposição à luz da prática, toma-se o caso do Muro de Berlim. Entende-se que ações de reconstrução (ou de destruição) pós-guerra ou pós-catástrofe podem trazer elementos para mostrar como a forma de valorar, ou seja, de apreender a significância cultural, interferena ação sobre o bem e, consequentemente, na sua integridade e autenticidade. Assim, à luz de abordagens teóricas contemporâneas sobre o tema e do seu confronto com o referido estudo de caso, o artigo se propõe a construir orientações que possam se consubstanciar em matriz metodológica quefavoreça a análise integrada dessas três noções na conservação dos bens culturais."
+  accessed:
+    - year: 2020
+      month: 5
+      day: 17
+  author:
+    - family: Lira
+      given: Flaviana Barreto
+  citation-key: lira:2020desafios17
+  container-title: Oculum Ensaios
+  DOI: 10.24220/2318-0919v17e2020a4365
+  ISSN: 2318-0919
+  issued:
+    - year: 2020
+      month: 5
+      day: 15
+  language: pt-BR
+  license: Direitos autorais 2020 Oculum Ensaios
+  number: '0'
+  page: 1-22
+  source: periodicos.puc-campinas.edu.br
+  title: >-
+    Desafios contemporâneos da significância cultural, integridade e
+    autenticidade do patrimônio cultural: teoria e prática
+  title-short: >-
+    Desafios contemporâneos da significância cultural, integridade e
+    autenticidade do patrimônio cultural
+  type: article-journal
+  URL: >-
+    http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/view/4365
+  volume: '17'
 
 - id: lobo:2012urbanismo
   accessed:
@@ -3606,34 +4727,6 @@ references:
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
 - id: lopes:1886india
-  abstract: 26 45 52
-  accessed:
-    - year: 2023
-      month: 8
-      day: 9
-  author:
-    - family: Lopes Mendes
-      given: António
-  call-number: ABM-8640
-  citation-key: lopes:1886india
-  contributor:
-    - literal: Sociedade de Geografia de Lisboa
-    - literal: Robarts - University of Toronto
-  event-place: Lisboa
-  issued:
-    - year: 1886
-  language: pt
-  number-of-volumes: '2'
-  publisher: Imprensa Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    A India portugueza: breve descripção das possessões portuguezas na Asia,
-    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
-  title-short: A India portugueza
-  type: book
-
-- id: lopes:1886indiaa
   abstract: '26'
   accessed:
     - year: 2023
@@ -3643,7 +4736,7 @@ references:
     - family: Lopes Mendes
       given: António
   call-number: ABM-8640
-  citation-key: lopes:1886indiaa
+  citation-key: lopes:1886india
   contributor:
     - literal: Sociedade de Geografia de Lisboa
     - literal: Robarts - University of Toronto
@@ -3663,7 +4756,7 @@ references:
   URL: http://archive.org/details/indiaportuguezab01lopeuoft
   volume: '1'
 
-- id: lopes:1886indiab
+- id: lopes:1886indiaa
   abstract: 26 45 52
   accessed:
     - year: 2023
@@ -3673,7 +4766,7 @@ references:
     - family: Lopes Mendes
       given: António
   call-number: ABM-8640
-  citation-key: lopes:1886indiab
+  citation-key: lopes:1886indiaa
   contributor:
     - literal: Sociedade de Geografia de Lisboa
     - literal: Robarts - University of Toronto
@@ -3692,6 +4785,34 @@ references:
   type: book
   URL: http://archive.org/details/indiaportuguezab02lope
   volume: '2'
+
+- id: lopes:1886indiab
+  abstract: 26 45 52
+  accessed:
+    - year: 2023
+      month: 8
+      day: 9
+  author:
+    - family: Lopes Mendes
+      given: António
+  call-number: ABM-8640
+  citation-key: lopes:1886indiab
+  contributor:
+    - literal: Sociedade de Geografia de Lisboa
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1886
+  language: pt
+  number-of-volumes: '2'
+  publisher: Imprensa Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    A India portugueza: breve descripção das possessões portuguezas na Asia,
+    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
+  title-short: A India portugueza
+  type: book
 
 - id: lopes:2014ocupacao
   abstract: >-
@@ -3764,9 +4885,9 @@ references:
   ISBN: 978-85-7334-287-1
   issued:
     - year: 2016
-  language: pt-BR
+  language: pt
   number-of-pages: '311'
-  publisher: IPHAN
+  publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   source: Library of Congress ISBN
   title: 'Preservação do patrimônio edificado: a questão do uso'
@@ -3806,13 +4927,73 @@ references:
   ISBN: 978-65-86328-09-7
   issued:
     - year: 2020
-  language: pt-BR
+  language: pt
   publisher: Entrelinhas
   publisher-place: Cuiabá
   source: Zotero
   title: 'Tecnoíndia: Arquitetura, antropologia e tecnologias indígenas em Mato Grosso'
   title-short: Tecnoíndia
   type: book
+
+- id: malheiro:2018conservacao28
+  abstract: >-
+    A conservação e salvaguarda do Património Arquitetónico é um processo
+    composto por várias fases cuja orientação metodológica e doutrinal se
+    encontra suficientemente expressa nas várias cartas, convenções
+    internacionais e legislação portuguesa. No entanto, a aplicação destas
+    premissas em imóveis com uma grande complexidade funcional, formal e
+    estilística, deve-se alargar ao todo edificado a que se associa o intangível
+    das vivências e das rugas do tempo. As partes removidas ou as partes
+    acrescentadas são também objeto de salvaguarda como um todo significativo,
+    mesmo quando sobrepostas a uma estrutura de uma outra época, por gosto ou
+    regra diferenciada, podendo consubstanciar leituras difusas nas opções a
+    tomar na intervenção a levar a cabo. O artigo aborda este tema numa
+    realidade concreta, o projeto de conservação, salvaguarda e valorização da
+    Catedral de Beja, debatendo os princípios orientadores e a metodologia
+    gerada no processo de conhecimento, reflexão, projeto e execução em obra,
+    destacando o processo de intervenção no Património Arquitetónico e as
+    vicissitudes a ele associados.
+
+
+    The conservation and safeguarding of the architectural heritage is a process
+    composed of several stages whose methodological and doctrinal orientation
+    are sufficiently expressed in the various charters, international
+    conventions and Portuguese legislation. However, the application of these
+    premises in buildings with a great functional, formal and stylistic
+    complexity should be extended to the whole built to which is associated the
+    intangible of the experiences and the wrinkles of time. Removed or added
+    parts are also subject to safeguarding as a significant whole, even when
+    they are superimposed on a structure from another time, because the
+    different taste or rule, and may constitute diffuse readings in the options
+    to be taken in the intervention to be carried out. The article addresses
+    this theme in a concrete reality, the project of conservation, protection
+    and valorization of the Cathedral of Beja, debating the guiding principles
+    and the methodology generated in the process of knowledge, reflection,
+    project and execution in work, highlighting the process of intervention in
+    Heritage and the vicissitudes associated with it.
+  author:
+    - family: Malheiro
+      given: Miguel
+    - family: Costa
+      given: Augusto
+  citation-key: malheiro:2018conservacao28
+  container-title: Conservar Património
+  container-title-short: >-
+    Conservation, protection and valorization of the Architectural Heritage:
+    options, stages and its vicissitudes
+  DOI: 10.14568/cp2017025
+  ISSN: 2182-9942
+  issued:
+    - year: 2018
+  language: pt
+  page: 57-66
+  title: >-
+    Conservação, salvaguarda e valorização do património arquitetónico: opções,
+    fases e suas vicissitudes
+  title-short: Conservação, salvaguarda e valorização do património arquitetónico
+  type: article-journal
+  URL: https://doi.org/10.14568/cp2017025
+  volume: '28'
 
 - id: malta:2013casas
   citation-key: malta:2013casas
@@ -3826,7 +5007,7 @@ references:
   issued:
     - year: 2013
   language: pt
-  publisher: Editora <span class="smallcaps">UFRJ</span>
+  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: Casas senhoriais Rio-Lisboa e seus interiores
@@ -3850,7 +5031,7 @@ references:
   source: Library of Congress ISBN
   title: >-
     Através da rótula: sociedade e arquitetura no Brasil, séculos <span
-    smallcaps="smallcaps">XVII</span> a <span class="smallcaps">XX</span>
+    smallcaps="smallcaps">XVII</span> a <span smallcaps="smallcaps">XX</span>
   title-short: Através da rótula
   type: book
 
@@ -3891,7 +5072,7 @@ references:
   issued:
     - year: 2010
       month: 6
-  language: pt-BR
+  language: pt
   page: 83-128
   source: SciELO
   title: >-
@@ -3910,7 +5091,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1978
-  language: pt-BR
+  language: pt
   publisher: Conselho Estadual de Artes e Ciências Humanas
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3918,6 +5099,24 @@ references:
     O partido arquitetônico rural no século <span
     smallcaps="smallcaps">XIX</span>:  Porto Feliz, Tietê, Laranjal Paulista
   title-short: O partido arquitetônico rural no século XIX
+  type: book
+
+- id: martins:2010arquitecturas
+  call-number: '72'
+  citation-key: martins:2010arquitecturas
+  editor:
+    - family: Martins
+      given: Isabel Maria Nunes da Silva
+    - family: Grilo
+      given: Maria João Teles
+    - family: López Machado
+      given: Roberto Severino
+  issued:
+    - year: 2010
+  language: pt
+  number-of-pages: '215'
+  source: webopac.sib.uc.pt Library Catalog
+  title: Arquitecturas de Luanda
   type: book
 
 - id: martins:2013persistencia
@@ -3965,6 +5164,27 @@ references:
   title: Cidade brasileira
   type: book
 
+- id: mascarenhas-mateus:2002tecnicas
+  author:
+    - family: Mascarenhas-Mateus
+      given: João
+  call-number: MLCM 2006/40626 (T)
+  citation-key: mascarenhas-mateus:2002tecnicas
+  event-place: Lisboa
+  ISBN: 978-972-24-1234-6
+  issued:
+    - year: 2002
+  language: pt
+  number-of-pages: '430'
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: >-
+    Técnicas tradicionais de construção de alvenarias: a literatura técnica de
+    1750 a 1900 e o seu contributo para a conservação de edifícos históricos
+  title-short: Técnicas tradicionais de construção de alvenarias
+  type: book
+
 - id: mascarenhas:2015arquitectura
   author:
     - family: Mascarenhas
@@ -3985,27 +5205,6 @@ references:
   title: Arquitectura popular portuguesa
   type: book
 
-- id: mascarenhasmateus:2002tecnicas
-  author:
-    - family: Mascarenhas-Mateus
-      given: João
-  call-number: MLCM 2006/40626 (T)
-  citation-key: mascarenhasmateus:2002tecnicas
-  event-place: Lisboa
-  ISBN: 978-972-24-1234-6
-  issued:
-    - year: 2002
-  language: pt
-  number-of-pages: '430'
-  publisher: Horizonte
-  publisher-place: Lisboa
-  source: Library of Congress ISBN
-  title: >-
-    Técnicas tradicionais de construção de alvenarias: a literatura técnica de
-    1750 a 1900 e o seu contributo para a conservação de edifícos históricos
-  title-short: Técnicas tradicionais de construção de alvenarias
-  type: book
-
 - id: mattoso:2000formacao
   author:
     - family: Mattoso
@@ -4019,7 +5218,7 @@ references:
   ISBN: 978-85-7460-010-9
   issued:
     - year: 2000
-  language: pt-BR
+  language: pt
   page: 7–18
   publisher: 'Edusc : Unesp : Instituto Camões'
   publisher-place: 'Bauru : São Paulo : Lisboa'
@@ -4049,12 +5248,12 @@ references:
   title-short: Património de origem portuguesa no mundo
   type: book
 
-- id: mazzoliguintard:2000ciudades
+- id: mazzoli-guintard:2000ciudades
   author:
     - family: Mazzoli-Guintard
       given: Christine
   call-number: 711.4(46)
-  citation-key: mazzoliguintard:2000ciudades
+  citation-key: mazzoli-guintard:2000ciudades
   edition: '1'
   event-place: Granada
   ISBN: 978-84-931194-1-6
@@ -4067,8 +5266,22 @@ references:
   source: Library of Congress ISBN
   title: >-
     Ciudades de al-Andalus: España y Portugal en la época musulmana, siglos
-    <span class="smallcaps">VIII-XV</span>
+    <span smallcaps="smallcaps">VIII-XV</span>
   title-short: Ciudades de al-Andalus
+  type: book
+
+- id: mckee:1970recording
+  author:
+    - family: McKee
+      given: Harley J.
+  citation-key: mckee:1970recording
+  event-place: Washington, D.C
+  issued:
+    - year: 1970
+  language: en
+  publisher: National Park Service
+  publisher-place: Washington, D.C
+  title: Recording historic buildings
   type: book
 
 - id: medeiros:2013urbis
@@ -4100,7 +5313,7 @@ references:
       given: Ulpiano T. Bezerra
       dropping-particle: de
   citation-key: meneses:1996morfologia
-  container-title: Revista <span class="smallcaps">USP</span>
+  container-title: Revista <span smallcaps="smallcaps">USP</span>
   container-title-short: Rev. USP
   DOI: 10.11606/issn.2316-9036.v0i30p142-155
   ISSN: 2316-9036, 0103-9989
@@ -4142,7 +5355,7 @@ references:
   issued:
     - year: 1964
   language: pt
-  publisher: Editora <span class="smallcaps">UFMG</span>
+  publisher: Editora <span smallcaps="smallcaps">UFMG</span>
   publisher-place: Belo Horizonte
   source: Amazon
   title: Vãos na arquitetura tradicional mineira
@@ -4258,7 +5471,7 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Moderna (séculos <span class="smallcaps">XV–XVIII</span>)
+  title: Idade Moderna (séculos <span smallcaps="smallcaps">XV–XVIII</span>)
   type: chapter
 
 - id: morales:1955teoria
@@ -4294,6 +5507,41 @@ references:
   type: book
   URL: http://biblioteca.ciarte.pt/tratados/obras/m/Moreira1793.html
 
+- id: moreschi:2013biodegradacao3
+  author:
+    - family: Moreschi
+      given: João Carlos
+  citation-key: moreschi:2013biodegradacao3
+  event-place: Curitiba
+  issued:
+    - year: 2013
+  publisher: UFPR, Departamento de Engenharia Florestal
+  publisher-place: Curitiba
+  title: 'Biodegradação e preservação da madeira: métodos de tratamento da madeira'
+  type: book
+  volume: '3'
+
+- id: moura:2008geoprocessamento
+  accessed:
+    - year: 2012
+      month: 2
+      day: 20
+  author:
+    - family: Moura
+      given: Ana Clara Mourão
+  citation-key: moura:2008geoprocessamento
+  container-title: Fórum Patrimônio
+  ISSN: 1982-9531
+  issue: '2'
+  issued:
+    - year: 2008
+  language: pt
+  page: 127–157
+  title: Geoprocessamento na gestão do patrimônio histórico
+  type: article-journal
+  URL: http://www.forumpatrimonio.com.br/view_full.php?articleID=137&modo=1
+  volume: '2'
+
 - id: moutinho:1995arquitectura
   author:
     - family: Moutinho
@@ -4309,6 +5557,25 @@ references:
   source: Open WorldCat
   title: Arquitectura popular portuguesa
   type: book
+
+- id: munoz:que
+  abstract: >-
+    Revolución Estratigráfica y Paradigma.      Si existe la Arqueología de la
+    Arquitectura es por que también existe la estratigrafía. Como...
+  accessed:
+    - year: 2021
+      month: 10
+      day: 24
+  author:
+    - family: Muñoz
+      given: Michel
+  citation-key: munoz:que
+  container-title: El blog del murallólogo
+  language: es
+  title: Qué es la arqueología de la arquitectura
+  type: post-weblog
+  URL: >-
+    https://murallologo.blogspot.com/p/que-es-la-arqueologia-de-la-arquitectura.html
 
 - id: navarro:2001urbanismo
   accessed:
@@ -4555,7 +5822,7 @@ references:
   issued:
     - year: 2008
   language: pt-BR
-  publisher: Editora <span class="smallcaps">UFRJ</span>
+  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: 'História da arte no Brasil: textos de síntese'
@@ -4577,7 +5844,7 @@ references:
   issued:
     - year: 2011
   language: pt
-  publisher: Editora <span class="smallcaps">UFBA</span>
+  publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
   title: >-
@@ -4605,7 +5872,7 @@ references:
   ISBN: 978-972-9048-66-1
   issued:
     - year: 2012
-  language: pt-PT
+  language: pt
   publisher: 'Ismai : Cedtur'
   publisher-place: Maia
   source: http://id.bnportugal.gov.pt/bib/bibnacional/1833404
@@ -4702,6 +5969,435 @@ references:
   title-short: Notas sôbre a procedência da arte de pintura na província da Bahia
   type: article-journal
   volume: '11'
+
+- id: palazzo:2011hibridizacao
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2011hibridizacao
+  event-place: Goiânia
+  event-title: V Simpósio Internacional de História–Culturas e Identidades
+  issued:
+    - year: 2011
+  language: pt
+  publisher: Universidade Federal de Goiás
+  publisher-place: Goiânia
+  title: >-
+    Hibridização tipológica na arquitetura vernácula: o casarão Azul de
+    Planaltina <span smallcaps="smallcaps">(DF)</span>
+  title-short: Hibridização tipológica na arquitetura vernácula
+  type: paper-conference
+
+- id: palazzo:2014cem
+  abstract: >-
+    Os particularismos, ou seja, as formas culturalmente determinadas, tendem a
+    assumir uma existência própria, vinculada a fatores e interpretações
+    externos, e pouco afeitos a constituírem um sistema estilístico
+    autorreferente, tal como o eram o modernismo canônico ou mesmo o classicismo
+    tradicional. Esse contexto existiu na época do ecletismo acadêmico e
+    persiste no período recente, a que se ventura aqui chamar de ecletismo
+    moderno.
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2014cem
+  container-title: 'Arquitetura, estética e cidade: questões da modernidade'
+  contributor:
+    - literal: Universidade de Brasília
+    - literal: Faculdade de Arquitetura e Urbanismo
+  editor:
+    - family: Peixoto
+      given: Elane Ribeiro
+    - family: Derntl
+      given: Maria Fernanda
+  event-place: Brasília
+  ISBN: 978-85-60762-17-0
+  issued:
+    - year: 2014
+  language: pt
+  page: 85–96
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Cem anos de ecletismos na arquitetura residencial paulistana
+  type: chapter
+
+- id: palazzo:2014urbanizacao
+  accessed:
+    - year: 2016
+      month: 1
+      day: 25
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2014urbanizacao
+  editor:
+    - family: Peixoto
+      given: Elane Ribeiro
+    - family: Derntl
+      given: Maria Fernanda
+    - family: Palazzo
+      given: Pedro Paulo
+    - family: Trevisan
+      given: Ricardo
+  event-place: Brasília
+  event-title: XIII Seminário de História da Cidade e do Urbanismo
+  ISBN: 978-85-60762-19-4
+  issued:
+    - year: 2014
+  language: pt
+  license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
+  publisher: Universidade de Brasília
+  publisher-place: Brasília
+  title: >-
+    Urbanização em Goiás no século <span smallcaps="smallcaps">XIX</span>: o
+    Caso de Planaltina
+  title-short: Urbanização em Goiás no século <span smallcaps="smallcaps">XIX</span>
+  type: paper-conference
+  URL: https://shcu2014.com.br/território/001.html
+
+- id: palazzo:2016habitacao
+  abstract: >-
+    O estudo da produção da arquitetura residencial brasileira do início do
+    século XX tem se concentrado na transformação dos modos de morar nos grandes
+    centros urbanos e nas regiões cafeicultoras, assim como na introdução do
+    Movimento moderno. A configuração do habitat urbano no interior do País
+    durante o mesmo período, por outro lado, tem sido praticamente esquecida. A
+    presente pesquisa busca suprir essa lacuna, por meio do estudo de quatro
+    habitações urbanas nas cidades de Formosa e Planaltina, construídas entre a
+    1902 e 1932. As quatro edificações são analisadas do ponto de vista de seus
+    processos construtivos e da tipologia de suas plantas, de modo a situá-los
+    no universo dos conhecimentos arquitetônicos do Planalto Central do Brasil
+    ao longo do tempo. A especialidade das habitações e sua relação com o
+    contexto urbano são abordadas desde o referencial da tipologia processual,
+    bem como da configuração arquitetónica. Desse conjunto de análises,
+    destaca-se a caracterização das casas do Planalto Central no início do
+    século XX como híbridos. Os sistemas construtivos combinam, ao menos a
+    partir dos anos 1920, características coloniais e modernas: o emprego do
+    frontal (estrutura independente em madeira com vedação em adobe) como
+    estrutura, associado a fachadas em tijolo cozido e estuque. As configurações
+    espaciais demonstram influências da habitação rural de matriz paulista, com
+    a presença de grandes salões centrais e alpendres, juntamente com a
+    distribuição característica da arquitetura urbana do período colonial,
+    baseada em corredor central. São agregados, ainda, elementos da
+    espacialidade eclética, tais como acessos por varandas laterais. Tal
+    levantamento preliminar oferece indicações para estudos mais aprofundados
+    dos processos de interiorização das tradições arquitetônicas no Brasil dos
+    séculos XIX e XX. Demonstra, também, o desenvolvimento econômico e a
+    circulação de conhecimentos numa região geralmente considerada como
+    letárgica.
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Lemos
+      given: Rubiana Cardoso Campos
+  citation-key: palazzo:2016habitacao
+  container-title: Culturas partilhadas
+  editor:
+    - family: Póvoas
+      given: Rui Fernandes
+    - family: Mascarenhas-Mateus
+      given: João
+  event-place: Porto
+  event-title: 2.º Congresso Internacional de História da Construção Luso-Brasileira
+  ISBN: 978-989-8527-11-0
+  issued:
+    - year: 2016
+      month: 9
+      day: 15
+  language: pt
+  license: >-
+    Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+    License (CC-BY-NC-ND)
+  page: 1233-1244
+  publisher: Faculdade de Arquitectura da Universidade do Porto
+  publisher-place: Porto
+  title: >-
+    Habitação urbana no interior do Brasil entre tradição e modernidade: quatro
+    estudos de caso no Estado de Goiás
+  title-short: Habitação urbana no interior do Brasil entre tradição e modernidade
+  type: paper-conference
+  volume: '2'
+
+- id: palazzo:2017cidades
+  accessed:
+    - year: 2018
+      month: 6
+      day: 11
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2017cidades
+  container-title: 'Morfologia urbana: território, paisagem e planejamento'
+  editor:
+    - family: Mendonça
+      given: Eneida Maria Souza
+    - family: Esteves Junior
+      given: Milton
+    - family: Oliveira Júnior
+      given: Edilson Cavalcante
+      dropping-particle: de
+    - family: Pegoretti
+      given: Michela Sagrillo
+  event-place: Vitória
+  event-title: 6.^a^ Conferência da Rede Lusófona de Morfologia Urbana
+  ISBN: 978-85-545-8007-0
+  issued:
+    - year: 2017
+  language: pt
+  license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
+  page: 642–651
+  publisher: Universidade Federal do Espírito Santo
+  publisher-place: Vitória
+  title: As cidades do planalto Central, do ouro à ferrovia
+  type: paper-conference
+  URL: http://pnum2017.wixsite.com/pnum2017
+
+- id: palazzo:2017patrimonializacao
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2017patrimonializacao
+  editor:
+    - family: Andrade, Junior
+      given: Nivaldo Vieira
+      dropping-particle: de
+  event-place: Salvador
+  event-title: >-
+    Encontro Internacional Arquimemória 5 sobre preservação do patrimônio
+    edificado
+  issued:
+    - year: 2017
+  language: pt
+  page: E1 069
+  publisher: Universidade Federal da Bahia
+  publisher-place: Salvador
+  title: >-
+    Patrimonialização e exemplaridade da arquitetura religiosa: paralelos entre
+    o Renascimento e o Neocolonial no Brasil
+  title-short: Patrimonialização e exemplaridade da arquitetura religiosa
+  type: paper-conference
+
+- id: palazzo:2018tipologia-pt
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2018tipologia-pt
+  container-title: >-
+    Um projecto de futuro para a Beirã (Marvão) baseado na arquitectura e
+    urbanismo de tradição alentejana
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  event-place: Lisboa
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt
+  page: 91–97
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: Tipologia da edificação na arquitectura vernácula da Beirã
+  title-short: Tipologia da edificação
+  type: chapter
+  URL: >-
+    https://premiorafaelmanzano.com/pt-pt/escolas-de-verao/marvao-summer-school-2018/
+
+- id: palazzo:2021casa
+  abstract: >-
+    Anais do Seminário Arquitetura Vernácula/Popular (978-65-5941-479-6) - A
+    Casa Corrente De 40 Palmos Da Era Liberal
+  accessed:
+    - year: 2022
+      month: 1
+      day: 23
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021casa
+  container-title: Olhares sobre o Brasil
+  DOI: 10.29327/153996.2-4
+  event-place: Salvador
+  event-title: III Seminário Arquitetura Vernácula/Popular
+  ISBN: 978-65-5941-479-6
+  issued:
+    - year: 2021
+  language: pt
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
+  publisher: <span smallcaps="smallcaps">UFBA</span>
+  publisher-place: Salvador
+  title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
+  title-short: A casa corrente de 40 palmos
+  type: paper-conference
+  URL: >-
+    https//www.even3.com.br/anais/arqvernapop/387842-A-CASA-CORRENTE-DE-40-PALMOS-DA-ERA-LIBERAL
+
+- id: palazzo:2021modernidade
+  abstract: >-
+    O objetivo do trabalho é articular a respeito da supressão da produção
+    arquitetônica do interior do Brasil dos anos 30 e 40, em sua maioria
+    ecléticas, nas discussões de proteção patrimonial e historiografia
+    brasileira. Para isso serão utilizados edifícios construídos nesse período
+    em Cuiabá como objeto de estudo. Embora essas construções sejam do mesmo
+    período, apresentam características distintas entre si, ora mais aderente à
+    linhas clássicas e tradicionais, ora livre de ornamentos e com aparência
+    mais “moderna”, no sentido de nova e nem sempre modernista. Essa indefinição
+    e a escassez de trabalhos e pesquisas sobre esses edifícios, além do fator
+    localização longe dos grandes centros do país— onde concentra-se a maior
+    parte das pesquisas sobre história e teoria da arquitetura do Brasil—,
+    resulta em certa invisibilização de produções importantes para a
+    historiografia gerando anacronismos dessas realizações em relação a produção
+    do movimento moderno, além de acarretar perdas documentais e monumentais
+    devido à falta de reconhecimento e proteção desses projetos.
+  accessed:
+    - year: 2021
+      month: 12
+      day: 28
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Araujo
+      given: Evillyn Biazatti
+      dropping-particle: de
+  citation-key: palazzo:2021modernidade
+  container-title: Mouseion
+  DOI: 10.18316/mouseion.v0i40.9319
+  ISSN: 1981-7207
+  issue: '40'
+  issued:
+    - year: 2021
+      month: 12
+      day: 22
+  language: pt
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
+  number: '40'
+  page: 1-17
+  source: revistas.unilasalle.edu.br
+  title: Modernidade tradicionalista na arquitetura cívica de Cuiabá na era Vargas
+  type: article-journal
+  URL: https://revistas.unilasalle.edu.br/index.php/Mouseion/article/view/9319
+
+- id: palazzo:2021vernacular
+  abstract: >-
+    Traditional towns in Portugal and Brazil have evolved a finely tuned
+    coordination between, on the one hand, modular dimensions for street widths
+    and lot sizes, and on the other, a typology of room shapes and layouts
+    within houses. Despite being well documented in urban history, this
+    coordination was in the last century often interpreted as contingent, a
+    result of the limited material means of pre-industrial societies. But the
+    continued application and gradual adaptation of these urban and
+    architectural patterns through periods of industrialization and economic
+    development suggests that they respond both to enduring housing requirements
+    and to piecemeal urban growth. This article surveys the persistence of urban
+    and architectural patterns up to the early 20th century, showing their
+    resilience in addressing modern housing and urbanization requirements.
+  accessed:
+    - year: 2021
+      month: 11
+      day: 10
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2021vernacular
+  container-title: Journal of Traditional Building, Architecture and Urbanism
+  DOI: 10.51303/jtbau.vi2.524
+  ISSN: 2660-583X
+  issue: '2'
+  issued:
+    - year: 2021
+      month: 11
+      day: 10
+  language: en
+  license: >-
+    Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+    License (CC-BY-NC-ND)
+  page: 359-370
+  source: traditionalarchitecturejournal.com
+  title: 'Vernacular patterns in Portugal and Brazil: evolution and adaptations'
+  title-short: Vernacular patterns in Portugal and Brazil
+  type: article-journal
+  URL: https://traditionalarchitecturejournal.com/index.php/home/article/view/524
+
+- id: palazzo:2022casa
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2022casa
+  container-title: Olhares contemporâneos sobre arquitetura vernácula/popular
+  editor:
+    - family: Sant'Anna
+      given: Marcia
+    - family: Rezende
+      given: Marco Antônio Penido
+      dropping-particle: de
+  event-place: Salvador ; Belo Horizonte
+  ISBN: '9786556303376'
+  issued:
+    - year: 2022
+  language: pt
+  license: >-
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+    License (CC-BY-NC-SA)
+  page: 283-302
+  publisher: >-
+    Editora <span smallcaps="smallcaps">UFBA</span> : Editora <span
+    smallcaps="smallcaps">UFMG</span>
+  publisher-place: Salvador ; Belo Horizonte
+  title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
+  title-short: A casa corrente de 40 palmos
+  type: chapter
+
+- id: palazzo:2022rural-to-urban
+  accessed:
+    - year: 2023
+      month: 10
+      day: 21
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2022rural-to-urban
+  event-place: Lajes do Pico
+  event-title: Açores Traditional Architecture Summer School
+  genre: Lecture
+  issued:
+    - year: 2022
+      month: 7
+      day: 20
+  language: en
+  publisher-place: Lajes do Pico
+  title: The rural-to-urban transect in the Portuguese periphery
+  type: speech
+  URL: https://www.premiorafaelmanzano.com/escuelas-de-verano/2022-azores/
+
+- id: palazzo:2023repensar
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  citation-key: palazzo:2023repensar
+  container-title: Proximidades distantes
+  event-place: Brasília
+  event-title: >-
+    V Seminário Internacional da Academia das Escolas de Arquitetura e Urbanismo
+    de Língua Portuguesa
+  issued:
+    - year: 2023
+      month: 12
+      day: 8
+  language: pt
+  publisher: >-
+    <span smallcaps="smallcaps">AEAULP</s> : Faculdade de Arquitetura e
+    Urbanismo da Universidade de Brasília</span>
+  publisher-place: Brasília
+  source: Zotero
+  title: >-
+    Repensar a periodização da construção vernacular luso-brasileira: ou, como a
+    nossa arquitetura tradicional é mais recente do que parece
+  title-short: Repensar a periodização da construção vernacular luso-brasileira
+  type: paper-conference
 
 - id: panerai:2006analise
   author:
@@ -4903,7 +6599,7 @@ references:
   title-short: De árvores e cidades
   type: chapter
 
-- id: pereira:2005historiografiaxxxi
+- id: pereira:2005historiografiaXXXI
   accessed:
     - year: 2018
       month: 5
@@ -4911,7 +6607,7 @@ references:
   author:
     - family: Pereira
       given: Sonia Gomes
-  citation-key: pereira:2005historiografiaxxxi
+  citation-key: pereira:2005historiografiaXXXI
   container-title: Estudos Ibero-Americanos
   ISSN: 0101-4064
   issue: '2'
@@ -5102,6 +6798,27 @@ references:
   publisher-place: Rio de Janeiro
   source: webopac.sib.uc.pt Library Catalog
   title: Dicionário das artes plásticas no Brasil
+  type: book
+
+- id: porto:2009alvenarias
+  author:
+    - family: Pôrto Ribeiro
+      given: Nelson
+  citation-key: porto:2009alvenarias
+  collection-title: Artes e Ofícios
+  event-place: Rio de Janeiro
+  ISBN: 978-85-86062-33-9
+  issued:
+    - year: 2009
+      month: 2
+      day: 26
+  language: pt
+  number-of-pages: '95'
+  publisher: In-Folio
+  publisher-place: Rio de Janeiro
+  source: Câmara Brasileira do Livro ISBN
+  title: 'Alvenarias e argamassas: restauração e conservação'
+  title-short: Alvenarias e argamassas
   type: book
 
 - id: prista:2014terra
@@ -5318,12 +7035,12 @@ references:
   issued:
     - year: 2013
   language: pt
-  publisher: Editora <span class="smallcaps">UFBA</span>
+  publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
   title: >-
     A liberdade que veio do ofício: práticas sociais e cultura dos artífices na
-    Bahia do século <span class="smallcaps">XIX</span>
+    Bahia do século <span smallcaps="smallcaps">XIX</span>
   title-short: A liberdade que veio do ofício
   type: book
 
@@ -5392,13 +7109,13 @@ references:
     - family: Ribeiro
       given: Nelson Pôrto
   citation-key: ribeiro:2011contributo
-  container-title: <span class="smallcaps">ANPUH:</span> 50 Anos
+  container-title: <span smallcaps="smallcaps">ANPUH:</span> 50 Anos
   event-place: São Paulo
-  event-title: <span class="smallcaps">XXVI</span> Simpósio Nacional de História
+  event-title: <span smallcaps="smallcaps">XXVI</span> Simpósio Nacional de História
   issued:
     - year: 2011
   language: pt
-  publisher: <span class="smallcaps">ANPUH</span>
+  publisher: <span smallcaps="smallcaps">ANPUH</span>
   publisher-place: São Paulo
   title: Contributo para uma 'História da Construção' no Brasil
   type: paper-conference
@@ -5442,6 +7159,23 @@ references:
     da Independência, 1808–1831
   title-short: Reflexos das luzes na terra do sol
   type: book
+
+- id: rocha:2018inspecao
+  author:
+    - family: Rocha
+      given: Victor Vieira
+  citation-key: rocha:2018inspecao
+  event-place: Brasília
+  genre: Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo)
+  issued:
+    - year: 2018
+  language: pt-BR
+  publisher: Universidade de Brasília
+  publisher-place: Brasília
+  title: >-
+    Inspeção e avaliação da degradação da vida útil em edificações históricas de
+    Luziânia
+  type: thesis
 
 - id: rodrigues:1875diccionario
   author:
@@ -5572,6 +7306,31 @@ references:
   title-short: São Luis do Paraitinga
   type: book
 
+- id: salingaros:2013unified
+  accessed:
+    - year: 2022
+      month: 2
+      day: 28
+  citation-key: salingaros:2013unified
+  collection-title: >-
+    a companion to Christopher Alexander's *The Phenomenon of life* - The Nature
+    of order, Book 1
+  editor:
+    - family: Salingaros
+      given: Nikos Angelos
+  event-place: Portland, Ore. ; Kathmandu
+  ISBN: 978-9937-623-05-6 978-0-9893469-0-0
+  issued:
+    - year: 2013
+  language: en
+  publisher: 'Sustasis : Vajra'
+  publisher-place: Portland, Ore. ; Kathmandu
+  source: Open WorldCat
+  title: 'Unified architectural theory: form, language, complexity'
+  title-short: Unified architectural theory
+  type: book
+  URL: https://patterns.architexturez.net/doc/az-cf-172522
+
 - id: sampaio:1916planta
   accessed:
     - year: 2019
@@ -5591,7 +7350,7 @@ references:
   event-place: Salvador
   issued:
     - year: 1916
-  language: pt-br
+  language: pt
   page: 55–61
   publisher: Imprensa Official do Estado
   publisher-place: Salvador
@@ -5647,7 +7406,7 @@ references:
   ISBN: 978-85-271-0230-8
   issued:
     - year: 1993
-  language: pt-BR
+  language: pt
   number-of-pages: '157'
   publisher: Hucitec
   publisher-place: São Paulo
@@ -5711,9 +7470,9 @@ references:
   ISBN: 978-85-87145-58-1
   issued:
     - year: 2013
-  language: pt-BR
+  language: pt
   page: 51–68
-  publisher: Editora <span class="smallcaps">UFRJ</span>
+  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: >-
@@ -5777,11 +7536,11 @@ references:
   language: en
   source: Crossref
   title: >-
-    ‘Reinstalling the old city of Goa as an eternal light of portuguese
+    ‘Reinstalling the old city of Goa as an eternal light of Portuguese
     spirituality’: the plan for the reintegration of Old Goa at the end of the
     colonial period
   title-short: >-
-    ‘Reinstalling the old city of Goa as an eternal light of portuguese
+    ‘Reinstalling the old city of Goa as an eternal light of Portuguese
     spirituality’
   type: article-journal
   URL: http://journal.eahn.org/articles/10.5334/ah.58/
@@ -5815,7 +7574,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1995
-  language: pt-BR
+  language: pt
   page: 31–62
   publisher: Topbooks
   publisher-place: Rio de Janeiro
@@ -5854,6 +7613,42 @@ references:
   source: Open WorldCat
   title: 'Arquiteturas no Brasil: 1900–1990'
   title-short: Arquiteturas no Brasil
+  type: book
+
+- id: segurado:edificacoes
+  author:
+    - family: Segurado
+      given: João Emilio dos Santos
+  citation-key: segurado:edificacoes
+  collection-number: '1'
+  collection-title: Construcção civil
+  event-place: Lisboa
+  language: pt
+  publisher: Bibliotheca de instrucção profissional
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Edificações
+  type: book
+
+- id: semes:2009future
+  author:
+    - family: Semes
+      given: Steven W
+  citation-key: semes:2009future
+  contributor:
+    - literal: Institute of Classical Architecture and Classical America
+  event-place: 'New York : London'
+  ISBN: 978-0-393-73244-3
+  issued:
+    - year: 2009
+  language: en
+  publisher: W. W. Norton
+  publisher-place: 'New York : London'
+  source: Open WorldCat
+  title: >-
+    The future of the past: a conservation ethic for architecture, urbanism and
+    historic preservation
+  title-short: The future of the past
   type: book
 
 - id: silva:2005dicionario
@@ -6034,12 +7829,12 @@ references:
   URL: https://periodicos.unb.br/index.php/linhascriticas/article/view/28089
   volume: '26'
 
-- id: silveira:1999casapatio
+- id: silveira:1999casa-patio
   author:
     - family: Silveira
       given: Ângelo Costa
   call-number: 728.3 (547)
-  citation-key: silveira:1999casapatio
+  citation-key: silveira:1999casa-patio
   event-place: Porto
   ISBN: 978-972-9483-36-3
   issued:
@@ -6095,7 +7890,7 @@ references:
   issued:
     - year: 2013
       month: 6
-  language: pt-BR
+  language: pt
   page: 47-69
   publisher: Pontifícia Universidade Católica do Paraná
   source: SciELO
@@ -6147,31 +7942,6 @@ references:
   type: book
 
 - id: sousa:1899diccionario
-  accessed:
-    - year: 2019
-      month: 11
-      day: 27
-  author:
-    - family: Sousa Viterbo
-      given: Francisco Marques
-      dropping-particle: de
-  call-number: '9923093150001551'
-  citation-key: sousa:1899diccionario
-  event-place: Lisboa
-  issued:
-    - year: 1899
-  language: pt
-  number-of-pages: '600'
-  number-of-volumes: '3'
-  publisher: Impr. Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    Diccionario historico e documental dos architectos, engenheiros e
-    constructores portuguezes ou a serviço de Portugal
-  type: book
-
-- id: sousa:1899diccionarioa
   abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
@@ -6182,14 +7952,14 @@ references:
       given: Francisco Marques
       dropping-particle: de
   call-number: '9923093150001551'
-  citation-key: sousa:1899diccionarioa
+  citation-key: sousa:1899diccionario
   contributor:
     - literal: Getty Research Institute
   event-place: Lisboa
   issued:
     - year: 1899
   language: pt
-  number-of-pages: '600'
+  number-of-pages: '518'
   publisher: Impr. Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -6197,10 +7967,10 @@ references:
     Diccionario historico e documental dos architectos, engenheiros e
     constructores portuguezes ou a serviço de Portugal
   type: book
-  URL: http://archive.org/details/diccionariohisto02vite
-  volume: '2'
+  URL: http://archive.org/details/diccionariohisto03vite
+  volume: '3'
 
-- id: sousa:1899diccionariob
+- id: sousa:1899diccionarioa
   accessed:
     - year: 2019
       month: 11
@@ -6210,7 +7980,7 @@ references:
       given: Francisco Marques
       dropping-particle: de
   call-number: '9923093150001551'
-  citation-key: sousa:1899diccionariob
+  citation-key: sousa:1899diccionarioa
   contributor:
     - literal: Getty Research Institute
   event-place: Lisboa
@@ -6228,7 +7998,7 @@ references:
   URL: http://archive.org/details/diccionariohisto01vite
   volume: '1'
 
-- id: sousa:1899diccionarioc
+- id: sousa:1899diccionariob
   abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
@@ -6239,14 +8009,14 @@ references:
       given: Francisco Marques
       dropping-particle: de
   call-number: '9923093150001551'
-  citation-key: sousa:1899diccionarioc
+  citation-key: sousa:1899diccionariob
   contributor:
     - literal: Getty Research Institute
   event-place: Lisboa
   issued:
     - year: 1899
   language: pt
-  number-of-pages: '518'
+  number-of-pages: '600'
   publisher: Impr. Nacional
   publisher-place: Lisboa
   source: Internet Archive
@@ -6254,8 +8024,33 @@ references:
     Diccionario historico e documental dos architectos, engenheiros e
     constructores portuguezes ou a serviço de Portugal
   type: book
-  URL: http://archive.org/details/diccionariohisto03vite
-  volume: '3'
+  URL: http://archive.org/details/diccionariohisto02vite
+  volume: '2'
+
+- id: sousa:1899diccionarioc
+  accessed:
+    - year: 2019
+      month: 11
+      day: 27
+  author:
+    - family: Sousa Viterbo
+      given: Francisco Marques
+      dropping-particle: de
+  call-number: '9923093150001551'
+  citation-key: sousa:1899diccionarioc
+  event-place: Lisboa
+  issued:
+    - year: 1899
+  language: pt
+  number-of-pages: '600'
+  number-of-volumes: '3'
+  publisher: Impr. Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Diccionario historico e documental dos architectos, engenheiros e
+    constructores portuguezes ou a serviço de Portugal
+  type: book
 
 - id: sousa:1994arquitetura
   author:
@@ -6300,7 +8095,7 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Média (séculos <span class="smallcaps">XI–XV</span>)
+  title: Idade Média (séculos <span smallcaps="smallcaps">XI–XV</span>)
   type: chapter
 
 - id: soutto:2017casa17
@@ -6383,6 +8178,73 @@ references:
   title: Da Vila Real da Praia Grande à Imperial Cidade de Niterói
   type: book
 
+- id: souza:2012patrimonio18
+  accessed:
+    - year: 2018
+      month: 11
+      day: 16
+  author:
+    - family: Souza Filho
+      given: Benedito
+    - family: Andrade
+      given: Maristela de Paula
+  citation-key: souza:2012patrimonio18
+  container-title: Horizontes Antropológicos
+  DOI: 10.1590/S0104-71832012000200004
+  ISSN: 0104-7183
+  issue: '38'
+  issued:
+    - year: 2012
+      month: 12
+  language: pt
+  page: 75-99
+  source: SciELO
+  title: >-
+    Patrimônio imaterial de quilombolas: limites da metodologia de inventário de
+    referências culturais
+  title-short: Patrimônio imaterial de quilombolas
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0104-71832012000200004&lng=en&nrm=iso&tlng=pt
+  volume: '18'
+
+- id: strappa:1995unita
+  author:
+    - family: Strappa
+      given: Giuseppe
+  citation-key: strappa:1995unita
+  event-place: Bari
+  ISBN: 978-88-220-1855-7
+  issued:
+    - year: 1995
+  language: it
+  publisher: Dedalo
+  publisher-place: Bari
+  source: Open WorldCat
+  title: >-
+    Unità dell'organismo architettonico: note sulla formazione e trasformazione
+    dei caratteri degli edifici
+  title-short: Unità dell'organismo architettonico
+  type: book
+
+- id: swallow:2004measurement
+  citation-key: swallow:2004measurement
+  edition: 2., rev. ed
+  editor:
+    - family: Swallow
+      given: Peter
+  event-place: Shaftesbury
+  ISBN: 978-1-873394-62-5
+  issued:
+    - year: 2004
+  language: en
+  number-of-pages: '244'
+  publisher: Donhead
+  publisher-place: Shaftesbury
+  source: K10plus ISBN
+  title: Measurement and recording of historic buildings
+  type: book
+
 - id: tapie:1974barroco
   author:
     - family: Tapié
@@ -6458,7 +8320,7 @@ references:
   source: repositorio-aberto.up.pt
   title: >-
     Descrição do sistema construtivo da casa burguesa do Porto entre os séculos
-    <span class="smallcaps">XVII</span> e <span
+    <span smallcaps="smallcaps">XVII</span> e <span
     smallcaps="smallcaps">XIX</span>. Contributo para uma história da construção
     arquitectónica em Portugal
   title-short: Descrição do sistema construtivo da casa burguesa do Porto
@@ -6505,7 +8367,7 @@ references:
   source: editorarevistas.mackenzie.br
   title: >-
     Identidade, continuidades e descontinuidades da cultura urbana portuguesa,
-    séculos <span class="smallcaps">XVIII–XX</span>
+    séculos <span smallcaps="smallcaps">XVIII–XX</span>
   title-short: Identidade, continuidades e descontinuidades da cultura urbana portuguesa
   type: article-journal
   URL: >-
@@ -6572,12 +8434,52 @@ references:
   URL: http://www.tandfonline.com/doi/abs/10.1080/026654398364518
   volume: '13'
 
-- id: tirapeli:2008igrejasa
+- id: tinoco:2009mapa
+  author:
+    - family: Tinoco
+      given: Jorge Eduardo Lucena
+  citation-key: tinoco:2009mapa
+  collection-number: '43'
+  collection-title: 'Textos para discussão. Série 2: Gestão de Restauro'
+  event-place: Olinda
+  ISSN: 1980-8267
+  issued:
+    - year: 2009
+  language: pt-BR
+  publisher: Centro de Estudos da Conservação Integrada
+  publisher-place: Olinda
+  source: Zotero
+  title: 'Mapa de danos: recomendações básicas'
+  title-short: Mapa de danos
+  type: book
+
+- id: tinoco:2013planos
+  author:
+    - family: Tinoco
+      given: Jorge Eduardo Lucena
+  citation-key: tinoco:2013planos
+  collection-number: '55'
+  collection-title: 'Textos para discussão. Série 2: Gestão de Restauro'
+  event-place: Olinda
+  ISSN: 1980-8267
+  issued:
+    - year: 2013
+  language: pt
+  publisher: Centro de Estudos da Conservação Integrada
+  publisher-place: Olinda
+  source: Zotero
+  title: >-
+    Planos de conservação: do ensino à prática, da academia aos canteiros de
+    obras
+  title-short: Planos de conservação
+  type: book
+
+- id: tirapeli:2008igrejas
   author:
     - family: Tirapeli
       given: Percival
   call-number: NA5353 .T567 2008
-  citation-key: tirapeli:2008igrejasa
+  citation-key: tirapeli:2008igrejas
   contributor:
     - family: Salim
       given: Alex
@@ -6611,12 +8513,12 @@ references:
   issued:
     - year: 2000
       month: 12
-  language: pt-BR
+  language: pt
   page: 84–103
   title: >-
     As pinturas parietais de José María Villaronga no Sobrado Aguiar Vallim,
     Bananal — Um estudo de caso
-  title-short: José María Villaronga
+  title-short: As pinturas parietais de José María Villaronga no Sobrado Aguiar Vallim
   type: article-journal
   URL: >-
     https://www.academia.edu/6835279/AS_PINTURAS_PARIETAIS_DE_JOS%C3%89_MARIA_VILLARONGA_NO_SOBRADO_AGUIAR_VALLIM_BANANAL_1a_Parte_Revista_SINOPSES_n_34
@@ -6646,6 +8548,64 @@ references:
   type: article-journal
   URL: http://ref.scielo.org/358tst
   volume: '27'
+
+- id: tolentino:2018utilizacao
+  abstract: >-
+    O cadastro de um bem cultural tem como finalidade conservar a imagem e a
+    história deste, visando a sua preservação. No Brasil, grande parte dos bens
+    de valor histórico ainda não foi devidamente documentada. Dada a ausência de
+    um sistema de cadastro e gestão do patrimônio arquitetônico que utilize as
+    tecnologias digitais de forma adequada, este estudo discute o uso do
+    conceito Historic Building Information Modeling (HBIM), a fim de tornar a
+    documentação mais fundamentada e completa, a gestão dos bens mais eficaz e a
+    preservação do patrimônio arquitetônico mais efetiva. Extensão do BIM
+    (Building Information Modeling), tecnologia usada para a modelagem e o
+    gerenciamento das informações inerentes ao projeto, à construção e à
+    manutenção de edificações, o HBIM visa a documentação, a operação e a
+    conservação de edifícios históricos. Os recursos metodológicos usados neste
+    trabalho foram: revisão bibliográfica; pesquisa documental nos escritórios
+    centrais e regionais do Instituto do Patrimônio Histórico e Artístico
+    Nacional (IPHAN) e na Prefeitura Municipal de Serro; entrevistas;
+    treinamento em tecnologias digitais e um experimento. A revisão
+    bibliográfica tratou dos temas documentação arquitetônica, nível de detalhe,
+    preservação do Patrimônio Histórico e técnicas digitais para representação e
+    gerenciamento de bens imóveis, especificamente o BIM e o HBIM. O experimento
+    consistiu das seguintes etapas: (1) levantamento da Igreja do Bom Jesus de
+    Matozinhos através de varredura a laser, (2) definição do nível de detalhe
+    pretendido para o modelo da Igreja do Bom Jesus de Matozinhos, (3) modelagem
+    geométrica da Igreja do Bom Jesus de Matozinhos, (4) cadastro de todas as
+    informações coletadas para a Igreja do Bom Jesus do Matozinhos no Sistema
+    Integrado de Conhecimento e Gestão do IPHAN (SICG), buscando identificar em
+    quais campos seria possível uma integração automática com o modelo HBIM
+    criado, (5) definição de quais informações deveriam ser incorporadas ao
+    modelo HBIM, para que o mesmo pudesse ser útil ao longo do ciclo de vida da
+    edificação e embasar a análise e a conservação do objeto que representa, (6)
+    incorporação de atributos ao modelo geométrico gerado, (7) integração do
+    modelo HBIM ao SICG. Os produtos alcançados demonstraram o potencial do HBIM
+    em relação aos objetivos propostos.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 26
+  author:
+    - family: Tolentino
+      given: Mônica Martins Andrade
+  citation-key: tolentino:2018utilizacao
+  event-place: Salvador
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
+  issued:
+    - year: 2018
+      month: 11
+      day: 8
+  language: pt
+  publisher: Faculdade de Arquitetura
+  publisher-place: Salvador
+  source: repositorio.ufba.br
+  title: >-
+    A utilização do <span smallcaps="smallcaps">HBIM</span> na documentação, na
+    gestão e na preservação do patrimônio arquitetônico
+  type: thesis
+  URL: http://repositorio.ufba.br/ri/handle/ri/27947
 
 - id: torres:2004sao
   author:
@@ -6748,6 +8708,27 @@ references:
   title-short: Iconografia e patrimônio
   type: book
 
+- id: unwin:2013analise
+  author:
+    - family: Unwin
+      given: Simon
+  call-number: NA2750 .U58 1997
+  citation-key: unwin:2013analise
+  edition: '3'
+  event-place: Porto Alegre
+  ISBN: 978-85-65837-81-1
+  issued:
+    - year: 2013
+  language: pt-BR
+  publisher: Bookman
+  publisher-place: Porto Alegre
+  source: Library of Congress ISBN
+  title: A análise da arquitetura
+  translator:
+    - family: Salvaterra
+      given: Alexandre
+  type: book
+
 - id: valdez:2013arqueologia
   call-number: F3721 .A775 2011
   citation-key: valdez:2013arqueologia
@@ -6764,7 +8745,7 @@ references:
   language: es
   number-of-pages: '386'
   publisher: >-
-    Instituto Francés de Estudios Andinos, <span class="smallcaps">UMIFRE
+    Instituto Francés de Estudios Andinos, <span smallcaps="smallcaps">UMIFRE
     17, MAE-CNRS</span> ; Ediciones Abya-Yala
   publisher-place: 'Lima : Quito : Institut de recherche pour le développement, IRD'
   source: Library of Congress ISBN
@@ -6930,7 +8911,7 @@ references:
   ISBN: 978-85-273-0923-3
   issued:
     - year: 2011
-  language: pt-BR
+  language: pt
   publisher: Perspectiva
   publisher-place: São Paulo
   title: Vila Rica
@@ -6953,7 +8934,7 @@ references:
     - year: 2003
   language: pt-BR
   number-of-pages: '257'
-  publisher: Editora <span class="smallcaps">ucg</span>
+  publisher: Editora <span smallcaps="smallcaps">ucg</span>
   publisher-place: Goiânia
   source: Library of Congress ISBN
   title: 'A casa goiana: documentação arquitetônica'
@@ -7104,6 +9085,46 @@ references:
     http://periodicos.pucminas.br/index.php/cadernoshistoria/article/view/P.2237-8871.2017v18n28p28
   volume: '18'
 
+- id: vieira:2014posturas
+  abstract: >-
+    In the Brazilian federal organ of preservation, the IPHAN, there is a
+    consolidated practice, still based on the so-called “return to the
+    original”, characteristic of the 80’s and that has been criticized by
+    several subsequent theoretical contributions. In spite of being a pioneer in
+    Latin America, when it was founded in the 30’s, one can notice the
+    coincidence between the so-called “heroic phase” (1937-1967) of that federal
+    organ of patrimonial preservation, when its institutional practices get
+    consolidated, and the vacuum between the publication of international
+    recommendations in the ambit of preservation (The Letters of Athens, of 1931
+    and 1933 and the Recommendation of New Delhi only in 1956). Moreover, Cesare
+    Brandi’s Theory of Restoration, dated 1963, was translated to Portuguese
+    only recently, in 2004.
+  accessed:
+    - year: 2019
+      month: 6
+      day: 3
+  author:
+    - family: Vieira de Araújo
+      given: Natália Miranda
+  citation-key: vieira:2014posturas
+  container-title: 'Arquitetura, cidade e projeto: uma construção coletiva'
+  event-place: São Paulo
+  event-title: >-
+    III Encontro da Associação Nacional de Pesquisa e Pós-graduação em
+    Arquitetura e Urbanismo
+  issued:
+    - year: 2014
+  language: pt-BR
+  publisher: Anparq
+  publisher-place: São Paulo
+  source: Zotero
+  title: >-
+    Posturas intervencionistas contemporâneas e a prática brasileira
+    institucionalizada
+  type: paper-conference
+  URL: >-
+    http://www.anparq.org.br/dvd-enanparq-3/htm/Artigos/ST/ST-PCI-002-02%20-%20Artigo%20Natalia%20Vieira.pdf
+
 - id: vieira:2017influencia
   abstract: >-
     Dissertação de Mestrado Integrado em Arquitetura, com a especialização em
@@ -7189,6 +9210,17 @@ references:
   title: Theory of mouldings
   type: book
 
+- id: webb:historic
+  author:
+    - family: Webb
+      given: Amanda L.
+  citation-key: webb:historic
+  language: en
+  page: '16'
+  source: Zotero
+  title: Historic preservation in a new era of building energy data
+  type: article-journal
+
 - id: weimer:2005arquitetura
   author:
     - family: Weimer
@@ -7249,6 +9281,87 @@ references:
   source: Library of Congress ISBN
   title: Imigração japonesa no Vale do Ribeira em São Paulo
   type: book
+
+- id: weissheimer:2020conservacao
+  accessed:
+    - year: 2024
+      month: 3
+      day: 7
+  citation-key: weissheimer:2020conservacao
+  editor:
+    - family: Weissheimer
+      given: Maria Regina
+  event-place: Florianópolis
+  ISBN: '9786586514292'
+  issued:
+    - year: 2020
+      month: 12
+      day: 22
+  language: pt-BR
+  number-of-pages: '40'
+  publisher: Instituto do Patrimônio Histórico e Artístico Nacional
+  publisher-place: Florianópolis
+  source: Câmara Brasileira do Livro ISBN
+  title: Conservação preventiva de imóveis antigos em núcleos históricos
+  type: book
+  URL: >-
+    http://portal.iphan.gov.br/uploads/publicacao/conservacao_preventiva_imoveis_antigos_nucleos_historicos.pdf
+
+- id: zancheti:2011indicadores
+  citation-key: zancheti:2011indicadores
+  editor:
+    - family: Zancheti
+      given: Silvio Mendes
+    - family: Hidaka
+      given: Lúcia Tone Ferreira
+  event-place: Olinda
+  ISBN: 978-85-98747-14-9
+  issued:
+    - year: 2011
+      month: 2
+      day: 1
+  language: pt-BR
+  publisher: Centro de Estudos Avançados da Conservação Integrada
+  publisher-place: Olinda
+  source: Câmara Brasileira do Livro ISBN
+  title: Indicadores de conservação e sustentabilidade da cidade patrimonial
+  type: book
+
+- id: zancheti:20126th
+  accessed:
+    - year: 2020
+      month: 5
+      day: 13
+  citation-key: zancheti:20126th
+  contributor:
+    - literal: International Seminar on Urban Conservation
+    - literal: Centro de Estudos Avançados da Conservação Integrada
+    - literal: >-
+        International Centre for the Study of the Preservation and the
+        Restoration of Cultural Property
+    - literal: Joaquim Nabuco Foundation
+  editor:
+    - family: Zancheti
+      given: Silvio Mendes
+    - family: Similä
+      given: Katriina
+  event-place: 'Olinda : Roma'
+  ISBN: 978-85-98747-16-3 978-92-9077-230-9
+  issued:
+    - year: 2012
+  language: en
+  publisher: >-
+    Centro de Estudos Avançados da Conservação Integrada : International Centre
+    for the Study of the Preservation and Restoration of Cultural Property
+  publisher-place: 'Olinda : Roma'
+  source: Open WorldCat
+  title: >-
+    6th International Seminar on Urban Conservation: measuring heritage
+    conservation performance
+  title-short: 6th International Seminar on Urban Conservation
+  type: book
+  URL: >-
+    http://www.iccrom.org/ifrcdn/pdf/ICCROM_19_Measuring-Heritage-Performance00_en.pdf
 
 - id: zanini:1983historia
   citation-key: zanini:1983historia

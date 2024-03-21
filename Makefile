@@ -20,7 +20,7 @@ SASS    = _revealjs-settings.scss \
 # {{{1 Recipes
 #      =======
 .PHONY : _site
-_site : bibliografias
+_site : bibliografias src
 	@echo "####################"
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
@@ -28,6 +28,13 @@ _site : bibliografias
 .PHONY : serve
 serve : bibliografias
 	bundle exec jekyll serve --future
+
+src/%.md : docs/%.md _data/biblio.yaml
+	@$(PANDOC) -f markdown -t markdown_phpextra --standalone \
+		--reference-links --reference-location=block \
+		--shift-heading-level-by=1 \
+		--filter=pandoc-crossref -C --bibliography=_data/biblio.yaml \
+		--csl=_data/chicago-note-bibliography.csl -o $@ $<
 
 _includes/%.html : _data/%.json _data/chicago-note-bibliography.csl
 	@$(PANDOC) -f csljson --citeproc -Mlang=pt_BR \

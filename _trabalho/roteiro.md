@@ -8,6 +8,15 @@ permalink: /roteiro/
 
 # O que é um plano de preservação #
 
+> Tais planos são documentos técnicos de planejamento que estabelecem
+> políticas de administração para o uso adequado dos espaços e dos
+> componentes construtivos, bem como da manutenção periódica dos
+> imóveis de valor cultural. Tem como finalidade a garantia para a
+> sociedade da integridade física do edifício e dos valores de
+> significância do bem cultural que se quer preservar. 
+>
+> <footer>Jorge Eduardo Lucena Tinoco, <cite>Plano de gestão da conservação</cite>, n.p.</footer>
+
 # Preparação #
 
 ## Pesquisa ##
