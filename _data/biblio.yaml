@@ -76,6 +76,63 @@ references:
   type: book
   volume: '2'
 
+- id: almeida:2015arquitectura
+  abstract: >-
+    Apesar da aparente fragilidade para que nos remete o uso da terra como
+    material de construção, existem evidências arqueológicas que nos remetem
+    para a sua utilização, há mais de 10.000 anos e que ainda hoje é utilizada
+    como material construtivo. Sendo este, um material existente em qualquer
+    parte do mundo, por isso, é universalmente utilizado, apresentando uma
+    variedade enorme de técnicas e possibilidades construtivas. 
+
+    No contexto português, mais especificamente na região de Aveiro, território
+    rico em construções de terra, e em particular de adobe, encontrando-se este,
+    presente em cerca de 40% da construção da região, que face ao surgimento de
+    novos materiais entrou em desuso. O abandono, a demolição e más intervenções
+    têm sido práticas recorrentes, surgindo assim, a necessidade de travamento
+    destas práticas e preservação deste edificado em adobe com a aquisição do
+    conhecimento técnico necessário para a sua reabilitação. 
+
+    No desenvolvimento desta dissertação, procurou-se entender o conceito de
+    arquitetura de terra, mas sobretudo, aprofundar o conhecimento pela técnica
+    do adobe, através da análise de textos, estudos e experiências
+    laboratoriais, que nos facilitarão a compreensão e valorização do adobe
+    quanto às suas propriedades, vantagens, desvantagens, limitações e
+    compatibilidade com outros materiais. Procurando-se, deste modo, uma
+    intervenção mais eficaz e adequada à reabilitação do edificado em adobe, e
+    que se procuraram evidenciar através do caso de estudo apresentado neste
+    trabalho. 
+
+    Apesar das potencialidades do adobe enquanto técnica construtiva, é
+    necessário reconhecer as suas limitações, e para isso, a importância da
+    divulgação, o estudo e conhecimento técnico necessário à sua manutenção e
+    preservação, de modo a que possa continuar a corresponder às necessidades e
+    exigências construtivas atuais, mas para que também, não se perca a
+    identidade e a importância que o adobe adquiriu na região de Aveiro.
+  accessed:
+    - year: 2020
+      month: 9
+      day: 1
+  author:
+    - family: Almeida
+      given: Vítor Manuel Costa
+  citation-key: almeida:2015arquitectura
+  event-place: Lisboa
+  genre: Dissertação (Mestrado em Arquitectura)
+  issued:
+    - year: 2015
+  language: pt
+  license: embargoedAccess
+  publisher: Universidade Lusíada
+  publisher-place: Lisboa
+  source: dspace.lis.ulusiada.pt
+  title: >-
+    Arquitectura de terra na Região de Aveiro : reabilitação de construções em
+    adobe
+  title-short: Arquitectura de terra na Região de Aveiro
+  type: thesis
+  URL: http://repositorio.ulusiada.pt/handle/11067/1814
+
 - id: amaral:1994arquitectura
   author:
     - family: Amaral
@@ -213,7 +270,7 @@ references:
   issued:
     - year: 2011
       month: 6
-  language: pt-BR
+  language: pt
   page: 241-251
   source: DOI.org (Crossref)
   title: >-
@@ -515,6 +572,34 @@ references:
   type: book
   URL: http://archive.org/details/diccionariodoste00assu
 
+- id: avrami:2008terra
+  accessed:
+    - year: 2020
+      month: 4
+      day: 26
+  author:
+    - family: Avrami
+      given: Erica C
+    - family: Guillaud
+      given: Hubert
+    - family: Hardy
+      given: Mary
+    - literal: Getty Conservation Institute
+  citation-key: avrami:2008terra
+  event-place: Santa Monica, Cal.
+  issued:
+    - year: 2008
+  language: en
+  publisher: Getty Conservation Institute
+  publisher-place: Santa Monica, Cal.
+  source: Open WorldCat
+  title: >-
+    Terra literature review: an overview of research in earthen architecture
+    conservation
+  title-short: Terra literature review
+  type: book
+  URL: http://hdl.handle.net/10020/gci_pubs/terra_literature_review
+
 - id: azevedo:1913auxiliar
   author:
     - family: Azevedo
@@ -695,6 +780,47 @@ references:
   title-short: Conservar
   type: book
 
+- id: barros:2011construtores
+  abstract: >-
+    Em termos historiográficos, os muçulmanos do reino português não são
+    especialmente vinculados às obras construtivas, ao contrário do que se
+    verifica nos demais reinos ibéricos, especialmente em Aragão. De facto, as
+    fontes medievais portuguesas são escassas neste particular. No entanto,
+    através de dispersas menções documentais é possível traçar um percurso da
+    sua efectiva participação neste aspecto no que à zona meridional do país se
+    refere. Vinculados a um serviço comunitário à coroa, desde pelo menos o séc.
+    XIII, a sua participação coerciva na construção/manutenção de edifícios
+    palatinos estende-se até ao séc. XV. Esta intermitente prestação de
+    serviços, consonante às necessidades do monarca, é complementada através de
+    desempenhos individuais de artesãos muçulmanos, sobretudo no interior dos
+    edifícios, remetendo mesmo para uma integração de muçulmanos de além
+    fronteiras.
+  author:
+    - family: Barros
+      given: Maria Filomena Lopes
+      dropping-particle: de
+  citation-key: barros:2011construtores
+  container-title: 'História de construção: os construtores'
+  editor:
+    - family: Sousa Melo
+      given: Arnaldo
+    - family: Carmo Ribeiro
+      given: Maria
+      dropping-particle: do
+  event-place: Porto
+  ISBN: 978-989-97558-0-2
+  issued:
+    - year: 2011
+  language: pt
+  publisher: CITCEM
+  publisher-place: Porto
+  source: Open WorldCat
+  title: >-
+    Construtores e artesãos muçulmanos; do serviço colectivo do rei ao
+    desempenho individual
+  type: chapter
+  URL: https://dspace.uevora.pt/rdpc/handle/10174/3811
+
 - id: bastos:2012urbanismo20
   accessed:
     - year: 2018
@@ -828,7 +954,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1983
-  language: pt-BR
+  language: pt
   publisher: Record
   publisher-place: Rio de Janeiro
   source: dedalus.usp.br Library Catalog
@@ -857,6 +983,60 @@ references:
     - family: Cabral
       given: Álvaro
   type: book
+
+- id: berkowski:2016construction161
+  abstract: >-
+    Issues related to the processes of maintenance and ensure the continued
+    serviceability of heritage buildings and civil engineering structures are
+    closely related to the processes of assessment of their technical state,
+    repair and strengthening procedures. One extremely important element for a
+    proper diagnosis of the technical condition of historic buildings and also
+    for the adequate design of the actions associated with prolonging their
+    service life should be to perform architectural and structural historical
+    survey. This analysis must be related to the following aspects of
+    construction history occurring during the design and the construction of
+    such objects: design solutions, methods of structural analysis and
+    dimensioning of structural components, properties of building materials,
+    technologies of their production and also the technology of construction.
+    These studies, supported of course by the use of the full range of modern
+    material examination techniques and computational simulations, allow a more
+    complete understanding of analyzed structures. Furthermore, such a program
+    should also contain a prediction of the development of existing or creation
+    of new damages and degradation of the material, as well as guidelines for
+    repair and renovation works in order to ensure structure's further safe
+    operation. From the point of view of the completeness of such a program and
+    with regards to architecture and structural design, its indispensable
+    elements should be both the historical analysis of the design and the
+    construction of the building, as well as of the entire course of its
+    exploitation.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 11
+  author:
+    - family: Berkowski
+      given: Piotr
+    - family: Kosior-Kazberuk
+      given: Marta
+  citation-key: berkowski:2016construction161
+  collection-title: >-
+    World Multidisciplinary Civil Engineering-Architecture-Urban Planning
+    Symposium 2016, WMCAUS 2016
+  container-title: Procedia Engineering
+  container-title-short: Procedia Engineering
+  DOI: 10.1016/j.proeng.2016.08.502
+  ISSN: 1877-7058
+  issued:
+    - year: 2016
+      month: 1
+      day: 1
+  language: en
+  page: 85-90
+  source: ScienceDirect
+  title: Construction history as a part of assessment of heritage buildings
+  type: article-journal
+  URL: http://www.sciencedirect.com/science/article/pii/S1877705816327102
+  volume: '161'
 
 - id: bertran:1994historia
   abstract: >-
@@ -1092,7 +1272,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt-BR
+  language: pt
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
   title: Manual prático de conservação de telhados
@@ -1198,6 +1378,26 @@ references:
   title-short: Os teatros públicos na capital das Minas setecentistas
   type: article-journal
   URL: http://www.revistas.usp.br/rieb/article/view/34670
+
+- id: brito:2001cofragens
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Brito
+      given: Jorge
+      dropping-particle: de
+    - family: Paulo
+      given: Pedro
+  citation-key: brito:2001cofragens
+  issued:
+    - year: 2001
+  language: pt
+  source: DOI.org (Datacite)
+  title: Cofragens tradicionais
+  type: thesis
+  URL: http://rgdoi.net/10.13140/RG.2.1.1961.5203
 
 - id: bruand:1981arquitetura
   author:
@@ -1861,6 +2061,33 @@ references:
   title-short: Cidade febril
   type: book
   URL: http://archive.org/details/cidadefebrilcort00chal
+
+- id: chiappero:2003arquitectura
+  accessed:
+    - year: 2018
+      month: 8
+      day: 14
+  author:
+    - family: Chiappero
+      given: Rubén Osvaldo
+    - family: Supisiche
+      given: María Clara
+  citation-key: chiappero:2003arquitectura
+  event-place: Buenos Aires
+  ISBN: 978-1-4175-6466-8
+  issued:
+    - year: 2003
+  language: es
+  publisher: Nobuko
+  publisher-place: Buenos Aires
+  source: Open WorldCat
+  title: >-
+    Arquitectura en tierra cruda: breves concideraciones sobre la conservación y
+    la restauración
+  title-short: Arquitectura en tierra cruda
+  type: book
+  URL: >-
+    http://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=124309
 
 - id: chico:1956cidade
   author:
@@ -2628,6 +2855,27 @@ references:
   type: thesis
   URL: https://repositorio.unb.br/handle/10482/4181
 
+- id: durbin:2005architectural
+  author:
+    - family: Durbin
+      given: Lesley
+  citation-key: durbin:2005architectural
+  collection-title: Butterworth-Heinemann series in conservation and museology
+  event-place: Oxford
+  ISBN: 978-0-7506-5832-4
+  issued:
+    - year: 2005
+  language: en
+  number-of-pages: '203'
+  publisher: Butterworth-Heinemann
+  publisher-place: Oxford
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: >-
+    Architectural tiles: conservation and restoration from the medieval period
+    to the twentieth century
+  title-short: Architectural tiles
+  type: book
+
 - id: embaby:2014heritage10
   abstract: >-
     Protecting the built heritage and conserving the local traditional and
@@ -2965,6 +3213,56 @@ references:
   type: paper-conference
   URL: https://sigarra.up.pt/fmup/pt/pub_geral.pub_view?pi_pub_base_id=96325
 
+- id: fernandes:2015portuguese58
+  abstract: >-
+    Vernacular architecture is characterized by a type of formal expression,
+    which has been developed in response to a number of factors – geographic,
+    climatic and economic – characterizing the local area or region. Despite the
+    fact that Portugal is a small country, there are many different
+    architectural approaches and a range of techniques have been employed in
+    different regions to mitigate the effects of climate. These vernacular
+    approaches have the potential for further development and could be adapted
+    in response to contemporary needs. In this paper, a range of different
+    passive solar techniques used in Portuguese vernacular architecture to
+    provide comfort is presented. The specific focus is on the effectiveness of
+    passive cooling strategies (namely, high thermal inertia, use of light
+    colours and courtyards), and the findings of a case study in which the
+    thermal performance during the summer of a vernacular residential building
+    located in the south of Portugal are presented.
+  accessed:
+    - year: 2019
+      month: 10
+      day: 10
+  author:
+    - family: Fernandes
+      given: Jorge
+    - family: Mateus
+      given: Ricardo
+    - family: Bragança
+      given: Luís
+    - family: Silva
+      given: José Júlio Correia
+      dropping-particle: da
+  citation-key: fernandes:2015portuguese58
+  container-title: Architectural Science Review
+  DOI: 10.1080/00038628.2014.974019
+  ISSN: 0003-8628
+  issue: '4'
+  issued:
+    - year: 2015
+      month: 10
+      day: 2
+  language: en
+  page: 324-336
+  source: Taylor and Francis+NEJM
+  title: >-
+    Portuguese vernacular architecture: the contribution of vernacular materials
+    and design approaches for sustainable construction
+  title-short: Portuguese vernacular architecture
+  type: article-journal
+  URL: https://doi.org/10.1080/00038628.2014.974019
+  volume: '58'
+
 - id: figueiredo:2011caracterizacao
   abstract: >-
     The architectural heritage of the historical city centre of São Luís of
@@ -3239,6 +3537,62 @@ references:
   title: Arquitectura de terra em Avis
   type: book
 
+- id: fonseca:2016escriptorio
+  abstract: >-
+    O engenheiro Emílio H. Baumgart é conhecido como pai do concreto armado no
+    Brasil, apesar desse fato, pouco se sabe sobre sua real contribuição à
+    Escola Brasileira do Concreto Armado e ao prelúdio da Arquitetura Moderna
+    Brasileira. O objetivo desta pesquisa é superar as lacunas e imprecisões da
+    historiografia do concreto armado no Brasil quanto aos aportes fornecidos
+    pelo “Escriptório Technico Emílio H. Baumgart”. O trabalho evidencia o
+    “Escriptório” como precursor da chamada Escola Brasileira do Concreto Armado
+    servindo de verdadeira escola de formação dos mais importantes engenheiros
+    brasileiros do século XX e se fundamenta na obtenção de documentação
+    primária junto a empresa SEEBLA, escritório remanescente dos ensinamentos
+    teóricos e práticos do calculista catarinense; no acesso aos documentos
+    pessoais fornecidos por seus familiares e por entrevistas e reminiscências
+    de pesquisadores e engenheiros que conviveram com os discípulos do
+    calculista. Procurou-se criar uma genealogia dos engenheiros que atuaram
+    diretamente em seu escritório e foram detentores de uma metodologia de
+    cálculo estrutural responsável por inúmeras obras de excelência
+    arquitetônica e relativas à essa escola do concreto armado. O estudo
+    procurou exibir a relação de Baumgart com os arquitetos definida pela
+    análise estrutural de importantes obras brasileiras em concreto armado, como
+    o Edifício A Noite, de Joseph Gire (1872-1933); o Albergue da Boa Vontade,
+    de Affonso Eduardo Reidy (1909-1964) e Gerson Pompeu Pinheiro (1910-1978) e
+    do Ministério da Educação e Saúde Pública dos arquitetos Lucio Costa
+    (1902-1998); Jorge Machado Moreira (1904- 1992); Carlos Leão (1906-1983);
+    Affonso Eduardo Reidy; Ernani Mendes de Vasconcelos (1912-1989); Oscar
+    Ribeiro de Almeida Niemeyer Soares Filho (1907-2012).
+    _______________________________________________________________________________________________
+    ABSTRACT
+  accessed:
+    - year: 2019
+      month: 2
+      day: 16
+  author:
+    - family: Fonseca
+      given: Roger Pamponet
+      dropping-particle: da
+  citation-key: fonseca:2016escriptorio
+  event-place: Brasília
+  genre: Tese (doutorado em Arquitetura e Urbanismo)
+  issued:
+    - year: 2016
+      month: 4
+      day: 18
+  language: pt-BR
+  license: Acesso Aberto
+  publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
+  publisher-place: Brasília
+  source: repositorio.unb.br
+  title: >-
+    “Escriptório technico Emílio H. Baumgart” : Escola do Concreto Armado e a
+    arquitetura modernista brasileira
+  title-short: “Escriptório technico Emílio H. Baumgart”
+  type: thesis
+  URL: http://repositorio.unb.br/handle/10482/19962
+
 - id: fontinha:2021metais
   abstract: >-
     Os materiais metálicos do século XX apresentam pro- priedades físicas e de
@@ -3269,6 +3623,25 @@ references:
   title: 'Metais “modernos” em património edificado: desempenho em ambiente exterior'
   title-short: Metais “modernos” em património edificado
   type: article-journal
+
+- id: forsyth:2007structures
+  call-number: TH3301 .S77 2007
+  citation-key: forsyth:2007structures
+  collection-title: Historic building conservation
+  editor:
+    - family: Forsyth
+      given: Michael
+  event-place: Oxford, UK ; Malden, Mass.
+  ISBN: 978-1-4051-1171-3
+  issued:
+    - year: 2007
+  language: en
+  number-of-pages: '238'
+  publisher: Blackwell
+  publisher-place: Oxford, UK ; Malden, Mass.
+  source: Library of Congress ISBN
+  title: Structures & construction in historic building conservation
+  type: book
 
 - id: fraile:2007infografia
   abstract: >-
@@ -3653,6 +4026,48 @@ references:
   title: Tratado de rehabilitación
   type: book
 
+- id: gil-crespo:2016islamic31
+  abstract: >-
+    This paper offers a history of rammed-earth construction through the study
+    of selected examples of Islamic defensive architecture in Spain. While earth
+    construction differs from region to region and time to time during the
+    period of Islamic domination in Spain, various examples share a number of
+    common characteristics. The details of rammed-earth construction techniques
+    in each historical epoch are analysed in terms of the dimensions of the
+    earth boxes and their elements. The processes and the auxiliary elements of
+    the formwork, and the role of putlog holes and beams are also studied. From
+    this analysis a construction typology for Islamic earthworks is proposed.
+    This differs from Medieval Christian rammed-earth construction which
+    comprises a method using boxes and half putlogs which need a bracing system
+    such as wedges, nails, ropes or Saint Andrew crosses. Finally, analysis of
+    the modules and dimensions of the rammed-earth components reveals that two
+    modules were used, one used during Emirate and Caliphate based on a
+    dimension of a raššāší cubit (0.55 cm), the other used during the Almoravid,
+    Almohad and Nasrid kingdoms based on a dimension of a ma’mūní cubit (c. 0.45
+    cm)..
+  accessed:
+    - year: 2020
+      month: 7
+      day: 11
+  archive: JSTOR
+  author:
+    - family: Gil-Crespo
+      given: Ignacio-Javier
+  citation-key: gil-crespo:2016islamic31
+  container-title: Construction History
+  ISSN: 0267-7768
+  issue: '2'
+  issued:
+    - year: 2016
+  language: en
+  page: 1-22
+  publisher: The Construction History Society
+  source: JSTOR
+  title: Islamic fortifications in Spain built with rammed earth
+  type: article-journal
+  URL: https://www.jstor.org/stable/26476233
+  volume: '31'
+
 - id: gomes:1994arquitetura
   author:
     - family: Gomes
@@ -3749,7 +4164,7 @@ references:
   ISBN: 978-85-7334-035-8
   issued:
     - year: 2006
-  language: pt-BR
+  language: pt
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: 'Madeira: uso e conservação'
@@ -4139,6 +4554,49 @@ references:
   type: report
   URL: https://iscarsah.files.wordpress.com/2014/11/iscarsah-guidelines.pdf
 
+- id: jankowsky:1990fundamentos
+  accessed:
+    - year: 2017
+      month: 5
+      day: 5
+  author:
+    - family: Jankowsky
+      given: Ivaldo Pontes
+  citation-key: jankowsky:1990fundamentos
+  container-title: Documentos florestais
+  issue: '11'
+  issued:
+    - year: 1990
+  language: pt
+  page: 1–12
+  title: Fundamentos de preservação de madeiras
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_nlinks&ref=000077&pid=S0103-8478201300080000900008&lng=pt
+
+- id: jornada:2022
+  abstract: >-
+    En la actualidad sigue existiendo cierta desconfianza de la madera que juega
+    un papel estructural en los antiguos edificios. KALAM organiza est&aacute;s
+    jornadas,&hellip;
+  accessed:
+    - year: 2022
+      month: 5
+      day: 11
+  citation-key: jornada:2022
+  dimensions: PT00H11M46S
+  issued:
+    - year: 2022
+      month: 4
+      day: 19
+  language: es
+  publisher: Kalam
+  source: Vimeo
+  title: 'Jornada rehabilitación estructuras de madera: Enrique Nuere'
+  title-short: Jornada rehabilitación estructuras de madera
+  type: motion_picture
+  URL: https://vimeo.com/700840544
+
 - id: juca:2012vilas
   call-number: HT384.B6 V55 2012
   citation-key: juca:2012vilas
@@ -4226,7 +4684,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt-BR
+  language: pt
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: Manual de conservação preventiva para edificações
@@ -5185,6 +5643,25 @@ references:
   title-short: Técnicas tradicionais de construção de alvenarias
   type: book
 
+- id: mascarenhas:2012reabilitacao
+  author:
+    - family: Mascarenhas
+      given: Jorge
+  citation-key: mascarenhas:2012reabilitacao
+  collection-number: XIII
+  collection-title: Sistemas de construção
+  event-place: Lisboa
+  ISBN: 978-972-24-1757-0
+  issued:
+    - year: 2012
+  language: pt
+  publisher: Horizonte
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Reabilitação urbana
+  title-short: Sistemas de construção
+  type: book
+
 - id: mascarenhas:2015arquitectura
   author:
     - family: Mascarenhas
@@ -5716,6 +6193,22 @@ references:
   title: Arquitetura e construção com terra no Brasil
   type: book
 
+- id: nogueira:2004equivoco
+  author:
+    - family: Nogueira
+      given: Sylvio
+  citation-key: nogueira:2004equivoco
+  container-title: Drops (Vitruvius)
+  issued:
+    - year: 2004
+      month: 10
+  language: pt-BR
+  title: >-
+    Equívoco histórico em fachadas:  O que não fazer na manutenção das
+    construções
+  title-short: Equívoco histórico em fachadas
+  type: article-journal
+
 - id: novais:1997historia
   abstract: >-
     "Excellent essays by top scholars (F. Novais, L. de Mello e Souza, L. Mezan
@@ -5896,6 +6389,21 @@ references:
   title: Os primeiros brasileiros
   type: book
 
+- id: oliveira:estilo
+  author:
+    - family: Oliveira
+      given: Cristina
+    - family: Varum
+      given: Humberto
+    - family: Costa
+      given: Aníbal
+  citation-key: oliveira:estilo
+  language: pt
+  page: '9'
+  source: Zotero
+  title: Estilo art nouveau em Aveiro e a sua relação com construções de adobe
+  type: article-journal
+
 - id: oosthuizen:2013truth34
   abstract: >-
     The paper explores, through the case study of March, a large town in the
@@ -5952,6 +6460,33 @@ references:
   title: Five steps to super blocks
   type: webpage
   URL: https://www.cnu.org/publicsquare/2018/08/27/five-steps-super-blocks
+
+- id: ortega:2015local
+  author:
+    - family: Ortega
+      given: Javier
+    - family: Vasconcelos
+      given: Graça
+    - family: Rodrigues
+      given: Hugo
+    - family: Correia
+      given: Mariana
+  citation-key: ortega:2015local
+  container-title: H.Ea.R.T.2015
+  event-place: Lisboa
+  event-title: >-
+    2nd International Conference on Historic Earthquake-Resistant Timber Frames
+    in the Mediterranean Region
+  issued:
+    - year: 2015
+  language: en
+  publisher: LNEC
+  publisher-place: Lisboa
+  source: Zotero
+  title: >-
+    Local seismic cultures: the use of timber frame structures in the south of
+    Portugal
+  type: paper-conference
 
 - id: ott:1947notas11
   author:
@@ -6498,6 +7033,50 @@ references:
   title-short: Pândegos, rábulas, gamelas
   type: thesis
   URL: http://www.teses.usp.br/teses/disponiveis/16/16133/tde-19122016-181951/
+
+- id: pedrosa:2013oficina29
+  abstract: >-
+    Os modos pelos quais se organizavam as oficinas de talha ainda são pouco
+    conhecidos pela historiografia da arte mineira setecentista. Isso ocorre,
+    entre outros fatores, pela escassez de fontes primárias que forneçam tais
+    informações. Nesse sentido, o presente artigo demonstra algumas
+    peculiaridades da formação e gestão de uma oficina de talha instalada no
+    interior da Matriz de Nossa Senhora da Conceição, atual Sé de Mariana.
+    Buscou-se também, ressaltar a importância do contrato de arrematação da obra
+    de talha, no tocante ao cumprimento de suas cláusulas contratuais. Tal
+    estudo foi subsidiado em documentação primária que relata a composição e
+    organização de uma oficina de talha que, por volta do ano de 1749, sofre
+    sanções penais por descumprimento dos prazos e condições previamente
+    estabelecidas no contrato de arrematação da obra.
+              , 
+                The ways in which carving ateliers were organized are still unknown by Minas Gerais art historiography in the 18th century. This fact is due, besides other reasons, to the scarcity of primary sources that can provide further information about it. Therefore, this article shows some peculiarities of the creation and management of a carving atelier that was installed in the Church of Nossa Senhora da Conceição, the current Cathedral of Mariana. In addition, this article will try to highlight the importance of the contract of the action of the carving work regarding the fulfillment of their contractual terms. This study is possible due to the existence of some primary documentation that shows the composition and organization of a carving atelier around the year 1749, which suffers criminal penalties for noncompliance with the terms and conditions of the contract of the auction of the carving work.
+  accessed:
+    - year: 2020
+      month: 3
+      day: 22
+  author:
+    - family: Pedrosa
+      given: Aziz José de Oliveira
+  citation-key: pedrosa:2013oficina29
+  container-title: Varia Historia
+  container-title-short: Varia hist.
+  DOI: 10.1590/S0104-87752013000200012
+  ISSN: 0104-8775
+  issue: '50'
+  issued:
+    - year: 2013
+      month: 8
+  language: pt
+  page: 597-631
+  source: DOI.org (Crossref)
+  title: >-
+    Uma oficina de talha na Sé de Mariana: o fazer artístico e o contrato de
+    trabalho
+  title-short: Uma oficina de talha na Sé de Mariana
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-87752013000200012&lng=pt&tlng=pt
+  volume: '29'
 
 - id: peel:2016christianity
   abstract: >-
@@ -8979,6 +9558,65 @@ references:
   type: article-journal
   URL: http://journals.openedition.org/terrabrasilis/1981
 
+- id: veado:2008resgate
+  abstract: >-
+    This study includes a reflection on the coatings preservation and
+    restoration problem, that arebuilt structure fundamental elements, because
+    besides having a protective function, they also own, many times, na
+    important ornamental function. Being thus, time testimony and of the past,
+    this ones layers and the constructives techniques must be preserved, because
+    the historical monuments cant be visas just as on old and damaging building
+    that was habitation of some character, or the one that is marked for
+    historical happening, but also, know of the existing materials importance in
+    the built structure and the way of her applications, with the techniqueseach
+    region, post that was used of primitive or limited techniques. Thus, to the
+    historical monuments restorer and conservative, fits consolidate the work
+    how much possible and make it returns to her origin state, using of all the
+    techniques of restore and of the historical research that must propitiate
+    the constructive process knowledge, of the interventions, of the eventual
+    anomalies detection, because the respect to the well restored the
+    constituent materials authenticity and of the constructive techniques is
+    just that are going to keep the distinct times historical value. It is
+    important to point out that the methods employees for the preservation and
+    restore of the techniques and of the coatings vary as deterioration the kind
+    and the necessary materials for your preservation. Thus, it is necessary, in
+    any work of restore, a coatings preservation state discerning previous
+    analysis, of the techniques and that this action be accomplished with
+    conscience and responsibility than is doing and of the thing value on top of
+    wich are working. Otherwise, they can provoke more serious pathologies than
+    the previously found. The objective of this study is to describe the
+    knowledge in this area maid in the mining architecture. It does also a main
+    anomalies compilation found in the mud walls and of the existing materials,
+    of form to contribute for a interventions improvement of restore.
+  accessed:
+    - year: 2023
+      month: 9
+      day: 24
+  author:
+    - family: Veado
+      given: Fernando Roberto de Castro
+  citation-key: veado:2008resgate
+  event-place: Belo Horizonte
+  genre: Dissertação de Mestrado em Ambiente Construído e Patrimônio Sustentável
+  issued:
+    - year: 2008
+      month: 10
+      day: 30
+  language: pt
+  license: Acesso Aberto
+  publisher: Universidade Federal de Minas Gerais
+  publisher-place: Belo Horizonte
+  source: repositorio.ufmg.br
+  title: >-
+    Resgate das técnicas construtivas e a importância dos materiais
+    remanescentes das argamassas utilizadas nas confecções das paredes de barro
+    e dos revestimentos das edificações históricas - uma abordagem epistêmica
+  title-short: >-
+    Resgate das técnicas construtivas e a importância dos materiais
+    remanescentes das argamassas…
+  type: thesis
+  URL: https://repositorio.ufmg.br/handle/1843/MMMD-8PDK6D
+
 - id: verissimo:2002500
   author:
     - family: Veríssimo
@@ -9034,6 +9672,62 @@ references:
     Antonio Simões Ribeiro, José Joaquim da Rocha e a Escola de pintura
     quadraturística na Bahia
   type: chapter
+
+- id: vidal:2015preservacao25
+  abstract: >-
+    O objetivo deste trabalho foi apresentar uma revisão de literatura sobre o
+    setor de preservação de madeiras no Brasil, desde seu início até o ano de
+    2011. O Brasil é rico em recursos naturais e a madeira sempre ocorreu de
+    forma abundante. Com o crescimento industrial, houve a necessidade de
+    utilizar madeiras de baixa durabilidade natural, mas dependentes de um
+    tratamento preservativo. O tratamento de madeiras iniciou-se no final do
+    século XIX, para atendimento da demanda de dormentes para as ferrovias.
+    Somente na década de 1960, o setor de preservação de madeiras ganhou impulso
+    com aumento significativo das pesquisas científicas, normalização técnica e
+    unidades industriais de preservação de madeira. A partir daí, poucos avanços
+    foram observados. No ano de 2011, as usinas de preservação utilizam
+    basicamente madeiras dos gêneros calyptus e Pinus, realizando,
+    principalmente, o tratamento preservativo em usinas sob pressão. Em pequena
+    escala, utiliza-se o método de substituição de seiva. Os principais
+    preservativos utilizados são o arseniato de cobre cromatado (CCA) e o borato
+    de cobre cromatado (CCB); o creosoto também é utilizado, em reduzida escala.
+    A produção de madeira tratada concentra-se, essencialmente, na produção de
+    moirões de cerca, postes e dormentes. Como tendência, o setor deverá
+    alcançar novos mercados, como o de construção civil, cruzetas e embalagens,
+    bem como intensificar o consumo dos produtos tradicionais. A despeito de
+    inúmeras pesquisas sobre vários produtos, o CCA deverá se manter no mercado
+    por vários anos, pela inexistência de produtos alternativos que apresentem a
+    mesma eficácia, bem como à inexistência de provas que o produto apresente
+    efeitos nocivos à saúde humana e ao meio ambiente.
+  accessed:
+    - year: 2024
+      month: 3
+      day: 24
+  author:
+    - family: Vidal
+      given: Jackson Marcelo
+    - family: Evangelista
+      given: Wescley Viana
+    - family: Silva
+      given: Jose de Castro
+    - family: Jankowsky
+      given: Ivaldo Pontes
+  citation-key: vidal:2015preservacao25
+  container-title: Ciência Florestal
+  container-title-short: Ciênc. Florest.
+  DOI: 10.1590/1980-509820152505257
+  ISSN: 0103-9954, 1980-5098
+  issued:
+    - literal: 2015-Jan-Mar
+  language: pt
+  page: 257-271
+  publisher: Universidade Federal de Santa Maria
+  source: SciELO
+  title: 'Preservação de madeiras no Brasil: histórico, cenário atual e tendências'
+  title-short: Preservação de madeiras no Brasil
+  type: article-journal
+  URL: https://www.scielo.br/j/cflo/a/WSsH9ktwmQyc3k4Prt36Q3H/
+  volume: '25'
 
 - id: viegas:2017papel18
   abstract: >-
@@ -9383,5 +10077,25 @@ references:
   publisher-place: São Paulo
   source: Open WorldCat
   title: História geral da arte no Brasil
+  type: book
+
+- id: zwerger:2012wood
+  author:
+    - family: Zwerger
+      given: Klaus
+  call-number: TH2301 .Z9413 2012
+  citation-key: zwerger:2012wood
+  edition: Second, revised and enlarged edition
+  event-place: Basel
+  ISBN: 978-3-0346-0685-1
+  issued:
+    - year: 2012
+  language: en
+  number-of-pages: '319'
+  publisher: Birkhäuser
+  publisher-place: Basel
+  source: Library of Congress ISBN
+  title: 'Wood and wood joints: building traditions of Europe, Japan and China'
+  title-short: Wood and wood joints
   type: book
 ...
