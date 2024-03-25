@@ -76,6 +76,33 @@ references:
   type: book
   volume: '2'
 
+- id: algranti:1997familias
+  author:
+    - family: Algranti
+      given: Leila Mezan
+  call-number: GT2402.B6 H57 1997
+  citation-key: algranti:1997familias
+  collection-editor:
+    - family: Novais
+      given: Fernando A.
+  container-title: História da vida privada no Brasil
+  editor:
+    - family: Souza
+      given: Laura de Mello
+      dropping-particle: e
+  event-place: São Paulo
+  ISBN: 978-85-7164-681-0
+  issued:
+    - year: 1997
+  language: pt
+  page: 83-154
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: Famílias e vida doméstica
+  type: chapter
+  volume: '1'
+
 - id: almeida:2015arquitectura
   abstract: >-
     Apesar da aparente fragilidade para que nos remete o uso da terra como
@@ -307,6 +334,29 @@ references:
     historic buildings
   title-short: Measured and drawn
   type: book
+
+- id: aparicio:2013como
+  abstract: >-
+    "Resulta difícil imaginar cuando alguien ve los restos abandonados de los
+    hornos de cal , que tan sólo varias docenas de años atrás ocupaba...
+  accessed:
+    - year: 2021
+      month: 2
+      day: 18
+  author:
+    - family: Aparicio Reso
+      given: Pablo
+  citation-key: aparicio:2013como
+  container-title: El horno de Montesa
+  issued:
+    - year: 2013
+      month: 5
+      day: 27
+  language: es
+  title: ¿Cómo era un horno de cal tradicional?
+  type: post-weblog
+  URL: >-
+    http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html
 
 - id: aparicio:2023herramientas
   abstract: >-
@@ -544,6 +594,26 @@ references:
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142016000100257&lng=en&nrm=iso&tlng=pt
   volume: '24'
+
+- id: article
+  author:
+    - family: Santos
+      given: Ana Rita
+    - family: Veiga
+      given: Maria do Rosário
+  citation-key: article
+  container-title: 'Engenharia para a sociedade: investigação e inovação'
+  event-place: Lisboa
+  event-title: Jornadas Laboratório Nacional de Engenharia Civil
+  issued:
+    - year: 2012
+      month: 6
+      day: 18
+  language: pt
+  publisher: LNE
+  publisher-place: Lisboa
+  title: Argamassas compatíveis para edifícios antigos
+  type: paper-conference
 
 - id: assumpcao:1895diccionarioa
   abstract: '52'
@@ -1884,6 +1954,28 @@ references:
   type: article-journal
   volume: '7'
 
+- id: carita:1987tratado
+  author:
+    - family: Carita
+      given: Helder
+    - family: Cardoso
+      given: António Homem
+    - family: Cardoso
+      given: Miguel Esteves
+  call-number: '712.2'
+  citation-key: carita:1987tratado
+  issued:
+    - year: 1987
+  language: pt
+  number-of-pages: '319'
+  publisher: Ed. dos Autores
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    Tratado da grandeza dos jardins em Portugal: ou da originalidade e desaires
+    desta arte
+  title-short: Tratado da grandeza dos jardins em Portugal
+  type: book
+
 - id: carita:1994bairro
   author:
     - family: Carita
@@ -2740,6 +2832,23 @@ references:
   title-short: Architectural temperance
   type: book
 
+- id: dias:2001patrimonio
+  author:
+    - family: Dias
+      given: Maria Cristina Vereza Lodi
+  citation-key: dias:2001patrimonio
+  event-place: Brasília
+  ISBN: 85-88564-01-7 978-85-88564-01-5
+  issued:
+    - year: 2001
+  language: Portuguese
+  publisher: Ministério da Cultura
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: 'Patrimônio azulejar brasileiro: aspectos históricos e de conservação'
+  title-short: Patrimônio azulejar brasileiro
+  type: book
+
 - id: diez:2023documentacao
   accessed:
     - year: 2023
@@ -2855,6 +2964,48 @@ references:
   type: thesis
   URL: https://repositorio.unb.br/handle/10482/4181
 
+- id: dourado:2009belle
+  abstract: >-
+    Estudo sobre a presença de jardineiros e paisagistas franceses na América do
+    Sul, entre 1820 e 1920, e as relações entre a cultura paisagística francesa
+    e a nascente arte dos jardins no Brasil. A primeira parte estabelece um
+    quadro referencial da atividade desses franceses na Argentina, Uruguai,
+    Chile e Brasil, destacando as realizações de Édouard André, Eugène Courtois,
+    Charles Thays, Joseph Bouvard, Pedro Margat, Charles e Louis-Ernest Racine,
+    Édouard Gauthier, Georges Dubois, Grandjean de Montigny, Pierre Pézérat,
+    Charles Pinel, Jean Binot, Auguste Glaziou, Júlio Joly, Ambrósio Perret,
+    Paul Villon, Jules Vacherot e Cochet, entre outros. A segunda parte verifica
+    as repercussões da presença e cultura francesas no deslanchar das primeiras
+    gerações de paisagistas e horticultores brasileiros, concentrando-se na
+    análise do trabalho de Frederico Guilherme de Albuquerque, entre 1874 e
+    1892. Esse segmento discute tanto o papel desse horticultor gaúcho como
+    editor da Revista de horticultura, primeiro mensário brasileiro voltado às
+    plantas ornamentais e jardins, quanto destaca sua atuação pioneira na
+    introdução e difusão de plantas ornamentais.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Dourado
+      given: Guilherme Onofre Mazza
+  citation-key: dourado:2009belle
+  DOI: 10.11606/T.18.2009.tde-07042009-154158
+  event-place: São Carlos
+  genre: Tese (Doutorado em Arquitetura e Urbanismo)
+  issued:
+    - year: 2009
+      month: 3
+      day: 3
+  language: pt-br
+  publisher: Universidade de São Paulo, Escola de Engenharia
+  publisher-place: São Carlos
+  source: teses.usp.br
+  title: 'Belle époque dos jardins: da França ao Brasil do século XIX e início do XX'
+  title-short: Belle époque dos jardins
+  type: thesis
+  URL: http://www.teses.usp.br/teses/disponiveis/18/18142/tde-07042009-154158/
+
 - id: durbin:2005architectural
   author:
     - family: Durbin
@@ -2931,6 +3082,49 @@ references:
   URL: http://www.sciencedirect.com/science/article/pii/S1687404814000030
   volume: '10'
 
+- id: erickson:2000artificial408
+  abstract: >-
+    Historical ecologists working in the Neotropics argue that the present
+    natural environment is an historical product of human intentionality and
+    ingenuity, a creation that is imposed, built, managed and maintained by the
+    collective multigenerational knowledge and experience of Native
+    Americans1,2. In the past 12,000 years, indigenous peoples transformed the
+    environment, creating what we now recognize as the rich ecological mosaic of
+    the Neotropics3,4,5,6. The prehispanic savanna peoples of the Bolivian
+    Amazon built an anthropogenic landscape through the construction of raised
+    fields, large settlement mounds, and earthen causeways7,8. I have studied a
+    complex artificial network of hydraulic earthworks covering 525 km2 in the
+    Baures region of Bolivia. Here I identify a particular form of earthwork,
+    the zigzag structure, as a fish weir, on the basis of form, orientation,
+    location, association with other hydraulic works and ethnographic analogy.
+    The native peoples used this technology to harvest sufficient animal protein
+    to sustain large and dense populations in a savanna environment.
+  accessed:
+    - year: 2020
+      month: 9
+      day: 21
+  author:
+    - family: Erickson
+      given: Clark L.
+  citation-key: erickson:2000artificial408
+  container-title: Nature
+  DOI: 10.1038/35041555
+  ISSN: 1476-4687
+  issue: '6809'
+  issued:
+    - year: 2000
+      month: 11
+  language: en
+  license: 2000 Macmillan Magazines Ltd.
+  number: '6809'
+  page: 190-193
+  publisher: Nature Publishing Group
+  source: www.nature.com
+  title: An artificial landscape-scale fishery in the Bolivian Amazon
+  type: article-journal
+  URL: https://www.nature.com/articles/35041555
+  volume: '408'
+
 - id: etlin:1978dedans
   abstract: >-
     No period of architecture demonstrates more clearly than the mid-eighteenth
@@ -3000,6 +3194,26 @@ references:
     secolo
   title-short: La politica delle città nuove nel sud-ovest della Francia
   type: chapter
+
+- id: faria:2018rebocos
+  author:
+    - family: Faria
+      given: Paulina
+    - family: Lima
+      given: José
+  citation-key: faria:2018rebocos
+  collection-number: '3'
+  collection-title: Cadernos de construção com terra
+  event-place: Lisboa
+  ISBN: 978-989-8885-04-3
+  issued:
+    - year: 2018
+  language: pt
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Rebocos de terra
+  type: book
 
 - id: fausto:2010indios
   accessed:
@@ -4955,6 +5169,25 @@ references:
     http://periodicos.unievangelica.edu.br/index.php/revistajuridica/article/view/597
   volume: '9'
 
+- id: lemos:1976cozinhas
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  call-number: NA7300.S26 L454
+  citation-key: lemos:1976cozinhas
+  collection-title: 'Debates ; 94 : arquitetura'
+  event-place: São Paulo
+  issued:
+    - year: 1976
+  language: por
+  number-of-pages: '226'
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: dedalus.usp.br Library Catalog
+  title: 'Cozinhas, etc: um estudo sobre as zonas de serviço da casa paulista'
+  title-short: Cozinhas, etc
+  type: book
+
 - id: lemos:1979arquitetura
   author:
     - family: Lemos
@@ -6193,6 +6426,31 @@ references:
   title: Arquitetura e construção com terra no Brasil
   type: book
 
+- id: nichols:1924spanish
+  abstract: >-
+    xxxi, 304 p. incl. front., illus., plates. 25 cm; "Books of reference": p.
+    [289]-292
+  accessed:
+    - year: 2023
+      month: 4
+      day: 24
+  author:
+    - family: Nichols
+      given: Rose Standish
+  call-number: '9921947860001551'
+  citation-key: nichols:1924spanish
+  event-place: Boston ; New York
+  issued:
+    - year: 1924
+  language: en
+  number-of-pages: '346'
+  publisher: Houghton Mifflin Company
+  publisher-place: Boston ; New York
+  source: Internet Archive
+  title: Spanish and Portuguese gardens
+  type: book
+  URL: http://archive.org/details/spanishportugues00nich
+
 - id: nogueira:2004equivoco
   author:
     - family: Nogueira
@@ -6737,37 +6995,6 @@ references:
   type: chapter
   URL: >-
     https://premiorafaelmanzano.com/pt-pt/escolas-de-verao/marvao-summer-school-2018/
-
-- id: palazzo:2021casa
-  abstract: >-
-    Anais do Seminário Arquitetura Vernácula/Popular (978-65-5941-479-6) - A
-    Casa Corrente De 40 Palmos Da Era Liberal
-  accessed:
-    - year: 2022
-      month: 1
-      day: 23
-  author:
-    - family: Palazzo
-      given: Pedro P.
-  citation-key: palazzo:2021casa
-  container-title: Olhares sobre o Brasil
-  DOI: 10.29327/153996.2-4
-  event-place: Salvador
-  event-title: III Seminário Arquitetura Vernácula/Popular
-  ISBN: 978-65-5941-479-6
-  issued:
-    - year: 2021
-  language: pt
-  license: >-
-    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-    License (CC-BY-NC-SA)
-  publisher: <span smallcaps="smallcaps">UFBA</span>
-  publisher-place: Salvador
-  title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
-  title-short: A casa corrente de 40 palmos
-  type: paper-conference
-  URL: >-
-    https//www.even3.com.br/anais/arqvernapop/387842-A-CASA-CORRENTE-DE-40-PALMOS-DA-ERA-LIBERAL
 
 - id: palazzo:2021modernidade
   abstract: >-
@@ -7839,6 +8066,61 @@ references:
   type: article-journal
   URL: https://estudogeral.sib.uc.pt/handle/10316/14351
 
+- id: rostain:2024two383
+  abstract: >-
+    A dense system of pre-Hispanic urban centers has been found in the Upano
+    Valley of Amazonian Ecuador, in the eastern foothills of the Andes.
+    Fieldwork and light detection and ranging (LIDAR) analysis have revealed an
+    anthropized landscape with clusters of monumental platforms, plazas, and
+    streets following a specific pattern intertwined with extensive agricultural
+    drainages and terraces as well as wide straight roads running over great
+    distances. Archaeological excavations date the occupation from around 500
+    BCE to between 300 and 600 CE. The most notable landscape feature is the
+    complex road system extending over tens of kilometers, connecting the
+    different urban centers, thus creating a regional-scale network. Such
+    extensive early development in the Upper Amazon is comparable to similar
+    Maya urban systems recently highlighted in Mexico and Guatemala.
+  accessed:
+    - year: 2024
+      month: 2
+      day: 1
+  author:
+    - family: Rostain
+      given: Stéphen
+    - family: Dorison
+      given: Antoine
+    - family: Saulieu
+      given: Geoffroy
+      non-dropping-particle: de
+    - family: Prümers
+      given: Heiko
+    - family: Le Pennec
+      given: Jean-Luc
+    - family: Mejía Mejía
+      given: Fernando
+    - family: Freire
+      given: Ana Maritza
+    - family: Pagán-Jiménez
+      given: Jaime R.
+    - family: Descola
+      given: Philippe
+  citation-key: rostain:2024two383
+  container-title: Science
+  DOI: 10.1126/science.adi6317
+  issue: '6679'
+  issued:
+    - year: 2024
+      month: 1
+      day: 12
+  language: en
+  page: 183-189
+  publisher: American Association for the Advancement of Science
+  source: science.org (Atypon)
+  title: Two thousand years of garden urbanism in the Upper Amazon
+  type: article-journal
+  URL: https://www.science.org/doi/10.1126/science.adi6317
+  volume: '383'
+
 - id: sa:1979habitacao
   accessed:
     - year: 2019
@@ -7862,6 +8144,23 @@ references:
   title: Habitação Indígena no alto Xingu
   type: article-journal
   URL: http://www.etnolinguistica.org/biblio:sa-1979-habitacao
+
+- id: saia:1972morada
+  archive: UnB BCE
+  author:
+    - family: Saia
+      given: Luiz
+  call-number: 728(816.11)
+  citation-key: saia:1972morada
+  event-place: São Paulo
+  issued:
+    - year: 1972
+  language: pt-BR
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Morada paulista
+  type: book
 
 - id: saia:1977sao
   author:
@@ -7939,6 +8238,28 @@ references:
   URL: >-
     https://ihgb.org.br/pesquisa/biblioteca/item/24182-annaes-do-5-congresso-brazileiro-de-geographia-realizado-na-cidade-do-salvador,-estado-da-bahia,-de-7-a-16-de-setembro-de-1916-publicados-sob-a-direc%C3%A7%C3%A3o-do-secretario-geral-do-mesmo-congresso-professor-dr-bernardino-jos%C3%A9-de-souza.html
   volume: '1'
+
+- id: santiago:2007argamassas
+  accessed:
+    - year: 2019
+      month: 8
+      day: 1
+  author:
+    - family: Santiago
+      given: Cybèle Celestino
+  citation-key: santiago:2007argamassas
+  DOI: 10.7476/9788523208875
+  event-place: Salvador
+  ISBN: 978-85-232-0887-5
+  issued:
+    - year: 2007
+  language: pt-BR
+  publisher: Editora <span smallcaps="smallcaps">UFBA</span>
+  publisher-place: Salvador
+  source: Crossref
+  title: Argamassas tradicionais de cal
+  type: book
+  URL: http://books.scielo.org/id/w2
 
 - id: santos:1951barroco
   author:
@@ -8125,6 +8446,31 @@ references:
   URL: http://journal.eahn.org/articles/10.5334/ah.58/
   volume: '4'
 
+- id: sarrazola:2013telhados
+  author:
+    - family: Sarrazola Martins
+      given: João
+    - family: Sousa Gago
+      given: António
+    - family: Caldas
+      given: João Vieira
+    - family: Oliveira
+      given: Lina
+  citation-key: sarrazola:2013telhados
+  event-place: Vitória
+  event-title: I Congresso Internacional de História da Construção Luso-Brasileira
+  issued:
+    - year: 2013
+  language: pt
+  publisher: Universidade Federal do Espírito Santo
+  publisher-place: Vitória
+  source: Zotero
+  title: >-
+    Telhados e tectos de asnaria: uma constante na construção portuguesa do
+    gótico ao barroco
+  title-short: Telhados e tectos de asnaria
+  type: paper-conference
+
 - id: schlee:2002arquitetos
   author:
     - family: Schlee
@@ -8169,7 +8515,7 @@ references:
   ISBN: 978-85-85445-40-9
   issued:
     - year: 1996
-  language: pt-BR
+  language: pt
   publisher: 'Fapesp : Studio Nobel'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -8298,6 +8644,83 @@ references:
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142006000100004&lng=pt&tlng=pt
   volume: '14'
+
+- id: silva:2009pontes
+  abstract: >-
+    A intervenção em bens históricos sempre se reveste em um momento de encontro
+    entre o passado e o presente. É o momento de perscrutar uma técnica e um
+    saber tradicional, que muitas vezes se apresentam arredios às necessidades
+    da atual racionalidade. Oportunidade para se entender os diferenciados usos
+    e reapropriações sociais e culturais desses objetos ontem e hoje. Por isso,
+    esse artigo pretende abordar a restauração de uma ponte colonial e algumas
+    interfaces existentes entre história e restauração. Pensar a importância
+    desses monumentos para as sociedades que os criaram, bem como a utilidade
+    que eles têm para nós. O projeto cantaria da UFOP participou na restauração
+    e manutenção da cantaria com a equipe formada pelo mestre José Raimundo
+    Pereira, aprendizes da oficina Francisco Bárbara de Oliveira e Celso de
+    Souza Amarante Junior.
+  author:
+    - family: Silva
+      given: Fabiano
+    - family: Pereira
+      given: Carlos
+    - family: Fortes
+      given: Flávia
+    - family: Fina
+      given: Rodrigo
+  citation-key: silva:2009pontes
+  collection-number: Projeto Estrada Real
+  collection-title: Programa Rumys
+  container-title: A Estrada Real e a transferência da corte portuguesa
+  edition: Rio de Janeiro
+  editor:
+    - family: Calaes
+      given: Gilberto Dias
+    - family: Ferreira
+      given: Gilson Ezequiel
+  event-place: >-
+    <span class="smallcaps">CETEM : MCT</span> : CNPq : <span
+    class="smallcaps">CYTED</span>
+  ISBN: 978-85-61121-48-8
+  issued:
+    - year: 2009
+      month: 11
+      day: 15
+  language: pt
+  page: 65-78
+  publisher-place: >-
+    <span class="smallcaps">CETEM : MCT</span> : CNPq : <span
+    class="smallcaps">CYTED</span>
+  source: ResearchGate
+  title: >-
+    Pontes coloniais: história e restauração da ponte de cantaria de Antônio
+    Dias em Ouro Preto, Minas Gerais
+  title-short: Pontes coloniais
+  type: chapter
+
+- id: silva:2012varandas
+  author:
+    - family: Silva Filho
+      given: Olavo Pereira
+      dropping-particle: da
+  call-number: NA3070 .S55 2012
+  citation-key: silva:2012varandas
+  collection-number: '11'
+  collection-title: Roteiros do patrimônio
+  event-place: Brasília
+  ISBN: 978-85-7334-188-1
+  issued:
+    - year: 2012
+  language: pt-BR
+  number-of-pages: '199'
+  publisher: Iphan
+  publisher-place: Brasília
+  source: Library of Congress ISBN
+  title: >-
+    Varandas de São Luís: gradis e azulejos = The balconies of São Luís:
+    railings and azulejo tiles
+  title-short: Varandas de São Luís
+  type: book
 
 - id: silva:2013arquitetura
   abstract: >-
@@ -9204,6 +9627,25 @@ references:
   title-short: São Paulo Pátio do Colégio
   type: book
 
+- id: trillo:2004agua
+  author:
+    - family: Trillo San José
+      given: Carmen
+  citation-key: trillo:2004agua
+  event-place: Granada
+  ISBN: 978-84-609-0718-3
+  issued:
+    - year: 2004
+  language: es
+  publisher: >-
+    Grupo de Investigación "Toponimia, Historia y Arqueología del Reino de
+    Granada"
+  publisher-place: Granada
+  source: Open WorldCat
+  title: 'Agua, tierra y hombres en Al-Andalus: la dimensión agrícola del mundo nazarí'
+  title-short: Agua, tierra y hombres en Al-Andalus
+  type: book
+
 - id: trindade:2002casa
   author:
     - family: Trindade
@@ -9616,6 +10058,49 @@ references:
     remanescentes das argamassas…
   type: thesis
   URL: https://repositorio.ufmg.br/handle/1843/MMMD-8PDK6D
+
+- id: veiga:2018argamassas18
+  abstract: >-
+    Resumo As argamassas de cal foram usadas na construção desde tempos
+    imemoriais até pelo menos ao início do século XX. Em muitas regiões do mundo
+    mantiveram um papel importante nos edifícios até à década de cinquenta do
+    século passado. Este material pode, como talvez nenhum outro, contar a
+    história da construção. Com o surgimento e rápida generalização do uso do
+    cimento, começou a perder-se o conhecimento tradicional das técnicas da cal,
+    que era transmitido diretamente através das gerações. Para recuperar esse
+    conhecimento têm vindo a ser realizados numerosos estudos científicos,
+    envolvendo a análise de argamassas antigas, o estudo de tratados antigos e a
+    investigação sobre novas argamassas de cal. Apesar destes esforços, e das
+    evidências de que as argamassas de cal são as mais adequadas para a
+    conservação de edifícios antigos, continua a ser pouco frequente a sua
+    utilização nas intervenções de conservação.O que falta saber para
+    possibilitar a sua utilização generalizada? Quais as necessidades de
+    investigação e de ação?
+  accessed:
+    - year: 2021
+      month: 7
+      day: 29
+  author:
+    - family: Veiga
+      given: Maria do Rosario
+  citation-key: veiga:2018argamassas18
+  container-title: Ambiente Construído
+  container-title-short: Ambient. constr.
+  DOI: 10.1590/s1678-86212018000400295
+  ISSN: 1678-8621, 1415-8876, 1678-8621
+  issued:
+    - literal: 2018-Oct-Dec
+  language: pt
+  page: 85-96
+  publisher: Associação Nacional de Tecnologia do Ambiente Construído - ANTAC
+  source: SciELO
+  title: >-
+    Argamassas de cal para conservação e reabilitação de edifícios: conhecimento
+    consolidado e necessidades de investigação
+  title-short: Argamassas de cal para conservação e reabilitação de edifícios
+  type: article-journal
+  URL: http://www.scielo.br/j/ac/a/wKffwhKP8ZvjVjctsQ9ZyCJ/?lang=pt
+  volume: '18'
 
 - id: verissimo:2002500
   author:
