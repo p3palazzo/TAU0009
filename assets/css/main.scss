@@ -59,4 +59,13 @@ $header-font-style: italic;
   "local",
   "revealjs-support"
 ;
+
+.nav__sub-title {
+    font-size: $type-size-5;
+    text-transform: none;
+}
+
+.page__footer-follow {
+    display: none;
+}
 // vim: set shiftwidth=2 tabstop=2 foldmethod=indent expandtab :

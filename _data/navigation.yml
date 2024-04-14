@@ -1,6 +1,4 @@
 # main links
 main:
-  - title: "Plano de ensino"
-    url  : "/plano/"
-  - title: "Bibliografia"
-    url  : "/bibliografia"
+  - title: 'Moodle <i class="ai ai-moodle ai-1.5x"></i>'
+    url  : "https://aprender3.unb.br/course/view.php?id=21959"

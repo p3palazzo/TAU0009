@@ -35,6 +35,7 @@ src/%.md : docs/%.md _data/biblio.yaml
 		--shift-heading-level-by=1 \
 		--filter=pandoc-crossref -C --bibliography=_data/biblio.yaml \
 		--csl=_data/chicago-note-bibliography.csl -o $@ $<
+	@echo "🔄 $@"
 
 _includes/%.html : _data/%.json _data/chicago-note-bibliography.csl
 	@$(PANDOC) -f csljson --citeproc -Mlang=pt_BR \

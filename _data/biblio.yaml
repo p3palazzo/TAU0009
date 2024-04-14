@@ -68,7 +68,7 @@ references:
   ISBN: 978-85-7164-681-0
   issued:
     - year: 1997
-  language: pt-BR
+  language: pt
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Library of Congress ISBN
@@ -583,7 +583,7 @@ references:
   issued:
     - year: 2016
       month: 4
-  language: pt-BR
+  language: pt
   page: 257-298
   source: SciELO
   title: >-
@@ -1123,7 +1123,7 @@ references:
   event-place: Brasília
   issued:
     - year: 1994
-  language: pt-BR
+  language: pt
   publisher: Solo
   publisher-place: Brasília
   source: Open WorldCat
@@ -2111,7 +2111,7 @@ references:
   event-place: Salvador
   issued:
     - year: 1995
-  language: pt-BR
+  language: pt
   number-of-pages: '130'
   publisher: Fundação Cultural do Estado da Bahia
   publisher-place: Salvador
@@ -4717,7 +4717,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1971
-  language: pt-BR
+  language: pt
   page: 61–83
   publisher: José Olympio
   publisher-place: Rio de Janeiro
@@ -6503,14 +6503,14 @@ references:
   ISBN: 978-85-7010-014-6
   issued:
     - year: 1986
-  language: pt-BR
-  publisher: Pool Editorial
+  language: pt
+  publisher: Pool
   publisher-place: Recife
   source: Open WorldCat
   title: Casas esguias do Porto e sobrados do Recife
   type: book
 
-- id: oliveira:2001casas89
+- id: oliveira:2001casas8-9
   accessed:
     - year: 2015
       month: 2
@@ -6519,14 +6519,14 @@ references:
     - family: Oliveira
       given: Maria Luiza Ferreira
       dropping-particle: de
-  citation-key: oliveira:2001casas89
+  citation-key: oliveira:2001casas8-9
   container-title: 'Anais do Museu Paulista: História e Cultura Material'
   DOI: 10.1590/S0101-47142001000100003
   ISSN: 0101-4714
   issue: '1'
   issued:
     - year: 2001
-  language: pt-BR
+  language: pt
   page: 55-76
   source: SciELO
   title: >-
@@ -6641,7 +6641,7 @@ references:
   ISBN: 978-85-7233-010-7
   issued:
     - year: 2020
-  language: pt-BR
+  language: pt
   publisher: 'Arquivo Nacional : Museu Nacional'
   publisher-place: Rio de Janeiro
   title: Os primeiros brasileiros
@@ -8155,7 +8155,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1972
-  language: pt-BR
+  language: pt
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
