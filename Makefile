@@ -41,6 +41,12 @@ src/_includes/partials/%.html : _data/%.json _data/chicago-note-bibliography.csl
 		-o $@ $<
 	@echo "🔄 $@"
 
+src/slides/%/index.html : docs/%.md revealjs.yaml
+	@-mkdir -p $(@D)
+	@$(PANDOC) -d _data/revealjs.yaml \
+		-o $@ $<
+	@echo "🔄 $(@D)"
+
 .PHONY : bibliografias
 bibliografias : src/_includes/partials/biblio-basica.html \
 	src/includes/partials/biblio-complementar.html \

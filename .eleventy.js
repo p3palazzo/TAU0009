@@ -19,21 +19,22 @@ module.exports = function(eleventyConfig) {
   *************************/
   // Copy assets/ to _site/assets
   eleventyConfig.addPassthroughCopy("assets");
-	eleventyConfig.addPassthroughCopy("src/.domains");
+  eleventyConfig.addPassthroughCopy("src/.domains");
   eleventyConfig.addPassthroughCopy(".gitattributes");
+  eleventyConfig.addPassthroughCopy({"node_modules/reveal.js": "slides/reveal.js"});
   // emulate passthrough during --serve:
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
  /*****************
-	* Markdown {{{2 *
-	*****************/
-	eleventyConfig.setLibrary(
-		'md',
-		require('markdown-it')({
-			html: true,
-			linkify: true,
-			typographer: true
-		}).use(require('markdown-it-pandoc'))
-	);
+  * Markdown {{{2 *
+  *****************/
+  eleventyConfig.setLibrary(
+    'md',
+    require('markdown-it')({
+      html: true,
+      linkify: true,
+      typographer: true
+    }).use(require('markdown-it-pandoc'))
+  );
  /*************************
   * Activate plugins {{{2 *
   *************************/
@@ -47,30 +48,30 @@ module.exports = function(eleventyConfig) {
   * Setup views {{{2 *
   ********************/
   eleventyConfig.addLayoutAlias("single", "layouts/single.liquid");
-	eleventyConfig.addTransform("htmlmin", function(content) {
-		// Prior to Eleventy 2.0: use this.outputPath instead
-		if( this.page.outputPath && this.page.outputPath.endsWith(".html") ) {
-			let minified = htmlmin.minify(content, {
-				useShortDoctype: true,
-				removeComments: true,
-				collapseWhitespace: true
-			});
-			return minified;
-		}
-		return content;
-	});
+    eleventyConfig.addTransform("htmlmin", function(content) {
+      // Prior to Eleventy 2.0: use this.outputPath instead
+      if( this.page.outputPath && this.page.outputPath.endsWith(".html") ) {
+        let minified = htmlmin.minify(content, {
+          useShortDoctype: true,
+          removeComments: true,
+          collapseWhitespace: true
+        });
+        return minified;
+      }
+      return content;
+    });
  /*******************************************************
   * Return is the last instruction to be evaluated {{{2 *
   *******************************************************/
   // If needed, return an object configuration
   return {
     dir: {
-			htmlTemplateEngine: "njk",
-			templateFormats: ["html", "liquid", "njk"],
+      htmlTemplateEngine: "njk",
+      templateFormats: ["html", "liquid", "njk"],
       input: 'src',
       output: '_site',
       includes: '_includes'
     }
   }
 };
-// vim: set shiftwidt=2 tabstop=2 expandtab foldmethod=indent
+// vim: set shiftwidth=2 tabstop=2 expandtab foldmethod=indent
