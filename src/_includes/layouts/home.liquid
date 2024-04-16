@@ -1,0 +1,34 @@
+---
+layout: "layouts/base.liquid"
+---
+<style>
+#home-hero {
+  background-image:
+    linear-gradient(rgba(255, 255, 255{% if header.overlay_filter %}, {{ header.overlay_filter }}{% endif %}),
+                    rgba(255, 255, 255{% if header.overlay_filter %}, {{ header.overlay_filter }}{% endif %})),
+                    url('{{ header.overlay_image }}');
+  @media(prefers-color-scheme: dark) {
+    background-image:
+      linear-gradient(rgba(0, 0, 0{% if header.overlay_filter %}, {{ header.overlay_filter }}{% endif %}),
+                      rgba(0, 0, 0{% if header.overlay_filter %}, {{ header.overlay_filter }}{% endif %})),
+                      url('{{ header.overlay_image }}');
+  }
+}
+</style>
+
+<div class="myb-5">
+  <div id="home-hero" class="p-5 bg-body-tertiary">
+    <div class="container py-5">
+      <h1 class="display-1">
+        {% if title %}{{ title}}{% else %}{{ site.title }}{% endif %}
+      </h1>
+      <p class="col-lg-8 mx-auto lead">
+        {% if excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  {{ content }}
+</div>

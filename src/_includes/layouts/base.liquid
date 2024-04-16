@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{% if lang %}{{ lang }}{% else %}{{ site.locale }}{% endif %}" xml:lang="{% if lang %}{{ lang }}{% else %}{{ site.locale }}{% endif %}"{% if page.dir %} dir="{{ dir }}"{% endif %}>
+<head>
+  {% include "partials/head.liquid" %}
+</head>
+<body>
+{% for include-before in include-before %}
+  {{ include-before }}
+{% endfor %}
+
+{% include "partials/nav.liquid" %}
+
+<main>
+    {{ content }}
+</main>
+
+{% for include-after in include-after %}
+  {{ include-after }}
+{% endfor %}
+<footer>
+  {% include "partials/footer.liquid" %}
+</footer>
+</body>
+</html>

@@ -30,22 +30,23 @@ serve : bibliografias
 	bundle exec jekyll serve --future
 
 src/%.md : docs/%.md _data/biblio.yaml
-	@$(PANDOC) -f markdown -t markdown_phpextra --standalone \
+	@$(PANDOC) -f markdown -t commonmark_x --standalone \
 		--reference-links --reference-location=block \
 		--shift-heading-level-by=1 \
 		--filter=pandoc-crossref -C --bibliography=_data/biblio.yaml \
 		--csl=_data/chicago-note-bibliography.csl -o $@ $<
 	@echo "🔄 $@"
 
-_includes/%.html : _data/%.json _data/chicago-note-bibliography.csl
+src/_includes/partials/%.html : _data/%.json _data/chicago-note-bibliography.csl
 	@$(PANDOC) -f csljson --citeproc -Mlang=pt_BR \
 		--csl=$(word 2,$^) \
 		-o $@ $<
 	@echo "🔄 $@"
 
 .PHONY : bibliografias
-bibliografias : _includes/biblio-basica.html \
-	_includes/biblio-complementar.html _includes/biblio-dicionarios.html
+bibliografias : src/_includes/partials/biblio-basica.html \
+	src/includes/partials/biblio-complementar.html \
+	src/includes/partials/biblio-dicionarios.html
 
 watch :
 	while sleep 1 ; do ls _data/*.json \

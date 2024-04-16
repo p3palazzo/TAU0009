@@ -1,0 +1,62 @@
+{% if meta-title %}
+  {% assign title = meta-title %}
+{% elsif site.name and site.name != title %}
+  {% assign title-prefix = site.name %}
+{% endif %}
+{% if not title %}
+  {% assign title = site.name %}
+{% endif %}
+{% if not description-meta %}
+  {% assign description-meta = description %}
+{% endif %}
+{% assign current-url = site.url | append: page.url %}
+
+<title>{% if title-prefix %}{{ title-prefix }} – {% endif %}{{ title }}</title>
+<link rel="canonical" href="{{ current-url }}" />
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+
+{% for author-meta in author-meta %}
+  <meta name="author" content="{{ author-meta }}" />
+{% endfor %}
+{% if date-meta %}
+  <meta name="dcterms.date" content="{{ date-meta }}" />
+{% endif %}
+{% if keywords %}
+  <meta name="keywords" content="{% for keyword in keywords %}{{ keyword }}{% if not loop.last %}, {% endif %}{% endfor %}" />
+{% endif %}
+
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:title" content="{{ title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ current-url }}" />
+
+{% if social-image %}
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta property="og:image" content="{{ social-image }}" />
+  <meta name="twitter:image" content="{{ social-image }}" />
+  <meta property="og:image:alt" content="Page image for {{ site.name }}" />
+  <meta name="twitter:image:alt" content="Page image for {{ site.name }}" />
+{% endif %}
+
+{% if description-meta %}
+  <meta name="description" content="{{ description-meta }}" />
+  <meta name="twitter:description" content="{{ description-meta }}" />
+  <meta property="og:description" content="{{ description-meta }}" />
+{% endif %}
+
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | url }}" />
+{% for css in css %}
+  <link rel="stylesheet" href="{{ css | url }}" />
+{% endfor %}
+
+{% for header-includes in header-includes %}
+  {{ header-includes }}
+{% endfor %}
+{% if math %}
+{% if mathjax %}
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+{% endif %}
+  {{ math }}
+{% endif %}
