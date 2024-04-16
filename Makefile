@@ -8,10 +8,8 @@ vpath %.yaml . _data
 vpath %.json _data
 
 PANDOC_V := 3.1.1
-JEKYLL_V := 4.2.2
 PANDOC := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/core:$(PANDOC_V)
-JEKYLL := palazzo/jekyll-pandoc:$(JEKYLL_V)-$(PANDOC_V)
 
 ASSETS  = $(wildcard assets/*)
 SASS    = _revealjs-settings.scss \
@@ -22,12 +20,12 @@ SASS    = _revealjs-settings.scss \
 .PHONY : _site
 _site : bibliografias src
 	@echo "####################"
-	@docker run --rm -v "`pwd`:/srv/jekyll" \
-		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+	@npm build
 
 .PHONY : serve
 serve : bibliografias
-	bundle exec jekyll serve --future
+	@echo "####################"
+	@npm start
 
 src/%.md : docs/%.md _data/biblio.yaml
 	@$(PANDOC) -f markdown -t commonmark_x --standalone \
