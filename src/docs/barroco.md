@@ -9,7 +9,7 @@ header:
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"
   overlay_filter: 0.7
   caption: "Litografia de Louis Aubrun baseado em fotografia de Victor Frond, Igreja da Piedade, Salvador, 1858"
-excerpt: >
+excerpt: |
   Arquitetura religiosa como epítome dos estilos luso-brasileiros --
   Ordens religiosas e sua dissolução.
 ---

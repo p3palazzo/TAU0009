@@ -615,7 +615,7 @@ references:
   title: Argamassas compatíveis para edifícios antigos
   type: paper-conference
 
-- id: assumpcao:1895diccionarioa
+- id: assumpcao:1895diccionario
   abstract: '52'
   accessed:
     - year: 2020
@@ -626,7 +626,7 @@ references:
       given: Tomaz Lino
       dropping-particle: d'
   call-number: AED-8897
-  citation-key: assumpcao:1895diccionarioa
+  citation-key: assumpcao:1895diccionario
   event-place: Lisboa
   issued:
     - year: 1895
@@ -1001,7 +1001,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1983
-  language: pt
+  language: por
   number-of-volumes: '2'
   publisher: Record
   publisher-place: Rio de Janeiro
@@ -1012,19 +1012,19 @@ references:
       given: Glória Lúcia
   type: book
 
-- id: bazin:1983arquiteturaa
+- id: bazin:1983arquitetura1
   author:
     - family: Bazin
       given: Germain
   call-number: NA5353 .B317 1983
-  citation-key: bazin:1983arquiteturaa
+  citation-key: bazin:1983arquitetura1
   contributor:
     - family: Barata
       given: Mário
   event-place: Rio de Janeiro
   issued:
     - year: 1983
-  language: pt
+  language: por
   publisher: Record
   publisher-place: Rio de Janeiro
   source: dedalus.usp.br Library Catalog
@@ -1034,6 +1034,29 @@ references:
       given: Glória Lúcia
   type: book
   volume: '1'
+
+- id: bazin:1983arquitetura2
+  author:
+    - family: Bazin
+      given: Germain
+  call-number: NA5353 .B317 1983
+  citation-key: bazin:1983arquitetura2
+  contributor:
+    - family: Barata
+      given: Mário
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1983
+  language: por
+  publisher: Record
+  publisher-place: Rio de Janeiro
+  source: dedalus.usp.br Library Catalog
+  title: A arquitetura religiosa barroca no Brasil
+  translator:
+    - family: Nunes
+      given: Glória Lúcia
+  type: book
+  volume: '2'
 
 - id: bazin:2010barroco
   author:
@@ -1542,6 +1565,30 @@ references:
   URL: http://ref.scielo.org/dh349c
   volume: '20'
 
+- id: bury:1955borrominesque37
+  accessed:
+    - year: 2019
+      month: 4
+      day: 25
+  archive: JSTOR
+  author:
+    - family: Bury
+      given: J. B.
+  citation-key: bury:1955borrominesque37
+  container-title: The Art Bulletin
+  DOI: 10.2307/3047591
+  ISSN: 0004-3079
+  issue: '1'
+  issued:
+    - year: 1955
+  language: eng
+  page: 27-53
+  source: JSTOR
+  title: The "Borrominesque" churches of colonial Brazil
+  type: article-journal
+  URL: https://www.jstor.org/stable/3047591
+  volume: '37'
+
 - id: bury:1991arquitetura
   author:
     - family: Bury
@@ -1557,6 +1604,24 @@ references:
   source: Open WorldCat
   title: Arquitetura e arte no Brasil colonial
   type: book
+
+- id: bury:1991estilo
+  author:
+    - family: Bury
+      given: John
+  citation-key: bury:1991estilo
+  container-title: Arquitetura e arte no Brasil colonial
+  event-place: São Paulo
+  ISBN: 85-213-0613-X 978-85-213-0613-9
+  issued:
+    - year: 1991
+  language: por
+  page: 104–123
+  publisher: Nobel
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: O “estilo Aleijadinho” e as igrejas setecentistas brasileiras
+  type: chapter
 
 - id: caja:2020tools
   abstract: >-
@@ -1720,7 +1785,7 @@ references:
   ISBN: 978-85-87220-37-0
   issued:
     - year: 2001
-  language: pt-BR
+  language: por
   publisher: 'Casa da Palavra : Departamento Nacional do Livro'
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1917,9 +1982,9 @@ references:
   publisher-place: Lisbao
   source: Open WorldCat
   title: >-
-    Castelos a Bombordo: etnografias de patrimónios africanos e memórias
+    Castelos a bombordo: etnografias de patrimónios africanos e memórias
     portuguesas
-  title-short: Castelos a Bombordo
+  title-short: Castelos a bombordo
   type: book
 
 - id: cardinal-pett:2016history
@@ -2169,7 +2234,7 @@ references:
   ISBN: 978-1-4175-6466-8
   issued:
     - year: 2003
-  language: es
+  language: spa
   publisher: Nobuko
   publisher-place: Buenos Aires
   source: Open WorldCat
@@ -2595,7 +2660,7 @@ references:
   issue: '16'
   issued:
     - year: 2010
-  language: pt-BR
+  language: por
   page: 127-195
   source: SciELO
   title: A arquitetura dos jesuítas no Brasil
@@ -2646,7 +2711,7 @@ references:
   issued:
     - year: 2014
       month: 6
-  language: es
+  language: spa
   page: '64'
   source: EBSCOhost
   title: El estilo neocolonial como modernismo latinoamericano
@@ -2916,6 +2981,24 @@ references:
   title: Recuperação de imóveis privados em centros históricos
   type: book
 
+- id: disney:2009history1
+  author:
+    - family: Disney
+      given: A. R.
+  call-number: DP517 .D57 2009
+  citation-key: disney:2009history1
+  event-place: New York
+  ISBN: 978-0-521-84318-8 978-0-521-60397-3
+  issued:
+    - year: 2009
+  language: eng
+  publisher: Cambridge University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: A history of Portugal and the Portuguese empire
+  type: book
+  volume: '1'
+
 - id: donato:2009cidade
   abstract: >-
     O estudo consiste de uma análise de documentos iconográficos referentes a
@@ -2997,7 +3080,7 @@ references:
     - year: 2009
       month: 3
       day: 3
-  language: pt-br
+  language: por
   publisher: Universidade de São Paulo, Escola de Engenharia
   publisher-place: São Carlos
   source: teses.usp.br
@@ -3073,6 +3156,7 @@ references:
       day: 1
   language: en
   page: 339-350
+  publisher: Taylor & Francis
   source: ScienceDirect
   title: >-
     Heritage conservation and architectural education: “An educational
@@ -3589,7 +3673,7 @@ references:
   genre: Tese de doutorado
   issued:
     - year: 2014
-  language: pt-BR
+  language: por
   publisher: >-
     Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade de
     Brasília
@@ -3795,7 +3879,7 @@ references:
     - year: 2016
       month: 4
       day: 18
-  language: pt-BR
+  language: por
   license: Acesso Aberto
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasília
@@ -3857,6 +3941,35 @@ references:
   title: Structures & construction in historic building conservation
   type: book
 
+- id: fortes:1728engenheiro
+  author:
+    - family: Fortes
+      given: Manuel de Azevedo
+  call-number: '6'
+  citation-key: fortes:1728engenheiro
+  contributor:
+    - family: Costa
+      given: Manuel Fernandes
+      dropping-particle: da
+    - family: Rochefort
+      given: Pedro
+      dropping-particle: de
+    - family: Quillard
+      given: Pierre Antoine
+  event-place: Lisboa Occidental
+  issued:
+    - year: 1728
+    - year: 1729
+  language: por
+  number-of-volumes: '2'
+  publisher: Manoel Fernandes da Costa, Impressor do Santo Officio
+  publisher-place: Lisboa Occidental
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: 'O engenheiro portuguez: dividido em dous tratados'
+  title-short: O engenheiro portuguez
+  type: book
+  URL: https://purl.pt/14547
+
 - id: fraile:2007infografia
   abstract: >-
     Autoría: Francisco José López Fraile.
@@ -3881,7 +3994,7 @@ references:
   ISBN: 978-84-611-4123-4
   issued:
     - year: 2007
-  language: es
+  language: spa
   page: 429-444
   section: >-
     Primer Simposio de la Investigación y Difusión Arqueopaleontológica en el
@@ -3945,14 +4058,13 @@ references:
       given: Vítor Manuel
   collection-number: '5'
   collection-title: História da arte em Portugal
-  edition: '1'
   event-place: Lisboa
   ISBN: >-
     978-972-23-2827-2 978-972-23-2841-8 978-972-23-2924-8 978-972-23-3017-6
     978-972-23-3154-8 978-972-23-3244-6
   issued:
     - year: 2004
-  language: pt
+  language: por
   publisher: Presença
   publisher-place: Lisboa
   source: Open WorldCat
@@ -4087,7 +4199,7 @@ references:
   ISBN: 978-84-943132-3-3
   issued:
     - year: 2014
-  language: es
+  language: spa
   publisher: Mairea
   publisher-place: Madrid
   source: Open WorldCat
@@ -4131,7 +4243,7 @@ references:
   ISBN: 978-84-949500-1-8
   issued:
     - year: 2018
-  language: es
+  language: spa
   publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
   title: >-
@@ -4166,7 +4278,7 @@ references:
   ISBN: 978-84-09-14635-2
   issued:
     - year: 2019
-  language: es
+  language: spa
   publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
   source: Open WorldCat
@@ -4879,7 +4991,7 @@ references:
   ISBN: 978-84-7423-775-7
   issued:
     - year: 1996
-  language: es
+  language: spa
   publisher: Mondadori
   publisher-place: Barcelona
   source: Open WorldCat
@@ -4903,6 +5015,50 @@ references:
   publisher-place: Brasília
   title: Manual de conservação preventiva para edificações
   type: book
+
+- id: komisar:2005looking
+  abstract: >-
+    Architecture is all too often seen as the result of the creative process of
+    one architect. While this is convenient, it does not provide a complete
+    picture. Not only does the model of a sole, master architect tell only a
+    partial story, but also this conceit can hinder the understanding of design
+    processes, intention, and meaning. Discussed here are the results of a
+    methodology used to tease out sources of the various elements that were
+    combined into a fusion of ideas and techniques in the case of church
+    architecture in Minas Gerais, Brazil, during the end of the colonial period.
+    This investigation revealed collaborations and collegial exchanges of
+    information and ideas in this society comprised of people born in Portugal,
+    Africa, and Brazil. This seeks to contribute to a more robust understanding
+    of how particular architectural innovations were developed. In addition,
+    this paper seeks to develop ways to challenge the notion that architecture
+    is the result of one master designer.
+  accessed:
+    - year: 2018
+      month: 11
+      day: 16
+  author:
+    - family: Komisar
+      given: June D.
+  citation-key: komisar:2005looking
+  container-title: >-
+    Collections électroniques de l’INHA. Actes de colloques et livres en ligne
+    de l’Institut national d'histoire de l'art
+  event-place: Paris
+  issued:
+    - year: 2005
+      month: 9
+      day: 4
+  language: eng
+  license: Tous droits réservés
+  publisher: Institut national d’histoire de l’art
+  publisher-place: Paris
+  source: journals.openedition.org
+  title: >-
+    Looking at collaboration as a key to creative expression: the case of
+    colonial architecture
+  title-short: Looking at collaboration as a key to creative expression
+  type: chapter
+  URL: http://journals.openedition.org/inha/513
 
 - id: krier:2009architecture
   author:
@@ -4981,7 +5137,7 @@ references:
     - year: 2006
       month: 4
       day: 1
-  language: pt-BR
+  language: por
   page: '16'
   source: DOI.org (Crossref)
   title: História e ética na conservação e na restauração de monumentos históricos
@@ -5377,7 +5533,7 @@ references:
     - year: 2020
       month: 5
       day: 15
-  language: pt-BR
+  language: por
   license: Direitos autorais 2020 Oculum Ensaios
   number: '0'
   page: 1-22
@@ -6159,6 +6315,33 @@ references:
   title-short: The Islamic design module in Latin America
   type: book
 
+- id: monteiro:2000consolidacao
+  author:
+    - family: Monteiro
+      given: Nuno Gonçalves
+  citation-key: monteiro:2000consolidacao
+  container-title: História de Portugal
+  contributor:
+    - family: Mattoso
+      given: José
+  editor:
+    - family: Tengarrinha
+      given: José
+  event-place: 'Bauru : São Paulo : Lisboa'
+  ISBN: 978-85-7460-010-9
+  issued:
+    - year: 2000
+  language: por
+  page: 127–148
+  publisher: Editora da Universidade do Sagrado Coração ; Unesp ; Instituto Camões
+  publisher-place: 'Bauru : São Paulo : Lisboa'
+  source: Open WorldCat
+  title: >-
+    A consolidação da dinastia de Bragança e o apogeu do Portugal barroco:
+    centros de poder e trajetórias sociais (1668–1750)
+  title-short: A consolidação da dinastia de Bragança
+  type: chapter
+
 - id: monteiro:2009idade
   author:
     - family: Monteiro
@@ -6176,7 +6359,7 @@ references:
   event-place: 'Lisboa : Paço de Arcos'
   issued:
     - year: 2009
-  language: pt
+  language: por
   page: 394–850
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
@@ -6306,7 +6489,7 @@ references:
   ISBN: 978-84-8427-119-2
   issued:
     - year: 2001
-  language: es
+  language: spa
   publisher: Ediciones de la Universidad de Castilla-La Mancha
   publisher-place: Cuenca
   source: ruidera.uclm.es
@@ -6460,7 +6643,7 @@ references:
   issued:
     - year: 2004
       month: 10
-  language: pt-BR
+  language: por
   title: >-
     Equívoco histórico em fachadas:  O que não fazer na manutenção das
     construções
@@ -7520,6 +7703,41 @@ references:
   title-short: Gosto neoclássico
   type: book
 
+- id: pimentel:1680methodo
+  author:
+    - family: Pimentel
+      given: Luís Serrão
+  call-number: 623.1(=1.469)"16"
+  citation-key: pimentel:1680methodo
+  contributor:
+    - family: Manuel
+      given: Francisco de Melo
+    - family: Craesbeeck
+      given: António
+    - family: Baptista
+      given: João
+    - family: Bietry
+      given: René
+    - family: Mendes
+      given: Manuel
+    - literal: Ordem de Cister.
+    - literal: Congregação de São Camilo de Lélis
+  event-place: Lisboa
+  issued:
+    - year: 1680
+  language: por
+  publisher: Antonio Craesbeeck de Mello
+  publisher-place: Lisboa
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: >-
+    Methodo lusitanico de desenhar as fortificaçoens das praças regulares, &
+    irregulares, fortes de campanha, e outras obras pertencentes a architectura
+    militar distribuido em duas partes operativa, e qualificativa. Ao muito
+    alto, e poderoso Principe Dom Pedro Nosso Senhor
+  title-short: Methodo lusitanico
+  type: book
+  URL: http://purl.pt/24485
+
 - id: pinheiro:2012neocolonial
   author:
     - family: Pinheiro
@@ -7721,6 +7939,7 @@ references:
       day: 28
   citation-key: 'publicacoes:'
   container-title: Centro de Estudos Avançados da Conservação Integrada
+  language: por
   title: Publicações
   type: webpage
   URL: http://www.ceci-br.org/ceci/br/publicacoes.html
@@ -8238,6 +8457,36 @@ references:
   URL: >-
     https://ihgb.org.br/pesquisa/biblioteca/item/24182-annaes-do-5-congresso-brazileiro-de-geographia-realizado-na-cidade-do-salvador,-estado-da-bahia,-de-7-a-16-de-setembro-de-1916-publicados-sob-a-direc%C3%A7%C3%A3o-do-secretario-geral-do-mesmo-congresso-professor-dr-bernardino-jos%C3%A9-de-souza.html
   volume: '1'
+
+- id: sampaio:2021notion
+  abstract: "L’article tente d’appliquer la notion de transfert culturel à deux études de cas en lien avec la région du Minho (Portugal), celui du retable de la chapelle des reliques de l’ancienne église bénédictine de Rio de\_Janeiro et celui du retable principal de l’église bénédictine d’Olinda. La critique n’a que ponctuellement associé ces retables respectivement à André Soares (1720-1769) et au frère José Vilaça (1731-1809), les deux noms les plus connus de l’art minhote, et hésite sur leurs répercussions brésiliennes. Mais le commanditaire du premier de ces retables en avait déjà financé un autre pour la chapelle privée qu’il possédait dans le Minho, et le second appartient au réseau bénédictin, au sein duquel le moine artiste a pu développer son art. Il s’agit donc de comprendre, à la lumière de ces exemples, à la fois en quoi la méthode des transferts culturels est applicable et ce qu’elle peut apporter à la lecture de ces œuvres, tout en interrogeant sa dépendance par rapport à des méthodes plus traditionnelles de l’histoire de l’art."
+  accessed:
+    - year: 2022
+      month: 2
+      day: 17
+  author:
+    - family: Sampaio Lopes
+      given: Raúl C.
+  citation-key: sampaio:2021notion
+  container-title: Perspective. Actualité en histoire de l’art
+  DOI: 10.4000/perspective.23485
+  ISBN: '9782917902912'
+  ISSN: 1777-7852
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 10
+      day: 14
+  language: fre
+  number: '1'
+  page: 169-178
+  publisher: Institut national d’histoire de l’art
+  source: journals.openedition.org
+  title: >-
+    La notion de transfert culturel à l’épreuve du rococo minhote au Brésil, ou
+    vice-versa
+  type: article-journal
+  URL: https://journals.openedition.org/perspective/23485
 
 - id: santiago:2007argamassas
   accessed:
