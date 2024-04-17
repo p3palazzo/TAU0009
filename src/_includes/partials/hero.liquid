@@ -13,21 +13,26 @@
 }
 </style>
 
-<div class="mb-5">
+<div class="position-relative mb-5">
   <div id="hero" class="p-5 bg-body-tertiary">
     <div class="container py-5">
       <h1 class="display-1">
         {% if title %}{{ title}}{% else %}{{ site.title }}{% endif %}
         {% if subtitle -%}
-        <span class="hero__subtitle">
+        <span class="subtitle hero__subtitle d-block">
           {{ subtitle }}
         </span>
         {%- endif %}
       </h1>
-      <div class="col-lg-8 mx-auto lead">
+      <div class="col-lg-8 mx-auto lead fs-3">
         {% if excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}
       </div>
     </div>
   </div>
+  {% if header.caption -%}
+  <span class="hero__caption position-absolute bottom-0 end-0 px-3 text-bg-dark opacity-50 text-end">
+    {{ header.caption }}
+  </span>
+  {%- endif %}
 </div>
 

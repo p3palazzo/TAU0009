@@ -11,6 +11,22 @@
 
 {% if header -%}
   {% include "partials/hero.liquid" %}
+{%- else -%}
+<div class="container py-5">
+  <h1 class="display-1">
+    {% if title %}{{ title}}{% else %}{{ site.title }}{% endif %}
+    {% if subtitle -%}
+    <span class="subtitle d-block h-2 fst-italic">
+      {{ subtitle }}
+    </span>
+    {%- endif %}
+  </h1>
+  {% if excerpt %}
+  <div class="col-lg-8 mx-auto lead fs-3">
+    {{ excerpt }}
+  </div>
+  {%- endif %}
+</div>
 {%- endif %}
 
 <main>

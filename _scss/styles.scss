@@ -135,25 +135,43 @@ body {
 
 h2,
 h3 {
-  font-style: italic;
+  @extend .fst-italic;
 }
 
 dt {
-  display: inline-block;
+  @extend .pe-2;
+  @extend .d-inline-block;
+  font-weight: $legend-font-weight;
   float: left;
   clear: left;
   font-variant: all-small-caps;
 }
 
-#site-nav ul,
-dt {
-  @extend .pe-2;
-  font-weight: $legend-font-weight;
+header {
+  @extend .fs-4;
+  .site-title {
+    font-variant: all-small-caps;
+    .site-subtitle {
+      @extend .fst-italic;
+      font-variant: normal;
+      font-variant-numeric: oldstyle-nums;
+    }
+  }
+}
+
+main {
+  @extend .fs-4;
 }
 
 #hero {
   background-size: cover;
   background-position: center;
+  input {
+    background-color: rgba($body-bg, 80%);
+    @media (prefers-color-scheme: dark) {
+      background-color: rgba($body-bg-dark, 70%);
+    }
+  }
   h1,
   .lead {
     text-shadow: 1px 1px 2px rgba($body-bg, 70%);
@@ -161,26 +179,11 @@ dt {
       text-shadow: 1px 1px 2px rgba($body-bg-dark, 70%);
     }
   }
-  .hero__subtitle {
-    display: block;
-    font-style: italic;
-    font-size: smaller;
-  }
-  input {
-    background-color: rgba($body-bg, 80%);
-    @media (prefers-color-scheme: dark) {
-      background-color: rgba($body-bg-dark, 70%);
-    }
-  }
 }
 
-.site-title {
-  font-variant: all-small-caps;
-  .site-subtitle {
-    display: inline-block;
-    font-style: italic;
-    font-variant: normal;
-  }
+.subtitle {
+  @extend .display-3;
+  @extend .fst-italic;
 }
 
 .card-img-top {
@@ -188,4 +191,4 @@ dt {
   width: 100%;
   object-fit: cover;
 }
-// vim: shiftwidth=2 tabstop=2 expandtab
+// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=indent
