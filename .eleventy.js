@@ -47,7 +47,9 @@ module.exports = function(eleventyConfig) {
  /********************
   * Setup views {{{2 *
   ********************/
-  eleventyConfig.addLayoutAlias("single", "layouts/single.liquid");
+  eleventyConfig.addLayoutAlias("base",    "layouts/base.liquid");
+  eleventyConfig.addLayoutAlias("single",  "layouts/single.liquid");
+  eleventyConfig.addLayoutAlias("archive", "layouts/archive.liquid");
     eleventyConfig.addTransform("htmlmin", function(content) {
       // Prior to Eleventy 2.0: use this.outputPath instead
       if( this.page.outputPath && this.page.outputPath.endsWith(".html") ) {
@@ -74,4 +76,4 @@ module.exports = function(eleventyConfig) {
     }
   }
 };
-// vim: set shiftwidth=2 tabstop=2 expandtab foldmethod=indent
+// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=indent
