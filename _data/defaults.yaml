@@ -6,6 +6,7 @@ metadata:
   csl: _data/chicago-note-bibliography.csl
   lang: pt-BR
   crossrefYaml: _data/pandoc-crossref.yaml
+  reference-section-title: "Referências"
 filters:
   - pandoc-crossref
   - citeproc
