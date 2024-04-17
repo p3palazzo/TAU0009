@@ -7,6 +7,7 @@ const { DateTime } = require('luxon');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
 const htmlmin = require('html-minifier');
 const yaml = require('js-yaml');
+const nodePandoc = require('node-pandoc');
 /********************************
  * eleventyConfig function {{{1 *
  ********************************/
@@ -27,14 +28,22 @@ module.exports = function(eleventyConfig) {
  /*****************
   * Markdown {{{2 *
   *****************/
-  eleventyConfig.setLibrary(
-    'md',
-    require('markdown-it')({
-      html: true,
-      linkify: true,
-      typographer: true
-    }).use(require('markdown-it-pandoc'))
-  );
+  async function convertMarkdownToHtml(markdown) {
+    return new Promise((resolve, reject) => {
+        nodePandoc(markdown, '-d _data/defaults.yaml', (err, result) => {
+            if (err) {
+                reject(err);
+            } else {
+                resolve(result);
+            }
+        });
+    });
+  }
+  eleventyConfig.setLibrary("md", {
+    render: async function(content) {
+      return await convertMarkdownToHtml(content);
+    }
+  });
  /*************************
   * Activate plugins {{{2 *
   *************************/
@@ -48,6 +57,7 @@ module.exports = function(eleventyConfig) {
   * Setup views {{{2 *
   ********************/
   eleventyConfig.addLayoutAlias("base",    "layouts/base.liquid");
+  eleventyConfig.addLayoutAlias("home",    "layouts/home.liquid");
   eleventyConfig.addLayoutAlias("single",  "layouts/single.liquid");
   eleventyConfig.addLayoutAlias("archive", "layouts/archive.liquid");
     eleventyConfig.addTransform("htmlmin", function(content) {

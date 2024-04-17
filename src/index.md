@@ -1,7 +1,7 @@
 ---
 title         : 'Arquitetura e urbanismo'
 subtitle      : '<strike>no Brasil colônia e Império</strike> na tradição luso-brasileira'
-layout        : "layouts/home.liquid"
+layout        : home
 entries_layout: grid
 classes       : wide
 toc           : false
