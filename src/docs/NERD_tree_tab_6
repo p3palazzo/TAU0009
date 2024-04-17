@@ -1,0 +1,36 @@
+" Press ? for help
+
+.. (up a dir)
+</p3palazzo/TAU0009/
+▸ .git/
+▸ .github/
+▸ _data/
+▸ _fundamentos/
+▸ _includes/
+▸ _pages/
+▸ _sass/
+▸ _scss/
+▸ _share/
+▸ _site/
+▸ _trabalho/
+▸ assets/
+▸ node_modules/
+▾ src/
+  ▸ _data/
+  ▸ _includes/
+  ▸ docs/
+  ▸ filters/
+    index.md
+    .DS_Store
+  .eleventy.js
+  .stylelintrc.json
+  package-lock.json
+  package.json
+  README.md
+  .DS_Store
+  .gitattributes
+  .gitignore
+  .gitmodules
+  Gemfile
+  LICENSE
+  Makefile
