@@ -1,6 +1,7 @@
 from: markdown
 to: html
 data-dir: _data
+fail-if-warnings: false
 metadata:
   bibliography: _data/biblio.yaml
   csl: _data/chicago-note-bibliography.csl

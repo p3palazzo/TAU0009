@@ -1,18 +1,20 @@
 ---
 title: "Renascença, barroco e rococó"
 date: 2023-11-23
+layout: single
 category: Linguagens
+tags: estilo
 header:
   teaser: /assets/media/320px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"
+  overlay_filter: 0.7
   caption: "Litografia de Louis Aubrun baseado em fotografia de Victor Frond, Igreja da Piedade, Salvador, 1858"
 excerpt: >
-  Arquitetura religiosa como epítome dos estilos luso-brasileiros.
+  Arquitetura religiosa como epítome dos estilos luso-brasileiros --
   Ordens religiosas e sua dissolução.
 ---
 
-Arte sacra do "alinhamento a Roma"
-==================================
+# Arte sacra do "alinhamento a Roma" #
 
 No período que vai da consolidação de uma administração
 centralizada sob D. Pedro II (1683--1706)
@@ -190,8 +192,7 @@ O próprio Nasoni se conforma a essa tradição na reforma da
 igreja do Bom Jesus, em Matosinhos.
 
 
-Inovações e continuidades após o terremoto de Lisboa
-====================================================
+# Inovações e continuidades após o terremoto de Lisboa #
 
 A arquitetura religiosa no período pombalino articula essa
 diversidade de tendências e outras tantas novas influências
@@ -302,7 +303,4 @@ e Manuel da Costa Ataíde (1762--1830).
 [@komisar:2005looking, p. 3--4]
 
 <!--Desenvolver Aleijadinho-->
-
-Referências
-===========
 

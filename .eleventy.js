@@ -30,13 +30,14 @@ module.exports = function(eleventyConfig) {
   *****************/
   async function convertMarkdownToHtml(markdown) {
     return new Promise((resolve, reject) => {
-        nodePandoc(markdown, '-d _data/defaults.yaml', (err, result) => {
-            if (err) {
-                reject(err);
-            } else {
-                resolve(result);
-            }
-        });
+      nodePandoc(markdown, '-d _data/defaults.yaml', (err, result) => {
+        if (err) {
+          // If an error occurred, reject the promise with the error
+          reject(new Error(`Pandoc error: ${err.message}`));
+        } else {
+          resolve(result);
+        }
+      });
     });
   }
   eleventyConfig.setLibrary("md", {

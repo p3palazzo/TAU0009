@@ -1,6 +1,7 @@
 ---
 title: "Casa e loja"
 date: 2023-10-26
+layout: single
 header:
   teaser: /assets/media/320px-abigail-mundo-novo.jpg
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/24/Abigail_de_Andrade\,_1888\,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg

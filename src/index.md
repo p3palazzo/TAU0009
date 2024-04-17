@@ -4,7 +4,7 @@ subtitle      : '<strike>no Brasil colônia e Império</strike> na tradição lu
 layout        : home
 entries_layout: grid
 classes       : wide
-toc           : false
+toc           : true
 read_time     : false
 author_profile: true
 header:
@@ -30,3 +30,21 @@ excerpt: |
   </dl>
 ---
 
+# Unidade I › Lugar #
+
+Texto texto texto.[^1]
+
+# Unidade II › Elementos da arquitetura #
+
+Ver @fig:forja
+
+![Isto é uma figura](/assets/media/georgina-forja.jpg){#fig:forja}
+
+# Unidade III › Elementos de composição #
+
+Como afirma @palazzo:2021vernacular...
+
+# Unidade IV › Estilo #
+
+
+[^1]: Nota.
