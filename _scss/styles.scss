@@ -94,14 +94,14 @@ $legend-font-weight: 500;
 @import "bootstrap/scss/forms";
 @import "bootstrap/scss/buttons";
 @import "bootstrap/scss/transitions";
-//@import "bootstrap/scss/dropdown";
+// @import "bootstrap/scss/dropdown";
 @import "bootstrap/scss/button-group";
 @import "bootstrap/scss/nav";
 @import "bootstrap/scss/navbar"; // Requires nav
 @import "bootstrap/scss/card";
 // @import "bootstrap/scss/breadcrumb";
 // @import "bootstrap/scss/accordion";
-// @import "bootstrap/scss/pagination";
+@import "bootstrap/scss/pagination";
 // @import "bootstrap/scss/badge";
 // @import "bootstrap/scss/alert";
 // @import "bootstrap/scss/progress";
@@ -191,9 +191,23 @@ main {
   @extend .fst-italic;
 }
 
+.card h3,
+.btn {
+  font-family: $sans-serif-narrow;
+  @extend .fst-normal;
+}
+
+.card-header {
+  @extend .fw-medium;
+}
+
 .card-img-top {
   aspect-ratio: 3 / 2;
   width: 100%;
   object-fit: cover;
+}
+
+.card-text {
+  @extend .fs-5;
 }
 // vim: shiftwidth=2 tabstop=2 expandtab foldmethod=indent

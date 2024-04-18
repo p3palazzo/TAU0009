@@ -23,6 +23,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/.domains");
   eleventyConfig.addPassthroughCopy(".gitattributes");
   eleventyConfig.addPassthroughCopy({"node_modules/reveal.js": "slides/reveal.js"});
+  eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/icons": "assets/icons"});
+  eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/bootstrap-icons.svg": "assets/bootstrap-icons.svg"});
   // emulate passthrough during --serve:
   eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
  /*****************
@@ -74,8 +76,9 @@ module.exports = function(eleventyConfig) {
   *******************************************************/
   // If needed, return an object configuration
   return {
+    htmlTemplateEngine: "njk",
+    //markdownTemplateEngine: "njk",
     dir: {
-      htmlTemplateEngine: "njk",
       templateFormats: ["html", "liquid", "njk"],
       input: 'src',
       output: '_site',

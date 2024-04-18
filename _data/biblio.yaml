@@ -886,8 +886,9 @@ references:
   publisher-place: Porto
   source: Open WorldCat
   title: >-
-    Construtores e artesãos muçulmanos; do serviço colectivo do rei ao
+    Construtores e artesãos muçulmanos: do serviço colectivo do rei ao
     desempenho individual
+  title-short: Construtores e artesãos muçulmanos
   type: chapter
   URL: https://dspace.uevora.pt/rdpc/handle/10174/3811
 
@@ -4915,7 +4916,7 @@ references:
     - year: 2022
       month: 4
       day: 19
-  language: es
+  language: spa
   publisher: Kalam
   source: Vimeo
   title: 'Jornada rehabilitación estructuras de madera: Enrique Nuere'
@@ -4953,7 +4954,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2019
-  language: pt-BR
+  language: por
   publisher: Escola da Cidade
   publisher-place: São Paulo
   title: Manual da arquitetura kamayurá

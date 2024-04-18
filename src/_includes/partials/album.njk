@@ -1,0 +1,36 @@
+{%- block clearWhitespace -%}
+<div class="container-fluid p-0">
+  <div class="row g-3 my-3">
+  {% for a in album %}
+    <div class="col col-sm-6 col-lg-4 col-xl-3">
+      <div class="card shadow-sm">
+        <img class="card-img-top" alt="Imagem do(a) {{ a.data.title }}" src="{{ a.data.teaser | url }}" />
+        <div class="card-header d-flex align-items-center">
+          <div class="text-body-secondary text-start fs-5">
+            {{ a.data.date | dateFilter }}
+          </div>
+          <div class="d-flex ms-auto text-body-secondary text-end fs-5">
+            <a class="ps-3 link-secondary" href="{{ a.url }}" alt="Notas de aula" title="Notas de aula" aria-label="Notas de aula">
+              <svg class="bi" width="24" height="24" fill="currentColor">
+                <use xlink:href="/assets/bootstrap-icons.svg#book"/>
+              </svg>
+            </a>
+            <a class="ps-3 link-secondary" href="#" alt="Slides" title="Slides" aria-label="Slides">
+              <svg class="bi" width="24" height="24" fill="currentColor">
+                <use xlink:href="/assets/bootstrap-icons.svg#easel"/>
+              </svg>
+            </a>
+          </div>
+        </div><!--/.card-header-->
+        <div class="card-body">
+          <h3 class="card-title">
+            <a href="{{ a.url }}" class="text-decoration-none link-body-emphasis">{{ a.data.title }}</a>
+          </h3>
+          <p class="card-text">{{ a.data.excerpt }}</p>
+        </div><!--/.card-body-->
+      </div><!--/.card-->
+    </div><!--/.col-->
+  {% endfor %}
+  </div><!--/.row-->
+</div><!--/.container-fluid-->
+{%- endblock -%}

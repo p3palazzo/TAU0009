@@ -1,6 +1,12 @@
 ---
 title: "Madeira"
 author: "Pedro P. Palazzo"
+date: 2024-04-18
+tags: [ "materia", "aula" ]
+excerpt: >
+  Estruturas arquitravadas – frontais, assoalhos e gaiolas –
+  carpintaria em negro e em branco – aberturas
+teaser: "/assets/media/320x213px-debret-scieurs-nypl.jpg"
 ---
 
 # Construção arquitravada #
@@ -40,6 +46,8 @@ author: "Pedro P. Palazzo"
 ## Talha ##
 
 # Casas #
+
+## Casas do alto Xingu ##
 
 ## Casas de pescador ##
 

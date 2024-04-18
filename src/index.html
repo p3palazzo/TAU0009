@@ -10,7 +10,7 @@ author_profile: true
 header:
   overlay_image: "https://iiif-prod.nypl.org/index.php?id=54539&t=v"
   overlay_filter: 0.7
-  caption: "Johann Moritz Rugendas, [Rua Direita no Rio de Janeiro](https://digitalcollections.nypl.org/items/510d47d9-7b85-a3d9-e040-e00a18064a99), 1835"
+  caption: 'Johann Moritz Rugendas, <a href="https://digitalcollections.nypl.org/items/510d47d9-7b85-a3d9-e040-e00a18064a99">Rua Direita no Rio de Janeiro</a>, 1835'
 excerpt: |
   <dl>
     <dt>Ementa</dt>
@@ -30,21 +30,23 @@ excerpt: |
   </dl>
 ---
 
-# Unidade I › Lugar #
+<h2>Unidade I › Lugar</h2>
 
-Texto texto texto.[^1]
+{%- set album = collections.lugar -%}
+{%- include "partials/album.njk" -%}
 
-# Unidade II › Elementos da arquitetura #
+<h2>Unidade II › Elementos da arquitetura</h2>
 
-Ver @fig:forja
+{%- set album = collections.materia -%}
+{%- include "partials/album.njk" -%}
 
-![Isto é uma figura](/assets/media/georgina-forja.jpg){#fig:forja}
+<h2>Unidade III › Elementos de composição</h2>
 
-# Unidade III › Elementos de composição #
+{%- set album = collections.tipo -%}
+{%- include "partials/album.njk" -%}
 
-Como afirma @palazzo:2021vernacular...
+<h2>Unidade IV › Estilo</h2>
 
-# Unidade IV › Estilo #
+{%- set album = collections.estilo -%}
+{%- include "partials/album.njk" -%}
 
-
-[^1]: Nota.

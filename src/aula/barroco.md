@@ -3,7 +3,7 @@ title: "Renascença, barroco e rococó"
 date: 2023-11-23
 layout: single
 category: Linguagens
-tags: estilo
+tags: [ "aula", "estilo" ]
 header:
   teaser: /assets/media/320px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"

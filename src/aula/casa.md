@@ -2,13 +2,15 @@
 title: "Casa e loja"
 date: 2023-10-26
 layout: single
+tags: [ "aula", "tipo" ]
 header:
-  teaser: /assets/media/320px-abigail-mundo-novo.jpg
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/2/24/Abigail_de_Andrade\,_1888\,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg
+  teaser: "/assets/media/320px-abigail-mundo-novo.jpg"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Abigail_de_Andrade,_1888,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg"
+  overlay_filter: 0.7
   caption: "Abigail de Andrade, [Estrada do Mundo Novo com o Pão de Açúcar ao fundo](https://commons.wikimedia.org/wiki/File:Abigail_de_Andrade,_1888,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg), 1888"
-excerpt: >
-  Substrato mediterrâneo e europeu. Tipos e módulos das casas
-  rurais e urbanas. Sua evolução convergente.
+excerpt: |
+  Substrato mediterrâneo e europeu – Tipos e módulos das casas
+  rurais e urbanas – Sua evolução convergente.
 ---
 
 # Arqueologia do espaço doméstico rural e urbano #
@@ -389,6 +391,4 @@ presença de um "estar íntimo" indicado nas plantas de
 habitações da classe média alta, releitura espacialmente
 peculiar das *family rooms* norte-americanas.
 
-
-# Referências #
 
