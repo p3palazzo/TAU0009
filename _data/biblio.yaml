@@ -9155,6 +9155,64 @@ references:
     http://www.scielo.br/j/urbe/a/rXv8xkHDmvqCDxrQnFTz4Pn/abstract/?lang=pt&format=html
   volume: '5'
 
+- id: simonard:2019territorio
+  abstract: >-
+    Basé sur des témoignages de constructeurs et de conducteurs de charrettes à
+    bœufs, cet article traite de l’éthos de la charrette à bœufs dans le sertão
+    d’Alagoas et des relations sociales qui s’établissent autour de celle-ci.
+    Nous discutons du processus de resignification qui cherche à résister aux
+    conditions menant à sa disparition. Dans une première partie de cet article,
+    le métier de constructeur est abordé en fonction des ateliers, des éléments
+    constitutifs de la charrette et de la difficulté à acquérir les matières
+    premières nécessaires à cette activité. Ensuite, est abordé le métier de
+    conducteur de charrette à bœufs, les techniques de contrôle des animaux, les
+    utilisations de la charrette à bœufs comme moyen de locomotion, de transport
+    de fret et son utilisation dans des fêtes, des messes et des défilés qui se
+    produisent dans les villes de l’état d’Alagoas. Nous abordons, aussi, le
+    rapport entre tradition et culture populaire. Les données et photographies
+    utilisées dans cet article ont été recueillies lors de travaux de terrain
+    menés entre 2015, 2016 et 2017 dans l'agreste et le sertão d'Alagoas, qui
+    permirent de recueillir des renseignements pour la réalisation du projet de
+    Sauvegarde du patrimoine immatériel à Alagoas. Ce projet utilise la
+    méthodologie Inventaire national des références culturelles (INRC), utilisée
+    par l’Institut du patrimoine historique et artistique national (IPHAN). Des
+    entretiens ont été menés pour remplir les formulaires de l'INRC. Des
+    photographies ont été prises lors de cette recherche, dont une partie non
+    significative fut utilisée dans cet article. Une partie du matériel collecté
+    a abouti à l'élaboration de la cartographie culturelle de l’Alagoas.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 18
+  author:
+    - family: Simonard
+      given: Pedro
+    - family: Mendes Junior
+      given: Walcler de Lima
+  citation-key: simonard:2019territorio
+  container-title: >-
+    Confins. Revue franco-brésilienne de géographie / Revista franco-brasilera
+    de geografia
+  container-title-short: Confins
+  DOI: 10.4000/confins.20355
+  ISSN: 1958-9212
+  issue: '40'
+  issued:
+    - year: 2019
+      month: 5
+      day: 14
+  language: por
+  license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  number: '40'
+  publisher: Théry, Hervé
+  source: journals.openedition.org
+  title: >-
+    O território de circulação do carro de boi alagoano em feiras, festas e
+    oficinas: perlengas de memória e esquecimento
+  title-short: O território de circulação do carro de boi alagoano
+  type: article-journal
+  URL: https://journals.openedition.org/confins/20355
+
 - id: smith:2012robert
   author:
     - family: Smith
