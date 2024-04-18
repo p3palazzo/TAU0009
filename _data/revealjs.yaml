@@ -1,28 +1,26 @@
-from            : "markdown+tex_math_single_backslash"
-to              : "revealjs"
+from             : "markdown+tex_math_single_backslash"
+to               : "revealjs"
 email-obfuscation: references
-fail-if-warnings: false
-file-scope      : true
+fail-if-warnings : false
+file-scope       : true
+slide-level      : 2
+standalone       : true
 filters:
   - pandoc-crossref
   - citeproc
 metadata:
-  bibliography: "_data/biblio.yaml"
-  csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/modern-language-association.csl"
-  css: "../../assets/css/revealjs-main.css"
-  lang: pt-BR
+  bibliography   : "_data/biblio.yaml"
+  csl            : "_data/modern-language-association.csl"
+  css            : "../../assets/css/revealjs-main.css"
+  lang           : pt-BR
+  toc            : true
   suppress-bibliography: true
-  toc: false
   crossrefYaml: _data/revealjs-crossref.yaml
-slide-level     : 2
-standalone      : true
-toc-depth       : 1
 variables:
   backgroundTransition: 'slide'
-  controls      : true
-  hash          : true
-  hashOneBasedIndex: true
-  progress      : true
-  revealjs-url  : "../reveal.js"
-  width         : 1920
-  height        : 1080
+  controls       : true
+  hash           : true
+  progress       : true
+  revealjs-url   : "../reveal.js"
+  width          : 1280
+  height         : 720

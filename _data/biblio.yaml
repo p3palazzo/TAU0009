@@ -20,6 +20,26 @@ references:
   title: O domínio romano em Portugal
   type: book
 
+- id: alarcao:2008coimbra
+  author:
+    - family: Alarcão
+      given: Jorge
+      dropping-particle: de
+  call-number: NA9226.C65 A43 2008
+  citation-key: alarcao:2008coimbra
+  event-place: Coimbra
+  ISBN: 978-989-8074-30-0
+  issued:
+    - year: 2008
+  language: por
+  number-of-pages: '308'
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: Library of Congress ISBN
+  title: 'Coimbra: a montagem do cenário urbano'
+  title-short: Coimbra
+  type: book
+
 - id: aldrovandi:2011monumentalidade
   abstract: "Resumo\n\t\t\t\t\tESTE ARTIGO ANALISA ALGUNS ASPECTOS DO HIBRIDISMO INDO-PORTUGUÊS PRESENTES NA ARTE E NA ARQUITETURA SAGRADA E SECULAR, SOB A ÓTICA DE UM DISCURSO MONUMENTAL HEGEMÔNICO ENGENDRADO PELO COLONIALISMO PORTUGUÊS EM TERRITÓRIO INDIANO."
   accessed:
@@ -529,6 +549,30 @@ references:
   type: article-journal
   URL: http://periodicos.sbu.unicamp.br/ojs/index.php/labore/article/view/8646223
   volume: '10'
+
+- id: arestizabal:1979grandjean
+  citation-key: arestizabal:1979grandjean
+  collection-number: '1'
+  collection-title: Uma cidade em questão
+  editor:
+    - family: Arestizabal
+      given: Irma
+    - family: Brenna
+      given: Giovanna Rosso
+      non-dropping-particle: del
+    - family: Worcman
+      given: Susane
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1979
+  language: por
+  publisher: >-
+    <span smallcaps="smallcaps">PUC–RJ</span> : Funarte : Fundação Roberto
+    Marinho
+  publisher-place: Rio de Janeiro
+  title: Grandjean de Montigny e o Rio de Janeiro
+  type: book
+  URL: http://acervo.bndigital.bn.br/sophia/index.asp?codigo_sophia=31785
 
 - id: argan:1973concepto
   author:
@@ -2814,6 +2858,40 @@ references:
   type: book
   URL: http://archive.org/details/histriadosnd00cunh
 
+- id: czajkowski:2000guia
+  citation-key: czajkowski:2000guia
+  editor:
+    - family: Czajkowski
+      given: Jorge
+  ISBN: 978-85-87220-27-1
+  issued:
+    - year: 2000
+  language: por
+  number-of-pages: '214'
+  publisher: Casa da Palavra
+  source: Google Books
+  title: Guia da arquitetura eclética no Rio de Janeiro
+  type: book
+
+- id: czajkowski:2001guia
+  call-number: NA857.R5 G853 2001
+  citation-key: czajkowski:2001guia
+  collection-title: Coleção Guias da arquitetura no Rio de Janeiro
+  editor:
+    - family: Czajkowski
+      given: Jorge
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87220-25-7
+  issued:
+    - year: 2001
+  language: por
+  number-of-pages: '219'
+  publisher: Casa da Palavra
+  publisher-place: Rio de Janeiro
+  source: Library of Congress ISBN
+  title: Guia da arquitetura colonial, neoclássica e romântica no Rio de Janeiro
+  type: book
+
 - id: dalambert:1994tijolo
   author:
     - family: Alambert
@@ -2879,6 +2957,171 @@ references:
   type: paper-conference
   URL: http://repositorium.sdum.uminho.pt/
 
+- id: debret:1834voyage
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1834voyage
+  event-place: Paris
+  issued:
+    - year: 1834
+    - year: 1839
+  language: fre
+  license: Domínio público
+  number-of-volumes: '3'
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/4716
+
+- id: debret:1834voyage1
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1834voyage1
+  event-place: Paris
+  issued:
+    - year: 1834
+  language: fre
+  license: Domínio público
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/3813
+  volume: '1'
+
+- id: debret:1835voyage2
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1835voyage2
+  event-place: Paris
+  issued:
+    - year: 1835
+  language: fre
+  license: Domínio público
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/3802
+  volume: '2'
+
+- id: debret:1839voyage3
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1839voyage3
+  event-place: Paris
+  issued:
+    - year: 1839
+  language: fre
+  license: Domínio público
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, séjour d'un artiste français
+    au brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'avenement
+    et de l'abdication de S. M. D. Pedro Ier, fondateur de l'empire brésilien
+  title-short: Voyage pittoresque et historique au brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/4716
+  volume: '3'
+
 - id: deupi:2015architectural
   abstract: >-
     "Architectural Temperance examines relations between Bourbon Spain and papal
@@ -2911,6 +3154,22 @@ references:
   title: 'Architectural temperance: Spain and Rome, 1700-1759'
   title-short: Architectural temperance
   type: book
+
+- id: dgpc:casa
+  accessed:
+    - year: 2019
+      month: 12
+      day: 12
+  author:
+    - family: DGPC
+      given: Direção-Geral do Património Cultural
+  citation-key: dgpc:casa
+  container-title: Património Cultural
+  language: por
+  title: Casa das Gelosias
+  type: webpage
+  URL: >-
+    http://www.patrimoniocultural.gov.pt/pt/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/74661/
 
 - id: dias:2001patrimonio
   author:
@@ -3294,6 +3553,44 @@ references:
   title-short: La politica delle città nuove nel sud-ovest della Francia
   type: chapter
 
+- id: famin:1806architecture
+  abstract: >-
+    Etched, illustrated t.p. precedes numbered plates; "Table chronologique des
+    architectes" : p. [47]-48; Plates issued in 18 fascicles, 1806-1815; Getty
+    c. 2 retains 1806 title leaf, on which Famin's name precedes Grandjean's,
+    and with imprint: A Paris : Chez les auteurs, rue des Prouvaires, no. 35 (De
+    l'imprimerie de Gueffier). This copy also includes an earlier version of the
+    introduction entitled "Discours préliminaire" (4 p.), as well as the
+    slightly revised "Préface" (vij p.) of 1815; Getty c. 1 has Giovanni Muzio's
+    bookplate, etched by Giacomo Manzù, and L.A. Meyer's hand-lettered label
+    recording his acquisition of the vol. on 26 Nov. 1874; bookseller's labels
+    of Ernst Wasmuth, Berlin, and Leo Olschki, Florence
+  accessed:
+    - year: 2019
+      month: 5
+      day: 7
+  author:
+    - family: Famin
+      given: Auguste Pierre Sainte Marie
+    - family: Grandjean de Montigny
+      given: Auguste Henri Victor
+  call-number: '9923302870001551'
+  citation-key: famin:1806architecture
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Paris
+  issued:
+    - year: 1806
+  language: fre
+  number-of-pages: '289'
+  publisher: Chez les auteurs
+  publisher-place: Paris
+  source: Internet Archive
+  title: Architecture toscane, ou, Palais, maisons, et autres édifices de la Toscane
+  title-short: Architecture toscane
+  type: book
+  URL: http://archive.org/details/gri_33125012245235
+
 - id: faria:2018rebocos
   author:
     - family: Faria
@@ -3575,6 +3872,23 @@ references:
   type: article-journal
   URL: https://doi.org/10.1080/00038628.2014.974019
   volume: '58'
+
+- id: ferreira:2000quinta13
+  author:
+    - family: Ferreira
+      given: João Carlos
+    - family: Martins
+      given: Angela Maria Moreira
+  citation-key: ferreira:2000quinta13
+  container-title: Paisagem e Ambiente Ensaios
+  issued:
+    - year: 2000
+      month: 12
+  language: por
+  page: 125–145
+  title: 'Quinta da Boa Vista: de espaço de elite a espaço público'
+  type: article-journal
+  volume: '13'
 
 - id: figueiredo:2011caracterizacao
   abstract: >-
@@ -4659,6 +4973,44 @@ references:
       given: Denise
   type: book
 
+- id: grandjean:1815architecture
+  abstract: >-
+    Etched, illustrated t.p. precedes numbered plates; "Table chronologique des
+    architectes" : p. [47]-48; Plates issued in 18 fascicles, 1806-1815; Getty
+    c. 2 retains 1806 title leaf, on which Famin's name precedes Grandjean's,
+    and with imprint: A Paris : Chez les auteurs, rue des Prouvaires, no. 35 (De
+    l'imprimerie de Gueffier). This copy also includes an earlier version of the
+    introduction entitled "Discours préliminaire" (4 p.), as well as the
+    slightly revised "Préface" (vij p.) of 1815; Getty c. 1 has Giovanni Muzio's
+    bookplate, etched by Giacomo Manzù, and L.A. Meyer's hand-lettered label
+    recording his acquisition of the vol. on 26 Nov. 1874; bookseller's labels
+    of Ernst Wasmuth, Berlin, and Leo Olschki, Florence
+  accessed:
+    - year: 2019
+      month: 5
+      day: 7
+  author:
+    - family: Grandjean de Montigny
+      given: Auguste Henri Victor
+    - family: Famin
+      given: Auguste Pierre Sainte Marie
+  call-number: '9923302870001551'
+  citation-key: grandjean:1815architecture
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Paris
+  issued:
+    - year: 1815
+  language: fre
+  number-of-pages: '289'
+  publisher: P. Didot l'aîné
+  publisher-place: Paris
+  source: Internet Archive
+  title: Architecture toscane, ou, Palais, maisons, et autres édifices de la Toscane
+  title-short: Architecture toscane
+  type: book
+  URL: http://archive.org/details/gri_33125012245235
+
 - id: hakim:2010arabicislamic
   author:
     - family: Hakim
@@ -4915,6 +5267,32 @@ references:
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_nlinks&ref=000077&pid=S0103-8478201300080000900008&lng=pt
 
+- id: jarrasse:2006feminite
+  author:
+    - family: Jarrassé
+      given: Dominique
+  call-number: NA388.A2 O75 2006
+  citation-key: jarrasse:2006feminite
+  collection-title: Arts. Histoire des arts
+  container-title: L'orient des architectes
+  editor:
+    - family: Bertrand
+      given: Nathalie
+  event-place: Aix-en-Provence
+  ISBN: 978-2-85399-633-4
+  issued:
+    - year: 2006
+  language: fre
+  page: 77–94
+  publisher: Publications de l'université de Provence
+  publisher-place: Aix-en-Provence
+  source: Library of Congress ISBN
+  title: >-
+    Féminité, passivité, fantaisie… Architecture et caractère des peuples
+    orientaux au regard de l'Occident
+  title-short: Féminité, passivité, fantaisie…
+  type: chapter
+
 - id: jornada:2022
   abstract: >-
     En la actualidad sigue existiendo cierta desconfianza de la madera que juega
@@ -4996,6 +5374,30 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/4490923
   volume: '61'
+
+- id: kelly:1984expensive126
+  accessed:
+    - year: 2019
+      month: 5
+      day: 6
+  archive: JSTOR
+  author:
+    - family: Kelly
+      given: Alison
+  citation-key: kelly:1984expensive126
+  container-title: The Burlington Magazine
+  ISSN: 0007-6287
+  issue: '978'
+  issued:
+    - year: 1984
+  language: en
+  page: 548-553
+  source: JSTOR
+  title: 'An expensive present: the Adam screen in Rio de Janeiro'
+  title-short: An Expensive Present
+  type: article-journal
+  URL: https://www.jstor.org/stable/881762
+  volume: '126'
 
 - id: kemp:1996antiguo
   author:
@@ -5415,7 +5817,7 @@ references:
   title-short: Alvenaria burguesa
   type: book
 
-- id: lemos:1993transformacoes
+- id: lemos:1993transformacoes1
   abstract: >-
     Depois de referências à arquitetura colonial (inclusive no exame de modelos
     vernaculares portugueses, da contribuição indígena e da adaptação a
@@ -5431,7 +5833,7 @@ references:
   author:
     - family: Lemos
       given: Carlos A. C.
-  citation-key: lemos:1993transformacoes
+  citation-key: lemos:1993transformacoes1
   collection-title: Nova série
   container-title: 'Anais do Museu Paulista: História e Cultura Material'
   DOI: 10.1590/S0101-47141993000100009
@@ -5441,7 +5843,7 @@ references:
     - year: 1993
       month: 1
       day: 1
-  language: pt
+  language: por
   license: Direitos autorais
   page: 95-106
   source: www.revistas.usp.br
@@ -5506,6 +5908,29 @@ references:
   publisher-place: São Paulo
   source: Open WorldCat
   title: Manual de preservação de madeiras
+  type: book
+
+- id: lima:2007debret
+  author:
+    - family: Lima
+      given: Valéria Alves Esteves
+  call-number: '94'
+  citation-key: lima:2007debret
+  collection-number: '25'
+  collection-title: Várias histórias
+  event-place: Campinas
+  ISBN: 978-85-268-0770-9
+  issued:
+    - year: 2007
+  language: por
+  number-of-pages: '325'
+  publisher: Unicamp
+  publisher-place: Campinas
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    J.-B. Debret, historiador e pintor: a viagem pitoresca e histórica ao Brasil
+    (1816-1839)
+  title-short: J.-B. Debret, historiador e pintor
   type: book
 
 - id: lira:2010patrimonio
@@ -7359,6 +7784,63 @@ references:
   title-short: Repensar a periodização da construção vernacular luso-brasileira
   type: paper-conference
 
+- id: palma:2016desenvolvimento
+  abstract: >-
+    Tendo como objetivo delinear a história urbana de Loulé, entre a sua fudação
+    islâmica e o final da Idade Moderna, desenvolvemos o presente trabalho,
+    sustentado nos dados consultados na bibliografia existente e nos elementos
+    recolhidos nas diversas fontes, nomeadamente atas de vereação, foros e
+    décimas. Este estudo desenvolve-se assim em três partes: a primeira
+    debruça-se sobre a caracterização da paisagem do núcleo urbano e as ligações
+    territoriais; a segunda corresponde à identificação dos elementos que
+    condicionaram o povoamento do local onde surgiu a urbe; a terceira
+    interpreta os dados relativos à análise da evolução urbana de Loulé. 
+
+    O primeiro povoamento de Loulé remonta ao século XI, com a instalação de uma
+    alcaria islâmica. À medida que a estrutura urbana se foi expandindo e
+    consolidando, foi sendo estruturada e configurada, com a construção das
+    muralhas e respetivos equipamentos públicos. A malha urbana foi condicionada
+    pela tipologia da casa-pátio islâmica, com o predomínio de espaços
+    privados. 
+
+    Com a reconquista cristã, em meados do século XIII, a vila foi sujeita a
+    transformações profundas, que incluiram a alteração da fisionomia urbana,
+    apesar dos centros político e religioso manterem a mesma situação e se
+    adaptarem. A população foi-se fixando e a vila desenvolveu-se através da
+    reocupação do núcleo urbano e da formação de bairros fora de portas. Foram
+    surgindo novos equipamentos urbanos, que despoletaram o povoamento. 
+
+    Os Descobrimentos proporcionaram a Loulé uma fase de prosperidade,
+    investindo-se na dignificação do património do concelho e na imagem da vila,
+    tendo a época moderna ficado igualmente marcada pela recessão económica e
+    pela ruralização da população. Desacelerou-se o anterior crescimento
+    demográfico e urbanístico. O núcleo muralhado perdeu protagonismo, tendo os
+    extramuros ganhado uma importância acrescida. O terramoto de 1755 também
+    provocou alterações pontuais na malha urbana.
+  accessed:
+    - year: 2019
+      month: 10
+      day: 25
+  author:
+    - family: Palma
+      given: Jorge Filipe Maria
+      dropping-particle: da
+  citation-key: palma:2016desenvolvimento
+  genre: Dissertação (Mestrado em História)
+  issued:
+    - year: 2016
+      month: 2
+      day: 18
+  language: por
+  license: openAccess
+  publisher: Faculdade de Ciências Humanas e Sociais da Universidade do Algarve
+  source: sapientia.ualg.pt
+  title: >-
+    O desenvolvimento urbano de Loulé do período medieval ao fim da época
+    moderna
+  type: thesis
+  URL: https://sapientia.ualg.pt/handle/10400.1/8056
+
 - id: panerai:2006analise
   author:
     - family: Panerai
@@ -7708,7 +8190,7 @@ references:
   ISBN: 978-85-7004-394-8
   issued:
     - year: 2018
-  language: pt
+  language: por
   number-of-pages: '350'
   publisher: Fundação Casa de Rui Barbosa
   publisher-place: Rio de Janeiro
@@ -7958,6 +8440,55 @@ references:
   title: Publicações
   type: webpage
   URL: http://www.ceci-br.org/ceci/br/publicacoes.html
+
+- id: rabello:2018ideario
+  abstract: >-
+    Este Trabalho de Conclusão de Curso tem por objetivo resgatar a importância
+    do patrimônio arquitetônico neoclássico para capital paraibana, destacando
+    os aspectos socioculturais que nortearam sua produção e os principais
+    indicadores formais que caracterizaram edifícios do gênero. Para tanto, a
+    pesquisa recorre à historiografia sobre o tema e acerca dos exemplares
+    arquitetônicos em específico, considerando a atuação dos profissionais da
+    engenharia militar que conceberam o referido repertório na cidade da
+    Parahyba. Tendo em vista que parte desse patrimônio foi alterado, absorvendo
+    estilemas de novas vertentes arquitetônicas, a pesquisa iconográfica foi
+    fundamental para a identificação e o mapeamento de imóveis construídos ou
+    remodelados segundo as prerrogativas do estilo. O levantamento arquitetônico
+    e a digitalização das respectivas plantas baixas, bem como o levantamento
+    fotográfico das fachadas e dos espaços internos, compõem o material
+    produzido que, organizado através de fichas, reúnem todas as informações
+    básicas acerca de cada prédio. Dada a ênfase na produção arquitetônica
+    local, com bases na engenharia militar, a pesquisa destaca um tópico pouco
+    explorado na historiografia relativa a arquitetura neoclássica no Brasil,
+    cuja relevância reside em dois aspectos principais: o primeiro diz respeito
+    à contribuição teórica dentro da temática, e o segundo refere-se ao caráter
+    documental do trabalho, na medida em que permite inventariar o legado
+    arquitetônico neoclássico na antiga cidade da Parahyba.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 6
+  author:
+    - family: Rabello
+      given: Jessica Soares de Araujo
+  citation-key: rabello:2018ideario
+  event-place: João Pessoa
+  genre: Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo)
+  issued:
+    - year: 2018
+      month: 11
+      day: 8
+  language: por
+  license: Acesso aberto
+  publisher: Universidade Federal da Paraíba
+  publisher-place: João Pessoa
+  source: repositorio.ufpb.br
+  title: >-
+    O ideário imperial na cidade da Parahyba: Uma incursão no patrimônio
+    arquitetônico neoclássico
+  title-short: O ideário imperial na cidade da Parahyba
+  type: thesis
+  URL: https://repositorio.ufpb.br
 
 - id: ramos:2009historia
   citation-key: ramos:2009historia
@@ -8747,6 +9278,32 @@ references:
   publisher-place: Brasília
   title: Os arquitetos e a historiografia da arquitetura indígena
   type: manuscript
+
+- id: schmidt:1978topografia
+  author:
+    - family: Schmidt
+      given: Giulio
+  citation-key: schmidt:1978topografia
+  container-title: >-
+    Le città di fondazione: atti del 2. Convegno internazionale di storia
+    urbanistica : Lucca, 7-11 settembre 1977
+  editor:
+    - family: Martinelli
+      given: Roberta
+    - family: Nuti
+      given: Lucia
+  event-place: Lucca; Venezia
+  issued:
+    - year: 1978
+  language: ita
+  page: 59–96
+  publisher: >-
+    <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">CISCU</span> : Marsilio
+  publisher-place: Lucca; Venezia
+  source: Open WorldCat
+  title: Topografia storica della città altomedievale
+  type: chapter
 
 - id: schnoor:1995casas
   author:
@@ -9715,6 +10272,27 @@ references:
   title: Atlas dos monumentos históricos e artísticos do Brasil
   type: book
 
+- id: telles:2008grandjean
+  author:
+    - family: Telles
+      given: Angela
+  call-number: NA1053.G7 T45 2008
+  citation-key: telles:2008grandjean
+  event-place: Rio de Janeiro
+  ISBN: 978-85-60207-08-4
+  issued:
+    - year: 2008
+  language: por
+  number-of-pages: '183'
+  publisher: 'Folha Dirigida : Unirio : Arquivo Nacional'
+  publisher-place: Rio de Janeiro
+  source: Library of Congress ISBN
+  title: >-
+    Grandjean de Montigny: da arquitetura revolucionária à civilização nos
+    trópicos
+  title-short: Grandjean de Montigny
+  type: book
+
 - id: tengarrinha:2000historia
   citation-key: tengarrinha:2000historia
   contributor:
@@ -9796,6 +10374,24 @@ references:
     Planos de conservação: do ensino à prática, da academia aos canteiros de
     obras
   title-short: Planos de conservação
+  type: book
+
+- id: tirapeli:2007arte
+  author:
+    - family: Tirapeli
+      given: Percival
+  citation-key: tirapeli:2007arte
+  event-place: São Paulo
+  ISBN: >-
+    978-85-04-01005-3 978-85-04-01004-6 978-85-04-01039-8 978-85-04-01043-5
+    978-85-04-01042-8
+  issued:
+    - year: 2007
+  language: por
+  publisher: Companhia Editora Nacional
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Arte imperial : do neoclássico ao ecletismo : século 19'
   type: book
 
 - id: tirapeli:2008igrejas
@@ -10436,7 +11032,7 @@ references:
   ISBN: 978-85-00-00716-3
   issued:
     - year: 2002
-  language: pt
+  language: por
   publisher: Ediouro
   publisher-place: Rio de Janeio
   source: Câmara Brasileira do Livro ISBN
@@ -10807,6 +11403,34 @@ references:
   type: book
   URL: >-
     http://portal.iphan.gov.br/uploads/publicacao/conservacao_preventiva_imoveis_antigos_nucleos_historicos.pdf
+
+- id: worcman:1979grandjean
+  author:
+    - family: Worcman
+      given: Susane
+  citation-key: worcman:1979grandjean
+  collection-number: '1'
+  collection-title: Uma cidade em questão
+  container-title: Grandjean de Montigny e o Rio de Janeiro
+  editor:
+    - family: Arestizabal
+      given: Irma
+    - family: Brenna
+      given: Giovanna Rosso
+      non-dropping-particle: del
+    - family: Worcman
+      given: Susane
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1979
+  language: por
+  page: 35–64
+  publisher: >-
+    <span smallcaps="smallcaps">PUC–RJ</span> : Funarte : Fundação Roberto
+    Marinho
+  publisher-place: Rio de Janeiro
+  title: Grandjean de Montigny, a Missão Francesa e o Rio de Janeiro pela imprensa
+  type: chapter
 
 - id: zancheti:2011indicadores
   citation-key: zancheti:2011indicadores

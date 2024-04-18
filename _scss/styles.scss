@@ -132,6 +132,7 @@ $legend-font-weight: 500;
 
 body {
   font-variant-numeric: oldstyle-nums proportional-nums;
+  counter-reset: sidenote-counter;
 }
 
 header {
@@ -140,13 +141,21 @@ header {
 
 main {
   @extend .fs-4;
-  .container .row > * {
-    @extend .col-lg-9;
-    @extend .col-xl-8;
+  p {
+    text-align: justify;
+    hyphens: auto;
   }
 }
 
 // Typographical elements {{{2
+h2,
+h3 {
+  @extend .mt-5;
+}
+
+h2 + h3 {
+  @extend .mt-0;
+}
 
 h1,
 h4 {
@@ -170,7 +179,8 @@ figure {
   }
 }
 
-figcaption {
+figcaption,
+blockquote > footer {
   @extend .figure-caption;
   @extend .fw-medium;
   @extend .col-lg-9;
@@ -179,8 +189,18 @@ figcaption {
   @extend .float-xl-end;
 }
 
-// IDs {{{2
+blockquote {
+  @extend .blockquote;
+  @extend .ps-5;
+  @extend .my-3;
+}
 
+blockquote > footer,
+blockquote + figcaption {
+  @extend .blockquote-footer;
+}
+
+// IDs {{{2
 #hero {
   background-size: cover;
   background-position: center;
@@ -225,6 +245,11 @@ h1#bibliography {
 
 .lead {
   @extend .fst-italic;
+}
+
+main .container .row > * {
+  @extend .col-lg-9;
+  @extend .col-xl-8;
 }
 
 .card h3,

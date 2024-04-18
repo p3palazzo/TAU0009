@@ -2,14 +2,14 @@ from: markdown
 to: html
 data-dir: _data
 fail-if-warnings: false
+shift-heading-level-by: 1
+filters:
+  - pandoc-crossref
+  - citeproc
+  - pandoc-sidenote
 metadata:
   bibliography: _data/biblio.yaml
   csl: _data/chicago-note-bibliography.csl
   lang: pt-BR
   crossrefYaml: _data/pandoc-crossref.yaml
   reference-section-title: "Referências"
-filters:
-  - pandoc-crossref
-  - citeproc
-  - pandoc-sidenote
-shift-heading-level-by: 1
