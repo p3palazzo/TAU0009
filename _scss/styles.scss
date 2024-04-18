@@ -69,6 +69,7 @@ $link-decoration: none;
 $font-family-base: $serif;
 $headings-font-family: $garamond;
 $headings-font-weight: 300;
+$headings-font-style: italic;
 $headings-color: $primary;
 
 $legend-font-weight: 500;
@@ -127,15 +128,29 @@ $legend-font-weight: 500;
    Custom styles {{{1
    ========================================================================== */
 
-//@import "icon-list";
+// Structural elements {{{2
 
 body {
   font-variant-numeric: oldstyle-nums proportional-nums;
 }
 
-h2,
-h3 {
-  @extend .fst-italic;
+header {
+  @extend .fs-5;
+}
+
+main {
+  @extend .fs-4;
+  .container .row > * {
+    @extend .col-lg-9;
+    @extend .col-xl-8;
+  }
+}
+
+// Typographical elements {{{2
+
+h1,
+h4 {
+  @extend .fst-normal;
 }
 
 dt {
@@ -147,26 +162,24 @@ dt {
   font-variant: all-small-caps;
 }
 
-header {
-  @extend .fs-5;
-}
-
-.site-title {
-  font-variant: all-small-caps;
-  .site-subtitle {
-    @extend .fst-italic;
-    font-variant: normal;
-    font-variant-numeric: oldstyle-nums;
+figure {
+  @extend .figure;
+  img {
+    @extend .figure-img;
+    @extend .img-fluid;
   }
 }
 
-#site-nav ul.nav a {
-  @extend .link-secondary;
+figcaption {
+  @extend .figure-caption;
+  @extend .fw-medium;
+  @extend .col-lg-9;
+  @extend .float-lg-end;
+  @extend .col-xl-6;
+  @extend .float-xl-end;
 }
 
-main {
-  @extend .fs-4;
-}
+// IDs {{{2
 
 #hero {
   background-size: cover;
@@ -183,6 +196,25 @@ main {
     @media (prefers-color-scheme: dark) {
       text-shadow: 1px 1px 2px rgba($body-bg-dark, 70%);
     }
+  }
+}
+
+#site-nav ul.nav a {
+  @extend .link-secondary;
+}
+
+h1#bibliography {
+  @extend .h2;
+  @extend .fst-italic;
+}
+
+// Bootstrap Classes {{{2
+.site-title {
+  font-variant: all-small-caps;
+  .site-subtitle {
+    @extend .fst-italic;
+    font-variant: normal;
+    font-variant-numeric: oldstyle-nums;
   }
 }
 
@@ -213,5 +245,20 @@ main {
 
 .card-text {
   @extend .fs-5;
+}
+
+// Custom classes {{{2
+.hanging-indent {
+  margin-left: 2rem;
+  text-indent: -2rem;
+}
+
+.outset + figcaption {
+}
+
+.line {
+  @media (prefers-color-scheme: dark) {
+    filter: invert(0.86);
+  }
 }
 // vim: shiftwidth=2 tabstop=2 expandtab foldmethod=indent
