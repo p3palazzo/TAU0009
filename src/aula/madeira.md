@@ -7,6 +7,10 @@ excerpt: >
   Estruturas arquitravadas – frontais, assoalhos e gaiolas –
   carpintaria em negro e em branco – aberturas
 teaser: "/assets/media/320x213px-debret-scieurs-nypl.jpg"
+header:
+  overlay_image: "/assets/media/2560px-debret-scieurs-nypl.jpg"
+  overlay_filter: 0.7
+  caption: "Jea-Baptiste Debret, Serraria, 1834"
 ---
 
 # Construção arquitravada #
