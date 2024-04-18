@@ -191,6 +191,10 @@ main {
   @extend .fst-italic;
 }
 
+.lead {
+  @extend .fst-italic;
+}
+
 .card h3,
 .btn {
   font-family: $sans-serif-narrow;

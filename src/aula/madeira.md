@@ -9,8 +9,7 @@ excerpt: >
 teaser: "/assets/media/320x213px-debret-scieurs-nypl.jpg"
 header:
   overlay_image: "/assets/media/2560px-debret-scieurs-nypl.jpg"
-  overlay_filter: 0.7
-  caption: "Jea-Baptiste Debret, Serraria, 1834"
+  caption: "Jean-Baptiste Debret, Serraria, 1834"
 ---
 
 # Construção arquitravada #

@@ -19,8 +19,7 @@ module.exports = function(eleventyConfig) {
   * Passthrough copy {{{2 *
   *************************/
   // Copy assets/ to _site/assets
-  eleventyConfig.addPassthroughCopy("assets");
-  eleventyConfig.addPassthroughCopy("src/.domains");
+  eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy(".gitattributes");
   eleventyConfig.addPassthroughCopy({"node_modules/reveal.js": "slides/reveal.js"});
   eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/icons": "assets/icons"});

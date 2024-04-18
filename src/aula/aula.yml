@@ -1,1 +1,3 @@
 layout: single
+header:
+  overlay_filter: 0.7
