@@ -2584,6 +2584,20 @@ references:
   title-short: Ammaia
   type: book
 
+- id: costa:1941arquitetura
+  author:
+    - family: Costa
+      given: Lúcio
+  citation-key: costa:1941arquitetura
+  container-title: Revista do Serviço do Patrimonio Historico e Artistico Nacional
+  issued:
+    - year: 1941
+  language: por
+  page: 9-104
+  title: A arquitetura dos jesuítas no Brasil
+  type: article-journal
+  volume: '5'
+
 - id: costa:1952arquitetura
   author:
     - family: Costa
