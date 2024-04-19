@@ -3,19 +3,36 @@ title : "Roteiro para elaboração de plano de preservação"
 author: "Pedro P. Palazzo"
 date  : 2024-03-18
 layout: single
-permalink: /roteiro/
+tags  : "trabalho"
+nocite: "@tinoco:2013planos"
+excerpt: >
+  O que é um plano de preservação – Preparação –
+  Estrutura do plano.
+templateEngineOverride: njk,md
+---
+
+---
+bibliography: "_data/biblio-planos.json"
+nocite: "@tinoco:2013planos"
 ---
 
 # O que é um plano de preservação #
 
+<figure>
 > Tais planos são documentos técnicos de planejamento que estabelecem
 > políticas de administração para o uso adequado dos espaços e dos
 > componentes construtivos, bem como da manutenção periódica dos
-> imóveis de valor cultural. Tem como finalidade a garantia para a
+> imóveis de valor cultural. Têm como finalidade a garantia para a
 > sociedade da integridade física do edifício e dos valores de
 > significância do bem cultural que se quer preservar. 
->
-> <footer>Jorge Eduardo Lucena Tinoco, <cite>Plano de gestão da conservação</cite>, n.p.</footer>
+
+```{=html}
+  <figcaption>Jorge Eduardo Lucena Tinoco,
+    <cite title="Plano de gestão da conservação">Plano de gestão da
+    conservação</cite>, n.p.
+  </figcaption>
+```
+</figure>
 
 # Preparação #
 
@@ -82,7 +99,9 @@ Atenção para as normas seguintes:
 
 No mínimo, você deve produzir para cada uma das etapas seguintes:
 
-### Primeira etapa: interpretação ###
+# Etapas de elaboração do plano #
+
+## Primeira etapa: interpretação ##
 
 - Cartografia do objeto no seu entorno, tão amplo quanto necessário para
   situá-lo adequadamente;
@@ -99,7 +118,7 @@ No mínimo, você deve produzir para cada uma das etapas seguintes:
   discutido no texto;
 - Iconografia histórica conforme apropriado.
 
-### Segunda etapa: intervenção ###
+## Segunda etapa: intervenção ##
 
 - Planta de implantação destacando alterações;
 - Desenhos arquitetônicos (plantas, cortes, elevações) conforme
@@ -210,12 +229,10 @@ seja relevante para a compreensão do plano. Devidamente utilizado e
 referenciado no corpo do plano.
 
 
+<div id="refs">
 # Referências #
 
 As referências listadas constituem sobretudo orientações de caráter
 metodológico, mais do que elementos de conteúdo.
-
-```{=html} 
-{% include biblio-planos.html %}
-```
+</div>
 

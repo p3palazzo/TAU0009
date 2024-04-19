@@ -302,7 +302,7 @@ isto é, com mais de uma célula na frontaria, pode haver
 a introdução de um corredor longitudinal.
 Células dispostas no miolo da construção formam alcovas,
 desprovidas de janelas para o exterior
-[Ver @palazzo:2018tipologia].
+[Ver @palazzo:2018tipologia-pt].
 
 ![Jean-Baptiste Debret. Planta de morada urbana no Rio de Janeiro. Biblioteca Pública de Nova York [@debret:1839voyage3, pl. 42]](https://hcommons.org/app/uploads/sites/1001411/2022/03/debret-plan-nypl.jpg){#fig:debret-nypl}
 

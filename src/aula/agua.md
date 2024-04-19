@@ -1,12 +1,13 @@
 ---
 title: "Água"
 date: 2024-05-08
-tags: materia
+tags: [ "aula", "materia" ]
 category: "Matéria"
+teaser: "/assets/media/320px-manga-carita.jpg"
 header:
-  teaser: /assets/media/320px-manga-carita.jpg
-  overlay_image: /assets/media/320px-manga-carita.jpg
+  overlay_image: "/assets/media/320px-manga-carita.jpg"
   overlay_filter: 0.7
+  caption:
 excerpt: >
-  Chafarizes – Hortos e jardins
+  Chafarizes – Hortos e jardins – Urbanização e os rios
 ---
