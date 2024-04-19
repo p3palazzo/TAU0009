@@ -4,13 +4,17 @@ date: 2023-11-23
 layout: single
 category: Linguagens
 tags: [ "aula", "estilo" ]
+teaser: "/assets/media/320x213px-Benedito_Calixto-Largo_da_See_em_1865.jpg"
 header:
-  teaser: /assets/media/320px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"
   overlay_filter: 0.7
-  caption: "Litografia de Louis Aubrun baseado em fotografia de Victor Frond, Igreja da Piedade, Salvador, 1858"
+  caption: |
+    Benedito Calixto de Jesus, Largo da Sé em 1865 (1917–19),
+    <a href="https://commons.wikimedia.org/wiki/File:Benedito_Calixto-Largo_da_Sé_em_1865.tif">
+      Museu de Arte Sacra de São Paulo
+    </a>
 excerpt: |
-  Arquitetura religiosa como epítome dos estilos luso-brasileiros --
+  Arquitetura religiosa como epítome dos estilos luso-brasileiros –
   Ordens religiosas e sua dissolução.
 ---
 

@@ -257,6 +257,9 @@ h1#bibliography {
 .btn {
   font-family: $sans-serif-narrow;
   @extend .fst-normal;
+  a {
+    @extend .link-dark;
+  }
 }
 
 .card-img-top {
@@ -378,6 +381,12 @@ main .col-lg-12 {
 
 
 // Compatibility with Reveal.js {{{2
+.columns {
+}
+
+.column {
+  @extend .float-md-start;
+}
 
 // Custom classes {{{2
 .hero__caption {

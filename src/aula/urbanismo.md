@@ -1,20 +1,25 @@
 ---
-title: "Substratos"
-date: 2023-08-31
+title: "Urbanismo português"
+date: 2024-03-21
 category: Fundamentos
+tags: [ "aula", "lugar" ]
+teaser: "/assets/media/320x213px-Livro_das_Fortalezas_25_Elvas.jpg"
 header:
-  teaser: /assets/media/320px-Livro_das_Fortalezas_25_Elvas.jpg
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/2560px-Livro_das_Fortalezas_25-_Elvas.jpg
-  caption: "Duarte d'Armas, [*Livro das Fortalezas* fl. 25: Elvas](https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_25-_Elvas.jpg), 1509–1510"
+  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/2560px-Livro_das_Fortalezas_25-_Elvas.jpg"
+  caption: |
+    Duarte d'Armas, <em>Livro das Fortalezas</em>
+    <a href="https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_25-_Elvas.jpg">
+      fl. 25: Elvas
+    </a>, 1509–1510
 excerpt: |
   Origens da urbanização luso-brasileira e padrões tradicionais
-  de parcelamento do solo desde a Idade Média até o século
-  <span class="smallcaps">XVIII</span>.
-
-  <dl>
-    <dt>Leitura</dt>
-    <dd>Teixeira, Manuel C. <em>A forma da cidade de origem portuguesa</em>. São Paulo: Unesp : Imprensa Oficial do Estado, 2012.</dd>
-  </dl>
+  de parcelamento do solo desde a Idade Média até o século XVIII.
+sidebar:
+  - title: "Leitura"
+    text: |
+      Teixeira, Manuel C. <em>A forma da cidade de origem
+      portuguesa</em>. São Paulo: Unesp : Imprensa Oficial do Estado,
+      2012.
 ---
 
 

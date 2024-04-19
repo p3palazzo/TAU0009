@@ -1,25 +1,23 @@
 ---
 title: "Territórios"
-date: 2023-09-14
+date: 2024-03-28
 category: Fundamentos
+tags: [ "aula", "lugar" ]
+teaser: "/assets/media/320x213px-Memorial_da_Epopeia_Riograndense_80a.jpg"
 header:
-  teaser: /assets/media/320px-Daiara-Tukano-Pamuri-Yukese-detalhe-foto-Ana-Pigosso.jpg
-  overlay_image: /assets/media/daiara-pamuri-yukese-detalhe.jpg
+  overlay_image: "/assets/media/daiara-pamuri-yukese-detalhe.jpg"
   caption: "Daiara Tukano, Pamuri Yukese, 2020"
 excerpt: |
-  Processos espaciais no leste da América do Sul nos séculos <span
-  class="smallcaps">XI</span> a <span class="smallcaps">XVII</span>.
-  Paisagens e fortificações.
-
-  <dl>
-    <dt>Leitura</dt>
-  <dd>Araujo de Souza, Adelita, Jane Victal, e Joaquín Sabaté Bel. “Lógica de organização territorial guarani: concepções do modo de ser”. <em>Labor e Engenho</em> 10, n<sup>o</sup> 3 (29 de setembro de 2016): 249. <a href="https://doi.org/10.20396/lobore.v10i3.8646223">https://doi.org/10.20396/lobore.v10i3.8646223</a>.</dd>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.20396%2Flobore.v10i3.8646223&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=L%C3%B3gica%20de%20organiza%C3%A7%C3%A3o%20territorial%20guarani%3A%20concep%C3%A7%C3%B5es%20do%20modo%20de%20ser&amp;rft.jtitle=Labor%20e%20Engenho&amp;rft.volume=10&amp;rft.issue=3&amp;rft.aufirst=Adelita&amp;rft.aulast=Araujo%20de%20Souza&amp;rft.au=Adelita%20Araujo%20de%20Souza&amp;rft.au=Jane%20Victal&amp;rft.au=Joaqu%C3%ADn%20Sabat%C3%A9%20Bel&amp;rft.date=2016-09-29&amp;rft.pages=249&amp;rft.issn=2176-8846&amp;rft.language=pt-BR"></span>
-  <dd>Florentino, Manolo, e Márcia Amantino. “Uma morfologia dos quilombos nas Américas, séculos <span style="font-variant:small-caps;">XVI-XIX</span>”. <em>História, Ciências, Saúde-Manguinhos</em> 19, n<sup>o</sup> suppl 1 (dezembro de 2012): 259–97. <a href="https://doi.org/10.1590/S0104-59702012000500014">https://doi.org/10.1590/S0104-59702012000500014</a>.</dd>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1590%2FS0104-59702012000500014&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Uma%20morfologia%20dos%20quilombos%20nas%20Am%C3%A9ricas%2C%20s%C3%A9culos%20%3Csc%3EXVI-XIX%3C%2Fsc%3E&amp;rft.jtitle=Hist%C3%B3ria%2C%20Ci%C3%AAncias%2C%20Sa%C3%BAde-Manguinhos&amp;rft.volume=19&amp;rft.issue=suppl%201&amp;rft.aufirst=Manolo&amp;rft.aulast=Florentino&amp;rft.au=Manolo%20Florentino&amp;rft.au=M%C3%A1rcia%20Amantino&amp;rft.date=2012-12&amp;rft.pages=259-297&amp;rft.spage=259&amp;rft.epage=297&amp;rft.issn=0104-5970&amp;rft.language=pt-BR"></span>
-  <dd>Neves, Eduardo Goes. “Amazônia ano 1000”. <em>National Geographic Brasil</em>, maio de 2010.</dd>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=magazineArticle&amp;rft.title=Amaz%C3%B4nia%20ano%201000&amp;rft.source=National%20Geographic%20Brasil&amp;rft.aufirst=Eduardo%20Goes&amp;rft.aulast=Neves&amp;rft.au=Eduardo%20Goes%20Neves&amp;rft.date=2010-05&amp;rft.pages=108%E2%80%93137&amp;rft.spage=108&amp;rft.epage=137&amp;rft.language=pt-BR"></span>
-  </dl>
+  Processos espaciais no leste da América do Sul nos séculos XI a XVII
+  – Paisagens e fortificações.
+sidebar:
+  - title: "Leitura"
+    text: |
+      <ul>
+        <li>Araujo de Souza, Adelita, Jane Victal, e Joaquín Sabaté Bel. “Lógica de organização territorial guarani: concepções do modo de ser”. <em>Labor e Engenho</em> 10, n<sup>o</sup> 3 (29 de setembro de 2016): 249. <a href="https://doi.org/10.20396/lobore.v10i3.8646223">https://doi.org/10.20396/lobore.v10i3.8646223</a>.</li>
+        <li>Florentino, Manolo, e Márcia Amantino. “Uma morfologia dos quilombos nas Américas, séculos <span style="font-variant:small-caps;">XVI-XIX</span>”. <em>História, Ciências, Saúde-Manguinhos</em> 19, n<sup>o</sup> suppl 1 (dezembro de 2012): 259–97. <a href="https://doi.org/10.1590/S0104-59702012000500014">https://doi.org/10.1590/S0104-59702012000500014</a>.</li>
+        <li>Neves, Eduardo Goes. “Amazônia ano 1000”. <em>National Geographic Brasil</em>, maio de 2010.</li>
+      </ul>
 ---
 
 # Raios de ação e a outra lei da gravidade #

@@ -3,9 +3,10 @@ title: "Madeira"
 author: "Pedro P. Palazzo"
 date: 2024-04-18
 tags: [ "materia", "aula" ]
-excerpt: >
-  Estruturas arquitravadas – frontais, assoalhos e gaiolas –
-  carpintaria em negro e em branco – aberturas
+excerpt: |
+  Estruturas arquitravadas – Frontais, assoalhos e gaiolas –
+  Carpintaria em negro e em branco – aberturas –
+  Patologias construtivas
 teaser: "/assets/media/320x213px-debret-scieurs-nypl.jpg"
 header:
   overlay_image: "/assets/media/2560px-debret-scieurs-nypl.jpg"
@@ -69,11 +70,11 @@ relacionada com as dimensões e a função de cada membro.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-::::::::::::::::::::::::::::::::::::::::::: {#fig:baldrames .cols}
-:::::: {.col-md-6 .col-lg-6 .float-md-start}
+::::::::::::::::::::::::::::::::::::::::::: {#fig:baldrames .columns}
+:::::: {.col-md-6 .col-lg-6 .column}
 ![com alicerce ensoleirado](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-001.png){#fig:baldrameA .line}
 ::::::
-:::::: {.col-md-6 .col-lg-6 .float-md-start}
+:::::: {.col-md-6 .col-lg-6 .column}
 ![com esteio apoiado no alicerce](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-002-1.png){#fig:baldrameB .line}
 ::::::
 Esquemas de interfaz entre o alicerce e o frontal. Desenhos: Sylvio de Vasconcellos
@@ -81,14 +82,13 @@ Esquemas de interfaz entre o alicerce e o frontal. Desenhos: Sylvio de Vasconcel
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:nabo .cols .full}
-:::::: {.col-md-6 .float-md-start}
+:::::::::::::::::::::::::::::::::::::::: {#fig:nabo .columns .col-lg-12}
+:::::: {.column .col-md-6 .col-xl-4}
 ![encaixe de frechais e baldrame no esteio](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-013.png){#fig:encaixe-esteio .line}
 ::::::
-:::::: {.col-md-6 .float-md-start}
+:::::: {.column .col-md-6 .col-xl-5}
 ![interfaz do baldrame e do nabo do esteio com o solo](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-021b-1.png){#fig:encaixe-nabo .line}
 ::::::
-
 Interfaces do frontal. Desenho: Sylvio de Vasconcellos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -102,6 +102,16 @@ Interfaces do frontal. Desenho: Sylvio de Vasconcellos
 
 ## Talha ##
 
+:::::::::::::::::::::::::::::: {#fig:talha-jesuitas .columns .col-lg-12}
+::: {.col-lg-6 .column}
+![](https://hcommons.org/app/uploads/sites/1002372/2024/04/costa-jesuitas-04-talha.png){.line}
+:::
+::: {.col-lg-6 .column}
+![](https://hcommons.org/app/uploads/sites/1002372/2024/04/costa-jesuitas-05-talha.png){.line}
+:::
+Estilos de talha em retábulos de igrejas jesuíticas. Desenho: Lucio Costa
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Casas #
 
 ## Casas do alto Xingu ##
@@ -114,6 +124,7 @@ Interfaces do frontal. Desenho: Sylvio de Vasconcellos
 
 ---
 nocite: |
-  @vasconcellos:1979arquitetura,
-  @simonard:2019territorio
+  @costa:1941arquitetura,
+  @simonard:2019territorio,
+  @vasconcellos:1979arquitetura
 ---

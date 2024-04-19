@@ -6713,6 +6713,37 @@ references:
   title-short: Materiais históricos
   type: book
 
+- id: mingo:2015construccion
+  abstract: >-
+    En esta segunda entrega de la serie La construcción de una armadura voy a
+    retratar qué proceso seguían los carpinteros cuando comenzaban a trabajar en
+    la obra de un edificio para construir lo que se daba en llamar el asiento.
+    No obstante, aclararé primero que la fase de diseño y fabricación de las
+    diferentes piezas de la armadura empezaba con bastante anticipación a la
+    colocación in situ, lo cual podía suponer entre meses y años. Pero creo que
+    es más clarificador ver antes la obra que el diseño, puesto que si no nos
+    familiarizamos con las piezas ya terminadas, difícilmente se puede
+    comprender la forma de proyectar una cubierta y de fabricar sus elementos.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 19
+  author:
+    - family: Mingo
+      given: Javier
+      dropping-particle: de
+  citation-key: mingo:2015construccion
+  container-title: Albanécar
+  issued:
+    - year: 2015
+      month: 2
+      day: 15
+  language: spa
+  title: 'La construcción de una armadura, II: El asiento'
+  title-short: La construcción de una armadura, II
+  type: post-weblog
+  URL: https://www.albanecar.es/la-construccion-de-una-armadura2/
+
 - id: minke:2015manual
   author:
     - family: Minke

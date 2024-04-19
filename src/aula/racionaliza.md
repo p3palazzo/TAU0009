@@ -1,22 +1,27 @@
 ---
 title: "Racionalização"
-date: 2023-09-21
+date: 2024-04-11
 category: Fundamentos
+tags: [ "aula", "lugar" ]
+teaser: "/assets/media/320px-mapa-comarca-sabara-arpmg-747.jpg"
 header:
-  teaser: /assets/media/320px-mapa-comarca-sabara-arpmg-747.jpg
-  overlay_image: /assets/media/2140px-mapa-comarca-sabara-arpmg-747.jpg
-  caption: "José Joaquim da Rocha, Mapa da Comarca do Sabará, 1778. [Arquivo Público Mineiro](http://www.siaapm.cultura.mg.gov.br/modules/grandes_formatos_docs/photo.php?lid=747)"
+  overlay_image: "/assets/media/2140px-mapa-comarca-sabara-arpmg-747.jpg"
+  caption: |
+    José Joaquim da Rocha, Mapa da Comarca do Sabará, 1778.
+    <a href="http://www.siaapm.cultura.mg.gov.br/modules/grandes_formatos_docs/photo.php?lid=747">
+      Arquivo Público Mineiro
+    </a>
 excerpt: |
-  Iluminismo ibérico. Projetos espaciais totalizantes e a atuação
-  dos engenheiros militares. Passeios públicos e jardins.
-
-  <dl>
-    <dt>Leitura</dt>
-    <dd>Araujo, Renata Malcher de. “A razão na selva: Pombal e a reforma urbana da Amazónia”. <em>Camões</em>, n<sup>o</sup> 15–16 (junho de 2003): 151–65. <a href="http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html">http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html</a>.</dd>
-    <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20raz%C3%A3o%20na%20selva%3A%20Pombal%20e%20a%20reforma%20urbana%20da%20Amaz%C3%B3nia&amp;rft.jtitle=Cam%C3%B5es&amp;rft.issue=15%E2%80%9316&amp;rft.aufirst=Renata%20Malcher%20de&amp;rft.aulast=Araujo&amp;rft.au=Renata%20Malcher%20de%20Araujo&amp;rft.date=2003-06&amp;rft.pages=151%E2%80%93165&amp;rft.spage=151&amp;rft.epage=165&amp;rft.language=pt"></span>
-    <dd>Valla, Margarida. “A engenharia militar na construção da cidade”. <em>Anais: Seminário de História da Cidade e do Urbanismo</em> 6, n<sup>o</sup> 3 (1<sup>o</sup> de agosto de 2012). <a href="http://www.anpur.org.br/revista/rbeur/index.php/shcu/article/view/842">http://www.anpur.org.br/revista/rbeur/index.php/shcu/article/view/842</a>.</dd>
-    <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=A%20engenharia%20militar%20na%20constru%C3%A7%C3%A3o%20da%20cidade&amp;rft.jtitle=Anais%3A%20Semin%C3%A1rio%20de%20Hist%C3%B3ria%20da%20Cidade%20e%20do%20Urbanismo&amp;rft.volume=6&amp;rft.issue=3&amp;rft.aufirst=Margarida&amp;rft.aulast=Valla&amp;rft.au=Margarida%20Valla&amp;rft.date=2012-08-01&amp;rft.language=pt"></span>
-  </dl>
+  Iluminismo ibérico – Projetos espaciais totalizantes e a atuação
+  dos engenheiros militares – Novos traçados e formas de parcelamento
+  do solo.
+sidebar:
+  - title: "Leitura"
+    text: |
+      <ul>
+        <li>Araujo, Renata Malcher de. “A razão na selva: Pombal e a reforma urbana da Amazónia”. <em>Camões</em>, n<sup>o</sup> 15–16 (junho de 2003): 151–65. <a href="http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html">http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html</a>.</li>
+        <li>Valla, Margarida. “A engenharia militar na construção da cidade”. <em>Anais: Seminário de História da Cidade e do Urbanismo</em> 6, n<sup>o</sup> 3 (1<sup>o</sup> de agosto de 2012). <a href="http://www.anpur.org.br/revista/rbeur/index.php/shcu/article/view/842">http://www.anpur.org.br/revista/rbeur/index.php/shcu/article/view/842</a>.</li>
+      </ul>
 ---
 
 # Sistematização das artes e das técnicas #
