@@ -16,9 +16,9 @@
 {% endif %}
 
 <div class="container">
-  <footer class="page-footer d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top fw-medium">
-    <div class="col-md-4 d-flex align-items-center fs-5">
-      <a href="{{ '/' | url }}" class="site-title mb-3 me-2 mb-md-0 text-body-secondary text-decoration-none lh-1">
+  <footer class="page-footer">
+    <div class="page-footer__credit">
+      <a href="{{ '/' | url }}" class="site-title">
         {{ site.title }}
       </a>
       <span class="mb-3 mb-md-0 text-body-secondary">&copy; {{ date | date: "%Y" }} {{ site.name }}</span>

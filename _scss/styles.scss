@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /* ==========================================================================
-   Typography {{{1
+   Font providers {{{1
    ========================================================================== */
 
 @import url("https://use.typekit.net/hny1sfi.css");
@@ -18,31 +18,14 @@ $garamond: "cormorant-garamond", "eb-garamond", Georgia, Times, serif;
    Variables {{{1
    ========================================================================== */
 
-// Override Bootstrap's Sass default variables
-//
-// Nearly all variables in Bootstrap are written with the `!default` flag.
-// This allows you to override the default values of those variables before
-// you import Bootstrap's source Sass files.
-//
-// Overriding the default variable values is the best way to customize your
-// CSS without writing _new_ styles. For example, you can either change
-// `$body-color` or write more CSS that override's Bootstrap's CSS like so:
-// `body { color: red; }`.
-
-
-//
-// Bring in Bootstrap
-//
-
 // Option 1
-//
 // Import all of Bootstrap's CSS
 
 // @import "bootstrap/scss/bootstrap";
 
 // Option 2
-//
-// Place variable overrides first, then import just the styles you need. Note that some stylesheets are required no matter what.
+// Place variable overrides first, then import just the styles you need.
+// Note that some stylesheets are required no matter what.
 
 // Toggle global options
 $enable-shadows: true;
@@ -67,11 +50,11 @@ $link-decoration: none;
 //$success: #7952b3;
 
 $font-family-base: $serif;
-$font-size-base: 1.5rem;
+$font-size-base: 1.3rem;
 $headings-font-family: $garamond;
 $headings-font-weight: 300;
 $headings-font-style: italic;
-$headings-color: $primary;
+$headings-color: $body-color;
 
 $legend-font-weight: 500;
 
@@ -130,33 +113,9 @@ $legend-font-weight: 500;
    ========================================================================== */
 
 // Structural elements {{{2
-
 body {
   font-variant-numeric: oldstyle-nums proportional-nums;
   counter-reset: sidenote-counter;
-}
-
-body:not(.wide) main .row {
-  & > .notes,
-  & > p,
-  & > h1, 
-  & > h2, 
-  & > h3, 
-  & > h4, 
-  & > h5, 
-  & > h6, 
-  & > ol, 
-  & > ul, 
-  & > pre, 
-  & > address, 
-  & > dl, 
-  & > fieldset, 
-  & > form, 
-  & > table,
-  & > blockquote,
-  & > .blockquote {
-    @extend .col-lg-7;
-  }
 }
 
 main {
@@ -173,6 +132,7 @@ main figure {
     @extend .figure-img;
     @extend .img-fluid;
     @extend .col-lg-7;
+    @extend .border;
     @media (prefers-color-scheme: dark) {
       opacity: 0.8;
     }
@@ -191,7 +151,6 @@ blockquote > footer {
 }
 
 hr {
-  @extend .clearfix;
   @extend .opacity-0;
 }
 
@@ -240,10 +199,6 @@ blockquote > footer {
   @extend .fw-medium;
 }
 
-figcaption {
-  font-size: 75%;
-}
-
 // IDs {{{2
 #hero {
   background-size: cover;
@@ -275,6 +230,12 @@ h1#bibliography {
 // Bootstrap Classes {{{2
 .site-title {
   font-variant: all-small-caps;
+  @extend .text-body-secondary;
+  @extend .mb-3;
+  @extend .me-2;
+  @extend .mb-md-0;
+  @extend .lh-1;
+  @extend .text-decoration-none;
   .site-subtitle {
     @extend .fst-italic;
     font-variant: normal;
@@ -298,17 +259,67 @@ h1#bibliography {
   @extend .fst-normal;
 }
 
-.card-header {
-  @extend .fw-medium;
-}
-
 .card-img-top {
   @extend .object-fit-cover;
   aspect-ratio: 3 / 2;
   width: 100%;
 }
 
+.card-header,
+.page-footer {
+  @extend .fw-medium;
+}
+
+.page-footer {
+  @extend .d-flex;
+  @extend .flex-wrap;
+  @extend .justify-content-between;
+  @extend .align-items-center;
+  @extend .py-3;
+  @extend .my-4;
+  @extend .border-top;
+  @extend .fs-6;
+}
+
 // Tufte and CSL classes {{{2
+body:not(.wide) main .row {
+  & > p,
+  & > h3, 
+  & > h4, 
+  & > h5, 
+  & > h6, 
+  & > hr,
+  & > ol, 
+  & > ul, 
+  & > pre, 
+  & > address, 
+  & > dl, 
+  & > fieldset, 
+  & > form, 
+  & > table,
+  & > blockquote,
+  & > .blockquote,
+  .notes,
+  #refs {
+    @extend .col-lg-7;
+  }
+}
+
+// CSL
+.hanging-indent .csl-entry {
+  @extend .my-3;
+  @extend .ps-4;
+  text-indent: -1.3rem;
+}
+
+// Full-width elements
+main .col-lg-12 {
+  & + figcaption {
+    @extend .col-lg-4;
+  }
+}
+
+// Marginalia {{{3
 .aside {
   @extend .col-md-4;
   @extend .col-lg-4;
@@ -321,18 +332,6 @@ h1#bibliography {
   figcaption {
     @extend .w-100;
   }
-}
-
-// Full-width elements
-main .col-lg-12 {
-  & + figcaption {
-    @extend .col-lg-4;
-  }
-}
-
-.hanging-indent .csl-entry {
-  margin-left: 2rem;
-  text-indent: -2rem;
 }
 
 .sidenote,
@@ -401,8 +400,16 @@ main .col-lg-12 {
 }
 
 .line {
+  @extend .border-0;
   @media (prefers-color-scheme: dark) {
     filter: invert(0.86);
   }
+}
+
+.page-footer__credit {
+  @extend .d-flex;
+  @extend .col-md-4;
+  @extend .align-items-center;
+  @extend .text-body-secondary;
 }
 // vim: shiftwidth=2 tabstop=2 expandtab foldmethod=marker
