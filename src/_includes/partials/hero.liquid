@@ -24,15 +24,15 @@
         </span>
         {%- endif %}
       </h1>
-      <div class="col-lg-8 mx-auto lead fs-3">
+      <div class="lead">
         {% if excerpt %}{{ excerpt }}{% else %}{{ site.description }}{% endif %}
       </div>
     </div>
   </div>
   {% if header.caption -%}
-  <span class="hero__caption position-absolute bottom-0 end-0 px-3 text-bg-dark opacity-50 text-end">
+  <figcaption class="hero__caption">
     {{ header.caption }}
-  </span>
+  </figcaption>
   {%- endif %}
 </div>
 

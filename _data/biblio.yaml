@@ -58,7 +58,7 @@ references:
     - year: 2011
       month: 6
       day: 30
-  language: pt
+  language: por
   page: 149-164
   source: www.periodicos.usp.br
   title: >-
@@ -317,7 +317,7 @@ references:
   issued:
     - year: 2011
       month: 6
-  language: pt
+  language: por
   page: 241-251
   source: DOI.org (Crossref)
   title: >-
@@ -925,8 +925,10 @@ references:
   ISBN: 978-989-97558-0-2
   issued:
     - year: 2011
-  language: pt
-  publisher: CITCEM
+  language: por
+  publisher: >-
+    <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">CITCEM</span>
   publisher-place: Porto
   source: Open WorldCat
   title: >-
@@ -1410,7 +1412,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
   title: Manual prático de conservação de telhados
@@ -1443,7 +1445,7 @@ references:
   ISBN: 978-85-7579-047-2
   issued:
     - year: 2003
-  language: pt
+  language: por
   publisher: 'Universidade Estácio de Sá : Editora Rio'
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1531,7 +1533,7 @@ references:
   citation-key: brito:2001cofragens
   issued:
     - year: 2001
-  language: pt
+  language: por
   source: DOI.org (Datacite)
   title: Cofragens tradicionais
   type: thesis
@@ -4819,7 +4821,7 @@ references:
   ISBN: 978-85-7334-035-8
   issued:
     - year: 2006
-  language: pt
+  language: por
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: 'Madeira: uso e conservação'
@@ -5260,7 +5262,7 @@ references:
   issue: '11'
   issued:
     - year: 1990
-  language: pt
+  language: por
   page: 1–12
   title: Fundamentos de preservação de madeiras
   type: article-journal
@@ -5427,7 +5429,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: Manual de conservação preventiva para edificações
@@ -5637,7 +5639,7 @@ references:
   event-place: Recife
   issued:
     - year: 1977
-  language: pt
+  language: por
   publisher: Universidade Federal de Pernambuco
   publisher-place: Recife
   source: Open WorldCat
@@ -6214,7 +6216,7 @@ references:
   ISBN: 978-65-86328-09-7
   issued:
     - year: 2020
-  language: pt
+  language: por
   publisher: Entrelinhas
   publisher-place: Cuiabá
   source: Zotero
@@ -6483,7 +6485,7 @@ references:
   ISBN: 978-972-24-1757-0
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: Horizonte
   publisher-place: Lisboa
   source: Library of Congress ISBN
@@ -7217,7 +7219,7 @@ references:
   ISBN: 978-85-232-0923-0 978-85-232-0772-4
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
@@ -7973,7 +7975,7 @@ references:
   issued:
     - year: 2013
       month: 8
-  language: pt
+  language: por
   page: 597-631
   source: DOI.org (Crossref)
   title: >-
@@ -8643,7 +8645,7 @@ references:
     - year: 2017
       month: 2
       day: 25
-  language: pt
+  language: por
   license: Direitos autorais 2017 Universidade Estadual de Feira de Santana
   number: '1'
   page: 9-26
@@ -9256,7 +9258,7 @@ references:
   event-title: I Congresso Internacional de História da Construção Luso-Brasileira
   issued:
     - year: 2013
-  language: pt
+  language: por
   publisher: Universidade Federal do Espírito Santo
   publisher-place: Vitória
   source: Zotero
@@ -9274,7 +9276,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2002
-  language: pt
+  language: por
   publisher-place: Brasília
   title: Os arquitetos e a historiografia da arquitetura indígena
   type: manuscript
@@ -9600,7 +9602,7 @@ references:
     - year: 2013
       month: 6
       day: 5
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasília
@@ -9640,7 +9642,7 @@ references:
     - year: 2020
       month: 8
       day: 25
-  language: pt
+  language: por
   license: Copyright (c) 2020 Lucas César Rodrigues da Silva, Rafael de Brito Dias
   page: e28089-e28089
   source: periodicos.unb.br
@@ -10829,7 +10831,7 @@ references:
   event-place: Belo Horizonte
   issued:
     - year: 1979
-  language: pt
+  language: por
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
   source: Open WorldCat
@@ -11122,7 +11124,7 @@ references:
   ISSN: 0103-9954, 1980-5098
   issued:
     - literal: 2015-Jan-Mar
-  language: pt
+  language: por
   page: 257-271
   publisher: Universidade Federal de Santa Maria
   source: SciELO
@@ -11521,7 +11523,7 @@ references:
   ISBN: 978-3-0346-0685-1
   issued:
     - year: 2012
-  language: en
+  language: eng
   number-of-pages: '319'
   publisher: Birkhäuser
   publisher-place: Basel

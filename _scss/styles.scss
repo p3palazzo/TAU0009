@@ -59,7 +59,7 @@ $color-mode-type: media-query;
 // Customize some defaults
 $body-color: #111118;
 $body-bg: #fffffc;
-$border-radius: .4rem;
+//$border-radius: .4rem;
 $primary: #282f6a;
 $light: #fcf9e6;
 $body-emphasis-color: $primary;
@@ -67,6 +67,7 @@ $link-decoration: none;
 //$success: #7952b3;
 
 $font-family-base: $serif;
+$font-size-base: 1.5rem;
 $headings-font-family: $garamond;
 $headings-font-weight: 300;
 $headings-font-style: italic;
@@ -114,7 +115,7 @@ $legend-font-weight: 500;
 //@import "bootstrap/scss/popover";
 // @import "bootstrap/scss/carousel";
 // @import "bootstrap/scss/spinners";
-//@import "bootstrap/scss/offcanvas"; // Requires transitions
+@import "bootstrap/scss/offcanvas"; // Requires transitions
 // @import "bootstrap/scss/placeholders";
 
 // Helpers
@@ -135,22 +136,74 @@ body {
   counter-reset: sidenote-counter;
 }
 
-header {
-  @extend .fs-5;
-}
-
-main {
-  @extend .fs-4;
-  p {
-    text-align: justify;
-    hyphens: auto;
+body:not(.wide) main .row {
+  & > .notes,
+  & > p,
+  & > h1, 
+  & > h2, 
+  & > h3, 
+  & > h4, 
+  & > h5, 
+  & > h6, 
+  & > ol, 
+  & > ul, 
+  & > pre, 
+  & > address, 
+  & > dl, 
+  & > fieldset, 
+  & > form, 
+  & > table,
+  & > blockquote,
+  & > .blockquote {
+    @extend .col-lg-7;
   }
 }
 
+main {
+  h2,
+  h3:not(.card-title) {
+    @extend .mt-5;
+    @extend .w-100;
+  }
+}
+
+main figure {
+  @extend .figure;
+  img {
+    @extend .figure-img;
+    @extend .img-fluid;
+    @extend .col-lg-7;
+    @media (prefers-color-scheme: dark) {
+      opacity: 0.8;
+    }
+  }
+}
+
+figcaption,
+blockquote > footer {
+  @extend .figure-caption;
+}
+
+main figcaption,
+blockquote > footer {
+  @extend .float-lg-end;
+  @extend .col-lg-4;
+}
+
+hr {
+  @extend .clearfix;
+  @extend .opacity-0;
+}
+
 // Typographical elements {{{2
-h2,
-h3 {
-  @extend .mt-5;
+main p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+h3:not(.card-title) {
+  @extend .fw-medium;
+  @extend .fs-5;
 }
 
 h2 + h3 {
@@ -171,24 +224,6 @@ dt {
   font-variant: all-small-caps;
 }
 
-figure {
-  @extend .figure;
-  img {
-    @extend .figure-img;
-    @extend .img-fluid;
-  }
-}
-
-figcaption,
-blockquote > footer {
-  @extend .figure-caption;
-  @extend .fw-medium;
-  @extend .col-lg-9;
-  @extend .float-lg-end;
-  @extend .col-xl-6;
-  @extend .float-xl-end;
-}
-
 blockquote {
   @extend .blockquote;
   @extend .ps-5;
@@ -198,6 +233,15 @@ blockquote {
 blockquote > footer,
 blockquote + figcaption {
   @extend .blockquote-footer;
+}
+
+figcaption,
+blockquote > footer {
+  @extend .fw-medium;
+}
+
+figcaption {
+  font-size: 75%;
 }
 
 // IDs {{{2
@@ -244,12 +288,8 @@ h1#bibliography {
 }
 
 .lead {
+  @extend .col-lg-7;
   @extend .fst-italic;
-}
-
-main .container .row > * {
-  @extend .col-lg-9;
-  @extend .col-xl-8;
 }
 
 .card h3,
@@ -263,22 +303,101 @@ main .container .row > * {
 }
 
 .card-img-top {
+  @extend .object-fit-cover;
   aspect-ratio: 3 / 2;
   width: 100%;
-  object-fit: cover;
 }
 
-.card-text {
-  @extend .fs-5;
+// Tufte and CSL classes {{{2
+.aside {
+  @extend .col-md-4;
+  @extend .col-lg-4;
+  @extend .offset-lg-1;
+  @extend .px-0;
+  @extend .float-lg-end;
+  img {
+    @extend .w-100;
+  }
+  figcaption {
+    @extend .w-100;
+  }
 }
 
-// Custom classes {{{2
-.hanging-indent {
+// Full-width elements
+main .col-lg-12 {
+  & + figcaption {
+    @extend .col-lg-4;
+  }
+}
+
+.hanging-indent .csl-entry {
   margin-left: 2rem;
   text-indent: -2rem;
 }
 
-.outset + figcaption {
+.sidenote,
+.marginnote {
+  @extend .offcanvas;
+  @extend .offcanvas-bottom;
+  @extend .p-3;
+  & > span {
+    @extend .d-inline;
+  }
+}
+
+.sidenote-number,
+.sidenote-number:after,
+.sidenote:before {
+  @extend .fw-medium;
+}
+
+.sidenote-number {
+  @extend sup;
+  cursor: pointer;
+  counter-increment: sidenote-counter;
+  &:before {
+    content: " ";
+  }
+  &:after {
+    content: counter(sidenote-counter);
+  }
+}
+
+.sidenote:before {
+  content: counter(sidenote-counter) " ";
+}
+
+.margin-toggle:checked + .sidenote,
+.margin-toggle:checked + .marginnote {
+  @extend .show;
+}
+
+.margin-toggle:not(.sidenote-number) {
+  @extend .d-inline;
+  @extend .d-lg-none;
+}
+
+
+// Compatibility with Reveal.js {{{2
+
+// Custom classes {{{2
+.hero__caption {
+  @extend .position-absolute;
+  @extend .bottom-0;
+  @extend .end-0;
+  @extend .px-3;
+  @extend .rounded-top;
+  @extend .text-end;
+  @extend .opacity-50;
+  @extend .text-bg-dark;
+  font-size: 75%;
+  a {
+    @extend .link-light;
+    @extend .link-opacity-75;
+    &:hover {
+      @extend .link-opacity-100;
+    }
+  }
 }
 
 .line {
@@ -286,4 +405,4 @@ main .container .row > * {
     filter: invert(0.86);
   }
 }
-// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=indent
+// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=marker
