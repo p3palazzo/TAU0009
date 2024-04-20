@@ -1,7 +1,6 @@
 ---
 title   : "Plano de preservação de sítio histórico"
-subtitle: "Trabalho"
-permalink: /trabalho/
+tags: "trabalho"
 layout: single
 toc: true
 header:

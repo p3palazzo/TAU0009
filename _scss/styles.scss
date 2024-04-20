@@ -151,11 +151,12 @@ blockquote > footer {
 }
 
 hr {
-  @extend .opacity-0;
+  @extend .clearfix;
+  @extend .border-0;
 }
 
 // Typographical elements {{{2
-main p {
+main p:not(.card-text) {
   text-align: justify;
   hyphens: auto;
 }
@@ -170,27 +171,43 @@ h2 + h3 {
 }
 
 h1,
-h4 {
+h4,
+h5,
+h6 {
+  @extend .w-auto;
   @extend .fst-normal;
 }
 
+h5,
 dt {
-  @extend .pe-2;
-  @extend .d-inline-block;
-  font-weight: $legend-font-weight;
-  float: left;
-  clear: left;
-  font-variant: all-small-caps;
+  @extend .me-2;
+  font-family: $font-family-base;
+  font-variant: small-caps;
 }
 
-blockquote {
-  @extend .blockquote;
-  @extend .ps-5;
+dt {
+  @extend .d-inline-block;
+  @extend .fw-medium;
+}
+
+main ul,
+.sidebar > ul {
+  li::marker {
+    content: "› ";
+  }
+}
+
+
+// Blockquote {{{3
+// Bootstrap specs <blockquote> wrapped in <figure>.
+.blockquote {
   @extend .my-3;
+  @extend .fs-6;
 }
 
 blockquote > footer,
 blockquote + figcaption {
+  @extend .col-lg-6;
   @extend .blockquote-footer;
 }
 
@@ -300,19 +317,24 @@ body:not(.wide) main .row {
   & > fieldset, 
   & > form, 
   & > table,
-  & > blockquote,
-  & > .blockquote,
-  .notes,
   #refs {
     @extend .col-lg-7;
   }
+  & > blockquote,
+  & > .blockquote {
+    @extend .col-md-11;
+    @extend .col-lg-6;
+    @extend .offset-md-1;
+  }
 }
 
-// CSL
-.hanging-indent .csl-entry {
-  @extend .my-3;
-  @extend .ps-4;
-  text-indent: -1.3rem;
+.epigraph {
+  @extend .col-md-10;
+  @extend .col-lg-5;
+  @extend .offset-md-2;
+  @extend .col-lg-6;
+  @extend .offset-lg-1;
+  @extend .fst-italic;
 }
 
 // Full-width elements
@@ -320,6 +342,13 @@ main .col-lg-12 {
   & + figcaption {
     @extend .col-lg-4;
   }
+}
+
+// CSL {{{3
+.hanging-indent .csl-entry {
+  @extend .my-3;
+  @extend .ps-4;
+  text-indent: -1.3rem;
 }
 
 // Marginalia {{{3
@@ -339,12 +368,11 @@ main .col-lg-12 {
 
 .sidenote,
 .marginnote {
+  @extend .d-inline;
   @extend .offcanvas;
   @extend .offcanvas-bottom;
   @extend .p-3;
-  & > span {
-    @extend .d-inline;
-  }
+  @extend .text-center;
 }
 
 .sidenote-number,
@@ -354,18 +382,27 @@ main .col-lg-12 {
 }
 
 .sidenote-number {
-  @extend sup;
+  @extend .mx-2;
   cursor: pointer;
+  font-family: $font-family-base;
   counter-increment: sidenote-counter;
-  &:before {
-    content: " ";
-  }
   &:after {
     content: counter(sidenote-counter);
+    @extend .p-0;
+    @extend .btn;
+    @extend .btn-outline-secondary;
+    @extend .btn-sm;
+    border-radius: 1rem;
+    width: 2rem;
+    height: 2rem;
   }
 }
 
 .sidenote:before {
+  @extend .d-inline;
+  @extend .text-start;
+  @extend .text-nowrap;
+  width: 1.3rem;
   content: counter(sidenote-counter) " ";
 }
 
@@ -381,24 +418,47 @@ main .col-lg-12 {
 
 
 // Compatibility with Reveal.js {{{2
+.incremental,
+.notes {
+  @extend .col-lg-7;
+}
+
 .columns {
+  @extend .g-3;
+  @extend .row;
+  &:not(.subfigures) figcaption {
+    @extend .col-md-12;
+    @extend .col-lg-8;
+  }
 }
 
 .column {
   @extend .float-md-start;
+  figure img {
+    @extend .col-md-12;
+    @extend .col-lg-12;
+  }
 }
 
 // Custom classes {{{2
+.subfigures > figcaption {
+  @extend .col-lg-4;
+  @extend .float-lg-end;
+  p {
+    @extend .text-start;
+  }
+}
+
 .hero__caption {
   @extend .position-absolute;
   @extend .bottom-0;
   @extend .end-0;
   @extend .px-3;
-  @extend .rounded-top;
   @extend .text-end;
   @extend .opacity-50;
   @extend .text-bg-dark;
   font-size: 75%;
+  border-top-left-radius: var(--bs-border-radius) !important;
   a {
     @extend .link-light;
     @extend .link-opacity-75;

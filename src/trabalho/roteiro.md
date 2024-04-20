@@ -18,7 +18,7 @@ nocite: "@tinoco:2013planos"
 
 # O que é um plano de preservação #
 
-<figure>
+<figure class="blockquote">
 > Tais planos são documentos técnicos de planejamento que estabelecem
 > políticas de administração para o uso adequado dos espaços e dos
 > componentes construtivos, bem como da manutenção periódica dos

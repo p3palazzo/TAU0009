@@ -52,7 +52,7 @@ relacionada com as dimensões e a função de cada membro.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: aside
-![Frechal de uma parede em taipa ou adobe. Desenho: Sylvio de Vasconcellos](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-004.png){#fig:frechal .line}
+![Frechal de uma parede em taipa ou adobe. 1 -- frechais, 2 -- tarugo ou tarufo, 3 -- armadura em tora roliça, 4 -- taipa. Desenho: Sylvio de Vasconcellos](/assets/media/vasconcellos-004-frechal-corte.png){#fig:frechal .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -70,12 +70,22 @@ relacionada com as dimensões e a função de cada membro.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
+::: {.float-lg-start .col-lg-6}
+![Casa em Herculano, século I d.C., com térreo em alvenaria mista e sobrado em *opus craticium*. Desenho: Jean-Pierre Adam](/assets/media/adam-470-casa-bottega-herculanum-v-20-opus-craticium.png){#fig:ercolano .line}
+:::
+
+::: {.float-lg-end .col-lg-6}
+![Frans Post, Casa em construção em Serinhaém, c. 1660](/assets/media/frans-post-serinhaem-neves-construcao-terra-brasil.png){#fig:frans-post}
+:::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:baldrames .columns}
 :::::: {.col-md-6 .col-lg-6 .column}
-![com alicerce ensoleirado](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-001.png){#fig:baldrameA .line}
+![com alicerce ensoleirado](/assets/media/vasconcellos-001-alicerce-ensoleirado.png){#fig:baldrameA .line}
 ::::::
 :::::: {.col-md-6 .col-lg-6 .column}
-![com esteio apoiado no alicerce](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-002-1.png){#fig:baldrameB .line}
+![com esteio apoiado no alicerce](/assets/media/vasconcellos-002-baldrame-esteio-alicerce.png){#fig:baldrameB .line}
 ::::::
 Esquemas de interfaz entre o alicerce e o frontal. Desenhos: Sylvio de Vasconcellos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -84,17 +94,38 @@ Esquemas de interfaz entre o alicerce e o frontal. Desenhos: Sylvio de Vasconcel
 
 :::::::::::::::::::::::::::::::::::::::: {#fig:nabo .columns .col-lg-12}
 :::::: {.column .col-md-6 .col-xl-4}
-![encaixe de frechais e baldrame no esteio](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-013.png){#fig:encaixe-esteio .line}
+![encaixe de frechais e baldrame no esteio](/assets/media/vasconcelos-013-encaixe-esteio-baldrame-nabo.png){#fig:encaixe-esteio .line}
 ::::::
 :::::: {.column .col-md-6 .col-xl-5}
-![interfaz do baldrame e do nabo do esteio com o solo](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-021b-1.png){#fig:encaixe-nabo .line}
+![interfaz do baldrame e do nabo do esteio com o solo](/assets/media/vasconcelos-021b-esteio-nabo-baldrame-alicerce-burro.png){#fig:encaixe-nabo .line}
 ::::::
 Interfaces do frontal. Desenho: Sylvio de Vasconcellos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+<div class="clear: both; width: 100%">&nbsp;</div>
+
+#### A gaiola pombalina ####
+
+como o nome indica, é uma norma de construção
+instituída sob o governo do marquês de Pombal, no terceiro quartel do
+século [XVIII]{style="font-variant: all-small-caps"}. Na esteira do
+terremoto de Lisboa, ela visava a reduzir os danos causados por sismos
+em edifícios altos. Embora não haja atividade sísmica significativa no
+Brasil, a gaiola pombalina foi adotada em sobrados de algumas cidades
+planejadas a partir da segunda metade do mesmo século. Os exemplos mais
+significativos se encontram em São Luís, capital do Maranhão, e em São
+Luiz do Paraitinga, em São Paulo.
+
 ## Assoalhos ##
 
 ## Forros e tabiques ##
+
+O esqueleto estrutural em madeira precisa ser complementado por
+superfícies de vedação. Essa vedação pode ser feita em tábuas
+(assoalhos, forros e tabiques) ou em divisórias de pau-a-pique, também
+conhecido como taipa de mão ou de sebe.
 
 ## Cercas e colmos ##
 
@@ -104,10 +135,10 @@ Interfaces do frontal. Desenho: Sylvio de Vasconcellos
 
 :::::::::::::::::::::::::::::: {#fig:talha-jesuitas .columns .col-lg-12}
 ::: {.col-lg-6 .column}
-![](https://hcommons.org/app/uploads/sites/1002372/2024/04/costa-jesuitas-04-talha.png){.line}
+![](/assets/media/costa-jesuitas-04-talha.png){.line}
 :::
 ::: {.col-lg-6 .column}
-![](https://hcommons.org/app/uploads/sites/1002372/2024/04/costa-jesuitas-05-talha.png){.line}
+![](/assets/media/costa-jesuitas-05-talha.png){.line}
 :::
 Estilos de talha em retábulos de igrejas jesuíticas. Desenho: Lucio Costa
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

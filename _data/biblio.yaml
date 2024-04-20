@@ -1,5 +1,28 @@
 ---
 references:
+- id: adam:1990larte
+  author:
+    - family: Adam
+      given: Jean-Pierre
+  citation-key: adam:1990larte
+  collection-number: '10'
+  collection-title: Biblioteca di archeologia
+  edition: 2. ed
+  event-place: Milano
+  ISBN: 978-88-304-0855-5
+  issued:
+    - year: 1990
+  language: ita
+  number-of-pages: '367'
+  publisher: Longanesi
+  publisher-place: Milano
+  source: K10plus ISBN
+  title: L'arte di costruire presso i Romani
+  translator:
+    - family: Guidobaldi
+      given: Maria Paola
+  type: book
+
 - id: alarcao:1988dominio
   author:
     - family: Alarcão
@@ -168,7 +191,7 @@ references:
   genre: Dissertação (Mestrado em Arquitectura)
   issued:
     - year: 2015
-  language: pt
+  language: por
   license: embargoedAccess
   publisher: Universidade Lusíada
   publisher-place: Lisboa
@@ -674,7 +697,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1895
-  language: pt
+  language: por
   number-of-pages: '216'
   publisher: 'Bertrand : José Bastos'
   publisher-place: Lisboa
@@ -703,7 +726,7 @@ references:
   event-place: Santa Monica, Cal.
   issued:
     - year: 2008
-  language: en
+  language: eng
   publisher: Getty Conservation Institute
   publisher-place: Santa Monica, Cal.
   source: Open WorldCat
@@ -1601,7 +1624,7 @@ references:
   issued:
     - year: 2012
       month: 6
-  language: pt
+  language: por
   page: 321-361
   source: DOI.org (Crossref)
   title: >-
@@ -1807,13 +1830,14 @@ references:
       given: Romildo Dias Toledo
   citation-key: caldas:2021construcao12
   container-title: PARC Pesquisa em Arquitetura e Construção
+  container-title-short: PARC
   DOI: 10.20396/parc.v12i00.8656279
   ISSN: 1980-6809
   issued:
     - year: 2021
       month: 7
       day: 6
-  language: pt
+  language: por
   license: Copyright (c) 2021 PARC Pesquisa em Arquitetura e Construção
   page: e021015-e021015
   source: periodicos.sbu.unicamp.br
@@ -2907,7 +2931,7 @@ references:
   genre: Dissertação (Mestrado em Arquitetura e Urbanismo)
   issued:
     - year: 1994
-  language: pt
+  language: por
   publisher: Universidade de São Paulo
   publisher-place: São Paulo
   title: >-
@@ -3606,7 +3630,7 @@ references:
   ISBN: 978-989-8885-04-3
   issued:
     - year: 2018
-  language: pt
+  language: por
   publisher: Argumentum
   publisher-place: Lisboa
   source: Open WorldCat
@@ -3939,7 +3963,7 @@ references:
     - year: 2011
       month: 6
       day: 30
-  language: pt
+  language: por
   page: 81-93
   source: DOI.org (Crossref)
   title: >-
@@ -4158,7 +4182,7 @@ references:
   ISBN: 978-972-8479-51-0
   issued:
     - year: 2007
-  language: pt
+  language: por
   number-of-pages: '143'
   publisher: Argumentum
   publisher-place: Lisboa
@@ -4264,7 +4288,7 @@ references:
   ISBN: 978-1-4051-1171-3
   issued:
     - year: 2007
-  language: en
+  language: eng
   number-of-pages: '238'
   publisher: Blackwell
   publisher-place: Oxford, UK ; Malden, Mass.
@@ -4716,7 +4740,7 @@ references:
   issue: '2'
   issued:
     - year: 2016
-  language: en
+  language: eng
   page: 1-22
   publisher: The Construction History Society
   source: JSTOR
@@ -6463,7 +6487,7 @@ references:
   ISBN: 978-972-24-1234-6
   issued:
     - year: 2002
-  language: pt
+  language: por
   number-of-pages: '430'
   publisher: Horizonte
   publisher-place: Lisboa
@@ -6505,7 +6529,7 @@ references:
   ISBN: 978-972-24-1796-9
   issued:
     - year: 2015
-  language: pt
+  language: por
   number-of-pages: '233'
   publisher: Horizonte
   publisher-place: Lisboa
@@ -6753,7 +6777,7 @@ references:
   ISBN: 978-85-65358-84-2
   issued:
     - year: 2015
-  language: pt
+  language: por
   publisher: B4
   publisher-place: São Paulo
   source: K10plus ISBN
@@ -6917,7 +6941,7 @@ references:
   ISBN: 978-972-33-1054-2
   issued:
     - year: 1995
-  language: pt
+  language: por
   publisher: Estampa
   publisher-place: Lisboa
   source: Open WorldCat
@@ -7075,7 +7099,7 @@ references:
   ISBN: 978-65-86753-59-2
   issued:
     - year: 2022
-  language: pt
+  language: por
   publisher: Associação Amigos da Natureza da Alta Paulista
   publisher-place: Tupã
   source: Zotero
@@ -7312,7 +7336,7 @@ references:
     - family: Costa
       given: Aníbal
   citation-key: oliveira:estilo
-  language: pt
+  language: por
   page: '9'
   source: Zotero
   title: Estilo art nouveau em Aveiro e a sua relação com construções de adobe
@@ -8301,7 +8325,7 @@ references:
   ISSN: 0874-9671
   issued:
     - year: 2015
-  language: pt
+  language: por
   page: 369-405
   publisher: >-
     Universidade Nova de Lisboa, Faculdade de Ciências Sociais e Humanas, Centro
@@ -8432,7 +8456,7 @@ references:
   genre: Dissertação de Mestrado em Arquitetura e Urbanismo
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: Universidade Federal de Santa Catarina
   publisher-place: Florianópolis
   title: >-
@@ -8638,7 +8662,7 @@ references:
   ISBN: 978-85-232-1043-4
   issued:
     - year: 2013
-  language: pt
+  language: por
   publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
@@ -8715,10 +8739,10 @@ references:
   citation-key: ribeiro:2011contributo
   container-title: <span smallcaps="smallcaps">ANPUH:</span> 50 Anos
   event-place: São Paulo
-  event-title: <span smallcaps="smallcaps">XXVI</span> Simpósio Nacional de História
+  event-title: XXVI Simpósio Nacional de História
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: <span smallcaps="smallcaps">ANPUH</span>
   publisher-place: São Paulo
   title: Contributo para uma 'História da Construção' no Brasil
@@ -9171,7 +9195,7 @@ references:
     - year: 2013
       month: 4
       day: 30
-  language: pt
+  language: por
   license: Copyright (c) 2018 PARC Pesquisa em Arquitetura e Construção
   number: '1'
   page: 5-14
@@ -10227,7 +10251,7 @@ references:
     Assistente
   issued:
     - year: 2004
-  language: pt
+  language: por
   license: openAccess
   publisher: Universidade do Porto
   publisher-place: Porto
@@ -10380,7 +10404,7 @@ references:
   ISSN: 1980-8267
   issued:
     - year: 2009
-  language: pt-BR
+  language: por
   publisher: Centro de Estudos da Conservação Integrada
   publisher-place: Olinda
   source: Zotero
@@ -10493,7 +10517,7 @@ references:
   issued:
     - year: 2011
       month: 12
-  language: pt
+  language: por
   page: 547-556
   source: SciELO
   title: O desenho e a história da técnica na arquitetura do Brasil colonial
