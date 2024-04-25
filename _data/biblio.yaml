@@ -1,5 +1,28 @@
 ---
 references:
+- id: adam:1990larte
+  author:
+    - family: Adam
+      given: Jean-Pierre
+  citation-key: adam:1990larte
+  collection-number: '10'
+  collection-title: Biblioteca di archeologia
+  edition: 2. ed
+  event-place: Milano
+  ISBN: 978-88-304-0855-5
+  issued:
+    - year: 1990
+  language: ita
+  number-of-pages: '367'
+  publisher: Longanesi
+  publisher-place: Milano
+  source: K10plus ISBN
+  title: L'arte di costruire presso i Romani
+  translator:
+    - family: Guidobaldi
+      given: Maria Paola
+  type: book
+
 - id: alarcao:1988dominio
   author:
     - family: Alarcão
@@ -20,6 +43,26 @@ references:
   title: O domínio romano em Portugal
   type: book
 
+- id: alarcao:2008coimbra
+  author:
+    - family: Alarcão
+      given: Jorge
+      dropping-particle: de
+  call-number: NA9226.C65 A43 2008
+  citation-key: alarcao:2008coimbra
+  event-place: Coimbra
+  ISBN: 978-989-8074-30-0
+  issued:
+    - year: 2008
+  language: por
+  number-of-pages: '308'
+  publisher: Imprensa da Universidade de Coimbra
+  publisher-place: Coimbra
+  source: Library of Congress ISBN
+  title: 'Coimbra: a montagem do cenário urbano'
+  title-short: Coimbra
+  type: book
+
 - id: aldrovandi:2011monumentalidade
   abstract: "Resumo\n\t\t\t\t\tESTE ARTIGO ANALISA ALGUNS ASPECTOS DO HIBRIDISMO INDO-PORTUGUÊS PRESENTES NA ARTE E NA ARQUITETURA SAGRADA E SECULAR, SOB A ÓTICA DE UM DISCURSO MONUMENTAL HEGEMÔNICO ENGENDRADO PELO COLONIALISMO PORTUGUÊS EM TERRITÓRIO INDIANO."
   accessed:
@@ -38,7 +81,7 @@ references:
     - year: 2011
       month: 6
       day: 30
-  language: pt
+  language: por
   page: 149-164
   source: www.periodicos.usp.br
   title: >-
@@ -148,7 +191,7 @@ references:
   genre: Dissertação (Mestrado em Arquitectura)
   issued:
     - year: 2015
-  language: pt
+  language: por
   license: embargoedAccess
   publisher: Universidade Lusíada
   publisher-place: Lisboa
@@ -297,7 +340,7 @@ references:
   issued:
     - year: 2011
       month: 6
-  language: pt
+  language: por
   page: 241-251
   source: DOI.org (Crossref)
   title: >-
@@ -530,6 +573,30 @@ references:
   URL: http://periodicos.sbu.unicamp.br/ojs/index.php/labore/article/view/8646223
   volume: '10'
 
+- id: arestizabal:1979grandjean
+  citation-key: arestizabal:1979grandjean
+  collection-number: '1'
+  collection-title: Uma cidade em questão
+  editor:
+    - family: Arestizabal
+      given: Irma
+    - family: Brenna
+      given: Giovanna Rosso
+      non-dropping-particle: del
+    - family: Worcman
+      given: Susane
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1979
+  language: por
+  publisher: >-
+    <span smallcaps="smallcaps">PUC–RJ</span> : Funarte : Fundação Roberto
+    Marinho
+  publisher-place: Rio de Janeiro
+  title: Grandjean de Montigny e o Rio de Janeiro
+  type: book
+  URL: http://acervo.bndigital.bn.br/sophia/index.asp?codigo_sophia=31785
+
 - id: argan:1973concepto
   author:
     - family: Argan
@@ -615,7 +682,7 @@ references:
   title: Argamassas compatíveis para edifícios antigos
   type: paper-conference
 
-- id: assumpcao:1895diccionarioa
+- id: assumpcao:1895diccionario
   abstract: '52'
   accessed:
     - year: 2020
@@ -626,11 +693,11 @@ references:
       given: Tomaz Lino
       dropping-particle: d'
   call-number: AED-8897
-  citation-key: assumpcao:1895diccionarioa
+  citation-key: assumpcao:1895diccionario
   event-place: Lisboa
   issued:
     - year: 1895
-  language: pt
+  language: por
   number-of-pages: '216'
   publisher: 'Bertrand : José Bastos'
   publisher-place: Lisboa
@@ -659,7 +726,7 @@ references:
   event-place: Santa Monica, Cal.
   issued:
     - year: 2008
-  language: en
+  language: eng
   publisher: Getty Conservation Institute
   publisher-place: Santa Monica, Cal.
   source: Open WorldCat
@@ -881,13 +948,16 @@ references:
   ISBN: 978-989-97558-0-2
   issued:
     - year: 2011
-  language: pt
-  publisher: CITCEM
+  language: por
+  publisher: >-
+    <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">CITCEM</span>
   publisher-place: Porto
   source: Open WorldCat
   title: >-
-    Construtores e artesãos muçulmanos; do serviço colectivo do rei ao
+    Construtores e artesãos muçulmanos: do serviço colectivo do rei ao
     desempenho individual
+  title-short: Construtores e artesãos muçulmanos
   type: chapter
   URL: https://dspace.uevora.pt/rdpc/handle/10174/3811
 
@@ -1001,7 +1071,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1983
-  language: pt
+  language: por
   number-of-volumes: '2'
   publisher: Record
   publisher-place: Rio de Janeiro
@@ -1012,19 +1082,19 @@ references:
       given: Glória Lúcia
   type: book
 
-- id: bazin:1983arquiteturaa
+- id: bazin:1983arquitetura1
   author:
     - family: Bazin
       given: Germain
   call-number: NA5353 .B317 1983
-  citation-key: bazin:1983arquiteturaa
+  citation-key: bazin:1983arquitetura1
   contributor:
     - family: Barata
       given: Mário
   event-place: Rio de Janeiro
   issued:
     - year: 1983
-  language: pt
+  language: por
   publisher: Record
   publisher-place: Rio de Janeiro
   source: dedalus.usp.br Library Catalog
@@ -1034,6 +1104,29 @@ references:
       given: Glória Lúcia
   type: book
   volume: '1'
+
+- id: bazin:1983arquitetura2
+  author:
+    - family: Bazin
+      given: Germain
+  call-number: NA5353 .B317 1983
+  citation-key: bazin:1983arquitetura2
+  contributor:
+    - family: Barata
+      given: Mário
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1983
+  language: por
+  publisher: Record
+  publisher-place: Rio de Janeiro
+  source: dedalus.usp.br Library Catalog
+  title: A arquitetura religiosa barroca no Brasil
+  translator:
+    - family: Nunes
+      given: Glória Lúcia
+  type: book
+  volume: '2'
 
 - id: bazin:2010barroco
   author:
@@ -1342,7 +1435,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
   title: Manual prático de conservação de telhados
@@ -1375,7 +1468,7 @@ references:
   ISBN: 978-85-7579-047-2
   issued:
     - year: 2003
-  language: pt
+  language: por
   publisher: 'Universidade Estácio de Sá : Editora Rio'
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1463,7 +1556,7 @@ references:
   citation-key: brito:2001cofragens
   issued:
     - year: 2001
-  language: pt
+  language: por
   source: DOI.org (Datacite)
   title: Cofragens tradicionais
   type: thesis
@@ -1531,7 +1624,7 @@ references:
   issued:
     - year: 2012
       month: 6
-  language: pt
+  language: por
   page: 321-361
   source: DOI.org (Crossref)
   title: >-
@@ -1541,6 +1634,30 @@ references:
   type: article-journal
   URL: http://ref.scielo.org/dh349c
   volume: '20'
+
+- id: bury:1955borrominesque37
+  accessed:
+    - year: 2019
+      month: 4
+      day: 25
+  archive: JSTOR
+  author:
+    - family: Bury
+      given: J. B.
+  citation-key: bury:1955borrominesque37
+  container-title: The Art Bulletin
+  DOI: 10.2307/3047591
+  ISSN: 0004-3079
+  issue: '1'
+  issued:
+    - year: 1955
+  language: eng
+  page: 27-53
+  source: JSTOR
+  title: The "Borrominesque" churches of colonial Brazil
+  type: article-journal
+  URL: https://www.jstor.org/stable/3047591
+  volume: '37'
 
 - id: bury:1991arquitetura
   author:
@@ -1557,6 +1674,24 @@ references:
   source: Open WorldCat
   title: Arquitetura e arte no Brasil colonial
   type: book
+
+- id: bury:1991estilo
+  author:
+    - family: Bury
+      given: John
+  citation-key: bury:1991estilo
+  container-title: Arquitetura e arte no Brasil colonial
+  event-place: São Paulo
+  ISBN: 85-213-0613-X 978-85-213-0613-9
+  issued:
+    - year: 1991
+  language: por
+  page: 104–123
+  publisher: Nobel
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: O “estilo Aleijadinho” e as igrejas setecentistas brasileiras
+  type: chapter
 
 - id: caja:2020tools
   abstract: >-
@@ -1695,13 +1830,14 @@ references:
       given: Romildo Dias Toledo
   citation-key: caldas:2021construcao12
   container-title: PARC Pesquisa em Arquitetura e Construção
+  container-title-short: PARC
   DOI: 10.20396/parc.v12i00.8656279
   ISSN: 1980-6809
   issued:
     - year: 2021
       month: 7
       day: 6
-  language: pt
+  language: por
   license: Copyright (c) 2021 PARC Pesquisa em Arquitetura e Construção
   page: e021015-e021015
   source: periodicos.sbu.unicamp.br
@@ -1720,7 +1856,7 @@ references:
   ISBN: 978-85-87220-37-0
   issued:
     - year: 2001
-  language: pt-BR
+  language: por
   publisher: 'Casa da Palavra : Departamento Nacional do Livro'
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -1917,9 +2053,9 @@ references:
   publisher-place: Lisbao
   source: Open WorldCat
   title: >-
-    Castelos a Bombordo: etnografias de patrimónios africanos e memórias
+    Castelos a bombordo: etnografias de patrimónios africanos e memórias
     portuguesas
-  title-short: Castelos a Bombordo
+  title-short: Castelos a bombordo
   type: book
 
 - id: cardinal-pett:2016history
@@ -2169,7 +2305,7 @@ references:
   ISBN: 978-1-4175-6466-8
   issued:
     - year: 2003
-  language: es
+  language: spa
   publisher: Nobuko
   publisher-place: Buenos Aires
   source: Open WorldCat
@@ -2518,6 +2654,20 @@ references:
   title-short: Ammaia
   type: book
 
+- id: costa:1941arquitetura
+  author:
+    - family: Costa
+      given: Lúcio
+  citation-key: costa:1941arquitetura
+  container-title: Revista do Serviço do Patrimonio Historico e Artistico Nacional
+  issued:
+    - year: 1941
+  language: por
+  page: 9-104
+  title: A arquitetura dos jesuítas no Brasil
+  type: article-journal
+  volume: '5'
+
 - id: costa:1952arquitetura
   author:
     - family: Costa
@@ -2595,7 +2745,7 @@ references:
   issue: '16'
   issued:
     - year: 2010
-  language: pt-BR
+  language: por
   page: 127-195
   source: SciELO
   title: A arquitetura dos jesuítas no Brasil
@@ -2646,7 +2796,7 @@ references:
   issued:
     - year: 2014
       month: 6
-  language: es
+  language: spa
   page: '64'
   source: EBSCOhost
   title: El estilo neocolonial como modernismo latinoamericano
@@ -2734,6 +2884,40 @@ references:
   type: book
   URL: http://archive.org/details/histriadosnd00cunh
 
+- id: czajkowski:2000guia
+  citation-key: czajkowski:2000guia
+  editor:
+    - family: Czajkowski
+      given: Jorge
+  ISBN: 978-85-87220-27-1
+  issued:
+    - year: 2000
+  language: por
+  number-of-pages: '214'
+  publisher: Casa da Palavra
+  source: Google Books
+  title: Guia da arquitetura eclética no Rio de Janeiro
+  type: book
+
+- id: czajkowski:2001guia
+  call-number: NA857.R5 G853 2001
+  citation-key: czajkowski:2001guia
+  collection-title: Coleção Guias da arquitetura no Rio de Janeiro
+  editor:
+    - family: Czajkowski
+      given: Jorge
+  event-place: Rio de Janeiro
+  ISBN: 978-85-87220-25-7
+  issued:
+    - year: 2001
+  language: por
+  number-of-pages: '219'
+  publisher: Casa da Palavra
+  publisher-place: Rio de Janeiro
+  source: Library of Congress ISBN
+  title: Guia da arquitetura colonial, neoclássica e romântica no Rio de Janeiro
+  type: book
+
 - id: dalambert:1994tijolo
   author:
     - family: Alambert
@@ -2747,7 +2931,7 @@ references:
   genre: Dissertação (Mestrado em Arquitetura e Urbanismo)
   issued:
     - year: 1994
-  language: pt
+  language: por
   publisher: Universidade de São Paulo
   publisher-place: São Paulo
   title: >-
@@ -2799,6 +2983,171 @@ references:
   type: paper-conference
   URL: http://repositorium.sdum.uminho.pt/
 
+- id: debret:1834voyage
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1834voyage
+  event-place: Paris
+  issued:
+    - year: 1834
+    - year: 1839
+  language: fre
+  license: Domínio público
+  number-of-volumes: '3'
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/4716
+
+- id: debret:1834voyage1
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1834voyage1
+  event-place: Paris
+  issued:
+    - year: 1834
+  language: fre
+  license: Domínio público
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/3813
+  volume: '1'
+
+- id: debret:1835voyage2
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1835voyage2
+  event-place: Paris
+  issued:
+    - year: 1835
+  language: fre
+  license: Domínio público
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, Séjour d'un Artiste Français
+    au Brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'Avenement
+    et de l'Abdication de S. M. D. Pedro Ier, fondateur de l'Empire brésilien
+  title-short: Voyage pittoresque et historique au Brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/3802
+  volume: '2'
+
+- id: debret:1839voyage3
+  abstract: >-
+    A Viagem pitoresca evidencia o gênio artístico do pintor e desenhista
+    francês Jean Baptiste Debret, cuja característica marcante é o fato de
+    revelar em imagens a história da vida urbana brasileira do início de século
+    XIX e da vida na corte do Rio de Janeiro. Apresenta também algumas imagens
+    de São Paulo e de províncias do sul, as quais só visitou tardiamente, nos
+    seus últimos anos de Brasil. Esse livro foi publicado inicialmente em Paris,
+    em 26 fascículos, durante os anos 1834 a 1839, formando um conjunto de 3
+    volumes. O primeiro volume é dedicado aos índios e à natureza; o segundo
+    registra os brancos e os negros em seu cotidiano, retratando inúmeros
+    escravos; o terceiro é voltado para a corte e as elites, tratando de cenas
+    do cotidiano e das manifestações culturais, como as festas e as tradições
+    populares. Os exemplares da Viagem pitoresca foram impressos, em sua
+    maioria, com gravuras em preto e branco, embora tenham sido produzidos uns
+    pouquíssimos exemplares coloridos.
+  accessed:
+    - year: 2019
+      month: 11
+      day: 8
+  author:
+    - family: Debret
+      given: Jean Baptiste
+  citation-key: debret:1839voyage3
+  event-place: Paris
+  issued:
+    - year: 1839
+  language: fre
+  license: Domínio público
+  publisher: Firmin-Didot frères
+  publisher-place: Paris
+  source: digital.bbm.usp.br
+  title: >-
+    Voyage pittoresque et historique au Brésil: ou, séjour d'un artiste français
+    au brésil, depuis 1816 jusqu'en 1831 inclusivement, époques de l'avenement
+    et de l'abdication de S. M. D. Pedro Ier, fondateur de l'empire brésilien
+  title-short: Voyage pittoresque et historique au brésil
+  type: book
+  URL: http://digital.bbm.usp.br/handle/bbm/4716
+  volume: '3'
+
 - id: deupi:2015architectural
   abstract: >-
     "Architectural Temperance examines relations between Bourbon Spain and papal
@@ -2831,6 +3180,22 @@ references:
   title: 'Architectural temperance: Spain and Rome, 1700-1759'
   title-short: Architectural temperance
   type: book
+
+- id: dgpc:casa
+  accessed:
+    - year: 2019
+      month: 12
+      day: 12
+  author:
+    - family: DGPC
+      given: Direção-Geral do Património Cultural
+  citation-key: dgpc:casa
+  container-title: Património Cultural
+  language: por
+  title: Casa das Gelosias
+  type: webpage
+  URL: >-
+    http://www.patrimoniocultural.gov.pt/pt/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/74661/
 
 - id: dias:2001patrimonio
   author:
@@ -2916,6 +3281,24 @@ references:
   title: Recuperação de imóveis privados em centros históricos
   type: book
 
+- id: disney:2009history1
+  author:
+    - family: Disney
+      given: A. R.
+  call-number: DP517 .D57 2009
+  citation-key: disney:2009history1
+  event-place: New York
+  ISBN: 978-0-521-84318-8 978-0-521-60397-3
+  issued:
+    - year: 2009
+  language: eng
+  publisher: Cambridge University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: A history of Portugal and the Portuguese empire
+  type: book
+  volume: '1'
+
 - id: donato:2009cidade
   abstract: >-
     O estudo consiste de uma análise de documentos iconográficos referentes a
@@ -2997,7 +3380,7 @@ references:
     - year: 2009
       month: 3
       day: 3
-  language: pt-br
+  language: por
   publisher: Universidade de São Paulo, Escola de Engenharia
   publisher-place: São Carlos
   source: teses.usp.br
@@ -3073,6 +3456,7 @@ references:
       day: 1
   language: en
   page: 339-350
+  publisher: Taylor & Francis
   source: ScienceDirect
   title: >-
     Heritage conservation and architectural education: “An educational
@@ -3195,6 +3579,44 @@ references:
   title-short: La politica delle città nuove nel sud-ovest della Francia
   type: chapter
 
+- id: famin:1806architecture
+  abstract: >-
+    Etched, illustrated t.p. precedes numbered plates; "Table chronologique des
+    architectes" : p. [47]-48; Plates issued in 18 fascicles, 1806-1815; Getty
+    c. 2 retains 1806 title leaf, on which Famin's name precedes Grandjean's,
+    and with imprint: A Paris : Chez les auteurs, rue des Prouvaires, no. 35 (De
+    l'imprimerie de Gueffier). This copy also includes an earlier version of the
+    introduction entitled "Discours préliminaire" (4 p.), as well as the
+    slightly revised "Préface" (vij p.) of 1815; Getty c. 1 has Giovanni Muzio's
+    bookplate, etched by Giacomo Manzù, and L.A. Meyer's hand-lettered label
+    recording his acquisition of the vol. on 26 Nov. 1874; bookseller's labels
+    of Ernst Wasmuth, Berlin, and Leo Olschki, Florence
+  accessed:
+    - year: 2019
+      month: 5
+      day: 7
+  author:
+    - family: Famin
+      given: Auguste Pierre Sainte Marie
+    - family: Grandjean de Montigny
+      given: Auguste Henri Victor
+  call-number: '9923302870001551'
+  citation-key: famin:1806architecture
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Paris
+  issued:
+    - year: 1806
+  language: fre
+  number-of-pages: '289'
+  publisher: Chez les auteurs
+  publisher-place: Paris
+  source: Internet Archive
+  title: Architecture toscane, ou, Palais, maisons, et autres édifices de la Toscane
+  title-short: Architecture toscane
+  type: book
+  URL: http://archive.org/details/gri_33125012245235
+
 - id: faria:2018rebocos
   author:
     - family: Faria
@@ -3208,7 +3630,7 @@ references:
   ISBN: 978-989-8885-04-3
   issued:
     - year: 2018
-  language: pt
+  language: por
   publisher: Argumentum
   publisher-place: Lisboa
   source: Open WorldCat
@@ -3477,6 +3899,23 @@ references:
   URL: https://doi.org/10.1080/00038628.2014.974019
   volume: '58'
 
+- id: ferreira:2000quinta13
+  author:
+    - family: Ferreira
+      given: João Carlos
+    - family: Martins
+      given: Angela Maria Moreira
+  citation-key: ferreira:2000quinta13
+  container-title: Paisagem e Ambiente Ensaios
+  issued:
+    - year: 2000
+      month: 12
+  language: por
+  page: 125–145
+  title: 'Quinta da Boa Vista: de espaço de elite a espaço público'
+  type: article-journal
+  volume: '13'
+
 - id: figueiredo:2011caracterizacao
   abstract: >-
     The architectural heritage of the historical city centre of São Luís of
@@ -3524,7 +3963,7 @@ references:
     - year: 2011
       month: 6
       day: 30
-  language: pt
+  language: por
   page: 81-93
   source: DOI.org (Crossref)
   title: >-
@@ -3589,7 +4028,7 @@ references:
   genre: Tese de doutorado
   issued:
     - year: 2014
-  language: pt-BR
+  language: por
   publisher: >-
     Programa de Pós-Graduação em Arquitetura e Urbanismo, Universidade de
     Brasília
@@ -3743,7 +4182,7 @@ references:
   ISBN: 978-972-8479-51-0
   issued:
     - year: 2007
-  language: pt
+  language: por
   number-of-pages: '143'
   publisher: Argumentum
   publisher-place: Lisboa
@@ -3795,7 +4234,7 @@ references:
     - year: 2016
       month: 4
       day: 18
-  language: pt-BR
+  language: por
   license: Acesso Aberto
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasília
@@ -3849,13 +4288,42 @@ references:
   ISBN: 978-1-4051-1171-3
   issued:
     - year: 2007
-  language: en
+  language: eng
   number-of-pages: '238'
   publisher: Blackwell
   publisher-place: Oxford, UK ; Malden, Mass.
   source: Library of Congress ISBN
   title: Structures & construction in historic building conservation
   type: book
+
+- id: fortes:1728engenheiro
+  author:
+    - family: Fortes
+      given: Manuel de Azevedo
+  call-number: '6'
+  citation-key: fortes:1728engenheiro
+  contributor:
+    - family: Costa
+      given: Manuel Fernandes
+      dropping-particle: da
+    - family: Rochefort
+      given: Pedro
+      dropping-particle: de
+    - family: Quillard
+      given: Pierre Antoine
+  event-place: Lisboa Occidental
+  issued:
+    - year: 1728
+    - year: 1729
+  language: por
+  number-of-volumes: '2'
+  publisher: Manoel Fernandes da Costa, Impressor do Santo Officio
+  publisher-place: Lisboa Occidental
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: 'O engenheiro portuguez: dividido em dous tratados'
+  title-short: O engenheiro portuguez
+  type: book
+  URL: https://purl.pt/14547
 
 - id: fraile:2007infografia
   abstract: >-
@@ -3881,7 +4349,7 @@ references:
   ISBN: 978-84-611-4123-4
   issued:
     - year: 2007
-  language: es
+  language: spa
   page: 429-444
   section: >-
     Primer Simposio de la Investigación y Difusión Arqueopaleontológica en el
@@ -3945,14 +4413,13 @@ references:
       given: Vítor Manuel
   collection-number: '5'
   collection-title: História da arte em Portugal
-  edition: '1'
   event-place: Lisboa
   ISBN: >-
     978-972-23-2827-2 978-972-23-2841-8 978-972-23-2924-8 978-972-23-3017-6
     978-972-23-3154-8 978-972-23-3244-6
   issued:
     - year: 2004
-  language: pt
+  language: por
   publisher: Presença
   publisher-place: Lisboa
   source: Open WorldCat
@@ -4087,7 +4554,7 @@ references:
   ISBN: 978-84-943132-3-3
   issued:
     - year: 2014
-  language: es
+  language: spa
   publisher: Mairea
   publisher-place: Madrid
   source: Open WorldCat
@@ -4131,7 +4598,7 @@ references:
   ISBN: 978-84-949500-1-8
   issued:
     - year: 2018
-  language: es
+  language: spa
   publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
   title: >-
@@ -4166,7 +4633,7 @@ references:
   ISBN: 978-84-09-14635-2
   issued:
     - year: 2019
-  language: es
+  language: spa
   publisher: <span smallcaps="smallcaps">INTBAU</span> España
   publisher-place: Madrid
   source: Open WorldCat
@@ -4273,7 +4740,7 @@ references:
   issue: '2'
   issued:
     - year: 2016
-  language: en
+  language: eng
   page: 1-22
   publisher: The Construction History Society
   source: JSTOR
@@ -4378,7 +4845,7 @@ references:
   ISBN: 978-85-7334-035-8
   issued:
     - year: 2006
-  language: pt
+  language: por
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: 'Madeira: uso e conservação'
@@ -4531,6 +4998,44 @@ references:
     - family: Bottmann
       given: Denise
   type: book
+
+- id: grandjean:1815architecture
+  abstract: >-
+    Etched, illustrated t.p. precedes numbered plates; "Table chronologique des
+    architectes" : p. [47]-48; Plates issued in 18 fascicles, 1806-1815; Getty
+    c. 2 retains 1806 title leaf, on which Famin's name precedes Grandjean's,
+    and with imprint: A Paris : Chez les auteurs, rue des Prouvaires, no. 35 (De
+    l'imprimerie de Gueffier). This copy also includes an earlier version of the
+    introduction entitled "Discours préliminaire" (4 p.), as well as the
+    slightly revised "Préface" (vij p.) of 1815; Getty c. 1 has Giovanni Muzio's
+    bookplate, etched by Giacomo Manzù, and L.A. Meyer's hand-lettered label
+    recording his acquisition of the vol. on 26 Nov. 1874; bookseller's labels
+    of Ernst Wasmuth, Berlin, and Leo Olschki, Florence
+  accessed:
+    - year: 2019
+      month: 5
+      day: 7
+  author:
+    - family: Grandjean de Montigny
+      given: Auguste Henri Victor
+    - family: Famin
+      given: Auguste Pierre Sainte Marie
+  call-number: '9923302870001551'
+  citation-key: grandjean:1815architecture
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Paris
+  issued:
+    - year: 1815
+  language: fre
+  number-of-pages: '289'
+  publisher: P. Didot l'aîné
+  publisher-place: Paris
+  source: Internet Archive
+  title: Architecture toscane, ou, Palais, maisons, et autres édifices de la Toscane
+  title-short: Architecture toscane
+  type: book
+  URL: http://archive.org/details/gri_33125012245235
 
 - id: hakim:2010arabicislamic
   author:
@@ -4781,12 +5286,38 @@ references:
   issue: '11'
   issued:
     - year: 1990
-  language: pt
+  language: por
   page: 1–12
   title: Fundamentos de preservação de madeiras
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_nlinks&ref=000077&pid=S0103-8478201300080000900008&lng=pt
+
+- id: jarrasse:2006feminite
+  author:
+    - family: Jarrassé
+      given: Dominique
+  call-number: NA388.A2 O75 2006
+  citation-key: jarrasse:2006feminite
+  collection-title: Arts. Histoire des arts
+  container-title: L'orient des architectes
+  editor:
+    - family: Bertrand
+      given: Nathalie
+  event-place: Aix-en-Provence
+  ISBN: 978-2-85399-633-4
+  issued:
+    - year: 2006
+  language: fre
+  page: 77–94
+  publisher: Publications de l'université de Provence
+  publisher-place: Aix-en-Provence
+  source: Library of Congress ISBN
+  title: >-
+    Féminité, passivité, fantaisie… Architecture et caractère des peuples
+    orientaux au regard de l'Occident
+  title-short: Féminité, passivité, fantaisie…
+  type: chapter
 
 - id: jornada:2022
   abstract: >-
@@ -4803,7 +5334,7 @@ references:
     - year: 2022
       month: 4
       day: 19
-  language: es
+  language: spa
   publisher: Kalam
   source: Vimeo
   title: 'Jornada rehabilitación estructuras de madera: Enrique Nuere'
@@ -4841,7 +5372,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2019
-  language: pt-BR
+  language: por
   publisher: Escola da Cidade
   publisher-place: São Paulo
   title: Manual da arquitetura kamayurá
@@ -4870,6 +5401,30 @@ references:
   URL: http://www.jstor.org/stable/4490923
   volume: '61'
 
+- id: kelly:1984expensive126
+  accessed:
+    - year: 2019
+      month: 5
+      day: 6
+  archive: JSTOR
+  author:
+    - family: Kelly
+      given: Alison
+  citation-key: kelly:1984expensive126
+  container-title: The Burlington Magazine
+  ISSN: 0007-6287
+  issue: '978'
+  issued:
+    - year: 1984
+  language: en
+  page: 548-553
+  source: JSTOR
+  title: 'An expensive present: the Adam screen in Rio de Janeiro'
+  title-short: An Expensive Present
+  type: article-journal
+  URL: https://www.jstor.org/stable/881762
+  volume: '126'
+
 - id: kemp:1996antiguo
   author:
     - family: Kemp
@@ -4879,7 +5434,7 @@ references:
   ISBN: 978-84-7423-775-7
   issued:
     - year: 1996
-  language: es
+  language: spa
   publisher: Mondadori
   publisher-place: Barcelona
   source: Open WorldCat
@@ -4898,11 +5453,55 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: Manual de conservação preventiva para edificações
   type: book
+
+- id: komisar:2005looking
+  abstract: >-
+    Architecture is all too often seen as the result of the creative process of
+    one architect. While this is convenient, it does not provide a complete
+    picture. Not only does the model of a sole, master architect tell only a
+    partial story, but also this conceit can hinder the understanding of design
+    processes, intention, and meaning. Discussed here are the results of a
+    methodology used to tease out sources of the various elements that were
+    combined into a fusion of ideas and techniques in the case of church
+    architecture in Minas Gerais, Brazil, during the end of the colonial period.
+    This investigation revealed collaborations and collegial exchanges of
+    information and ideas in this society comprised of people born in Portugal,
+    Africa, and Brazil. This seeks to contribute to a more robust understanding
+    of how particular architectural innovations were developed. In addition,
+    this paper seeks to develop ways to challenge the notion that architecture
+    is the result of one master designer.
+  accessed:
+    - year: 2018
+      month: 11
+      day: 16
+  author:
+    - family: Komisar
+      given: June D.
+  citation-key: komisar:2005looking
+  container-title: >-
+    Collections électroniques de l’INHA. Actes de colloques et livres en ligne
+    de l’Institut national d'histoire de l'art
+  event-place: Paris
+  issued:
+    - year: 2005
+      month: 9
+      day: 4
+  language: eng
+  license: Tous droits réservés
+  publisher: Institut national d’histoire de l’art
+  publisher-place: Paris
+  source: journals.openedition.org
+  title: >-
+    Looking at collaboration as a key to creative expression: the case of
+    colonial architecture
+  title-short: Looking at collaboration as a key to creative expression
+  type: chapter
+  URL: http://journals.openedition.org/inha/513
 
 - id: krier:2009architecture
   author:
@@ -4981,7 +5580,7 @@ references:
     - year: 2006
       month: 4
       day: 1
-  language: pt-BR
+  language: por
   page: '16'
   source: DOI.org (Crossref)
   title: História e ética na conservação e na restauração de monumentos históricos
@@ -5064,7 +5663,7 @@ references:
   event-place: Recife
   issued:
     - year: 1977
-  language: pt
+  language: por
   publisher: Universidade Federal de Pernambuco
   publisher-place: Recife
   source: Open WorldCat
@@ -5244,7 +5843,7 @@ references:
   title-short: Alvenaria burguesa
   type: book
 
-- id: lemos:1993transformacoes
+- id: lemos:1993transformacoes1
   abstract: >-
     Depois de referências à arquitetura colonial (inclusive no exame de modelos
     vernaculares portugueses, da contribuição indígena e da adaptação a
@@ -5260,7 +5859,7 @@ references:
   author:
     - family: Lemos
       given: Carlos A. C.
-  citation-key: lemos:1993transformacoes
+  citation-key: lemos:1993transformacoes1
   collection-title: Nova série
   container-title: 'Anais do Museu Paulista: História e Cultura Material'
   DOI: 10.1590/S0101-47141993000100009
@@ -5270,7 +5869,7 @@ references:
     - year: 1993
       month: 1
       day: 1
-  language: pt
+  language: por
   license: Direitos autorais
   page: 95-106
   source: www.revistas.usp.br
@@ -5337,6 +5936,29 @@ references:
   title: Manual de preservação de madeiras
   type: book
 
+- id: lima:2007debret
+  author:
+    - family: Lima
+      given: Valéria Alves Esteves
+  call-number: '94'
+  citation-key: lima:2007debret
+  collection-number: '25'
+  collection-title: Várias histórias
+  event-place: Campinas
+  ISBN: 978-85-268-0770-9
+  issued:
+    - year: 2007
+  language: por
+  number-of-pages: '325'
+  publisher: Unicamp
+  publisher-place: Campinas
+  source: webopac.sib.uc.pt Library Catalog
+  title: >-
+    J.-B. Debret, historiador e pintor: a viagem pitoresca e histórica ao Brasil
+    (1816-1839)
+  title-short: J.-B. Debret, historiador e pintor
+  type: book
+
 - id: lira:2010patrimonio
   author:
     - family: Lira
@@ -5377,7 +5999,7 @@ references:
     - year: 2020
       month: 5
       day: 15
-  language: pt-BR
+  language: por
   license: Direitos autorais 2020 Oculum Ensaios
   number: '0'
   page: 1-22
@@ -5618,7 +6240,7 @@ references:
   ISBN: 978-65-86328-09-7
   issued:
     - year: 2020
-  language: pt
+  language: por
   publisher: Entrelinhas
   publisher-place: Cuiabá
   source: Zotero
@@ -5865,7 +6487,7 @@ references:
   ISBN: 978-972-24-1234-6
   issued:
     - year: 2002
-  language: pt
+  language: por
   number-of-pages: '430'
   publisher: Horizonte
   publisher-place: Lisboa
@@ -5887,7 +6509,7 @@ references:
   ISBN: 978-972-24-1757-0
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: Horizonte
   publisher-place: Lisboa
   source: Library of Congress ISBN
@@ -5907,7 +6529,7 @@ references:
   ISBN: 978-972-24-1796-9
   issued:
     - year: 2015
-  language: pt
+  language: por
   number-of-pages: '233'
   publisher: Horizonte
   publisher-place: Lisboa
@@ -6115,6 +6737,37 @@ references:
   title-short: Materiais históricos
   type: book
 
+- id: mingo:2015construccion
+  abstract: >-
+    En esta segunda entrega de la serie La construcción de una armadura voy a
+    retratar qué proceso seguían los carpinteros cuando comenzaban a trabajar en
+    la obra de un edificio para construir lo que se daba en llamar el asiento.
+    No obstante, aclararé primero que la fase de diseño y fabricación de las
+    diferentes piezas de la armadura empezaba con bastante anticipación a la
+    colocación in situ, lo cual podía suponer entre meses y años. Pero creo que
+    es más clarificador ver antes la obra que el diseño, puesto que si no nos
+    familiarizamos con las piezas ya terminadas, difícilmente se puede
+    comprender la forma de proyectar una cubierta y de fabricar sus elementos.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 19
+  author:
+    - family: Mingo
+      given: Javier
+      dropping-particle: de
+  citation-key: mingo:2015construccion
+  container-title: Albanécar
+  issued:
+    - year: 2015
+      month: 2
+      day: 15
+  language: spa
+  title: 'La construcción de una armadura, II: El asiento'
+  title-short: La construcción de una armadura, II
+  type: post-weblog
+  URL: https://www.albanecar.es/la-construccion-de-una-armadura2/
+
 - id: minke:2015manual
   author:
     - family: Minke
@@ -6124,7 +6777,7 @@ references:
   ISBN: 978-85-65358-84-2
   issued:
     - year: 2015
-  language: pt
+  language: por
   publisher: B4
   publisher-place: São Paulo
   source: K10plus ISBN
@@ -6159,6 +6812,33 @@ references:
   title-short: The Islamic design module in Latin America
   type: book
 
+- id: monteiro:2000consolidacao
+  author:
+    - family: Monteiro
+      given: Nuno Gonçalves
+  citation-key: monteiro:2000consolidacao
+  container-title: História de Portugal
+  contributor:
+    - family: Mattoso
+      given: José
+  editor:
+    - family: Tengarrinha
+      given: José
+  event-place: 'Bauru : São Paulo : Lisboa'
+  ISBN: 978-85-7460-010-9
+  issued:
+    - year: 2000
+  language: por
+  page: 127–148
+  publisher: Editora da Universidade do Sagrado Coração ; Unesp ; Instituto Camões
+  publisher-place: 'Bauru : São Paulo : Lisboa'
+  source: Open WorldCat
+  title: >-
+    A consolidação da dinastia de Bragança e o apogeu do Portugal barroco:
+    centros de poder e trajetórias sociais (1668–1750)
+  title-short: A consolidação da dinastia de Bragança
+  type: chapter
+
 - id: monteiro:2009idade
   author:
     - family: Monteiro
@@ -6176,7 +6856,7 @@ references:
   event-place: 'Lisboa : Paço de Arcos'
   issued:
     - year: 2009
-  language: pt
+  language: por
   page: 394–850
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
@@ -6261,7 +6941,7 @@ references:
   ISBN: 978-972-33-1054-2
   issued:
     - year: 1995
-  language: pt
+  language: por
   publisher: Estampa
   publisher-place: Lisboa
   source: Open WorldCat
@@ -6306,7 +6986,7 @@ references:
   ISBN: 978-84-8427-119-2
   issued:
     - year: 2001
-  language: es
+  language: spa
   publisher: Ediciones de la Universidad de Castilla-La Mancha
   publisher-place: Cuenca
   source: ruidera.uclm.es
@@ -6419,7 +7099,7 @@ references:
   ISBN: 978-65-86753-59-2
   issued:
     - year: 2022
-  language: pt
+  language: por
   publisher: Associação Amigos da Natureza da Alta Paulista
   publisher-place: Tupã
   source: Zotero
@@ -6460,7 +7140,7 @@ references:
   issued:
     - year: 2004
       month: 10
-  language: pt-BR
+  language: por
   title: >-
     Equívoco histórico em fachadas:  O que não fazer na manutenção das
     construções
@@ -6594,7 +7274,7 @@ references:
   ISBN: 978-85-232-0923-0 978-85-232-0772-4
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
@@ -6656,7 +7336,7 @@ references:
     - family: Costa
       given: Aníbal
   citation-key: oliveira:estilo
-  language: pt
+  language: por
   page: '9'
   source: Zotero
   title: Estilo art nouveau em Aveiro e a sua relação com construções de adobe
@@ -7161,6 +7841,63 @@ references:
   title-short: Repensar a periodização da construção vernacular luso-brasileira
   type: paper-conference
 
+- id: palma:2016desenvolvimento
+  abstract: >-
+    Tendo como objetivo delinear a história urbana de Loulé, entre a sua fudação
+    islâmica e o final da Idade Moderna, desenvolvemos o presente trabalho,
+    sustentado nos dados consultados na bibliografia existente e nos elementos
+    recolhidos nas diversas fontes, nomeadamente atas de vereação, foros e
+    décimas. Este estudo desenvolve-se assim em três partes: a primeira
+    debruça-se sobre a caracterização da paisagem do núcleo urbano e as ligações
+    territoriais; a segunda corresponde à identificação dos elementos que
+    condicionaram o povoamento do local onde surgiu a urbe; a terceira
+    interpreta os dados relativos à análise da evolução urbana de Loulé. 
+
+    O primeiro povoamento de Loulé remonta ao século XI, com a instalação de uma
+    alcaria islâmica. À medida que a estrutura urbana se foi expandindo e
+    consolidando, foi sendo estruturada e configurada, com a construção das
+    muralhas e respetivos equipamentos públicos. A malha urbana foi condicionada
+    pela tipologia da casa-pátio islâmica, com o predomínio de espaços
+    privados. 
+
+    Com a reconquista cristã, em meados do século XIII, a vila foi sujeita a
+    transformações profundas, que incluiram a alteração da fisionomia urbana,
+    apesar dos centros político e religioso manterem a mesma situação e se
+    adaptarem. A população foi-se fixando e a vila desenvolveu-se através da
+    reocupação do núcleo urbano e da formação de bairros fora de portas. Foram
+    surgindo novos equipamentos urbanos, que despoletaram o povoamento. 
+
+    Os Descobrimentos proporcionaram a Loulé uma fase de prosperidade,
+    investindo-se na dignificação do património do concelho e na imagem da vila,
+    tendo a época moderna ficado igualmente marcada pela recessão económica e
+    pela ruralização da população. Desacelerou-se o anterior crescimento
+    demográfico e urbanístico. O núcleo muralhado perdeu protagonismo, tendo os
+    extramuros ganhado uma importância acrescida. O terramoto de 1755 também
+    provocou alterações pontuais na malha urbana.
+  accessed:
+    - year: 2019
+      month: 10
+      day: 25
+  author:
+    - family: Palma
+      given: Jorge Filipe Maria
+      dropping-particle: da
+  citation-key: palma:2016desenvolvimento
+  genre: Dissertação (Mestrado em História)
+  issued:
+    - year: 2016
+      month: 2
+      day: 18
+  language: por
+  license: openAccess
+  publisher: Faculdade de Ciências Humanas e Sociais da Universidade do Algarve
+  source: sapientia.ualg.pt
+  title: >-
+    O desenvolvimento urbano de Loulé do período medieval ao fim da época
+    moderna
+  type: thesis
+  URL: https://sapientia.ualg.pt/handle/10400.1/8056
+
 - id: panerai:2006analise
   author:
     - family: Panerai
@@ -7293,7 +8030,7 @@ references:
   issued:
     - year: 2013
       month: 8
-  language: pt
+  language: por
   page: 597-631
   source: DOI.org (Crossref)
   title: >-
@@ -7596,7 +8333,7 @@ references:
   ISBN: 978-85-7004-394-8
   issued:
     - year: 2018
-  language: pt
+  language: por
   number-of-pages: '350'
   publisher: Fundação Casa de Rui Barbosa
   publisher-place: Rio de Janeiro
@@ -7605,6 +8342,41 @@ references:
     smallcaps="smallcaps">XIX</span>
   title-short: Gosto neoclássico
   type: book
+
+- id: pimentel:1680methodo
+  author:
+    - family: Pimentel
+      given: Luís Serrão
+  call-number: 623.1(=1.469)"16"
+  citation-key: pimentel:1680methodo
+  contributor:
+    - family: Manuel
+      given: Francisco de Melo
+    - family: Craesbeeck
+      given: António
+    - family: Baptista
+      given: João
+    - family: Bietry
+      given: René
+    - family: Mendes
+      given: Manuel
+    - literal: Ordem de Cister.
+    - literal: Congregação de São Camilo de Lélis
+  event-place: Lisboa
+  issued:
+    - year: 1680
+  language: por
+  publisher: Antonio Craesbeeck de Mello
+  publisher-place: Lisboa
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: >-
+    Methodo lusitanico de desenhar as fortificaçoens das praças regulares, &
+    irregulares, fortes de campanha, e outras obras pertencentes a architectura
+    militar distribuido em duas partes operativa, e qualificativa. Ao muito
+    alto, e poderoso Principe Dom Pedro Nosso Senhor
+  title-short: Methodo lusitanico
+  type: book
+  URL: http://purl.pt/24485
 
 - id: pinheiro:2012neocolonial
   author:
@@ -7639,7 +8411,7 @@ references:
   ISSN: 0874-9671
   issued:
     - year: 2015
-  language: pt
+  language: por
   page: 369-405
   publisher: >-
     Universidade Nova de Lisboa, Faculdade de Ciências Sociais e Humanas, Centro
@@ -7770,7 +8542,7 @@ references:
   genre: Dissertação de Mestrado em Arquitetura e Urbanismo
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: Universidade Federal de Santa Catarina
   publisher-place: Florianópolis
   title: >-
@@ -7807,9 +8579,59 @@ references:
       day: 28
   citation-key: 'publicacoes:'
   container-title: Centro de Estudos Avançados da Conservação Integrada
+  language: por
   title: Publicações
   type: webpage
   URL: http://www.ceci-br.org/ceci/br/publicacoes.html
+
+- id: rabello:2018ideario
+  abstract: >-
+    Este Trabalho de Conclusão de Curso tem por objetivo resgatar a importância
+    do patrimônio arquitetônico neoclássico para capital paraibana, destacando
+    os aspectos socioculturais que nortearam sua produção e os principais
+    indicadores formais que caracterizaram edifícios do gênero. Para tanto, a
+    pesquisa recorre à historiografia sobre o tema e acerca dos exemplares
+    arquitetônicos em específico, considerando a atuação dos profissionais da
+    engenharia militar que conceberam o referido repertório na cidade da
+    Parahyba. Tendo em vista que parte desse patrimônio foi alterado, absorvendo
+    estilemas de novas vertentes arquitetônicas, a pesquisa iconográfica foi
+    fundamental para a identificação e o mapeamento de imóveis construídos ou
+    remodelados segundo as prerrogativas do estilo. O levantamento arquitetônico
+    e a digitalização das respectivas plantas baixas, bem como o levantamento
+    fotográfico das fachadas e dos espaços internos, compõem o material
+    produzido que, organizado através de fichas, reúnem todas as informações
+    básicas acerca de cada prédio. Dada a ênfase na produção arquitetônica
+    local, com bases na engenharia militar, a pesquisa destaca um tópico pouco
+    explorado na historiografia relativa a arquitetura neoclássica no Brasil,
+    cuja relevância reside em dois aspectos principais: o primeiro diz respeito
+    à contribuição teórica dentro da temática, e o segundo refere-se ao caráter
+    documental do trabalho, na medida em que permite inventariar o legado
+    arquitetônico neoclássico na antiga cidade da Parahyba.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 6
+  author:
+    - family: Rabello
+      given: Jessica Soares de Araujo
+  citation-key: rabello:2018ideario
+  event-place: João Pessoa
+  genre: Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo)
+  issued:
+    - year: 2018
+      month: 11
+      day: 8
+  language: por
+  license: Acesso aberto
+  publisher: Universidade Federal da Paraíba
+  publisher-place: João Pessoa
+  source: repositorio.ufpb.br
+  title: >-
+    O ideário imperial na cidade da Parahyba: Uma incursão no patrimônio
+    arquitetônico neoclássico
+  title-short: O ideário imperial na cidade da Parahyba
+  type: thesis
+  URL: https://repositorio.ufpb.br
 
 - id: ramos:2009historia
   citation-key: ramos:2009historia
@@ -7926,7 +8748,7 @@ references:
   ISBN: 978-85-232-1043-4
   issued:
     - year: 2013
-  language: pt
+  language: por
   publisher: Editora <span smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
@@ -7964,7 +8786,7 @@ references:
     - year: 2017
       month: 2
       day: 25
-  language: pt
+  language: por
   license: Direitos autorais 2017 Universidade Estadual de Feira de Santana
   number: '1'
   page: 9-26
@@ -8003,10 +8825,10 @@ references:
   citation-key: ribeiro:2011contributo
   container-title: <span smallcaps="smallcaps">ANPUH:</span> 50 Anos
   event-place: São Paulo
-  event-title: <span smallcaps="smallcaps">XXVI</span> Simpósio Nacional de História
+  event-title: XXVI Simpósio Nacional de História
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: <span smallcaps="smallcaps">ANPUH</span>
   publisher-place: São Paulo
   title: Contributo para uma 'História da Construção' no Brasil
@@ -8325,6 +9147,36 @@ references:
     https://ihgb.org.br/pesquisa/biblioteca/item/24182-annaes-do-5-congresso-brazileiro-de-geographia-realizado-na-cidade-do-salvador,-estado-da-bahia,-de-7-a-16-de-setembro-de-1916-publicados-sob-a-direc%C3%A7%C3%A3o-do-secretario-geral-do-mesmo-congresso-professor-dr-bernardino-jos%C3%A9-de-souza.html
   volume: '1'
 
+- id: sampaio:2021notion
+  abstract: "L’article tente d’appliquer la notion de transfert culturel à deux études de cas en lien avec la région du Minho (Portugal), celui du retable de la chapelle des reliques de l’ancienne église bénédictine de Rio de\_Janeiro et celui du retable principal de l’église bénédictine d’Olinda. La critique n’a que ponctuellement associé ces retables respectivement à André Soares (1720-1769) et au frère José Vilaça (1731-1809), les deux noms les plus connus de l’art minhote, et hésite sur leurs répercussions brésiliennes. Mais le commanditaire du premier de ces retables en avait déjà financé un autre pour la chapelle privée qu’il possédait dans le Minho, et le second appartient au réseau bénédictin, au sein duquel le moine artiste a pu développer son art. Il s’agit donc de comprendre, à la lumière de ces exemples, à la fois en quoi la méthode des transferts culturels est applicable et ce qu’elle peut apporter à la lecture de ces œuvres, tout en interrogeant sa dépendance par rapport à des méthodes plus traditionnelles de l’histoire de l’art."
+  accessed:
+    - year: 2022
+      month: 2
+      day: 17
+  author:
+    - family: Sampaio Lopes
+      given: Raúl C.
+  citation-key: sampaio:2021notion
+  container-title: Perspective. Actualité en histoire de l’art
+  DOI: 10.4000/perspective.23485
+  ISBN: '9782917902912'
+  ISSN: 1777-7852
+  issue: '1'
+  issued:
+    - year: 2021
+      month: 10
+      day: 14
+  language: fre
+  number: '1'
+  page: 169-178
+  publisher: Institut national d’histoire de l’art
+  source: journals.openedition.org
+  title: >-
+    La notion de transfert culturel à l’épreuve du rococo minhote au Brésil, ou
+    vice-versa
+  type: article-journal
+  URL: https://journals.openedition.org/perspective/23485
+
 - id: santiago:2007argamassas
   accessed:
     - year: 2019
@@ -8429,7 +9281,7 @@ references:
     - year: 2013
       month: 4
       day: 30
-  language: pt
+  language: por
   license: Copyright (c) 2018 PARC Pesquisa em Arquitetura e Construção
   number: '1'
   page: 5-14
@@ -8547,7 +9399,7 @@ references:
   event-title: I Congresso Internacional de História da Construção Luso-Brasileira
   issued:
     - year: 2013
-  language: pt
+  language: por
   publisher: Universidade Federal do Espírito Santo
   publisher-place: Vitória
   source: Zotero
@@ -8565,10 +9417,36 @@ references:
   event-place: Brasília
   issued:
     - year: 2002
-  language: pt
+  language: por
   publisher-place: Brasília
   title: Os arquitetos e a historiografia da arquitetura indígena
   type: manuscript
+
+- id: schmidt:1978topografia
+  author:
+    - family: Schmidt
+      given: Giulio
+  citation-key: schmidt:1978topografia
+  container-title: >-
+    Le città di fondazione: atti del 2. Convegno internazionale di storia
+    urbanistica : Lucca, 7-11 settembre 1977
+  editor:
+    - family: Martinelli
+      given: Roberta
+    - family: Nuti
+      given: Lucia
+  event-place: Lucca; Venezia
+  issued:
+    - year: 1978
+  language: ita
+  page: 59–96
+  publisher: >-
+    <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">CISCU</span> : Marsilio
+  publisher-place: Lucca; Venezia
+  source: Open WorldCat
+  title: Topografia storica della città altomedievale
+  type: chapter
 
 - id: schnoor:1995casas
   author:
@@ -8865,7 +9743,7 @@ references:
     - year: 2013
       month: 6
       day: 5
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasília
@@ -8905,7 +9783,7 @@ references:
     - year: 2020
       month: 8
       day: 25
-  language: pt
+  language: por
   license: Copyright (c) 2020 Lucas César Rodrigues da Silva, Rafael de Brito Dias
   page: e28089-e28089
   source: periodicos.unb.br
@@ -8990,6 +9868,64 @@ references:
   URL: >-
     http://www.scielo.br/j/urbe/a/rXv8xkHDmvqCDxrQnFTz4Pn/abstract/?lang=pt&format=html
   volume: '5'
+
+- id: simonard:2019territorio
+  abstract: >-
+    Basé sur des témoignages de constructeurs et de conducteurs de charrettes à
+    bœufs, cet article traite de l’éthos de la charrette à bœufs dans le sertão
+    d’Alagoas et des relations sociales qui s’établissent autour de celle-ci.
+    Nous discutons du processus de resignification qui cherche à résister aux
+    conditions menant à sa disparition. Dans une première partie de cet article,
+    le métier de constructeur est abordé en fonction des ateliers, des éléments
+    constitutifs de la charrette et de la difficulté à acquérir les matières
+    premières nécessaires à cette activité. Ensuite, est abordé le métier de
+    conducteur de charrette à bœufs, les techniques de contrôle des animaux, les
+    utilisations de la charrette à bœufs comme moyen de locomotion, de transport
+    de fret et son utilisation dans des fêtes, des messes et des défilés qui se
+    produisent dans les villes de l’état d’Alagoas. Nous abordons, aussi, le
+    rapport entre tradition et culture populaire. Les données et photographies
+    utilisées dans cet article ont été recueillies lors de travaux de terrain
+    menés entre 2015, 2016 et 2017 dans l'agreste et le sertão d'Alagoas, qui
+    permirent de recueillir des renseignements pour la réalisation du projet de
+    Sauvegarde du patrimoine immatériel à Alagoas. Ce projet utilise la
+    méthodologie Inventaire national des références culturelles (INRC), utilisée
+    par l’Institut du patrimoine historique et artistique national (IPHAN). Des
+    entretiens ont été menés pour remplir les formulaires de l'INRC. Des
+    photographies ont été prises lors de cette recherche, dont une partie non
+    significative fut utilisée dans cet article. Une partie du matériel collecté
+    a abouti à l'élaboration de la cartographie culturelle de l’Alagoas.
+  accessed:
+    - year: 2024
+      month: 4
+      day: 18
+  author:
+    - family: Simonard
+      given: Pedro
+    - family: Mendes Junior
+      given: Walcler de Lima
+  citation-key: simonard:2019territorio
+  container-title: >-
+    Confins. Revue franco-brésilienne de géographie / Revista franco-brasilera
+    de geografia
+  container-title-short: Confins
+  DOI: 10.4000/confins.20355
+  ISSN: 1958-9212
+  issue: '40'
+  issued:
+    - year: 2019
+      month: 5
+      day: 14
+  language: por
+  license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  number: '40'
+  publisher: Théry, Hervé
+  source: journals.openedition.org
+  title: >-
+    O território de circulação do carro de boi alagoano em feiras, festas e
+    oficinas: perlengas de memória e esquecimento
+  title-short: O território de circulação do carro de boi alagoano
+  type: article-journal
+  URL: https://journals.openedition.org/confins/20355
 
 - id: smith:2012robert
   author:
@@ -9401,7 +10337,7 @@ references:
     Assistente
   issued:
     - year: 2004
-  language: pt
+  language: por
   license: openAccess
   publisher: Universidade do Porto
   publisher-place: Porto
@@ -9479,6 +10415,27 @@ references:
   title: Atlas dos monumentos históricos e artísticos do Brasil
   type: book
 
+- id: telles:2008grandjean
+  author:
+    - family: Telles
+      given: Angela
+  call-number: NA1053.G7 T45 2008
+  citation-key: telles:2008grandjean
+  event-place: Rio de Janeiro
+  ISBN: 978-85-60207-08-4
+  issued:
+    - year: 2008
+  language: por
+  number-of-pages: '183'
+  publisher: 'Folha Dirigida : Unirio : Arquivo Nacional'
+  publisher-place: Rio de Janeiro
+  source: Library of Congress ISBN
+  title: >-
+    Grandjean de Montigny: da arquitetura revolucionária à civilização nos
+    trópicos
+  title-short: Grandjean de Montigny
+  type: book
+
 - id: tengarrinha:2000historia
   citation-key: tengarrinha:2000historia
   contributor:
@@ -9533,7 +10490,7 @@ references:
   ISSN: 1980-8267
   issued:
     - year: 2009
-  language: pt-BR
+  language: por
   publisher: Centro de Estudos da Conservação Integrada
   publisher-place: Olinda
   source: Zotero
@@ -9560,6 +10517,24 @@ references:
     Planos de conservação: do ensino à prática, da academia aos canteiros de
     obras
   title-short: Planos de conservação
+  type: book
+
+- id: tirapeli:2007arte
+  author:
+    - family: Tirapeli
+      given: Percival
+  citation-key: tirapeli:2007arte
+  event-place: São Paulo
+  ISBN: >-
+    978-85-04-01005-3 978-85-04-01004-6 978-85-04-01039-8 978-85-04-01043-5
+    978-85-04-01042-8
+  issued:
+    - year: 2007
+  language: por
+  publisher: Companhia Editora Nacional
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Arte imperial : do neoclássico ao ecletismo : século 19'
   type: book
 
 - id: tirapeli:2008igrejas
@@ -9628,7 +10603,7 @@ references:
   issued:
     - year: 2011
       month: 12
-  language: pt
+  language: por
   page: 547-556
   source: SciELO
   title: O desenho e a história da técnica na arquitetura do Brasil colonial
@@ -9997,7 +10972,7 @@ references:
   event-place: Belo Horizonte
   issued:
     - year: 1979
-  language: pt
+  language: por
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
   source: Open WorldCat
@@ -10200,7 +11175,7 @@ references:
   ISBN: 978-85-00-00716-3
   issued:
     - year: 2002
-  language: pt
+  language: por
   publisher: Ediouro
   publisher-place: Rio de Janeio
   source: Câmara Brasileira do Livro ISBN
@@ -10290,7 +11265,7 @@ references:
   ISSN: 0103-9954, 1980-5098
   issued:
     - literal: 2015-Jan-Mar
-  language: pt
+  language: por
   page: 257-271
   publisher: Universidade Federal de Santa Maria
   source: SciELO
@@ -10572,6 +11547,34 @@ references:
   URL: >-
     http://portal.iphan.gov.br/uploads/publicacao/conservacao_preventiva_imoveis_antigos_nucleos_historicos.pdf
 
+- id: worcman:1979grandjean
+  author:
+    - family: Worcman
+      given: Susane
+  citation-key: worcman:1979grandjean
+  collection-number: '1'
+  collection-title: Uma cidade em questão
+  container-title: Grandjean de Montigny e o Rio de Janeiro
+  editor:
+    - family: Arestizabal
+      given: Irma
+    - family: Brenna
+      given: Giovanna Rosso
+      non-dropping-particle: del
+    - family: Worcman
+      given: Susane
+  event-place: Rio de Janeiro
+  issued:
+    - year: 1979
+  language: por
+  page: 35–64
+  publisher: >-
+    <span smallcaps="smallcaps">PUC–RJ</span> : Funarte : Fundação Roberto
+    Marinho
+  publisher-place: Rio de Janeiro
+  title: Grandjean de Montigny, a Missão Francesa e o Rio de Janeiro pela imprensa
+  type: chapter
+
 - id: zancheti:2011indicadores
   citation-key: zancheti:2011indicadores
   editor:
@@ -10661,7 +11664,7 @@ references:
   ISBN: 978-3-0346-0685-1
   issued:
     - year: 2012
-  language: en
+  language: eng
   number-of-pages: '319'
   publisher: Birkhäuser
   publisher-place: Basel

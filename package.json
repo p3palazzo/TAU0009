@@ -1,0 +1,46 @@
+{
+  "name": "TAU0009",
+  "version": "1.0.0",
+  "author": "Pedro P. Palazzo",
+  "license": "CC_BY",
+  "repository": "p3palazzo/TAU0009",
+  "description": "Arquitetura e Urbanismo no Brasil Colônia e Império",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "11ty": "npx @11ty/eleventy",
+    "dev": "npx @11ty/eleventy --serve",
+    "css": "npm-run-all css-compile css-prefix",
+    "css-compile": "sass --style compressed --source-map --embed-sources --no-error-css --load-path=node_modules _scss/:src/assets/css/",
+    "css-lint": "stylelint _scss/",
+    "css-prefix": "postcss --replace src/assets/css/styles.css --use autoprefixer --map",
+    "watch": "nodemon -e html,scss -x \"npm run css\"",
+    "start": "npm-run-all --parallel watch dev",
+    "build": "npm-run-all css 11ty",
+    "test": "npm-run-all css-lint css"
+  },
+  "keywords": [
+    "arquitetura",
+    "Brasil",
+    "tradicional"
+  ],
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "autoprefixer": "^10.4.19",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "html-minifier": "^4.0.0",
+    "js-yaml": "^4.1.0",
+    "luxon": "^3.4.4",
+    "node-pandoc": "^0.3.0",
+    "nodemon": "^3.1.0",
+    "npm-run-all": "^4.1.5",
+    "postcss": "^8.4.38",
+    "postcss-cli": "^11.0.0",
+    "reveal.js": "^5.1.0",
+    "sass": "^1.75.0",
+    "stylelint": "^16.3.1"
+  }
+}

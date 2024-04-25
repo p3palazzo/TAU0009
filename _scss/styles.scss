@@ -1,0 +1,484 @@
+@charset "utf-8";
+
+/* ==========================================================================
+   Font providers {{{1
+   ========================================================================== */
+
+@import url("https://use.typekit.net/hny1sfi.css");
+@import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
+
+$serif: "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+$sans-serif: "league-gothic", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+$sans-serif-narrow: "kepler-std-semicondensed-dis", "league-gothic", "Arial Narrow", sans-serif;
+$monospace: "source-code-pro", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+$garamond: "cormorant-garamond", "eb-garamond", Georgia, Times, serif;
+
+
+/* ==========================================================================
+   Variables {{{1
+   ========================================================================== */
+
+// Option 1
+// Import all of Bootstrap's CSS
+
+// @import "bootstrap/scss/bootstrap";
+
+// Option 2
+// Place variable overrides first, then import just the styles you need.
+// Note that some stylesheets are required no matter what.
+
+// Toggle global options
+$enable-shadows: true;
+//$enable-gradients: true;
+
+// This enables auto switching to dark mode based on the client's OS/browser settings:
+$color-mode-type: media-query;
+
+//$offcanvas-box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+
+// Include functions first
+@import "bootstrap/scss/functions";
+
+// Customize some defaults
+$body-color: #111118;
+$body-bg: #fffffc;
+//$border-radius: .4rem;
+$primary: #282f6a;
+$light: #fcf9e6;
+$body-emphasis-color: $primary;
+$link-decoration: none;
+//$success: #7952b3;
+
+$font-family-base: $serif;
+$font-size-base: 1.3rem;
+$headings-font-family: $garamond;
+$headings-font-weight: 300;
+$headings-font-style: italic;
+$headings-color: $body-color;
+
+$legend-font-weight: 500;
+
+/* ==========================================================================
+   Imports {{{1
+   ========================================================================== */
+
+// Required
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/variables-dark";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/utilities";
+@import "bootstrap/scss/root";
+@import "bootstrap/scss/reboot";
+
+@import "bootstrap/scss/type";
+@import "bootstrap/scss/images";
+@import "bootstrap/scss/containers";
+@import "bootstrap/scss/grid";
+@import "bootstrap/scss/tables";
+@import "bootstrap/scss/forms";
+@import "bootstrap/scss/buttons";
+@import "bootstrap/scss/transitions";
+// @import "bootstrap/scss/dropdown";
+@import "bootstrap/scss/button-group";
+@import "bootstrap/scss/nav";
+@import "bootstrap/scss/navbar"; // Requires nav
+@import "bootstrap/scss/card";
+// @import "bootstrap/scss/breadcrumb";
+// @import "bootstrap/scss/accordion";
+@import "bootstrap/scss/pagination";
+// @import "bootstrap/scss/badge";
+// @import "bootstrap/scss/alert";
+// @import "bootstrap/scss/progress";
+@import "bootstrap/scss/list-group";
+@import "bootstrap/scss/close";
+// @import "bootstrap/scss/toasts";
+//@import "bootstrap/scss/modal"; // Requires transitions
+ //@import "bootstrap/scss/tooltip";
+//@import "bootstrap/scss/popover";
+// @import "bootstrap/scss/carousel";
+// @import "bootstrap/scss/spinners";
+@import "bootstrap/scss/offcanvas"; // Requires transitions
+// @import "bootstrap/scss/placeholders";
+
+// Helpers
+@import "bootstrap/scss/helpers";
+
+// Utilities
+@import "bootstrap/scss/utilities/api";
+
+
+/* ==========================================================================
+   Custom styles {{{1
+   ========================================================================== */
+
+// Structural elements {{{2
+body {
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  counter-reset: sidenote-counter;
+}
+
+main {
+  h2,
+  h3:not(.card-title) {
+    @extend .mt-5;
+    @extend .w-100;
+  }
+}
+
+main figure {
+  @extend .figure;
+  img {
+    @extend .figure-img;
+    @extend .img-fluid;
+    @extend .col-lg-7;
+    @extend .border;
+    @media (prefers-color-scheme: dark) {
+      opacity: 0.8;
+    }
+  }
+}
+
+figcaption,
+blockquote > footer {
+  @extend .figure-caption;
+}
+
+main figcaption,
+blockquote > footer {
+  @extend .float-lg-end;
+  @extend .col-lg-4;
+}
+
+hr {
+  @extend .clearfix;
+  @extend .border-0;
+}
+
+// Typographical elements {{{2
+main p:not(.card-text) {
+  text-align: justify;
+  hyphens: auto;
+}
+
+h3:not(.card-title) {
+  @extend .fw-medium;
+  @extend .fs-5;
+}
+
+h2 + h3 {
+  @extend .mt-0;
+}
+
+h1,
+h4,
+h5,
+h6 {
+  @extend .w-auto;
+  @extend .fst-normal;
+}
+
+h5,
+dt {
+  @extend .me-2;
+  font-family: $font-family-base;
+  font-variant: small-caps;
+}
+
+dt {
+  @extend .d-inline-block;
+  @extend .fw-medium;
+}
+
+main ul,
+.sidebar > ul {
+  li::marker {
+    content: "› ";
+  }
+}
+
+
+// Blockquote {{{3
+// Bootstrap specs <blockquote> wrapped in <figure>.
+.blockquote {
+  @extend .my-3;
+  @extend .fs-6;
+}
+
+blockquote > footer,
+blockquote + figcaption {
+  @extend .col-lg-6;
+  @extend .blockquote-footer;
+}
+
+figcaption,
+blockquote > footer {
+  @extend .fw-medium;
+}
+
+// IDs {{{2
+#hero {
+  background-size: cover;
+  background-position: center;
+  input {
+    background-color: rgba($body-bg, 80%);
+    @media (prefers-color-scheme: dark) {
+      background-color: rgba($body-bg-dark, 70%);
+    }
+  }
+  h1,
+  .lead {
+    text-shadow: 1px 1px 2px rgba($body-bg, 70%);
+    @media (prefers-color-scheme: dark) {
+      text-shadow: 1px 1px 2px rgba($body-bg-dark, 70%);
+    }
+  }
+}
+
+#site-nav ul.nav a {
+  @extend .link-secondary;
+}
+
+h1#bibliography {
+  @extend .h2;
+  @extend .fst-italic;
+}
+
+// Bootstrap Classes {{{2
+.site-title {
+  font-variant: all-small-caps;
+  @extend .text-body-secondary;
+  @extend .mb-3;
+  @extend .me-2;
+  @extend .mb-md-0;
+  @extend .lh-1;
+  @extend .text-decoration-none;
+  .site-subtitle {
+    @extend .fst-italic;
+    font-variant: normal;
+    font-variant-numeric: oldstyle-nums;
+  }
+}
+
+.subtitle {
+  @extend .display-3;
+  @extend .fst-italic;
+}
+
+.lead {
+  @extend .col-lg-7;
+  @extend .fst-italic;
+}
+
+.card h3,
+.btn {
+  font-family: $sans-serif-narrow;
+  @extend .fst-normal;
+  a {
+    @extend .link-dark;
+  }
+}
+
+.card-img-top {
+  @extend .object-fit-cover;
+  aspect-ratio: 3 / 2;
+  width: 100%;
+}
+
+.card-header,
+.page-footer {
+  @extend .fw-medium;
+}
+
+.page-footer {
+  @extend .d-flex;
+  @extend .flex-wrap;
+  @extend .justify-content-between;
+  @extend .align-items-center;
+  @extend .py-3;
+  @extend .my-4;
+  @extend .border-top;
+  @extend .fs-6;
+}
+
+// Tufte and CSL classes {{{2
+body:not(.wide) main .row {
+  & > p,
+  & > h3, 
+  & > h4, 
+  & > h5, 
+  & > h6, 
+  & > hr,
+  & > ol, 
+  & > ul, 
+  & > pre, 
+  & > address, 
+  & > dl, 
+  & > fieldset, 
+  & > form, 
+  & > table,
+  #refs {
+    @extend .col-lg-7;
+  }
+  & > blockquote,
+  & > .blockquote {
+    @extend .col-md-11;
+    @extend .col-lg-6;
+    @extend .offset-md-1;
+  }
+}
+
+.epigraph {
+  @extend .col-md-10;
+  @extend .col-lg-5;
+  @extend .offset-md-2;
+  @extend .col-lg-6;
+  @extend .offset-lg-1;
+  @extend .fst-italic;
+}
+
+// Full-width elements
+main .col-lg-12 {
+  & + figcaption {
+    @extend .col-lg-4;
+  }
+}
+
+// CSL {{{3
+.hanging-indent .csl-entry {
+  @extend .my-3;
+  @extend .ps-4;
+  text-indent: -1.3rem;
+}
+
+// Marginalia {{{3
+.aside {
+  @extend .col-md-4;
+  @extend .col-lg-4;
+  @extend .offset-lg-1;
+  @extend .px-0;
+  @extend .float-lg-end;
+  img {
+    @extend .w-100;
+  }
+  figcaption {
+    @extend .w-100;
+  }
+}
+
+.sidenote,
+.marginnote {
+  @extend .d-inline;
+  @extend .offcanvas;
+  @extend .offcanvas-bottom;
+  @extend .p-3;
+  @extend .text-center;
+}
+
+.sidenote-number,
+.sidenote-number:after,
+.sidenote:before {
+  @extend .fw-medium;
+}
+
+.sidenote-number {
+  @extend .mx-2;
+  cursor: pointer;
+  font-family: $font-family-base;
+  counter-increment: sidenote-counter;
+  &:after {
+    content: counter(sidenote-counter);
+    @extend .p-0;
+    @extend .btn;
+    @extend .btn-outline-secondary;
+    @extend .btn-sm;
+    border-radius: 1rem;
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+.sidenote:before {
+  @extend .d-inline;
+  @extend .text-start;
+  @extend .text-nowrap;
+  width: 1.3rem;
+  content: counter(sidenote-counter) " ";
+}
+
+.margin-toggle:checked + .sidenote,
+.margin-toggle:checked + .marginnote {
+  @extend .show;
+}
+
+.margin-toggle:not(.sidenote-number) {
+  @extend .d-inline;
+  @extend .d-lg-none;
+}
+
+
+// Compatibility with Reveal.js {{{2
+.incremental,
+.notes {
+  @extend .col-lg-7;
+}
+
+.columns {
+  @extend .g-3;
+  @extend .row;
+  &:not(.subfigures) figcaption {
+    @extend .col-md-12;
+    @extend .col-lg-8;
+  }
+}
+
+.column {
+  @extend .float-md-start;
+  figure img {
+    @extend .col-md-12;
+    @extend .col-lg-12;
+  }
+}
+
+// Custom classes {{{2
+.subfigures > figcaption {
+  @extend .col-lg-4;
+  @extend .float-lg-end;
+  p {
+    @extend .text-start;
+  }
+}
+
+.hero__caption {
+  @extend .position-absolute;
+  @extend .bottom-0;
+  @extend .end-0;
+  @extend .px-3;
+  @extend .text-end;
+  @extend .opacity-50;
+  @extend .text-bg-dark;
+  font-size: 75%;
+  border-top-left-radius: var(--bs-border-radius) !important;
+  a {
+    @extend .link-light;
+    @extend .link-opacity-75;
+    &:hover {
+      @extend .link-opacity-100;
+    }
+  }
+}
+
+.line {
+  @extend .border-0;
+  @media (prefers-color-scheme: dark) {
+    filter: invert(0.86);
+  }
+}
+
+.page-footer__credit {
+  @extend .d-flex;
+  @extend .col-md-4;
+  @extend .align-items-center;
+  @extend .text-body-secondary;
+}
+// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=marker

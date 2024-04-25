@@ -125,5 +125,19 @@ nocite: |
   @mingo:2015construccion,
   @pereira:1955enciclopedia,
   @vasconcellos:1979arquitetura
+=======
+# Fundações e terraplenos #
+
+# Construção murária #
+
+# Alvenarias #
+
+![Construção do coroamento sobre parede de alvenaria mista. Desenho: Javier de Mingo](https://www.albanecar.es/wp-content/uploads/2018/11/Muro_1802.jpg){#fig:albanecar-asiento}
+
+# Arqueologia da construção #
+
+---
+nocite: |
+  @mingo:2015construccion
 ---
 

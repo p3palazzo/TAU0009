@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+{%- unless lang -%}
+  {%- assign lang = site.locale -%}
+{%- endunless -%}
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ lang }}" xml:lang="{{ lang }}"{% if page.dir %} dir="{{ dir }}"{% endif %}>
+<head>
+  {% include "partials/head.liquid" %}
+</head>
+<body{%- if classes %} class="{{ classes }}" {%- endif -%}>
+{% include "partials/nav.liquid" %}
+
+{% if header -%}
+  {% include "partials/hero.liquid" %}
+{%- else -%}
+<div class="container py-5">
+  <h1 class="display-1">
+    {% if title %}{{ title}}{% else %}{{ site.title }}{% endif %}
+    {% if subtitle -%}
+    <span class="subtitle d-block h-2 fst-italic">
+      {{ subtitle }}
+    </span>
+    {%- endif %}
+  </h1>
+  {% if excerpt %}
+  <div class="col-lg-8 mx-auto lead fs-3">
+    {{ excerpt }}
+  </div>
+  {%- endif %}
+</div>
+{%- endif %}
+
+<main>
+  {{ content }}
+</main>
+
+{% include "partials/footer.liquid" %}
+</body>
+</html>

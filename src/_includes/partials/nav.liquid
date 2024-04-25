@@ -1,0 +1,29 @@
+<header class="px-3 py-1 border-bottom">
+  <div class="container">
+    <nav id="site-nav" class="masthead d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start fw-medium">
+      <a href="{{ '/' | url }}" class="site-title d-flex align-items-center mb-2 mb-lg-0 link-body-emphasis text-decoration-none">
+        {{ site.title }}
+        <span class="site-subtitle px-1 d-inline-block">
+          {{ site.subtitle }}
+        </span>
+      </a>
+
+      {% if navigation.main %}
+      <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0 ps-3">
+        {% for item in navigation.main -%}
+        <li>
+          <a href="{{ item.url }}" target="_blank" class="nav-link px-2">
+            {{ item.title }}
+          </a>
+        </li>
+        {%- endfor %}
+      </ul>
+      {% endif %}
+
+      <form class="col-12 col-lg-auto my-1 me-lg-3" role="search">
+        <input type="search" class="form-control" placeholder="{{ ui.search_verb }}..." aria-label="{{ ui.search_verb }}">
+      </form>
+
+    </nav>
+  </div>
+</header>
