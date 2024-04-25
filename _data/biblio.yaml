@@ -1324,7 +1324,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt-BR
+  language: por
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
   title: 'Manual prático: uso da cal'
@@ -1360,7 +1360,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt-BR
+  language: por
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
   title: 'Manual prático: saneamento básico residencial'
@@ -2395,7 +2395,7 @@ references:
     - year: 2017
       month: 1
       day: 1
-  language: pt
+  language: por
   publisher: Romano Guerra
   publisher-place: São Paulo
   source: Amazon
@@ -4068,7 +4068,7 @@ references:
   event-place: Brasília
   issued:
     - year: 2005
-  language: pt-BR
+  language: por
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   title: Caderno de encargos
@@ -7377,6 +7377,92 @@ references:
     Urban space and national identity in early twentieth century São Paulo,
     Brazil: crafting modernity
   title-short: Urban space and national identity in early twentieth century São Paulo
+  type: book
+
+- id: pereira:1955alvenaria1
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955alvenaria1
+  collection-number: '13'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Obras de alvenaria I
+  type: book
+
+- id: pereira:1955alvenaria2
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955alvenaria2
+  collection-number: '14'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Obras de alvenaria II
+  type: book
+
+- id: pereira:1955cantaria1
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955cantaria1
+  collection-number: '16'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Obras de cantaria I
+  type: book
+
+- id: pereira:1955enciclopedia
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955enciclopedia
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  number-of-volumes: '30'
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Enciclopédia prática da construção civil
+  title-short: Enciclopédia prática
+  type: book
+  URL: https://satae.pt/enciclopedia/
+
+- id: pereira:1955obras
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955obras
+  collection-number: '17'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Obras de cantaria II
   type: book
 
 - id: pereira:1999arvores
