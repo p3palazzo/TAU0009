@@ -27,15 +27,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Install Pandoc
+        uses: pandoc/actions/setup@{main}
+        with:
+          version: 3.1.13
+      - name: Install Pandoc-Crossref
+        run: |
+          wget https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.17.0f/pandoc-crossref-Linux.tar.xz \
+            | tar -xz
+          mv pandoc-crossref-Linux/pandoc-crossref /usr/local/bin/
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: 'recursive'
           lfs: true
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        run : make
+      - name: Build with NPM
+        run : npm install && npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
