@@ -3214,6 +3214,35 @@ references:
   title-short: Patrimônio azulejar brasileiro
   type: book
 
+- id: dietterlin:1598architectura
+  abstract: >-
+    209, [1] leaves : 36 cm. (fol.); In 5 pts., each, except the first, with
+    special engr. t.-p; Another issue, pub. in the same year by Hubrecht and
+    Balthasar Caymox, has t.-p. in black and red and differs slightly; Port. of
+    author-artist framed by the statement "Wendelinus Dietterlin pictor
+    argentinensis. Obyt Ao. M.D.IC. Ætat IL."
+  accessed:
+    - year: 2020
+      month: 11
+      day: 29
+  author:
+    - family: Dietterlin
+      given: Wendel
+  call-number: '9924526060001551'
+  citation-key: dietterlin:1598architectura
+  event-place: Nürnberg
+  issued:
+    - year: 1598
+  language: ger
+  number-of-pages: '430'
+  publisher: Balthasar Caymox
+  publisher-place: Nürnberg
+  source: Internet Archive
+  title: "Architectura von Ausstheilung, Symmetria vnd Proportion der fünff Seulen\_: vnd aller darauss volgender Kunst Arbeit von Fenstern, Caminen, Thürgerichten, Portalen, Bronnen und Epitaphien ..."
+  title-short: Architectura
+  type: book
+  URL: http://archive.org/details/architectvravona00diet
+
 - id: diez:2023documentacao
   accessed:
     - year: 2023
@@ -10923,7 +10952,7 @@ references:
     - year: 2015
       month: 3
       day: 1
-  language: pt
+  language: por
   license: >-
     Confins – Revue franco-brésilienne de géographie est mis à disposition selon
     les termes de la licence Creative Commons Attribution - Pas d’Utilisation
