@@ -35,14 +35,12 @@ jobs:
         run: |
           wget https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.17.0f/pandoc-crossref-Linux.tar.xz
           tar -xf pandoc-crossref-Linux.tar.xz
-          ls -l
-          ls -l pandoc-crossref-Linux
-          mv pandoc-crossref-Linux/pandoc-crossref /usr/local/bin/
+          mv pandoc-crossref /usr/local/bin/
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: 'recursive'
-          lfs: true
+          lfs: "true"
       - name: Build with NPM
         run : npm install && npm run build
       - name: Upload artifact
