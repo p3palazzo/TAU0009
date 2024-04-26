@@ -8,6 +8,7 @@ const w3DateFilter = require('./src/filters/w3-date-filter.js');
 const htmlmin = require('html-minifier');
 const yaml = require('js-yaml');
 const nodePandoc = require('node-pandoc');
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 /********************************
  * eleventyConfig function {{{1 *
  ********************************/
@@ -51,6 +52,7 @@ module.exports = function(eleventyConfig) {
   });
   eleventyConfig.addFilter('w3DateFilter', w3DateFilter);
   eleventyConfig.addDataExtension('yml, yaml', contents => yaml.load(contents));
+  eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
  /********************
   * Setup views {{{2 *
   ********************/
@@ -77,6 +79,7 @@ module.exports = function(eleventyConfig) {
   return {
     htmlTemplateEngine: "njk",
     //markdownTemplateEngine: "njk",
+    pathPrefix: "/TAU0009/",
     dir: {
       templateFormats: ["html", "liquid", "njk"],
       input: 'src',
