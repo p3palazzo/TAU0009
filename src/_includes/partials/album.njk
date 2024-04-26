@@ -4,7 +4,7 @@
   {% for a in album %}
     <div class="col col-sm-6 col-lg-4 col-xl-3">
       <div class="card shadow-sm">
-        <img class="card-img-top" alt="Imagem do(a) {{ a.data.title }}" src="{{ a.data.teaser | url }}" />
+        <img class="card-img-top" alt="Imagem do(a) {{ a.data.title }}" src="{{ a.data.teaser }}" />
         <div class="card-header d-flex align-items-center">
           <div class="text-body-secondary text-start fs-5">
             {{ a.data.date | dateFilter }}

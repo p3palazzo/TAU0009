@@ -5,7 +5,6 @@
 // const plugin = require('some-eleventy-plugin-package');
 const { DateTime } = require('luxon');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
-const htmlmin = require('html-minifier');
 const yaml = require('js-yaml');
 const nodePandoc = require('node-pandoc');
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
@@ -60,18 +59,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("home",    "layouts/home.liquid");
   eleventyConfig.addLayoutAlias("single",  "layouts/single.liquid");
   eleventyConfig.addLayoutAlias("archive", "layouts/archive.liquid");
-    eleventyConfig.addTransform("htmlmin", function(content) {
-      // Prior to Eleventy 2.0: use this.outputPath instead
-      if( this.page.outputPath && this.page.outputPath.endsWith(".html") ) {
-        let minified = htmlmin.minify(content, {
-          useShortDoctype: true,
-          removeComments: true,
-          collapseWhitespace: true
-        });
-        return minified;
-      }
-      return content;
-    });
  /*******************************************************
   * Return is the last instruction to be evaluated {{{2 *
   *******************************************************/
