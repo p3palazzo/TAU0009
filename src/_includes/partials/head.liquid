@@ -9,7 +9,7 @@
 {% if not description-meta %}
   {% assign description-meta = description %}
 {% endif %}
-{% assign current-url = site.url | append: page.url %}
+{% assign current-url = site.url | append: site.baseurl | append: page.url %}
 
 <title>{% if title-prefix %}{{ title-prefix }} – {% endif %}{{ title }}</title>
 <link rel="canonical" href="{{ current-url }}" />
