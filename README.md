@@ -6,7 +6,7 @@
 > até fins do século XIX. Arquitetura indígena, vernácula e dos
 > imigrantes.
 
-![GitHub Pages](https://github.com/p3palazzo/TAU0009/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+![GitHub Pages](https://github.com/p3palazzo/TAU0009/actions/workflows/eleventy-gh-pages.yml/badge.svg)
 
 ### Introdução › Paradigmas urbanísticos ###
 
