@@ -25,17 +25,21 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-13
     steps:
+      - name: Install pandoc
+        run: |
+          brew update
+          brew install pandoc pandoc-crossref jez/formulae/pandoc-sidenote
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: 'recursive'
-          lfs: true
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        run : make
+          lfs: "true"
+      - name: Build with preinstalled npm
+        run : |
+          npm install
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
