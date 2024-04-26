@@ -25,24 +25,21 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: macos-13
     steps:
-      - name: Install Pandoc
-        uses: pandoc/actions/setup@main
-        with:
-          version: 3.1.13
-      - name: Install Pandoc-Crossref
+      - name: Install pandoc
         run: |
-          wget https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.17.0f/pandoc-crossref-Linux.tar.xz
-          tar -xf pandoc-crossref-Linux.tar.xz
-          mv pandoc-crossref /usr/local/bin/
+          brew update
+          brew install pandoc pandoc-crossref jez/formulae/pandoc-sidenote
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: 'recursive'
           lfs: "true"
-      - name: Build with NPM
-        run : npm install && npm run build
+      - name: Build with preinstalled npm
+        run : |
+          npm install
+          npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
