@@ -8,7 +8,7 @@ header:
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Abigail_de_Andrade,_1888,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg"
   overlay_filter: 0.7
   caption: "Abigail de Andrade, [Estrada do Mundo Novo com o Pão de Açúcar ao fundo](https://commons.wikimedia.org/wiki/File:Abigail_de_Andrade,_1888,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg), 1888"
-excerpt: |
+description: |
   Substrato mediterrâneo e europeu – Tipos e módulos das casas
   rurais e urbanas – Sua evolução convergente.
 ---

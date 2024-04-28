@@ -187,6 +187,8 @@ dt {
 
 dt {
   @extend .d-inline-block;
+  @extend .float-start;
+  @extend .pe-3;
   @extend .fw-medium;
 }
 

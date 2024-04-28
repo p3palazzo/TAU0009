@@ -5,7 +5,7 @@ header:
   teaser: /assets/media/320px-br-rj-rj-teatro-rossio-arago.jpg
   overlay_image: /assets/media/br-rj-rj-teatro-rossio-arago.jpg
   caption: "Jacques Arago, [Vista do teatro na praça do Rossio, Rio de Janeiro](https://www.brasilianaiconografica.art.br/obras/18145/avue-de-la-salle-de-spetacle-sur-la-place-do-rocio-a-rio-de-janeiro), 1825"
-excerpt: >
+description: >
   Habitação coletiva e modernização dos modos de morar. Sanitarismo
   e tecnicismo. Paisagens industriais.
 ---

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+{%- if not lang -%}
+  {%- set lang = site.locale -%}
+{%- endif %}
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ lang }}" xml:lang="{{ lang }}"{% if page.dir %} dir="{{ dir }}"{% endif %}>
+<head>
+{% block htmlhead -%}
+  {% include "partials/head.njk" %}
+{%- endblock %}
+</head>
+<body{%- if classes %} class="{{ classes }}" {%- endif -%}>
+{% block nav -%}
+  {% include "partials/nav.njk" %}
+{%- endblock %}
+
+{% block pagetitle -%}
+  {% include "partials/hero.njk" %}
+{%- endblock %}
+
+<main>
+{% block pagecontent -%}
+<div class="container">
+  <div class="row">
+  {{ content | safe }}
+  {%- if sidebar -%}
+    <div class="sidebar">
+    {%- include "partials/sidebar.njk" -%}
+    </div>
+  {%- endif -%}
+  </div>
+</div>
+{%- endblock %}
+</main>
+
+{% block pagefooter -%}
+{% include "partials/footer.njk" %}
+{%- endblock %}
+</body>
+</html>

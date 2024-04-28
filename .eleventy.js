@@ -19,8 +19,8 @@ module.exports = function(eleventyConfig) {
   * Passthrough copy {{{2 *
   *************************/
   // Copy assets/ to _site/assets
-  eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy(".gitattributes");
+  eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy({"node_modules/reveal.js": "slides/reveal.js"});
   eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/icons": "assets/icons"});
   eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/bootstrap-icons.svg": "assets/bootstrap-icons.svg"});
@@ -55,10 +55,10 @@ module.exports = function(eleventyConfig) {
  /********************
   * Setup views {{{2 *
   ********************/
-  eleventyConfig.addLayoutAlias("base",    "layouts/base.liquid");
-  eleventyConfig.addLayoutAlias("home",    "layouts/home.liquid");
-  eleventyConfig.addLayoutAlias("single",  "layouts/single.liquid");
-  eleventyConfig.addLayoutAlias("archive", "layouts/archive.liquid");
+  eleventyConfig.addLayoutAlias("base",    "layouts/base.njk");
+  eleventyConfig.addLayoutAlias("home",    "layouts/splash.njk");
+  eleventyConfig.addLayoutAlias("single",  "layouts/base.njk");
+  eleventyConfig.addLayoutAlias("archive", "layouts/archive.njk");
  /*******************************************************
   * Return is the last instruction to be evaluated {{{2 *
   *******************************************************/
@@ -66,7 +66,6 @@ module.exports = function(eleventyConfig) {
   return {
     htmlTemplateEngine: "njk",
     //markdownTemplateEngine: "njk",
-    pathPrefix: "/TAU0009/",
     dir: {
       templateFormats: ["html", "liquid", "njk"],
       input: 'src',

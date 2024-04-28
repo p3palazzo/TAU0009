@@ -6,7 +6,7 @@ header:
   teaser: /assets/media/320px-georgina-forja.jpg
   overlay_image: /assets/media/georgina-forja.jpg
   caption: "Georgina de Albuquerque, A forja"
-excerpt: >
+description: >
   Materiais industrializados e importados. Construções prefabricadas
   e espacialidade moderna.
 ---

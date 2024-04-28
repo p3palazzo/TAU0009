@@ -6,7 +6,7 @@ teaser: "/assets/media/320x213px-georgina-forja.jpg"
 header:
   overlay_image: "/assets/media/georgina-forja.jpg"
   caption: "Georgina de Albuquerque, Forja, 1940"
-excerpt: |
+description: |
   Cal e revestimentos – Azulejaria –
   Molduras e estuques – Vidro e ferro
 ---

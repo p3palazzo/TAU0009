@@ -4,28 +4,32 @@
   </symbol>
 </svg>
 
-{% assign currentCollection = page.collection | default: 'aula' %}
-{% assign collectionToNavigate = collections[currentCollection] %}
-{% assign previousPost = collectionToNavigate | getPreviousCollectionItem: page %}
-{% assign nextPost = collectionToNavigate | getNextCollectionItem: page %}
+{%- if page.collection -%}
+  {%- set currentCollection = page.collection -%}
+{%- else -%}
+  {%- set currentCollection = 'aula' -%}
+{%- endif -%}
+{% set collectionToNavigate = collections[currentCollection] %}
+{% set previousPost = collectionToNavigate | getPreviousCollectionItem %}
+{% set nextPost = collectionToNavigate | getNextCollectionItem %}
 {% if previousPost or nextPost %}
 <div class="container">
   <div class="row justify-content-end">
-    {% include "partials/prev-next.liquid" %}
+    {% include "partials/prev-next.njk" %}
   </div><!--/.col-->
 </div><!--/.container-->
 {% endif %}
 
-{%- unless date -%}
-  {%- assign date = "now" -%}
-{%- endunless -%}
-<div class="container">
+{%- if not date -%}
+  {%- set date = "now" -%}
+{%- endif -%}
+<div class="container-fluid">
   <footer class="page-footer">
     <div class="page-footer__credit">
-      <a href="{{ '/' | url }}" class="site-title">
+      <a href="/" class="site-title">
         {{ site.title }}
       </a>
-      <span class="mb-3 mb-md-0 text-body-secondary">&copy; {{ date | date: "%Y" }} {{ site.name }}</span>
+      <span class="mb-3 mb-md-0 text-body-secondary">&copy; 2023–2024 {{ site.name }}</span>
     </div>
 
     <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
@@ -47,4 +51,4 @@
   </footer>
 </div>
 
-<script src="{{ '/assets/js/main.js' | url }}"></script>
+<script src="/assets/js/main.js"></script>

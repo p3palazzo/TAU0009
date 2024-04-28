@@ -1,5 +1,5 @@
 <header class="px-3 py-1 border-bottom">
-  <div class="container">
+  <div class="container-fluid">
     <nav id="site-nav" class="masthead d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start fw-medium">
       <a href="/" class="site-title d-flex align-items-center mb-2 mb-lg-0 link-body-emphasis text-decoration-none">
         {{ site.title }}
@@ -13,7 +13,7 @@
         {% for item in navigation.main -%}
         <li>
           <a href="{{ item.url }}" target="_blank" class="nav-link px-2">
-            {{ item.title }}
+            {{ item.title | safe }}
           </a>
         </li>
         {%- endfor %}
@@ -21,7 +21,7 @@
       {% endif %}
 
       <form class="col-12 col-lg-auto my-1 me-lg-3" role="search">
-        <input type="search" class="form-control" placeholder="{{ ui.search_verb }}..." aria-label="{{ ui.search_verb }}">
+        <input type="search" class="form-control" placeholder="{{ ui_text[site.locale].search_verb }}..." aria-label="{{ ui_text[site.locale].search_verb }}">
       </form>
 
     </nav>

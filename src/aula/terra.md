@@ -11,7 +11,7 @@ header:
     <a href="https://commons.wikimedia.org/wiki/File:Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg">
       Pinacoteca do Estado de São Paulo
     </a>
-excerpt: |
+description: |
   Sistemas construtivos vernaculares no mundo luso-brasileiro –
   Construção murária e arqueada – Taipas e alvenarias –
   Princípios de arqueologia da construção.

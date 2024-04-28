@@ -11,7 +11,7 @@ header:
     <a href="http://www.siaapm.cultura.mg.gov.br/modules/grandes_formatos_docs/photo.php?lid=747">
       Arquivo Público Mineiro
     </a>
-excerpt: |
+description: |
   Iluminismo ibérico – Projetos espaciais totalizantes e a atuação
   dos engenheiros militares – Novos traçados e formas de parcelamento
   do solo.

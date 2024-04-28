@@ -11,9 +11,10 @@ header:
     <a href="https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_25-_Elvas.jpg">
       fl. 25: Elvas
     </a>, 1509–1510
-excerpt: |
+description: |
   Origens da urbanização luso-brasileira e padrões tradicionais
-  de parcelamento do solo desde a Idade Média até o século XVIII.
+  de parcelamento do solo desde a Idade Média até o século
+  <span style="font-variant:all-small-caps">XVIII</span>.
 sidebar:
   - title: "Leitura"
     text: |

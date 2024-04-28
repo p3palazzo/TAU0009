@@ -13,7 +13,7 @@ header:
     <a href="https://commons.wikimedia.org/wiki/File:Benedito_Calixto-Largo_da_Sé_em_1865.tif">
       Museu de Arte Sacra de São Paulo
     </a>
-excerpt: |
+description: |
   Arquitetura religiosa como epítome dos estilos luso-brasileiros –
   Ordens religiosas e sua dissolução.
 ---

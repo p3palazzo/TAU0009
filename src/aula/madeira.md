@@ -3,7 +3,7 @@ title: "Madeira"
 author: "Pedro P. Palazzo"
 date: 2024-04-18
 tags: [ "materia", "aula" ]
-excerpt: |
+description: |
   Estruturas arquitravadas – Frontais, assoalhos e gaiolas –
   Carpintaria em negro e em branco – aberturas –
   Patologias construtivas
@@ -25,7 +25,19 @@ header:
 
 # Matéria #
 
+## Conceitos chave ##
+
+Essências
+: Espécies de árvores são tradicionalmente denominadas « essências ».
+
+Madeira de lei
+: Essências de qualidade suficiente para a construção civil ou naval,
+  cujo manejo era regulamentado por lei.
+
 ## Origem e processamento ##
+
+Segundo 
+
 
 ## Estruturas rústicas ##
 
@@ -59,8 +71,6 @@ relacionada com as dimensões e a função de cada membro.
 
 ![Partes de uma tesoura](https://i.pinimg.com/originals/e5/87/2d/e5872d84eb7467cd8473d02a9115835c.jpg){#fig:tesoura .line}
 
-
-## Proteção e conservação ##
 
 # Elementos #
 
@@ -143,6 +153,8 @@ conhecido como taipa de mão ou de sebe.
 Estilos de talha em retábulos de igrejas jesuíticas. Desenho: Lucio Costa
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Proteção e conservação #
+
 # Casas #
 
 ## Casas do alto Xingu ##
@@ -154,6 +166,7 @@ Estilos de talha em retábulos de igrejas jesuíticas. Desenho: Lucio Costa
 ## Casas de colono ##
 
 ---
+toc: true
 nocite: |
   @costa:1941arquitetura,
   @simonard:2019territorio,
