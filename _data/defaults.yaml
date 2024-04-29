@@ -1,6 +1,7 @@
 from: markdown
 to: html
 data-dir: _data
+html-q-tags: true
 fail-if-warnings: false
 shift-heading-level-by: 1
 filters:
@@ -9,7 +10,7 @@ filters:
   - pandoc-sidenote
 metadata:
   bibliography: _data/biblio.yaml
-  csl: _data/chicago-note-bibliography.csl
-  lang: pt-BR
+  csl: _data/chicago-fullnote-bibliography.csl
+  lang: pt-PT
   crossrefYaml: _data/pandoc-crossref.yaml
   reference-section-title: "Referências"

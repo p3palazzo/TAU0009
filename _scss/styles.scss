@@ -87,7 +87,7 @@ $legend-font-weight: 500;
 // @import "bootstrap/scss/breadcrumb";
 // @import "bootstrap/scss/accordion";
 @import "bootstrap/scss/pagination";
-// @import "bootstrap/scss/badge";
+@import "bootstrap/scss/badge";
 // @import "bootstrap/scss/alert";
 // @import "bootstrap/scss/progress";
 @import "bootstrap/scss/list-group";
@@ -131,7 +131,6 @@ main figure {
   img {
     @extend .figure-img;
     @extend .img-fluid;
-    @extend .col-lg-7;
     @extend .border;
     @media (prefers-color-scheme: dark) {
       opacity: 0.8;
@@ -147,17 +146,12 @@ blockquote > footer {
 main figcaption,
 blockquote > footer {
   @extend .float-lg-end;
-  @extend .col-lg-4;
-}
-
-hr {
-  @extend .clearfix;
-  @extend .border-0;
+  @extend .col-lg-3;
+  clear: right;
 }
 
 // Typographical elements {{{2
 main p:not(.card-text) {
-  text-align: justify;
   hyphens: auto;
 }
 
@@ -196,6 +190,15 @@ main ul,
 .sidebar > ul {
   li::marker {
     content: "› ";
+  }
+}
+
+q {
+  &::before {
+    content: "« ";
+  }
+  &::after {
+    content: " »";
   }
 }
 
@@ -304,29 +307,57 @@ h1#bibliography {
 }
 
 // Tufte and CSL classes {{{2
-body:not(.wide) main .row {
-  & > p,
-  & > h3, 
-  & > h4, 
-  & > h5, 
-  & > h6, 
-  & > hr,
-  & > ol, 
-  & > ul, 
-  & > pre, 
-  & > address, 
-  & > dl, 
-  & > fieldset, 
-  & > form, 
-  & > table,
-  #refs {
-    @extend .col-lg-7;
+// Columns {{{3
+main > .container > .row {
+  @extend .gx-3;
+  &:not(.wide) {
+    > p,
+    > h2,
+    > h3, 
+    > h4, 
+    > h5, 
+    > h6, 
+    > hr,
+    > ol, 
+    > ul, 
+    > pre, 
+    > address, 
+    > dl, 
+    > fieldset, 
+    > form, 
+    > table,
+    > figure:not(.subfigures) img:not(.col-lg-12):not(.aside),
+    #refs {
+      @extend .col-lg-7;
+    }
+    > blockquote,
+    > .blockquote {
+      @extend .col-md-11;
+      @extend .col-lg-6;
+      @extend .offset-md-1;
+    }
   }
-  & > blockquote,
-  & > .blockquote {
-    @extend .col-md-11;
-    @extend .col-lg-6;
-    @extend .offset-md-1;
+}
+
+main > .container > .row:not(.sidebar) {
+  > p,
+  > h2,
+  > h3, 
+  > h4, 
+  > h5, 
+  > h6, 
+  > hr,
+  > ol, 
+  > ul, 
+  > pre, 
+  > address, 
+  > dl, 
+  > fieldset, 
+  > form, 
+  > table,
+  > figure:not(.subfigures) img:not(.col-lg-12):not(.aside),
+  #refs {
+    @extend .offset-lg-2;
   }
 }
 
@@ -339,13 +370,6 @@ body:not(.wide) main .row {
   @extend .fst-italic;
 }
 
-// Full-width elements
-main .col-lg-12 {
-  & + figcaption {
-    @extend .col-lg-4;
-  }
-}
-
 // CSL {{{3
 .hanging-indent .csl-entry {
   @extend .my-3;
@@ -356,14 +380,10 @@ main .col-lg-12 {
 // Marginalia {{{3
 .aside {
   @extend .col-md-4;
-  @extend .col-lg-4;
-  @extend .offset-lg-1;
-  @extend .px-0;
+  @extend .col-lg-3;
   @extend .float-lg-end;
-  img {
-    @extend .w-100;
-  }
-  figcaption {
+  clear: right;
+  * {
     @extend .w-100;
   }
 }
@@ -384,7 +404,7 @@ main .col-lg-12 {
 }
 
 .sidenote-number {
-  @extend .mx-2;
+  @extend .mx-1;
   cursor: pointer;
   font-family: $font-family-base;
   counter-increment: sidenote-counter;
@@ -393,10 +413,10 @@ main .col-lg-12 {
     @extend .p-0;
     @extend .btn;
     @extend .btn-outline-secondary;
-    @extend .btn-sm;
-    border-radius: 1rem;
-    width: 2rem;
-    height: 2rem;
+    @extend .rounded-pill;
+    width: 1.5rem;
+    height: 1.5rem;
+    line-height: .85;
   }
 }
 
@@ -420,9 +440,14 @@ main .col-lg-12 {
 
 
 // Compatibility with Reveal.js {{{2
+hr {
+  @extend .clearfix;
+  @extend .border-0;
+}
+
 .incremental,
 .notes {
-  @extend .col-lg-7;
+  @extend p;
 }
 
 .columns {
@@ -444,7 +469,7 @@ main .col-lg-12 {
 
 // Custom classes {{{2
 .subfigures > figcaption {
-  @extend .col-lg-4;
+  @extend .col-lg-3;
   @extend .float-lg-end;
   p {
     @extend .text-start;
