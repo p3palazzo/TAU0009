@@ -63,6 +63,29 @@ references:
   title-short: Coimbra
   type: book
 
+- id: alberti:2011arte
+  author:
+    - family: Alberti
+      given: Leon Battista
+  citation-key: alberti:2011arte
+  editor:
+    - family: Krüger
+      given: Mário Júlio Teixeira
+  event-place: Lisboa
+  ISBN: 978-972-31-1374-7
+  issued:
+    - year: 2011
+  language: por
+  publisher: Fundação Calouste Gulbenkian
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Da arte edificatória
+  translator:
+    - family: Espírito Santo
+      given: Arnaldo
+      dropping-particle: do
+  type: book
+
 - id: aldrovandi:2011monumentalidade
   abstract: "Resumo\n\t\t\t\t\tESTE ARTIGO ANALISA ALGUNS ASPECTOS DO HIBRIDISMO INDO-PORTUGUÊS PRESENTES NA ARTE E NA ARQUITETURA SAGRADA E SECULAR, SOB A ÓTICA DE UM DISCURSO MONUMENTAL HEGEMÔNICO ENGENDRADO PELO COLONIALISMO PORTUGUÊS EM TERRITÓRIO INDIANO."
   accessed:
@@ -7304,7 +7327,9 @@ references:
   issued:
     - year: 2011
   language: por
-  publisher: Editora <span smallcaps="smallcaps">UFBA</span>
+  publisher: >-
+    Editora <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">UFBA</span>
   publisher-place: Salvador
   source: Open WorldCat
   title: >-
@@ -8159,8 +8184,9 @@ references:
   language: por
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
-  title: Obras de alvenaria I
+  title: Obras de alvenaria
   type: book
+  volume: I
 
 - id: pereira:1955alvenaria2
   author:
@@ -8176,8 +8202,9 @@ references:
   language: por
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
-  title: Obras de alvenaria II
+  title: Obras de alvenaria
   type: book
+  volume: II
 
 - id: pereira:1955cantaria1
   author:
@@ -8193,8 +8220,9 @@ references:
   language: por
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
-  title: Obras de cantaria I
+  title: Obras de cantaria
   type: book
+  volume: I
 
 - id: pereira:1955enciclopedia
   author:
@@ -8214,12 +8242,118 @@ references:
   type: book
   URL: https://satae.pt/enciclopedia/
 
-- id: pereira:1955obras
+- id: pereira:1955enciclopedia10
   author:
     - family: Pereira da Costa
       given: Francisco
   call-number: 69(02)
-  citation-key: pereira:1955obras
+  citation-key: pereira:1955enciclopedia10
+  collection-number: '10'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Madeiramentos e telhados
+  type: book
+  volume: III
+
+- id: pereira:1955enciclopedia11
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955enciclopedia11
+  collection-number: '11'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Madeiramentos e telhados
+  type: book
+  volume: IV
+
+- id: pereira:1955enciclopedia12
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955enciclopedia12
+  collection-number: '12'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Tectos diversos
+  type: book
+
+- id: pereira:1955enciclopedia7
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955enciclopedia7
+  collection-number: '7'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Pavimentos de madeira
+  type: book
+
+- id: pereira:1955enciclopedia8
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955enciclopedia8
+  collection-number: '8'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Madeiramentos e telhados
+  type: book
+  volume: I
+
+- id: pereira:1955enciclopedia9
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955enciclopedia9
+  collection-number: '9'
+  collection-title: Enciclopédia prática da construção civil
+  event-place: Lisboa
+  issued:
+    - year: 1955
+  language: por
+  publisher: 'Edição do autor : Portugália'
+  publisher-place: Lisboa
+  title: Madeiramentos e telhados
+  type: book
+  volume: II
+
+- id: pereira:1955obrasII
+  author:
+    - family: Pereira da Costa
+      given: Francisco
+  call-number: 69(02)
+  citation-key: pereira:1955obrasII
   collection-number: '17'
   collection-title: Enciclopédia prática da construção civil
   event-place: Lisboa
@@ -8228,8 +8362,9 @@ references:
   language: por
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
-  title: Obras de cantaria II
+  title: Obras de cantaria
   type: book
+  volume: II
 
 - id: pereira:1999arvores
   author:
@@ -11442,6 +11577,24 @@ references:
   translator:
     - family: Perrault
       given: Claude
+  type: book
+
+- id: vitruvio:2007tratado
+  author:
+    - literal: Vitrúvio
+  citation-key: vitruvio:2007tratado
+  event-place: São Paulo
+  ISBN: 978-85-7707-003-9
+  issued:
+    - year: 2007
+  language: por
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Tratado de arquitetura
+  translator:
+    - family: Maciel
+      given: M. Justino
   type: book
 
 - id: waisman:1993interior
