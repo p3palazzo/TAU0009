@@ -74,17 +74,34 @@ está esbanjando.
 
 # Azulejaria #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Embora houvesse uma indústria cerâmica pujante em Portugal medieval, a
-produção de azulejos historiados só tem início quando importada da
-Espanha, em meads do século.
+produção de azulejos só tem início quando importada da Espanha pelo rei
+D. Manuel I, na primeira metade do século
+[XVI]{style="font-variant:all-small-caps"}.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Origem e função da azulejaria ##
 
 ## Quatro técnicas tradicionais ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- Alicatado;
+- Aresta;
+- Corda-seca;
+- Estampilhado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Silharias historiadas ##
 
 ## Fachadas azulejadas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O uso dos azulejos recobrindo as fachadas por inteiro se inicia,
+provavelmente, em São Luís em meados do século
+[XVIII]{style="font-variant:all-small-caps"}. A partir daí, a prática se
+espalha para outras regiões do Brasil e para o norte de Portugal.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 # Molduras e estuques #
