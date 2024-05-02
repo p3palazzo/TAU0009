@@ -9,7 +9,7 @@
 
 $serif: "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 $sans-serif: "league-gothic", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-$sans-serif-narrow: "kepler-std-semicondensed-dis", "league-gothic", "Arial Narrow", sans-serif;
+$font-family-narrow: "kepler-std-semicondensed-dis", "league-gothic", "Arial Narrow", sans-serif;
 $monospace: "source-code-pro", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 $garamond: "cormorant-garamond", "eb-garamond", Georgia, Times, serif;
 
@@ -113,6 +113,10 @@ $legend-font-weight: 500;
    ========================================================================== */
 
 // Structural elements {{{2
+* {
+  transition: 0.3s;
+}
+
 body {
   font-variant-numeric: oldstyle-nums proportional-nums;
   counter-reset: sidenote-counter;
@@ -186,11 +190,8 @@ dt {
   @extend .fw-medium;
 }
 
-main ul,
-.sidebar > ul {
-  li::marker {
-    content: "› ";
-  }
+main .row > ul li::marker {
+  content: "› ";
 }
 
 q {
@@ -199,6 +200,29 @@ q {
   }
   &::after {
     content: " »";
+  }
+}
+
+tfoot {
+  @extend .fw-bold;
+}
+
+.sidebar {
+  @extend .fs-6;
+  @extend .text-secondary;
+  a {
+    @extend .text-decoration-none;
+    @extend .link-secondary;
+  }
+  .sidebar__nav {
+    @extend .list-unstyled;
+    @extend .border-bottom;
+    &.sidebar__nav > li {
+      @extend .py-2;
+      > a {
+        font-family: $font-family-narrow;
+      }
+    }
   }
 }
 
@@ -277,7 +301,7 @@ h1#bibliography {
 
 .card h3,
 .btn {
-  font-family: $sans-serif-narrow;
+  font-family: $font-family-narrow;
   @extend .fst-normal;
   a {
     @extend .link-dark;
@@ -339,7 +363,7 @@ main > .container > .row {
   }
 }
 
-main > .container > .row:not(.sidebar) {
+main > .container > .row:not(.has-sidebar) {
   > p,
   > h2,
   > h3, 
@@ -359,6 +383,28 @@ main > .container > .row:not(.sidebar) {
   #refs {
     @extend .offset-lg-2;
   }
+}
+
+main > .container > .row.wide.has-sidebar {
+    > p,
+    > h2,
+    > h3, 
+    > h4, 
+    > h5, 
+    > h6, 
+    > hr,
+    > ol, 
+    > ul, 
+    > pre, 
+    > address, 
+    > dl, 
+    > fieldset, 
+    > form, 
+    > table,
+    > figure:not(.subfigures) img:not(.col-lg-12):not(.aside),
+    #refs {
+      @extend .col-lg-10;
+    }
 }
 
 .epigraph {
@@ -385,6 +431,15 @@ main > .container > .row:not(.sidebar) {
   clear: right;
   * {
     @extend .w-100;
+  }
+}
+
+.sidebar {
+  @extend .order-first;
+  @extend .col-lg-2;
+  @extend .opacity-50;
+  &:hover {
+    @extend .opacity-100;
   }
 }
 

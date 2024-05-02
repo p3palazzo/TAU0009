@@ -19,13 +19,8 @@
 
 <main>
 {% block pagecontent -%}
-{% if classes and sidebar %}
-  {% set classes = [ classes, " sidebar" ] | join %}
-{% elif sidebar and not classes %}
-  {% set classes = "sidebar" %}
-{% endif %}
 <div class="container">
-  <div class="row"{% if classes %} class="{{ classes }}"{% endif %}>
+  <div class="row{% if classes %} {{ classes }}{% endif %}{% if sidebar %} has-sidebar{% endif %}">
   {{ content | safe }}
   {%- if sidebar -%}
     <div class="sidebar">
