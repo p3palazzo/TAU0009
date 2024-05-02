@@ -94,6 +94,15 @@ Desdobramento (serraria) e aparelhamento (aplainado):
 
 [*Voyage pittoresque et historique au Brésil…*, v. 2, pr. 18, 1834]: https://digitalcollections.nypl.org/items/510d47df-797e-a3d9-e040-e00a18064a99
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Esquema tradicional do desdobramento de troncos de grandes dimensões. Desenho por Jorge Mascarenhas, Sistemas de construção [XIII]{style="font-variant:all-small-caps"}:178](/assets/media/mascarenhas-13-178-madeira-dimensoes-a.png){#fig:mascarenhas-xiii-178-a .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O desdobramento dos troncos é a primeira fonte de nomenclatura das peças
+(@fig:mascarenhas-xiii-178-a).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Estruturas rústicas ##
 
@@ -116,12 +125,15 @@ tradicionais.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A nomenclatura básica dos componentes da construção em madeira está
-relacionada com as dimensões e a função de cada membro. O desdobramento
-dos troncos é a primeira fonte de nomenclatura das peças
-(@fig:mascarenhas-xiii-178).
+relacionada com as dimensões e a função de cada membro. Na
+@fig:mascarenhas-xiii-178-b, as medidas são dadas em centímetros mas
+remetem muitas vezes a antigos módulos em palmos e polegadas. Por
+exemplo, as dimensões dos prumos ou esteios correspondem a,
+aproximadamente, 6 polegadas e 1 palmo respetivamente (o palmo se divide
+em 8 polegadas e mede cerca de 22 a 22,5 centímetros).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cortes e denominações correntes de madeira em Portugal. Desenho: Jorge Mascarenhas, Sistemas de construção [XIII]{style="font-variant:all-small-caps"}:178](/assets/media/mascarenhas-13-178-madeira-dimensoes.png){#fig:mascarenhas-xiii-178 .line .r-stretch}
+![Dimensões e denominações correntes de madeira em Portugal. Desenho: Jorge Mascarenhas, Sistemas de construção [XIII]{style="font-variant:all-small-caps"}:178](/assets/media/mascarenhas-13-178-madeira-dimensoes-b.png){#fig:mascarenhas-xiii-178-b .line}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -217,6 +229,8 @@ pau-a-pique, também conhecido como taipa de mão ou de sebe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Cercas e colmos ##
+
+![Execução de uma cobertura em choça](https://i.pinimg.com/originals/0e/31/ee/0e31eec73c2b44ce9fcbade88f1a8c1a.jpg){#fig:choca}
 
 ## Carpintaria do negro ##
 
