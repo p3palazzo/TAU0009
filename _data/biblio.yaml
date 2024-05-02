@@ -9117,6 +9117,41 @@ references:
   type: webpage
   URL: http://www.ceci-br.org/ceci/br/publicacoes.html
 
+- id: quintana:2005cal
+  abstract: >-
+    In the last century the exploitation of carbonate rocks for the lime´s
+    handmade manufacture has disappeared in most cases of our territory. In fact
+    it is more difficult to find testimonies of this practice. It is the case of
+    the Spanish village of Ituero y Lama located in the province of Segovia, and
+    where the production of lime began before the middle of the XX century.
+    Nowadays only are conserved the remains of some abandoned ovens used in the
+    process. This article is the consequence of an interview carried out to Mr.
+    Rubio, who worked in the lime ovens since his childhood, and whose testimony
+    is very important to understand how the derived processes of that kind of
+    mining was, and also its anthropological dimension.
+  accessed:
+    - year: 2021
+      month: 2
+      day: 18
+  author:
+    - family: Quintana Frías
+      given: Ignacio
+  citation-key: quintana:2005cal
+  container-title: De Re Metallica
+  ISSN: 1577-9033
+  issued:
+    - year: 2005
+      month: 12
+  language: spa
+  page: 95-100
+  source: Zotero
+  title: 'Una de cal y otra de historia: los hornos de cal de Ituero y Lama (Segovia)'
+  title-short: Una de cal y otra de historia
+  type: article-journal
+  URL: >-
+    http://www.sedpgym.es/publicaciones/revista-de-re-metallica/indices-resumenes-y-textos-completos-de-re-metallica/17-publicaciones/de-re-metallica/26-de-re-metallica-n-5-diciembre-2005
+  volume: '5'
+
 - id: rabello:2018ideario
   abstract: >-
     Este Trabalho de Conclusão de Curso tem por objetivo resgatar a importância
