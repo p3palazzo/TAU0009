@@ -4,15 +4,7 @@
    Font providers {{{1
    ========================================================================== */
 
-@import url("https://use.typekit.net/hny1sfi.css");
-@import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
-
-$serif: "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-$sans-serif: "league-gothic", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-$font-family-narrow: "kepler-std-semicondensed-dis", "league-gothic", "Arial Narrow", sans-serif;
-$monospace: "source-code-pro", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-$garamond: "cormorant-garamond", "eb-garamond", Georgia, Times, serif;
-
+@import "type";
 
 /* ==========================================================================
    Variables {{{1
@@ -29,7 +21,7 @@ $garamond: "cormorant-garamond", "eb-garamond", Georgia, Times, serif;
 
 // Toggle global options
 $enable-shadows: true;
-//$enable-gradients: true;
+$enable-gradients: true;
 
 // This enables auto switching to dark mode based on the client's OS/browser settings:
 $color-mode-type: media-query;
@@ -38,32 +30,47 @@ $color-mode-type: media-query;
 
 // Include functions first
 @import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
 
 // Customize some defaults
-$body-color: #111118;
-$body-bg: #fffffc;
-//$border-radius: .4rem;
-$primary: #282f6a;
-$light: #fcf9e6;
-$body-emphasis-color: $primary;
-$link-decoration: none;
-//$success: #7952b3;
+$body-color:           $dark;
+$body-bg:              $light;
+$primary:              $blue-800;
+//$light:                #fcf9e6;
+$body-emphasis-color:  $gray-800;
+$link-decoration:      none;
+$success:              #7952b3;
 
-$font-family-base: $serif;
-$font-size-base: 1.3rem;
-$headings-font-family: $garamond;
-$headings-font-weight: 300;
-$headings-font-style: italic;
-$headings-color: $body-color;
+$headings-color:       $body-color;
 
-$legend-font-weight: 500;
+$theme-colors: (
+  "primary":    $dark,
+  "secondary":  $secondary,
+  "success":    $success,
+  "info":       $info,
+  "warning":    $warning,
+  "danger":     $danger,
+  "light":      $light,
+  "dark":       $dark
+);
+
+$link-color:              $gray-800;
+$link-hover-color:        $dark;
+$component-active-color:  $body-color;
+$component-active-bg:     $gray-800;
+$pagination-active-color: $body-color;
+$pagination-active-bg:    $gray-800;
+
+$link-color-dark:         tint-color($body-tertiary-color, 40%);
+$link-hover-color-dark:   shift-color($link-color-dark, -$link-shade-percentage);
+
 
 /* ==========================================================================
    Imports {{{1
    ========================================================================== */
 
 // Required
-@import "bootstrap/scss/variables";
+//@import "bootstrap/scss/variables";
 @import "bootstrap/scss/variables-dark";
 @import "bootstrap/scss/maps";
 @import "bootstrap/scss/mixins";
@@ -117,17 +124,8 @@ $legend-font-weight: 500;
   transition: 0.3s;
 }
 
-body {
-  font-variant-numeric: oldstyle-nums proportional-nums;
-  counter-reset: sidenote-counter;
-}
-
-main {
-  h2,
-  h3:not(.card-title) {
-    @extend .mt-5;
-    @extend .w-100;
-  }
+h2 {
+  @extend .w-100;
 }
 
 main figure {
@@ -142,19 +140,60 @@ main figure {
   }
 }
 
-figcaption,
-blockquote > footer {
-  @extend .figure-caption;
-}
-
 main figcaption,
 blockquote > footer {
   @extend .float-lg-end;
-  @extend .col-lg-3;
+  @extend .col-lg-4;
+  @extend .ps-lg-3;
   clear: right;
 }
 
+// IDs {{{2
+#site-nav {
+  @extend .d-flex;
+  @extend .flex-row;
+  @extend .justify-content-between;
+  @extend .justify-content-lg-around;
+  @extend .align-items-center;
+  .nav {
+    @extend .flex-shrink-0;
+    a {
+      @extend .px-2;
+      @extend .link-secondary;
+    }
+  }
+  form {
+    @extend .flex-shrink-1;
+  }
+}
+
+#hero {
+  background-size: cover;
+  background-position: center;
+  h1,
+  .lead {
+    text-shadow: 1px 1px 2px rgba($body-bg, 70%);
+    @media (prefers-color-scheme: dark) {
+      text-shadow: 1px 1px 2px rgba($body-bg-dark, 70%);
+    }
+  }
+}
+
+#bibliography {
+  @extend .h2;
+  @extend .fst-italic;
+}
+
 // Typographical elements {{{2
+body {
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  counter-reset: sidenote-counter;
+}
+
+nav {
+  @extend .fw-medium;
+}
+
 main p:not(.card-text) {
   hyphens: auto;
 }
@@ -162,10 +201,6 @@ main p:not(.card-text) {
 h3:not(.card-title) {
   @extend .fw-medium;
   @extend .fs-5;
-}
-
-h2 + h3 {
-  @extend .mt-0;
 }
 
 h1,
@@ -190,7 +225,7 @@ dt {
   @extend .fw-medium;
 }
 
-main .row > ul li::marker {
+main li::marker {
   content: "› ";
 }
 
@@ -203,11 +238,38 @@ q {
   }
 }
 
-tfoot {
+form,
+input,
+table {
+  font-family: $font-family-sans-serif;
+}
+
+tfoot,
+.keywords-title {
   @extend .fw-bold;
 }
 
-.sidebar {
+.site-title {
+  font-variant: all-small-caps;
+  .site-subtitle {
+    @extend .fst-italic;
+    font-variant: normal;
+    font-variant-numeric: oldstyle-nums;
+  }
+}
+
+.subtitle {
+  @extend .fst-italic;
+  font-variant-numeric: lining-nums;
+}
+
+.lead {
+  @extend .fw-medium;
+  @extend .fst-italic;
+}
+
+.sidebar,
+.toc {
   @extend .fs-6;
   @extend .text-secondary;
   a {
@@ -216,14 +278,27 @@ tfoot {
   }
   .sidebar__nav {
     @extend .list-unstyled;
-    @extend .border-bottom;
     &.sidebar__nav > li {
       @extend .py-2;
+      @extend .border-bottom;
       > a {
         font-family: $font-family-narrow;
       }
     }
   }
+}
+
+.capitalize-first {
+  @extend .d-inline-block;
+  &:first-letter {
+    text-transform: uppercase;
+  }
+}
+
+h3.card-title,
+.btn {
+  font-family: $font-family-narrow;
+  @extend .fst-normal;
 }
 
 
@@ -243,75 +318,27 @@ blockquote + figcaption {
 figcaption,
 blockquote > footer {
   @extend .fw-medium;
-}
-
-// IDs {{{2
-#hero {
-  background-size: cover;
-  background-position: center;
-  input {
-    background-color: rgba($body-bg, 80%);
+  a {
     @media (prefers-color-scheme: dark) {
-      background-color: rgba($body-bg-dark, 70%);
-    }
-  }
-  h1,
-  .lead {
-    text-shadow: 1px 1px 2px rgba($body-bg, 70%);
-    @media (prefers-color-scheme: dark) {
-      text-shadow: 1px 1px 2px rgba($body-bg-dark, 70%);
+      color: $body-tertiary-color-dark;
     }
   }
 }
 
-#site-nav ul.nav a {
-  @extend .link-secondary;
-}
-
-h1#bibliography {
-  @extend .h2;
-  @extend .fst-italic;
+small {
+  @extend .fw-medium;
 }
 
 // Bootstrap Classes {{{2
-.site-title {
-  font-variant: all-small-caps;
-  @extend .text-body-secondary;
-  @extend .mb-3;
-  @extend .me-2;
-  @extend .mb-md-0;
-  @extend .lh-1;
-  @extend .text-decoration-none;
-  .site-subtitle {
-    @extend .fst-italic;
-    font-variant: normal;
-    font-variant-numeric: oldstyle-nums;
-  }
-}
-
-.subtitle {
-  @extend .display-3;
-  @extend .fst-italic;
-}
-
-.lead {
-  @extend .col-lg-7;
-  @extend .fst-italic;
-}
-
-.card h3,
-.btn {
-  font-family: $font-family-narrow;
-  @extend .fst-normal;
-  a {
-    @extend .link-dark;
-  }
+figcaption,
+blockquote > footer {
+  @extend .figure-caption;
 }
 
 .card-img-top {
   @extend .object-fit-cover;
+  @extend .w-100;
   aspect-ratio: 3 / 2;
-  width: 100%;
 }
 
 .card-header,
@@ -332,8 +359,21 @@ h1#bibliography {
 
 // Tufte and CSL classes {{{2
 // Columns {{{3
+main {
+  @extend .d-md-flex;
+  @extend .flex-md-nowrap;
+}
+
+.container.has-sidebar {
+  @extend .ms-lg-0;
+  @extend .d-md-flex;
+  @extend .flex-grow-1;
+}
+
 main > .container > .row {
+  @extend .flex-row;
   @extend .gx-3;
+  @extend .justify-content-between;
   &:not(.wide) {
     > p,
     > h2,
@@ -352,7 +392,7 @@ main > .container > .row {
     > table,
     > figure:not(.subfigures) img:not(.col-lg-12):not(.aside),
     #refs {
-      @extend .col-lg-7;
+      @extend .col-lg-8;
     }
     > blockquote,
     > .blockquote {
@@ -361,50 +401,6 @@ main > .container > .row {
       @extend .offset-md-1;
     }
   }
-}
-
-main > .container > .row:not(.has-sidebar) {
-  > p,
-  > h2,
-  > h3, 
-  > h4, 
-  > h5, 
-  > h6, 
-  > hr,
-  > ol, 
-  > ul, 
-  > pre, 
-  > address, 
-  > dl, 
-  > fieldset, 
-  > form, 
-  > table,
-  > figure:not(.subfigures) img:not(.col-lg-12):not(.aside),
-  #refs {
-    @extend .offset-lg-2;
-  }
-}
-
-main > .container > .row.wide.has-sidebar {
-    > p,
-    > h2,
-    > h3, 
-    > h4, 
-    > h5, 
-    > h6, 
-    > hr,
-    > ol, 
-    > ul, 
-    > pre, 
-    > address, 
-    > dl, 
-    > fieldset, 
-    > form, 
-    > table,
-    > figure:not(.subfigures) img:not(.col-lg-12):not(.aside),
-    #refs {
-      @extend .col-lg-10;
-    }
 }
 
 .epigraph {
@@ -425,8 +421,8 @@ main > .container > .row.wide.has-sidebar {
 
 // Marginalia {{{3
 .aside {
-  @extend .col-md-4;
-  @extend .col-lg-3;
+  @extend .col-md-6;
+  @extend .col-lg-4;
   @extend .float-lg-end;
   clear: right;
   * {
@@ -436,10 +432,18 @@ main > .container > .row.wide.has-sidebar {
 
 .sidebar {
   @extend .order-first;
-  @extend .col-lg-2;
+  @extend .d-md-flex;
+  @extend .flex-column;
+  @extend .flex-shrink-1;
+  @extend .me-5;
+  @extend .ms-auto;
+  @extend .ps-5;
   @extend .opacity-50;
   &:hover {
     @extend .opacity-100;
+  }
+  @include media-breakpoint-up(lg) {
+    max-width: 300px;
   }
 }
 
@@ -523,6 +527,13 @@ hr {
 }
 
 // Custom classes {{{2
+.keywords,
+.keywords li {
+  @extend .d-inline;
+  @extend .m-0;
+  @extend .p-0;
+}
+
 .subfigures > figcaption {
   @extend .col-lg-3;
   @extend .float-lg-end;
@@ -563,4 +574,4 @@ hr {
   @extend .align-items-center;
   @extend .text-body-secondary;
 }
-// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=marker
+// vim: shiftwidth=2 tabstop=2 expandtab foldmethod=marker nowrap
