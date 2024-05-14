@@ -42,7 +42,7 @@ foi destruída durante o período colonial.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Forno de cal em Montesa, província de Valença (Espanha), século [XVIII]{style="font-variant:all-small-caps"}. [Reconstituição por Pablo Aparicio Resco](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa}
+![Forno de cal em Montesa, província de Valença (Espanha), século [XVIII]{style="font-variant:all-small-caps"}. [Reconstituição por Pablo Aparicio Resco](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa .border-0}
 
 
 ## Argamassas ##
@@ -75,13 +75,14 @@ está esbanjando.
 # Azulejaria #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Embora houvesse uma indústria cerâmica pujante em Portugal medieval, a
-produção de azulejos só tem início quando importada da Espanha pelo rei
-D. Manuel I, na primeira metade do século
+Embora houvesse uma indústria cerâmica pujante em Portugal medieval, o
+uso de azulejos se difunde sobretudo com azulejos importados da Espanha
+pelo rei D. Manuel I, na primeira metade do século
 [XVI]{style="font-variant:all-small-caps"}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Origem e função da azulejaria ##
+
 
 ## Quatro técnicas tradicionais ##
 
@@ -92,7 +93,41 @@ D. Manuel I, na primeira metade do século
 - Estampilhado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os primeiros azulejos produzidos em Portugal, no século
+[XVI]{style="font-variant:all-small-caps"}, imitavam as técnicas da
+corda-seca e da aresta das oficinas de Sevilha e Toledo, de onde vinham
+os azulejos importados mais prezados no reino.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+<figure class="ratio ratio-16x9">
+  <iframe src="https://www.youtube-nocookie.com/embed/iqEOt36ia0k?si=WuGp4_JXiM4On7nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+
+## Geometria ##
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+<figure class="ratio ratio-16x9">
+  <iframe src="https://www.youtube-nocookie.com/embed/dxYAKI028YI?si=Pb7SlKmmjp08_4VX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+
+
 ## Silharias historiadas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Técnica da faiança trazida da Itália para Portugal na segunda metade do
+século [XVI]{style="font-variant:all-small-caps"}. A partir do século
+[XVII]{style="font-variant:all-small-caps"}, predomínio das composições
+em azul (@fig:seminario) por influência da porcelana chinesa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Sala de cursos no Seminário Maior de Coimbra. Foto: Pedro P. Palazzo, 2022](/assets/media/pt-coimbra-seminario_maior-220625-pp-01380.jpg){#fig:seminario}
+
 
 ## Fachadas azulejadas ##
 
@@ -108,5 +143,5 @@ espalha para outras regiões do Brasil e para o norte de Portugal.
 
 # Vidro e ferro #
 
-# Recuperação de argamassas e revestimento #
+# Recuperação de argamassas e revestimentos #
 
