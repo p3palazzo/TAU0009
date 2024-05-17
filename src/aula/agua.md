@@ -2,7 +2,6 @@
 title: "Água"
 date: 2024-05-09
 tags: [ "aula", "materia" ]
-category: "Matéria"
 teaser: "/assets/media/320px-manga-carita.jpg"
 header:
   overlay_image: "/assets/media/320px-manga-carita.jpg"
@@ -13,6 +12,17 @@ description: >
 ---
 
 # Sistemas agroflorestais na Amazônia #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Já vimos duas formas de organização de povoações e caminhos na América
+do Sul oriental: a rede hierárquica no Alto Xingu por volta do século
+[XI]{style="font-variant:all-small-caps"} e o *teko'á* guarani na bacia
+do Paraná. Essas redes eram sustentadas por sistemas de produção de
+alimentos que combinavam diversas formas de extrativismo, manejo e
+cultivo. Todos recaíam, segundo @fausto:2018was92, dentro do conceito de
+"familiarização", isto é, a construção sociocultural de um vínculo entre
+os cultivadores e as plantas que lhes pertenciam.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Manejo florestal ##
 
@@ -177,10 +187,12 @@ Wendel [Dietterlin, *Architectura* (1598)][]
 
 # Urbanização e os rios #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A relação das cidades tradicionais luso-brasileiras com os rios não é
 nem excepcional no contexto da urbanização de origem europeia anterior
 ao século [XIX]{style="font-variant:all-small-caps"}, nem especialmente
 pior do que a de outras tradições urbanísticas [@valla:2015dialogo].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ---
 nocite: |

@@ -3710,6 +3710,36 @@ references:
   title: Os Índios antes do Brasil
   type: book
 
+- id: fausto:2018was92
+  accessed:
+    - year: 2019
+      month: 3
+      day: 10
+  author:
+    - family: Fausto
+      given: Carlos
+    - family: Neves
+      given: Eduardo G.
+  citation-key: fausto:2018was92
+  container-title: Antiquity
+  DOI: 10.15184/aqy.2018.157
+  ISSN: 0003-598X, 1745-1744
+  issue: '366'
+  issued:
+    - year: 2018
+      month: 12
+  language: en
+  page: 1604-1618
+  source: Crossref
+  title: >-
+    Was there ever a Neolithic in the Neotropics? Plant familiarisation and
+    biodiversity in the Amazon
+  title-short: Was there ever a Neolithic in the Neotropics?
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/S0003598X18001576/type/journal_article
+  volume: '92'
+
 - id: fernandes:2004historia
   accessed:
     - year: 2016
