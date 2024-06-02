@@ -235,7 +235,7 @@ references:
   ISBN: 85-85373-08-3 978-85-85373-08-5
   issued:
     - year: 1994
-  language: es
+  language: spa
   publisher: 'Memorial : Fondo de Cultura Económica'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -7760,7 +7760,7 @@ references:
       given: Pedro P.
   citation-key: palazzo:2017patrimonializacao
   editor:
-    - family: Andrade, Junior
+    - family: Andrade Junior
       given: Nivaldo Vieira
       dropping-particle: de
   event-place: Salvador
@@ -7769,7 +7769,7 @@ references:
     edificado
   issued:
     - year: 2017
-  language: pt
+  language: por
   page: E1 069
   publisher: Universidade Federal da Bahia
   publisher-place: Salvador
@@ -7958,9 +7958,10 @@ references:
       month: 12
       day: 8
   language: pt
+  license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
   publisher: >-
-    <span smallcaps="smallcaps">AEAULP</s> : Faculdade de Arquitetura e
-    Urbanismo da Universidade de Brasília</span>
+    <span smallcaps="smallcaps">AEAULP</span> : Faculdade de Arquitetura e
+    Urbanismo da Universidade de Brasília
   publisher-place: Brasília
   source: Zotero
   title: >-
@@ -8951,14 +8952,14 @@ references:
   ISBN: 978-85-314-1304-9 85-314-1304-4
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: EdUSP
   publisher-place: São Paulo
   source: Open WorldCat
   title: >-
     Neocolonial, modernismo e preservação do patrimônio no debate cultural dos
     anos 1920 no Brasil
-  title-short: Neocolonial
+  title-short: Neocolonial, modernismo e preservação do patrimônio
   type: book
 
 - id: pinto:2015portugal16
