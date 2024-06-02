@@ -14,7 +14,7 @@
     {%- set descriptionMeta = site.description -%}
   {%- endif -%}
 {%- endif -%}
-{%- set currentUrl = [ site.url, page.url ] | join -%}
+{%- set currentUrl = [ site.url, site.baseurl, page.url ] | join -%}
 
 <title>{{ metaTitle }}</title>
 <link rel="canonical" href="{{ currentUrl }}" />
@@ -54,4 +54,4 @@
   <meta property="og:description" content="{{ descriptionMeta }}" />
 {% endif %}
 
-<link rel="stylesheet" type="text/css" href="/assets/css/styles.css" />
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/styles.css" | htmlBaseUrl }}" />
