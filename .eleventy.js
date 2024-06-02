@@ -64,6 +64,7 @@ module.exports = function(eleventyConfig) {
   *******************************************************/
   // If needed, return an object configuration
   return {
+    pathPrefix: "/TAU0009/",
     htmlTemplateEngine: "njk",
     //markdownTemplateEngine: "njk",
     dir: {
