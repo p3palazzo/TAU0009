@@ -5,14 +5,14 @@
     linear-gradient(rgba(255, 255, 255, {{ header.overlay_filter }}),
                     rgba(255, 255, 255, {{ header.overlay_filter }})),
     {%- endif -%}
-    url('{{ header.overlay_image }}');
+    url('{{ header.overlay_image | htmlBaseUrl }}');
   @media(prefers-color-scheme: dark) {
     background-image:
       {%- if header.overlay_filter -%}
       linear-gradient(rgba(0, 0, 0, {{ header.overlay_filter }}),
                       rgba(0, 0, 0, {{ header.overlay_filter }})),
       {%- endif -%}
-      url('{{ header.overlay_image }}');
+      url('{{ header.overlay_image | htmlBaseUrl }}');
   }
 }
 </style>

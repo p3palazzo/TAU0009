@@ -647,7 +647,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1961
-  language: pt
+  language: por
   number-of-volumes: '2'
   publisher: Sindicato Nacional dos Arquitectos
   publisher-place: Lisboa
@@ -1918,7 +1918,7 @@ references:
   issued:
     - year: 2010
       month: 5
-  language: pt
+  language: por
   page: 25–37
   title: >-
     Revisão à escola baiana de pintura: um estudo sobre o pintor José Teófilo de
@@ -2640,7 +2640,7 @@ references:
   ISBN: 978-88-7849-055-0
   issued:
     - year: 2010
-  language: en
+  language: eng
   number-of-pages: '395'
   publisher: Ante quem
   publisher-place: Bologna
@@ -4183,7 +4183,7 @@ references:
   event-title: 4.º Congresso Internacional de História da Construção Luso-Brasileira
   issued:
     - year: 2023
-  language: pt
+  language: por
   license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
   page: 749-761
   publisher: Universidade do Minho
@@ -6166,7 +6166,7 @@ references:
   URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=4931855
 
 - id: lopes:1886india
-  abstract: '26'
+  abstract: 26 45 52
   accessed:
     - year: 2023
       month: 8
@@ -6182,7 +6182,35 @@ references:
   event-place: Lisboa
   issued:
     - year: 1886
-  language: pt
+  language: por
+  number-of-volumes: '2'
+  publisher: Imprensa Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    A India portugueza: breve descripção das possessões portuguezas na Asia,
+    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
+  title-short: A India portugueza
+  type: book
+
+- id: lopes:1886india1
+  abstract: '26'
+  accessed:
+    - year: 2023
+      month: 8
+      day: 9
+  author:
+    - family: Lopes Mendes
+      given: António
+  call-number: ABM-8640
+  citation-key: lopes:1886india1
+  contributor:
+    - literal: Sociedade de Geografia de Lisboa
+    - literal: Robarts - University of Toronto
+  event-place: Lisboa
+  issued:
+    - year: 1886
+  language: por
   number-of-pages: '508'
   publisher: Imprensa Nacional
   publisher-place: Lisboa
@@ -6195,7 +6223,7 @@ references:
   URL: http://archive.org/details/indiaportuguezab01lopeuoft
   volume: '1'
 
-- id: lopes:1886indiaa
+- id: lopes:1886india2
   abstract: 26 45 52
   accessed:
     - year: 2023
@@ -6205,14 +6233,14 @@ references:
     - family: Lopes Mendes
       given: António
   call-number: ABM-8640
-  citation-key: lopes:1886indiaa
+  citation-key: lopes:1886india2
   contributor:
     - literal: Sociedade de Geografia de Lisboa
     - literal: Robarts - University of Toronto
   event-place: Lisboa
   issued:
     - year: 1886
-  language: pt
+  language: por
   number-of-pages: '494'
   publisher: Imprensa Nacional
   publisher-place: Lisboa
@@ -6224,34 +6252,6 @@ references:
   type: book
   URL: http://archive.org/details/indiaportuguezab02lope
   volume: '2'
-
-- id: lopes:1886indiab
-  abstract: 26 45 52
-  accessed:
-    - year: 2023
-      month: 8
-      day: 9
-  author:
-    - family: Lopes Mendes
-      given: António
-  call-number: ABM-8640
-  citation-key: lopes:1886indiab
-  contributor:
-    - literal: Sociedade de Geografia de Lisboa
-    - literal: Robarts - University of Toronto
-  event-place: Lisboa
-  issued:
-    - year: 1886
-  language: pt
-  number-of-volumes: '2'
-  publisher: Imprensa Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    A India portugueza: breve descripção das possessões portuguezas na Asia,
-    dividida em dois volumes. Publicada por ordem do Ministerio da Marinha
-  title-short: A India portugueza
-  type: book
 
 - id: lopes:2014ocupacao
   abstract: >-
@@ -6697,7 +6697,7 @@ references:
   ISBN: 978-989-95758-5-1
   issued:
     - year: 2010
-  language: pt
+  language: por
   number-of-pages: '554'
   publisher: Fundação Calouste Gulbenkian
   publisher-place: Lisboa
@@ -7431,7 +7431,7 @@ references:
   ISBN: 978-972-9048-66-1
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: 'Ismai : Cedtur'
   publisher-place: Maia
   source: http://id.bnportugal.gov.pt/bib/bibnacional/1833404
@@ -7944,6 +7944,10 @@ references:
   URL: https://www.premiorafaelmanzano.com/escuelas-de-verano/2022-azores/
 
 - id: palazzo:2023repensar
+  accessed:
+    - year: 2024
+      month: 3
+      day: 16
   author:
     - family: Palazzo
       given: Pedro P.
@@ -7953,15 +7957,18 @@ references:
   event-title: >-
     V Seminário Internacional da Academia das Escolas de Arquitetura e Urbanismo
     de Língua Portuguesa
+  ISBN: 978-989-53-4625-7
   issued:
     - year: 2023
       month: 12
       day: 8
-  language: pt
+  language: por
   license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
+  page: 793-802
   publisher: >-
-    <span smallcaps="smallcaps">AEAULP</span> : Faculdade de Arquitetura e
-    Urbanismo da Universidade de Brasília
+    <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">AEAULP</span> : Faculdade de Arquitetura e Urbanismo
+    da Universidade de Brasília
   publisher-place: Brasília
   source: Zotero
   title: >-
@@ -7969,6 +7976,8 @@ references:
     nossa arquitetura tradicional é mais recente do que parece
   title-short: Repensar a periodização da construção vernacular luso-brasileira
   type: paper-conference
+  URL: https://aeaulp.fa.ulisboa.pt/index.php/pt/proximidades-distantes
+  volume: '2'
 
 - id: palma:2016desenvolvimento
   abstract: >-
@@ -9316,7 +9325,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1964
-  language: pt
+  language: por
   number-of-pages: '215'
   publisher-place: São Paulo
   source: dedalus.usp.br Library Catalog
@@ -9331,7 +9340,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1983
-  language: pt
+  language: por
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -9405,7 +9414,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1968
-  language: pt
+  language: por
   publisher: 'Pioneira : Ed. da Universidade'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -9515,7 +9524,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1975
-  language: pt
+  language: por
   publisher: Livraria Martins
   publisher-place: São Paulo
   source: Open WorldCat
@@ -10531,12 +10540,12 @@ references:
   type: article-journal
   URL: https://journals.openedition.org/confins/20355
 
-- id: smith:2012robert
+- id: smith:2012robert1
   author:
     - family: Smith
       given: Robert C.
   call-number: NA853 .S5515 2012
-  citation-key: smith:2012robert
+  citation-key: smith:2012robert1
   collection-title: Coleção Obras de referência
   editor:
     - family: Reis Filho
@@ -10545,7 +10554,7 @@ references:
   ISBN: 978-85-7334-226-0 978-85-7334-227-7
   issued:
     - year: 2012
-  language: pt-BR
+  language: por
   publisher: Fundação Calouste Gulbenkian ; IPHAN
   publisher-place: 'Rio de Janeiro : Brasília'
   source: Library of Congress ISBN
@@ -11342,7 +11351,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2010
-  language: pt
+  language: por
   publisher: Superintendência do Iphan em São Paulo
   publisher-place: São Paulo
   title: São Luiz do Paraitinga
@@ -11810,7 +11819,7 @@ references:
   ISBN: 978-972-9048-66-1
   issued:
     - year: 2012
-  language: pt
+  language: por
   page: 393–408
   publisher: 'Ismai : Cedtur'
   publisher-place: Maia

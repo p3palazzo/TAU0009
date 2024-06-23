@@ -42,7 +42,7 @@ foi destruída durante o período colonial.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Forno de cal em Montesa, província de Valença (Espanha), século [XVIII]{style="font-variant:all-small-caps"}. [Reconstituição por Pablo Aparicio Resco](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa .border-0}
+![Forno de cal em Montesa, província de Valença (Espanha), século [XVIII]{style="font-variant:all-small-caps"}. [Reconstituição por Pablo Aparicio Resco](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa .border-0 style="background-color:#fffff8;"}
 
 
 ## Argamassas ##
