@@ -16,10 +16,10 @@ metadata:
   link-citations           : true
   reference-section-title  : "Referências"
   # pandoc-crossref metadata
-  ccsLabelSep              : "&nbsp;&ndash;&nbsp;"
-  figureTitle              : Figura
-  subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
-  tableTitle               : Tabela
+  ccsLabelSep              : " – "
+  figureTitle              : "Figura"
+  subfigureRefIndexTemplate: "$$i$$$$suf$$ [$$s$$]"
+  tableTitle               : "Tabela"
   tblPrefix:
     - tab.
     - tabs.

@@ -28,9 +28,9 @@
         </span>
         {%- endif %}
       </h1>
-      <div class="lead">
+      <p class="lead">
         {% if description %}{{ description | safe }}{% else %}{{ site.description | safe }}{% endif %}
-      </div>
+      </p>
       {% if header.cta_url %}
         <p><a href="{{ header.cta_url }}" class="btn btn--light-outline btn--large">{{ header.cta_label }}</a></p>
       {% endif %}
