@@ -2,12 +2,12 @@
 title: "Água"
 date: 2024-05-09
 tags: [ "aula", "materia" ]
-teaser: "/assets/media/320px-manga-carita.jpg"
 header:
+  teaser: "/assets/media/320px-manga-carita.jpg"
   overlay_image: "/assets/media/320px-manga-carita.jpg"
   overlay_filter: 0.7
   caption: "Jardim da Manga, Coimbra. Desenho: Helder Carita"
-description: >
+excerpt: >
   Chafarizes – Hortos e jardins – Urbanização e os rios
 ---
 

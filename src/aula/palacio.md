@@ -5,7 +5,7 @@ header:
   teaser: /assets/media/320px-Frans_Post-Een_suikerfabriek-2116-Museum_Boijmans_Van_Beuningen.jpg
   overlay_image: /assets/media/2560px-Frans_Post-Een_suikerfabriek-2116-Museum_Boijmans_Van_Beuningen-crop.jpg
   caption: "Frans Post, Engenho de açúcar, 1660. Acervo [Museu Boymans–van Beuningen](https://commons.wikimedia.org/wiki/File:Frans_Jansz._Post_-_Een_suikerfabriek_-_2116_(OK)_-_Museum_Boijmans_Van_Beuningen.jpg)"
-description: >
+excerpt: >
   Elementos de composição. Distribuições das casas nobres e algumas
   especializações tipológicas.
 ---

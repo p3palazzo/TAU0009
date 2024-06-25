@@ -3,12 +3,13 @@ title: "Madeira"
 author: "Pedro P. Palazzo"
 date: 2024-04-18
 tags: [ "materia", "aula" ]
-description: |
+toc: true
+excerpt: |
   Estruturas arquitravadas – Frontais, assoalhos e gaiolas –
   Carpintaria em negro e em branco – aberturas –
   Patologias construtivas
-teaser: "/assets/media/320x213px-debret-scieurs-nypl.jpg"
 header:
+  teaser: "/assets/media/320x213px-debret-scieurs-nypl.jpg"
   overlay_image: "/assets/media/2560px-debret-scieurs-nypl.jpg"
   caption: 'Jean-Baptiste Debret, Negros desdobrando, em <a href="https://digitalcollections.nypl.org/items/510d47df-797e-a3d9-e040-e00a18064a99"><em>Voyage pittoresque et historique au Brésil…</em>, v. 2, pr.18, 1834</a>. Litografia'
 ---

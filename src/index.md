@@ -1,8 +1,7 @@
 ---
 title         : 'Arquitetura e urbanismo'
 subtitle      : '<strike>no Brasil colônia e Império</strike> na tradição luso-brasileira'
-layout        : single
-entries_layout: grid
+layout        : "layouts/base.njk"
 classes       : wide
 toc           : true
 read_time     : false
@@ -11,13 +10,13 @@ header:
   overlay_image: "assets/media/br-rj-rj-r_direita-rugendas-1835.jpg"
   overlay_filter: 0.7
   caption: 'Johann Moritz Rugendas, <a href="https://digitalcollections.nypl.org/items/510d47d9-7b85-a3d9-e040-e00a18064a99">Rua Direita no Rio de Janeiro</a>, 1835'
-description: |
+excerpt: |
   <dl class="fst-normal">
     <dt>Ementa</dt>
     <dd>
       Produção arquitetônica e processo de urbanização do
       Descobrimento até fins do século
-      <span class="smallcaps">XIX</span>. Arquitetura indígena,
+      <span style="font-variant:all-small-caps">XIX</span>. Arquitetura indígena,
       vernácula e dos imigrantes.
     </dd>
     <dt>Objetivo de aprendizagem</dt>
@@ -28,25 +27,46 @@ description: |
       portuguesa.
     </dd>
   </dl>
+templateEngineOverride: njk,md
 ---
 
-<h2>Unidade I › Lugar</h2>
+# Unidade I › Lugar #
 
-{%- set album = collections.lugar -%}
+```{=html}
+<div class="row row-cols-md-2 row-cols-xl-4 g-3">
+{% for post in collections.lugar %}
 {%- include "partials/album.njk" -%}
+{% endfor %}
+</div>
+```
 
-<h2>Unidade II › Elementos da arquitetura</h2>
+# Unidade II › Elementos da arquitetura #
 
-{%- set album = collections.materia -%}
+```{=html}
+<div class="row row-cols-md-2 row-cols-xl-4 g-3">
+{% for post in collections.materia %}
 {%- include "partials/album.njk" -%}
+{% endfor %}
+</div>
+```
 
-<h2>Unidade III › Elementos de composição</h2>
+# Unidade III › Elementos de composição #
 
-{%- set album = collections.tipo -%}
+```{=html}
+<div class="row row-cols-md-2 row-cols-xl-4 g-3">
+{%- for post in collections.tipo -%}
 {%- include "partials/album.njk" -%}
+{% endfor %}
+</div>
+```
 
-<h2>Unidade IV › Estilo</h2>
+# Unidade IV › Estilo #
 
-{%- set album = collections.estilo -%}
+```{=html}
+<div class="row row-cols-md-2 row-cols-xl-4 g-3">
+{%- for post in collections.estilo -%}
 {%- include "partials/album.njk" -%}
+{% endfor %}
+</div>
+```
 

@@ -96,47 +96,22 @@ author:
   bio              : "Professor Associado"
   location         : "FAU–UnB"
   email            : "palazzo@unb.br"
+  orcid            : "https://orcid.org/0000-0002-0187-774X"
+  lattes           : "http://lattes.cnpq.br/5767592881382885"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label        : "ResearchGate"
+      icon         : "ai ai-researchgate"
+      url          : "https://www.researchgate.net/profile/Pedro-Palazzo"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label        : "GitHub"
+      icon         : "bi bi-github"
+      url          : "https://github.com/p3palazzo/TAU0009"
+    - label        : "Instagram"
+      icon         : "bi bi-instagram"
+      url          : "https://instagram.com/arqtrad/"
 
 
 # Reading Files
