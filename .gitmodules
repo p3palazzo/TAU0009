@@ -1,0 +1,3 @@
+[submodule "src/_includes"]
+	path = src/_includes
+	url = git@github.com:p3palazzo/eleventy-includes
