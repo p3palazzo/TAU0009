@@ -21,6 +21,7 @@ module.exports = function(eleventyConfig) {
   // Copy assets/ to _site/assets
   eleventyConfig.addPassthroughCopy(".gitattributes");
   eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy({"node_modules/jquery/dist/jquery.min.js": "assets/js/jquery.min.js"});
   eleventyConfig.addPassthroughCopy({"node_modules/reveal.js": "slides/reveal.js"});
   eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/icons": "assets/icons"});
   eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/bootstrap-icons.svg": "assets/bootstrap-icons.svg"});
@@ -56,7 +57,7 @@ module.exports = function(eleventyConfig) {
   * Setup views {{{2 *
   ********************/
   eleventyConfig.addLayoutAlias("base",    "layouts/base.njk");
-  eleventyConfig.addLayoutAlias("home",    "layouts/splash.njk");
+  eleventyConfig.addLayoutAlias("home",    "layouts/base.njk");
   eleventyConfig.addLayoutAlias("single",  "layouts/base.njk");
   eleventyConfig.addLayoutAlias("archive", "layouts/archive.njk");
  /*******************************************************

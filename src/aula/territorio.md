@@ -3,11 +3,11 @@ title: "Territórios"
 date: 2024-03-28
 category: Fundamentos
 tags: [ "aula", "lugar" ]
-teaser: "/assets/media/320x213px-Memorial_da_Epopeia_Riograndense_80a.jpg"
 header:
+  teaser: "/assets/media/320x213px-Memorial_da_Epopeia_Riograndense_80a.jpg"
   overlay_image: "/assets/media/daiara-pamuri-yukese-detalhe.jpg"
   caption: "Daiara Tukano, Pamuri Yukese, 2020"
-description: |
+excerpt: |
   Processos espaciais no leste da América do Sul nos séculos XI a XVII
   – Paisagens e fortificações.
 sidebar:

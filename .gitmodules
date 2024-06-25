@@ -1,0 +1,6 @@
+[submodule "src/_includes"]
+	path = src/_includes
+	url = git@github.com:p3palazzo/eleventy-includes
+[submodule "styles-bootstrap"]
+	path = _scss
+	url = git@github.com:p3palazzo/styles-bootstrap

@@ -3,15 +3,15 @@ title: "Terra"
 date: 2024-04-25
 category: Fundamentos
 tags: [ "aula", "materia" ]
-teaser: "/assets/media/320px-ouseley-sgonsalo.jpg"
 header:
+  teaser: "/assets/media/320px-ouseley-sgonsalo.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg/2560px-Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg"
   caption: |
     William G. Ousesly, Capela arruinada de S. Gonçalo, Bahia, 1852. Litografia,
     <a href="https://commons.wikimedia.org/wiki/File:Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg">
       Pinacoteca do Estado de São Paulo
     </a>
-description: |
+excerpt: |
   Sistemas construtivos vernaculares no mundo luso-brasileiro –
   Construção murária e arqueada – Taipas e alvenarias –
   Princípios de arqueologia da construção.

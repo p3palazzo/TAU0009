@@ -1,5 +1,6 @@
-layout: single
-author: Pedro Palazzo
+author_profile: false
+layout: "layouts/base.njk"
 tags: [ "aula" ]
+toc: true
 header:
   overlay_filter: 0.7
