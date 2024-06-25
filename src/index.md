@@ -3,7 +3,7 @@ title         : 'Arquitetura e urbanismo'
 subtitle      : '<strike>no Brasil colônia e Império</strike> na tradição luso-brasileira'
 layout        : "layouts/base.njk"
 classes       : wide
-toc           : true
+toc           : false
 read_time     : false
 author_profile: true
 header:
