@@ -829,6 +829,30 @@ references:
   type: book
   URL: http://rua.ua.es/dspace/handle/10045/130142
 
+- id: baeta:2017cidade
+  accessed:
+    - year: 2024
+      month: 7
+      day: 2
+  author:
+    - family: Baeta
+      given: Rodrigo Espinha
+  citation-key: baeta:2017cidade
+  DOI: 10.7476/9788523219970
+  event-place: Salvador
+  ISBN: 978-85-232-1997-0
+  issued:
+    - year: 2017
+  language: por
+  publisher: >-
+    Editora <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">UFBA</span>
+  publisher-place: Salvador
+  source: DOI.org (Crossref)
+  title: A cidade barroca na Europa e América Ibérica
+  type: book
+  URL: http://books.scielo.org/id/pfgkb
+
 - id: baganha:2018aprendendo
   author:
     - family: Baganha
@@ -2844,7 +2868,8 @@ references:
   source: Library of Congress ISBN
   title: >-
     Fazendas do sul de Minas Gerais: arquitetura rural nos séculos <span
-    smallcaps="smallcaps">XVIII</span> e <span smallcaps="smallcaps">XIX</span>
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XVIII</span> e
+    <span style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>
   title-short: Fazendas do sul de Minas Gerais
   type: book
 
@@ -4316,8 +4341,6 @@ references:
     (1902-1998); Jorge Machado Moreira (1904- 1992); Carlos Leão (1906-1983);
     Affonso Eduardo Reidy; Ernani Mendes de Vasconcelos (1912-1989); Oscar
     Ribeiro de Almeida Niemeyer Soares Filho (1907-2012).
-    _______________________________________________________________________________________________
-    ABSTRACT
   accessed:
     - year: 2019
       month: 2
@@ -4328,7 +4351,7 @@ references:
       dropping-particle: da
   citation-key: fonseca:2016escriptorio
   event-place: Brasília
-  genre: Tese (doutorado em Arquitetura e Urbanismo)
+  genre: Tese de Doutorado em Arquitetura e Urbanismo
   issued:
     - year: 2016
       month: 4
@@ -4339,9 +4362,9 @@ references:
   publisher-place: Brasília
   source: repositorio.unb.br
   title: >-
-    “Escriptório technico Emílio H. Baumgart” : Escola do Concreto Armado e a
+    Escriptório technico Emílio H. Baumgart: Escola do concreto armado e a
     arquitetura modernista brasileira
-  title-short: “Escriptório technico Emílio H. Baumgart”
+  title-short: Escriptório technico Emílio H. Baumgart
   type: thesis
   URL: http://repositorio.unb.br/handle/10482/19962
 
@@ -9198,7 +9221,7 @@ references:
   ISBN: 978-972-8479-84-8
   issued:
     - year: 2014
-  language: pt
+  language: por
   publisher: Argumentum
   publisher-place: Lisboa
   source: Open WorldCat
@@ -9638,7 +9661,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1875
-  language: pt
+  language: por
   publisher: Imprensa Nacional
   publisher-place: Lisboa
   title: >-
@@ -10351,7 +10374,7 @@ references:
   ISBN: 978-972-23-3336-8
   issued:
     - year: 2005
-  language: pt
+  language: por
   number-of-pages: '395'
   publisher: Presença
   publisher-place: Lisboa
@@ -11251,7 +11274,7 @@ references:
   title: História de Portugal
   type: book
 
-- id: thompsonfawcett:1998leon13
+- id: thompson-fawcett:1998leon13
   accessed:
     - year: 2019
       month: 3
@@ -11259,7 +11282,7 @@ references:
   author:
     - family: Thompson-Fawcett
       given: Michelle
-  citation-key: thompsonfawcett:1998leon13
+  citation-key: thompson-fawcett:1998leon13
   container-title: Planning Perspectives
   DOI: 10.1080/026654398364518
   ISSN: 0266-5433, 1466-4518
@@ -11267,7 +11290,7 @@ references:
   issued:
     - year: 1998
       month: 1
-  language: en
+  language: eng
   page: 167-194
   source: Crossref
   title: Leon Krier and the organic revival within urban policy and practice
@@ -11555,7 +11578,7 @@ references:
   ISBN: 978-989-26-0772-6
   issued:
     - year: 2013
-  language: pt
+  language: por
   publisher: Imprensa da Universidade de Coimbra
   publisher-place: Coimbra
   source: Crossref
@@ -11901,7 +11924,7 @@ references:
     - year: 2008
       month: 10
       day: 30
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade Federal de Minas Gerais
   publisher-place: Belo Horizonte
@@ -12388,11 +12411,9 @@ references:
   ISBN: 978-85-7334-201-7
   issued:
     - year: 2012
-  language: pt-BR
+  language: por
   number-of-pages: '89'
-  publisher: >-
-    IPHAN, Instituto do Patrimônio Histórico e Artístico Nacional, Ministério da
-    Cultura, Governo Federal Brasil
+  publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
   source: Library of Congress ISBN
   title: Imigração japonesa no Vale do Ribeira em São Paulo
