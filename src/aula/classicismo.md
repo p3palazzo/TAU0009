@@ -1,14 +1,15 @@
 ---
-title: "Classicismo imperial"
-date: 2023-11-30
-category: Linguagens
+title: "Classicismos"
+date: 2024-07-04
+tags: [ "aula", "estilo" ]
 header:
-  teaser: /assets/media/320px-br-rj-rj-paco-imperial-willmann-1867.jpg
-  overlay_image: /assets/media/br-rj-rj-paco-imperial-willmann-1867.webp
+  teaser: "/assets/media/320px-3x2-br-rj-rj-paco-imperial-willmann-1867.jpg"
+  overlay_image: "/assets/media/br-rj-rj-paco-imperial-willmann-1867.webp"
   caption: "Eduard Willmann, Paço Imperial, 1867"
-excerpt: >
+excerpt: >-
   Neoclassicismos multifacetados no século <span
-  class="smallcaps">XIX</span>. Talha, pintura e vidraria.
+  style="font-variant:all-small-caps">XIX</span> –
+  Talha, pintura e vidraria –
   Princípios de conservação e restauro.
 ---
 

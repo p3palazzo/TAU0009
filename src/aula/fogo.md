@@ -7,8 +7,9 @@ header:
   overlay_image: "/assets/media/georgina-forja.jpg"
   caption: "Georgina de Albuquerque, Forja, 1940"
 excerpt: |
-  Cal e revestimentos – Azulejaria –
-  Molduras e estuques – Vidro e ferro
+  Os materiais queimados, forjados ou de outro modo processados
+  representam um volume pequeno mas indispensável das
+  construções tradicionais.
 ---
 
 # Cal e rebocos #

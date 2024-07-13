@@ -1,13 +1,20 @@
 ---
-title: "Casas especializadas"
-date: 2023-11-16
+title: "Edilícia especial"
+date: 2024-06-13
+tags: [ "aula", "tipo" ]
 header:
-  teaser: /assets/media/320px-br-rj-rj-teatro-rossio-arago.jpg
-  overlay_image: /assets/media/br-rj-rj-teatro-rossio-arago.jpg
-  caption: "Jacques Arago, [Vista do teatro na praça do Rossio, Rio de Janeiro](https://www.brasilianaiconografica.art.br/obras/18145/avue-de-la-salle-de-spetacle-sur-la-place-do-rocio-a-rio-de-janeiro), 1825"
+  teaser: "/assets/media/320x213px-br-rj-rj-teatro-rossio-arago.jpg"
+  overlay_image: "/assets/media/br-rj-rj-teatro-rossio-arago.jpg"
+  caption: >-
+    Jacques Arago,
+    <cite>Vista do teatro na praça do Rossio</cite>,
+    Rio de Janeiro, 1825.
+    <a href="https://www.brasilianaiconografica.art.br/obras/18145/avue-de-la-salle-de-spetacle-sur-la-place-do-rocio-a-rio-de-janeiro" target="_blank">
+      Brasiliana iconográfica
+    </a>
 excerpt: >
   Habitação coletiva e modernização dos modos de morar. Sanitarismo
-  e tecnicismo. Paisagens industriais.
+  e tecnicismo. Arquitetura cívica.
 ---
 
 # Arquitetura civil e obras públicas #

@@ -8,7 +8,8 @@ header:
   overlay_filter: 0.7
   caption: "Jardim da Manga, Coimbra. Desenho: Helder Carita"
 excerpt: >
-  Chafarizes – Hortos e jardins – Urbanização e os rios
+  O jardim português é um fenômeno único na história do
+  paisagismo.
 ---
 
 # Sistemas agroflorestais na Amazônia #

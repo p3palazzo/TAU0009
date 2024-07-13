@@ -1,19 +1,18 @@
 ---
-title: "Renascença, barroco e rococó"
-date: 2023-11-23
-layout: single
-category: Linguagens
+title: "Barroco e rococó"
+date: 2024-06-27
 tags: [ "aula", "estilo" ]
 header:
   teaser: "/assets/media/320x213px-Benedito_Calixto-Largo_da_See_em_1865.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"
   overlay_filter: 0.7
-  caption: |
-    Benedito Calixto de Jesus, Largo da Sé em 1865 (1917–19),
-    <a href="https://commons.wikimedia.org/wiki/File:Benedito_Calixto-Largo_da_Sé_em_1865.tif">
+  caption: >-
+    Benedito Calixto de Jesus, <cite>Largo da Sé em 1865</cite>, 1917–19.
+    <a href="https://commons.wikimedia.org/wiki/File:Benedito_Calixto-Largo_da_Sé_em_1865.tif"
+       target="_blank">
       Museu de Arte Sacra de São Paulo
     </a>
-excerpt: |
+excerpt: >-
   Arquitetura religiosa como epítome dos estilos luso-brasileiros –
   Ordens religiosas e sua dissolução.
 ---

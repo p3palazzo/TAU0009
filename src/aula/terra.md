@@ -12,9 +12,7 @@ header:
       Pinacoteca do Estado de São Paulo
     </a>
 excerpt: |
-  Sistemas construtivos vernaculares no mundo luso-brasileiro –
-  Construção murária e arqueada – Taipas e alvenarias –
-  Princípios de arqueologia da construção.
+  Construir à compressão pura e com baixa emissão de dióxido de carbono.
 sidebar:
   - title: "Leitura"
     text: |
@@ -26,17 +24,6 @@ sidebar:
         <li>Tognon, Marcos. “O desenho e a história da técnica na arquitetura do Brasil colonial”. <em>Varia Historia</em> 27, n<sup>o</sup> 46 (dezembro de 2011): 547–56. <a href="https://doi.org/10.1590/S0104-87752011000200008">https://doi.org/10.1590/S0104-87752011000200008</a>.</li>
       </ul>
 ---
-
-# Construção murária #
-
-## Estabilidade à compressão pura ##
-
-## Arcos e abóbadas ##
-
-## Paredes portantes e divisórias ##
-
-Contrariamente ao senso comum, a arquitetura tradicional também
-distingue entre estrutura portante e divisórias não estruturais.
 
 # Matéria #
 
@@ -74,10 +61,10 @@ Amarrações de tijolos para paredes, colunas e pilares.
 ## Aparelhos de alvenaria de pedra ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Segundo @pereira:1955alvenaria1 :
+Segundo @pereira:1955enciclopedia13:
 
 - Pedra solta [ou pedra seca] --- só para muros [mas é usado também em
-  construções rústicas] [@pereira:1955alvenaria2];
+  construções rústicas] [@pereira:1955enciclopedia14];
 - Aparelho vulgar [ou pedra lavrada], que é o ideal para a maioria dos
   usos;
 - Aparelho rústico [ou pedra aparelhada];
@@ -88,6 +75,11 @@ Segundo @pereira:1955alvenaria1 :
 <!--Ilustrar amarrações segundo EPCC 13-->
 
 ## Paredes mistas ##
+
+Contrariamente ao senso comum, a arquitetura tradicional também
+distingue entre estrutura portante e divisórias não estruturais.
+
+## Arcos e abóbadas ##
 
 ## Vãos ##
 
@@ -119,25 +111,13 @@ sistemas e procedimentos empregados na construção original
 
 ## Reabilitação ##
 
+# Arqueologia da construção #
+
 ---
 nocite: |
   @adam:1990larte,
   @mingo:2015construccion,
   @pereira:1955enciclopedia,
   @vasconcellos:1979arquitetura
-=======
-# Fundações e terraplenos #
-
-# Construção murária #
-
-# Alvenarias #
-
-![Construção do coroamento sobre parede de alvenaria mista. Desenho: Javier de Mingo](https://www.albanecar.es/wp-content/uploads/2018/11/Muro_1802.jpg){#fig:albanecar-asiento}
-
-# Arqueologia da construção #
-
----
-nocite: |
-  @mingo:2015construccion
 ---
 

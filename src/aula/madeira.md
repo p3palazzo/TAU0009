@@ -5,16 +5,28 @@ date: 2024-04-18
 tags: [ "materia", "aula" ]
 toc: true
 excerpt: |
-  Estruturas arquitravadas – Frontais, assoalhos e gaiolas –
-  Carpintaria em negro e em branco – aberturas –
-  Patologias construtivas
+  Construção aditiva e a cabana primitiva.
 header:
   teaser: "/assets/media/320x213px-debret-scieurs-nypl.jpg"
   overlay_image: "/assets/media/2560px-debret-scieurs-nypl.jpg"
-  caption: 'Jean-Baptiste Debret, Negros desdobrando, em <a href="https://digitalcollections.nypl.org/items/510d47df-797e-a3d9-e040-e00a18064a99"><em>Voyage pittoresque et historique au Brésil…</em>, v. 2, pr.18, 1834</a>. Litografia'
+  caption: >-
+    Jean-Baptiste Debret, Negros desdobrando, em
+    <a href="https://digitalcollections.nypl.org/items/510d47df-797e-a3d9-e040-e00a18064a99">
+    <cite>Voyage pittoresque et historique au Brésil…</cite>,
+    v. 2, pr.18, 1834</a>. Litografia
 ---
 
 # Construção arquitravada #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a
+madeira é o material primordial da arquitetura. A construção tradicional
+em madeira é uma concepção *aditiva*, isto é, ela se caracteriza
+estruturalmente e visualmente pela montagem de peças claramente
+distintas entre si. Quase todas as tradições arquitetônicas em madeira
+usam o que chamamos de um sistema arquitravado: vigas que trabalham à
+flexão, simplesmente apoiadas sobre pilares em compressão.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Cabana primitiva ##
 
@@ -39,50 +51,6 @@ que vamos analisar junto com o registro arqueológico.
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As árvores são o material de construção por excelência. Todas as
-espécies de hominídeos, dos orangotangos ([@fig:orang]) aos gorilas,
-chimpanzés ([@fig:chimp]) e humanos, usam as árvores como material e,
-eventualmente, suporte para construir os seus abrigos. Isso indica que a
-prática de construir com galhos de árvores pode remontar a até 10
-milhões atrás, ao último ancestral comum dos hominídeos
-[@fruth:2017great].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: aside
-![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html)](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-![Chimpanzé no seu ninho na Nigéria. Foto: [Cyril Russo, Minden Pictures / National Geographic, 2018 ](https://www.nationalgeographic.com/news/2018/05/chimpanzee-animals-beds-health/) ](https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg){#fig:chimp .inset}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: aside
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .slide-bg}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-![Reconstituição de tenda em ossos e peles de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de Tóquio Foto: [Momotarou2012, 2013](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dwelling_made_with_mammoth_bones.jpg/1280px-Dwelling_made_with_mammoth_bones.jpg){#fig:mezhyrich .inset}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Entre os humanos, os vestígios mais antigos de abrigos podem ter de 15 a 380
-mil anos ([@fig:terra-amata; @fig:mezhyrich]).
-A espécie humana é a única entre os primatas a usar abrigos coletivos, e
-também a única a construir uma cobertura completa sobre o abrigo. Hoje
-em dia, todas as comunidades humanas, mesmo as caçadoras-coletoras,
-reutilizam os mesmos abrigos por, no mínimo, alguns dias a fio
-[@venkataraman:2017hunter-gatherer114].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além disso, os nossos abrigos muitas vezes são construídos com
 algum objetivo social, funcional ou cultural que não a proteção simples
 e imediata do corpo humano. Em vários modos de vida vigentes até hoje,
@@ -100,7 +68,6 @@ relento ([@fig:gauchos]).
 ![Comunidade San em volta do lar central de uma aldeia. Foto: [Kgara Kevin Rack, 2017](https://commons.wikimedia.org/wiki/File:Oldest_Healing_Dance.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg){#fig:san}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-
 #### Nesses casos, as construções servem ####
 
 como depósitos utilitários ou ainda
@@ -115,19 +82,21 @@ aldeia, mas a construção não é usada nem para as atividades cotidianas e
 nem mesmo para dormir [@jarzombek:2013architecture].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/38/08/18/380818ba0d81b70e8b952689057030a7.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse comportamento social e simbólico contrasta com
 o dos outros hominídeos, que quase sempre constroem um novo abrigo a
 cada noite, e usam esse abrigo exclusivamente para repouso de um único
-indivíduo. [@fruth:2017great].
+indivíduo [@fruth:2017great] (@fig:chimp).
 A diferença entre a mobilidade da maioria dos hominídeos em
 todo o seu território e o apego dos humanos a um sítio central só foi
 confirmada no século [XX]{.smallcaps}, mas ela está na base de mitos de
 origem da arquitetura, como a alegoria da cabana primitiva segundo
 Vitrúvio.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Chimpanzé no seu ninho na Nigéria. Foto: [Cyril Russo, Minden Pictures / National Geographic, 2018 ](https://www.nationalgeographic.com/news/2018/05/chimpanzee-animals-beds-health/) ](https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg){#fig:chimp}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -145,7 +114,6 @@ prática da arquitetura tradicional.
 ## Arquitetura e sociedade ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-
 #### Vitrúvio especulava que ####
 
 o domínio sobre o
@@ -181,7 +149,6 @@ usufruir do abrigo.
 ## Arquitetura e racionalismo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-
 #### A diferença entre ####
 
 o mito da cabana primitiva que Vitrúvio contou no
@@ -200,9 +167,7 @@ estritamente individual.
 
 ![Anicet Charles Gabriel Lemonnier, Leitura da tragédia « L'orpheline de la Chine », de Voltaire, no salão de Madame Geoffrin, óleo sobre tela de 1812](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg/1280px-ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg){#fig:salon}
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia}
@@ -228,15 +193,11 @@ argumento pela superioridade racional de um retorno às origens da
 arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 ![Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg){#fig:bastille}
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: aside
 ![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich}
@@ -278,7 +239,6 @@ metade do século [XIX]{.smallcaps}.
 ## Arquitetura e antropologia ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-
 #### A terceira versão ####
 
 do mito da cabana primitiva foi contada
@@ -286,9 +246,7 @@ pelo arquiteto alemão Gottfried Semper ([@fig:semper]) num artigo de 1851
 intitulado "Os quatro elementos da arquitetura" [@semper:1851vier].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Semper se inspirou numa cabana de índios karib ([@fig:karib]) que ele
@@ -308,9 +266,7 @@ nas origens da humanidade.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg}
@@ -392,9 +348,7 @@ Venustas = Vedação
 : Beleza e, mais especificamente, decoro
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa última parte deriva de um jogo de palavras em alemão, que Semper
@@ -440,9 +394,7 @@ primordial em madeira é um arquétipo constantemente reatualizado em
 rituais religiosos de várias culturas do mundo todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um dos casos mais
@@ -540,9 +492,7 @@ usadas apenas para escoramentos temporários, segundo
 @oliveira:2011tecnologia [113-14].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Desdobramento (serraria) e aparelhamento (aplainado):
@@ -553,9 +503,7 @@ Desdobramento (serraria) e aparelhamento (aplainado):
 
 [*Voyage pittoresque et historique au Brésil…*, v. 2, pr. 18, 1834]: https://digitalcollections.nypl.org/items/510d47df-797e-a3d9-e040-e00a18064a99
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 ![Esquema tradicional do desdobramento de troncos de grandes dimensões. Desenho por Jorge Mascarenhas, Sistemas de construção [XIII]{style="font-variant:all-small-caps"}:178](/assets/media/mascarenhas-13-178-madeira-dimensoes-a.png){#fig:mascarenhas-xiii-178-a .line}
 
@@ -567,18 +515,16 @@ O desdobramento dos troncos é a primeira fonte de nomenclatura das peças
 
 ## Estruturas rústicas ##
 
-![Carro de boi transportando água no município de Inhapi, Alagoas. Fonte: Simonard e Mendes Júnior, "O território de circulação do carro de boi alagoano"](https://journals.openedition.org/confins/docannexe/image/20355/img-1.jpg){#fig:carro .col-lg-12}
+![Carro de boi transportando água no município de Inhapi, Alagoas. Fonte: [INRC--AL]{style="font-variant:all-small-caps"}, grupo de pesquisa Nordestanças, 2015, *ap.* Simonard e Mendes Júnior, "O território de circulação do carro de boi alagoano"](https://i.pinimg.com/originals/b1/d5/2c/b1d52c8f135a995b175800ca9ab4548e.jpg){#fig:carro .col-lg-12}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A madeira é um material onipresente no cotidiano das culturas
 tradicionais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-
-![Espigueiro de tábuas em Chouselas, Minho. Foto anônima de 1955, acervo da Ordem dos Arquitetos [PT-OA-IARP-BRG-AMR24-002](http://www.oapix.org.pt/100000/1/1608,01,2/index.htm){style="font-variant: all-small-caps;"}](http://www.oapix.org.pt/imgs/thumb6/1325894983Q6rKL1fr1Jt84XQ1.jpg){#fig:espigueiro}
+![Espigueiro de tábuas em Chouselas, Minho. Foto anônima de 1955, acervo da Ordem dos Arquitetos [PT-OA-IARP-BRG-AMR24-002](http://www.oapix.org.pt/100000/1/1608,01,2/index.htm){style="font-variant: all-small-caps;"}](https://i.pinimg.com/736x/c9/7c/19/c97c192a8de75ddc7a2a389f6457e6f6.jpg){#fig:espigueiro}
 
 ## Nomenclatura ##
 
@@ -596,17 +542,13 @@ em 8 polegadas e mede cerca de 22 a 22,5 centímetros).
 
 ![Dimensões e denominações correntes de madeira em Portugal. Desenho: Jorge Mascarenhas, Sistemas de construção [XIII]{style="font-variant:all-small-caps"}:178](/assets/media/mascarenhas-13-178-madeira-dimensoes-b.png){#fig:mascarenhas-xiii-178-b .line}
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: aside
 ![Frechal de uma parede em taipa ou adobe. 1 -- frechais, 2 -- tarugo ou tarufo, 3 -- armadura em tora roliça, 4 -- taipa. Desenho: Sylvio de Vasconcellos](/assets/media/vasconcellos-004-frechal-corte.png){#fig:frechal .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
 
 ![Partes de uma tesoura](https://i.pinimg.com/originals/e5/87/2d/e5872d84eb7467cd8473d02a9115835c.jpg){#fig:tesoura .line .inset}
 
@@ -733,8 +675,8 @@ Estilos de talha em retábulos de igrejas jesuíticas. Desenho: Lucio Costa
 ## Casas de colono ##
 
 ---
-toc: true
 nocite: |
+  @adam:1990larte,
   @costa:1941arquitetura,
   @mascarenhas:2012reabilitacao,
   @simonard:2019territorio,
