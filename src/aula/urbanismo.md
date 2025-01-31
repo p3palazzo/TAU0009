@@ -23,6 +23,7 @@ sidebar:
       2012.
 ---
 
+# Introdução # {-}
 
 O fator determinante para a política urbanizadora adotada
 pela Coroa portuguesa durante o período medieval e o Antigo
@@ -46,15 +47,11 @@ América.
 
 ## Urbanização romana e islâmica ##
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Reconstituição digital de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://hcommons.org/app/uploads/sites/1002372/2022/01/ammaia-3d.png){#fig:ammaia-3d .r-stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Mapa arqueológico de Ammaia, Lusitânia romana. Documentação: Cristina Corsi *et al.*, 2013](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .line .r-stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * *
 
@@ -127,7 +124,7 @@ península Ibérica, numa ordem urbana em três níveis:
 [^almedina]: A terminologia urbanística de al-Ândalus
   é notoriamente inconsistente. Mazzoli-Guintard alerta
   sobre a ocorrência intercambiável dos substantivos
-  qā'ida, almedina, qarya e ḥiṣn, que designam diferentes
+  *qā'ida, almedina, qarya* e *ḥiṣn*, que designam diferentes
   posições hierárquicas ou importâncias dos núcleos
   habitados. Apenas o conceito de almedina tende
   a estar preferencialmente associado a uma sede de poder
@@ -783,9 +780,7 @@ José Geraldo Simões Júnior chamassem a esse paradigma de "urbanismo de
 colina" [@lobo:2012urbanismo].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Implantação original da vila de Caminha com o seu percurso estruturante na linha de cumeada. Mapa: [Pedro P. Palazzo, 2022](https://commons.wikimedia.org/wiki/File:Caminha_and_ridge_road.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Caminha_and_ridge_road.svg/1920px-Caminha_and_ridge_road.svg.png){#fig:caminha-colina .r-stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
@@ -824,9 +819,7 @@ Vista aérea de Caminha por [Polychronis Drone, 2021](https://youtu.be/fbduT2k8p
 
 * * * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Urbanização planejada de geometria orgânica: traçados estruturante e de implantação na cidade baixa de Coimbra, século [XIV]{.smallcaps}, em mapa de 1934](https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg){#fig:baixa .r-stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Parcelamento e tipologia edilícia ##
 
@@ -856,9 +849,7 @@ casas-pátio mediterrânicas em casas correntes semelhantes às do norte da
 Europa pode ter contribuído para esse objetivo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Esquema teórico da convergência do parcelamento urbanístico português. Esquerda: duas casas islâmicas com adarve, c. 50 palmos de testada, séculos [XI--XII]{.smallcaps}; centro: o mesmo conjunto reparcelado em duas casas correntes com c. 25 palmos de testada, séculos [XIII--XIV]{.smallcaps}; direita: duas casas sobre lotes planejados com 25 palmos de testada, século [XIII]{.smallcaps} em diante. Desenho: [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Reparcelamento_de_lotes_portugueses.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Reparcelamento_de_lotes_portugueses.jpg/2560px-Reparcelamento_de_lotes_portugueses.jpg){#fig:reparcela .r-stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * *
 
@@ -1093,7 +1084,7 @@ quilômetros em volta dos núcleos urbanos.
 
 O traçado de Olinda, mais preservado em sua feição original
 do que o do Recife, que foi redesenhado diversas vezes nos
-séculos [XVII]{.smallcaps}, [XVIII]{.smallcaps} e [XI]{.smallcaps}X, evidencia outras características
+séculos [XVII]{.smallcaps}, [XVIII]{.smallcaps} e [XIX]{.smallcaps}, evidencia outras características
 marcantes da urbanização portuguesa no Brasil.
 Uma delas é a articulação entre os estabelecimentos civis
 e religiosos na estruturação do espaço urbano.
@@ -1226,6 +1217,4 @@ de Viamão (1732) --- formando um sistema binário semelhante
 ao de Olinda e Recife ---, acaba por adquirir ela própria um
 binômio cidade alta--baixa pela especialização de áreas
 urbanas em torno da linha de cumeada e do porto.
-
-# Referências # {.unlisted}
 

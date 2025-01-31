@@ -2,7 +2,7 @@
 title         : 'Arquitetura e urbanismo'
 subtitle      : '<strike>no Brasil colônia e Império</strike> na tradição luso-brasileira'
 layout        : "layouts/base.njk"
-classes       : wide
+classes       : "wide"
 toc           : false
 read_time     : false
 author_profile: true
@@ -11,7 +11,7 @@ header:
   overlay_filter: 0.7
   caption: 'Johann Moritz Rugendas, <a href="https://digitalcollections.nypl.org/items/510d47d9-7b85-a3d9-e040-e00a18064a99">Rua Direita no Rio de Janeiro</a>, 1835'
 excerpt: |
-  <dl class="fst-normal">
+  <dl>
     <dt>Ementa</dt>
     <dd>
       Produção arquitetônica e processo de urbanização do
@@ -30,7 +30,7 @@ excerpt: |
 templateEngineOverride: njk,md
 ---
 
-# Unidade I › Lugar #
+# Unidade I › Lugar # {-}
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
@@ -40,7 +40,7 @@ templateEngineOverride: njk,md
 </div>
 ```
 
-# Unidade II › Elementos da arquitetura #
+# Unidade II › Elementos da arquitetura # {-}
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
@@ -50,7 +50,7 @@ templateEngineOverride: njk,md
 </div>
 ```
 
-# Unidade III › Elementos de composição #
+# Unidade III › Elementos de composição # {-}
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
@@ -60,7 +60,7 @@ templateEngineOverride: njk,md
 </div>
 ```
 
-# Unidade IV › Estilo #
+# Unidade IV › Estilo # {-}
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">

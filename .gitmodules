@@ -1,6 +1,9 @@
+[submodule "_scss"]
+	path = _scss
+	url = https://github.com/arqtrad/styles-bootstrap
+[submodule "src/_data/schemata"]
+	path = src/_data/schemata
+	url = https://github.com/arqtrad/schemata
 [submodule "src/_includes"]
 	path = src/_includes
-	url = git@github.com:p3palazzo/eleventy-includes
-[submodule "styles-bootstrap"]
-	path = _scss
-	url = git@github.com:p3palazzo/styles-bootstrap
+	url = https://github.com/arqtrad/eleventy-includes

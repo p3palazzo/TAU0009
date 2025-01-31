@@ -114,7 +114,7 @@ references:
   type: article-journal
   URL: http://www.periodicos.usp.br/viaatlantica/article/view/50773
 
-- id: alencastro:1997historia
+- id: alencastro:1997historia2
   abstract: >-
     "Excellent essays by top scholars (F. Novais, L. de Mello e Souza, L. Mezan
     Algranti, L. Mott, R. Vainfas, M. del Priore, L. Villalta, and I. Jancso)
@@ -122,7 +122,7 @@ references:
     colonial Brazil. Beautifully illustrated and engagingly written. Highly
     recommended"--Handbook of Latin American Studies, v. 58
   call-number: GT2402.B6 H57 1997
-  citation-key: alencastro:1997historia
+  citation-key: alencastro:1997historia2
   collection-editor:
     - family: Novais
       given: Fernando A.
@@ -226,6 +226,22 @@ references:
   type: thesis
   URL: http://repositorio.ulusiada.pt/handle/11067/1814
 
+- id: amaral:1961arquitectura
+  citation-key: amaral:1961arquitectura
+  editor:
+    - family: Amaral
+      given: Francisco Keil
+      dropping-particle: do
+  event-place: Lisboa
+  issued:
+    - year: 1961
+  language: por
+  number-of-volumes: '2'
+  publisher: Sindicato Nacional dos Arquitectos
+  publisher-place: Lisboa
+  title: Arquitectura popular em Portugal
+  type: book
+
 - id: amaral:1994arquitectura
   author:
     - family: Amaral
@@ -253,7 +269,7 @@ references:
   ISBN: 978-972-95871-5-3
   issued:
     - year: 1994
-  language: pt
+  language: por
   number-of-pages: '278'
   publisher: >-
     Comissão Nacional para as Comemorações dos Descobrimentos Portugueses :
@@ -303,11 +319,11 @@ references:
   ISBN: 978-989-732-973-9
   issued:
     - year: 2016
-  language: pt
+  language: por
   license: openAccess
   publisher: >-
-    <span smallcaps="smallcaps">Dinâmia’cet-iul</span> do <span
-    smallcaps="smallcaps">iscte</span> - Instituto Universitário de Lisboa
+    Dinâmia’CET–IUL do <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">ISCTE</span> - Instituto Universitário de Lisboa
   publisher-place: Lisboa
   source: repositorio.iscte-iul.pt
   title: Arquitectura popular. Tradição e vanguarda
@@ -442,7 +458,7 @@ references:
     - year: 2023
       month: 1
       day: 26
-  language: es
+  language: spa
   title: >-
     Herramientas de trazabilidad científica aplicadas a la reconstrucción
     virtual en 3D de la antigua basilica de San Pedro del Vaticano (s. IV)
@@ -642,18 +658,6 @@ references:
       given: Liliana
   type: book
 
-- id: arquitectura:1961
-  citation-key: arquitectura:1961
-  event-place: Lisboa
-  issued:
-    - year: 1961
-  language: por
-  number-of-volumes: '2'
-  publisher: Sindicato Nacional dos Arquitectos
-  publisher-place: Lisboa
-  title: Arquitectura popular em Portugal
-  type: book
-
 - id: arraes:2016plantar
   abstract: ":A urbanização da capitania do Piauí acompanhou, desde finais do século XVII, um complexo processo negociado entre a Coroa portuguesa, os representantes régios, a rede clientelar urdida pela Casa da Torre e a população residente em seus sertões. O que antes era conteúdo dos sertões de Rodelas passou a construir-se como identidade territorial a partir da fundação da primeira freguesia, em 1697, dedicada a Nossa Senhora da Vitória. Estruturando-se descontinuamente no tempo e no espaço, o Piauí reforma-se em 1758, ano da autonomização do seu governo. E fez-se urbano em 1761, quando D. José I e o marquês de Pombal equacionaram, por meio da carta régia de 19 de junho, um território formado por seis vilas e uma cidade. Nessa direção, o objetivo deste artigo consiste em reconstruir o processo de formação da capitania do Piauí segundo os agentes envolvidos na urbanização do território. Propõe-se descortinar as políticas da Coroa por meio da oficialização de povoações estrategicamente locadas no território visando o controle e o \"remédio\" das injustiças rotineiras do Piauí. O método de apresentar essa reconstrução vale-se da interconexão entre texto (documentação manuscrita) e imagem (mapas e fotografias), que em suas entrelinhas representam um Piauí como espaço de experiências sentidas tanto na dimensão oficial quanto no cotidiano dos seus moradores.PALAVRAS-CHAVE:\_Cartografia; Piauí; Política Territorial; Rede Urbana; Sertões do Norte; Urbanização"
   accessed:
@@ -772,7 +776,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1913
-  language: pt
+  language: por
   number-of-pages: '382'
   publisher: Alves
   publisher-place: Rio de Janeiro
@@ -955,7 +959,7 @@ references:
   ISBN: 978-85-98747-13-2
   issued:
     - year: 2010
-  language: pt
+  language: por
   number-of-pages: '55'
   publisher: Centro de Estudos Avançados da Conservação Integrada
   publisher-place: Olinda
@@ -1322,13 +1326,11 @@ references:
       given: Stefano
   call-number: NA9246.A65 B53 2000
   citation-key: bianca:2000urban
-  contributor:
-    - literal: Eidgenössische Technische Hochschule Zürich
   event-place: 'London : New York'
   ISBN: 978-0-500-28205-2
   issued:
     - year: 2000
-  language: en
+  language: eng
   number-of-pages: '347'
   publisher: Thames & Hudson
   publisher-place: 'London : New York'
@@ -1350,14 +1352,14 @@ references:
   ISBN: 978-85-7652-065-8
   issued:
     - year: 2007
-  language: pt-BR
-  publisher: '<span smallcaps="smallcaps">unesco</span> : Caixa Econômica Federal'
+  language: por
+  publisher: 'UNESCO : Caixa Econômica Federal'
   publisher-place: Brasília
   source: Open WorldCat
   title: Arquitetura na formação do Brasil
   type: book
 
-- id: binford:1982archaeology
+- id: binford:1982archaeology1
   abstract: >-
     It is suggested that if archaeologists are to be successful in understanding
     the organization of past cultural systems they must understand the
@@ -1378,7 +1380,7 @@ references:
   author:
     - family: Binford
       given: Lewis R.
-  citation-key: binford:1982archaeology
+  citation-key: binford:1982archaeology1
   container-title: Journal of Anthropological Archaeology
   container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/0278-4165(82)90006-X
@@ -1450,7 +1452,7 @@ references:
   title: Intervenções urbanas na recuperação de centros históricos
   type: book
 
-- id: bonelli:2005manual
+- id: bonelli:2005cal
   author:
     - family: Bonelli
       given: Rômulo
@@ -1458,7 +1460,7 @@ references:
       given: Rossana
     - family: Migoto
       given: Milena
-  citation-key: bonelli:2005manual
+  citation-key: bonelli:2005cal
   collection-number: '1'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
@@ -1470,31 +1472,13 @@ references:
   title: 'Manual prático: uso da cal'
   type: book
 
-- id: bonelli:2005manuala
+- id: bonelli:2005saneamento
   author:
     - family: Bonelli
       given: Rômulo
     - family: Delpino
       given: Rossana
-  citation-key: bonelli:2005manuala
-  collection-number: '3'
-  collection-title: Manuais práticos para Natividade
-  event-place: Brasília
-  issued:
-    - year: 2005
-  language: por
-  publisher: 14.ª Superintendência Regional do Iphan
-  publisher-place: Brasília
-  title: Manual prático de conservação de telhados
-  type: book
-
-- id: bonelli:2005manualb
-  author:
-    - family: Bonelli
-      given: Rômulo
-    - family: Delpino
-      given: Rossana
-  citation-key: bonelli:2005manualb
+  citation-key: bonelli:2005saneamento
   collection-number: '2'
   collection-title: Manuais práticos para Natividade
   event-place: Brasília
@@ -1504,6 +1488,24 @@ references:
   publisher: 14.ª Superintendência Regional do Iphan
   publisher-place: Brasília
   title: 'Manual prático: saneamento básico residencial'
+  type: book
+
+- id: bonelli:2005telhados
+  author:
+    - family: Bonelli
+      given: Rômulo
+    - family: Delpino
+      given: Rossana
+  citation-key: bonelli:2005telhados
+  collection-number: '3'
+  collection-title: Manuais práticos para Natividade
+  event-place: Brasília
+  issued:
+    - year: 2005
+  language: por
+  publisher: 14.ª Superintendência Regional do Iphan
+  publisher-place: Brasília
+  title: Manual prático de conservação de telhados
   type: book
 
 - id: braga:2003conservacao
@@ -1634,9 +1636,11 @@ references:
   ISBN: 978-85-314-1284-4
   issued:
     - year: 2011
-  language: pt
+  language: por
   number-of-pages: '352'
-  publisher: '<span smallcaps="smallcaps">FAPESP</span> : Edusp'
+  publisher: >-
+    <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">FAPESP</span> : Edusp
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: 'Desenho e desígnio: o Brasil dos engenheiros militares (1500-1822)'
@@ -1782,7 +1786,7 @@ references:
   ISBN: 978-3-030-33323-2
   issued:
     - year: 2020
-  language: en
+  language: eng
   page: 159-167
   publisher: Springer International
   publisher-place: Cham
@@ -1832,7 +1836,7 @@ references:
   ISBN: 978-972-97668-1-7
   issued:
     - year: 2000
-  language: pt
+  language: por
   number-of-pages: '560'
   publisher: Ordem dos Arquitectos
   publisher-place: Lisboa
@@ -1983,7 +1987,7 @@ references:
   ISBN: 978-88-8125-191-9
   issued:
     - year: 1997
-  language: it
+  language: ita
   original-date:
     - year: 1981
   page: 59–107
@@ -2060,7 +2064,7 @@ references:
   ISBN: 978-88-6055-182-5
   issued:
     - year: 2008
-  language: it
+  language: ita
   number-of-pages: '276'
   publisher: Alinea
   publisher-place: Firenze
@@ -2294,7 +2298,7 @@ references:
   event-place: Salvador
   issued:
     - year: 1995
-  language: pt
+  language: por
   number-of-pages: '130'
   publisher: Fundação Cultural do Estado da Bahia
   publisher-place: Salvador
@@ -2388,7 +2392,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1998
-  language: pt-BR
+  language: por
   number-of-pages: '399'
   publisher: Martins Fontes
   publisher-place: São Paulo
@@ -2405,7 +2409,7 @@ references:
   ISBN: 978-85-8260-437-3
   issued:
     - year: 2017
-  language: pt-BR
+  language: por
   publisher: Bookman
   publisher-place: Porto Alegre
   title: Representação gráfica em arquitetura
@@ -2426,7 +2430,7 @@ references:
   ISBN: 978-84-237-0462-0
   issued:
     - year: 1981
-  language: es
+  language: spa
   number-of-pages: '254'
   publisher: Dossat
   publisher-place: Madrid
@@ -2493,7 +2497,7 @@ references:
   event-place: Goiânia
   issued:
     - year: 2007
-  language: pt
+  language: por
   publisher: Trilhas Urbanas
   publisher-place: Goiânia
   title: Arquitetura da mineração em Goiás
@@ -2534,7 +2538,7 @@ references:
   ISBN: 978-972-8479-79-4
   issued:
     - year: 2014
-  language: pt
+  language: por
   page: 13–31
   publisher: Argumentum
   publisher-place: Lisboa
@@ -2723,7 +2727,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1952
-  language: pt
+  language: por
   publisher: Ministério da Educação e Saúde
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -2861,7 +2865,7 @@ references:
   ISBN: 978-85-7334-140-9
   issued:
     - year: 2010
-  language: pt
+  language: por
   number-of-pages: '354'
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasília
@@ -2882,7 +2886,7 @@ references:
   event-title: II Curso Livre Internacional de Património
   issued:
     - year: 2011
-  language: pt
+  language: por
   page: '9'
   publisher: >-
     Associação Portuguesa dos Municípios com centro histórico : Forum UNESCO
@@ -3024,7 +3028,7 @@ references:
   issued:
     - year: 2010
       month: 4
-  language: pt
+  language: por
   license: openAccess
   source: repositorium.sdum.uminho.pt
   title: A flexibilidade na arquitectura tradicional
@@ -3328,7 +3332,8 @@ references:
   ISBN: 978-989-33-4329-6
   issued:
     - year: 2023
-  language: pt
+  language: por
+  license: All rights reserved
   page: 79-131
   publisher: Fundação Serra Henriques
   publisher-place: Lisboa
@@ -3412,7 +3417,7 @@ references:
   issued:
     - year: 2009
       month: 6
-  language: pt
+  language: por
   license: Acesso Aberto
   publisher: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo
   publisher-place: Brasília
@@ -3770,7 +3775,7 @@ references:
   issued:
     - year: 2018
       month: 12
-  language: en
+  language: eng
   page: 1604-1618
   source: Crossref
   title: >-
@@ -4040,7 +4045,7 @@ references:
   type: article-journal
   volume: '13'
 
-- id: figueiredo:2011caracterizacao
+- id: figueiredo:2011caracterizacao7
   abstract: >-
     The architectural heritage of the historical city centre of São Luís of
     Maranhão, located in the northeast region of Brazil, has approximately 5,600
@@ -4077,7 +4082,7 @@ references:
       given: Humberto
     - family: Costa
       given: Aníbal
-  citation-key: figueiredo:2011caracterizacao
+  citation-key: figueiredo:2011caracterizacao7
   container-title: Arquitetura Revista
   container-title-short: arq
   DOI: 10.4013/arq.2011.71.08
@@ -4183,7 +4188,7 @@ references:
   issued:
     - year: 2012
       month: 12
-  language: pt-BR
+  language: por
   page: 259-297
   source: Crossref
   title: >-
@@ -4281,7 +4286,7 @@ references:
   ISSN: 1982-0267, 0101-4714
   issued:
     - year: 2021
-  language: pt
+  language: por
   page: e55
   source: DOI.org (Crossref)
   title: >-
@@ -4512,7 +4517,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1989
-  language: pt
+  language: por
   publisher: 'Instituto de cultura e lingua portuguesa : Ministerio da Educação'
   publisher-place: Lisboa
   source: Open WorldCat
@@ -4570,7 +4575,7 @@ references:
     - year: 2020
       month: 12
       day: 23
-  language: pt
+  language: por
   license: Copyright (c) 2020 Labor e Engenho
   page: e020019-e020019
   source: periodicos.sbu.unicamp.br
@@ -4753,7 +4758,7 @@ references:
   ISBN: 978-989-98624-6-3
   issued:
     - year: 2018
-  language: pt
+  language: por
   publisher: Fundação Serra Henriques
   publisher-place: Lisboa
   title: >-
@@ -4850,7 +4855,7 @@ references:
   ISBN: 978-989-33-4329-6
   issued:
     - year: 2023
-  language: pt
+  language: por
   publisher: Fundação Serra Henriques
   publisher-place: Lisboa
   source: dialnet.unirioja.es
@@ -4878,7 +4883,7 @@ references:
   event-place: Madrid
   issued:
     - year: 1999
-  language: es
+  language: spa
   number-of-volumes: '2'
   publisher: Munilla-Lería
   publisher-place: Madrid
@@ -4942,7 +4947,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1994
-  language: pt
+  language: por
   page: 28–41
   publisher: Nova Fronteira
   publisher-place: Rio de Janeiro
@@ -5003,9 +5008,9 @@ references:
   ISBN: '9786599238499'
   issued:
     - year: 2022
-  language: pt
+  language: por
   number-of-pages: '492'
-  publisher: LaSUS <span smallcaps="smallcaps">FAU</span>
+  publisher: LaSUS FAU–UnB
   publisher-place: Goiânia
   source: DOI.org (Crossref)
   title: 'Patrimônio 4.0: conectando dimensões da realidade'
@@ -5071,7 +5076,7 @@ references:
   event-place: New York
   issued:
     - year: 1943
-  language: en
+  language: eng
   number-of-pages: '198'
   publisher: The Museum of Modern Art
   publisher-place: New York
@@ -5178,7 +5183,7 @@ references:
       given: Denise
   type: book
 
-- id: grancho:2023drawing
+- id: grancho:2023drawing4
   abstract: >-
     This article explores how the ideas of race, ethnicity and religion shifted
     with modernity in Diu. While it concentrates on findings about Diu, the
@@ -5203,7 +5208,7 @@ references:
   author:
     - family: Grancho
       given: Nuno
-  citation-key: grancho:2023drawing
+  citation-key: grancho:2023drawing4
   container-title: Journal of Race, Ethnicity and the City
   container-title-short: Journal of Race, Ethnicity and the City
   DOI: 10.1080/26884674.2022.2117110
@@ -5260,18 +5265,18 @@ references:
   type: book
   URL: http://archive.org/details/gri_33125012245235
 
-- id: hakim:2010arabicislamic
+- id: hakim:2010arabic-islamic
   author:
     - family: Hakim
       given: Besim S.
   call-number: HT147.5 .H35 1986
-  citation-key: hakim:2010arabicislamic
+  citation-key: hakim:2010arabic-islamic
   edition: '2'
   event-place: 'London : New York'
   ISBN: 978-0-7103-0094-2
   issued:
     - year: 2010
-  language: en
+  language: eng
   number-of-pages: '192'
   publisher: Routledge
   publisher-place: 'London : New York'
@@ -5307,7 +5312,7 @@ references:
   URL: https://www.sciencemag.org/lookup/doi/10.1126/science.1086112
   volume: '301'
 
-- id: heckenberger:2008precolumbian321
+- id: heckenberger:2008pre-columbian321
   abstract: >-
     Archaeology and remote sensing of an Amazon basin show that its
     pre-Columbian inhabitants lived in distributed towns, villages, and hamlets
@@ -5337,7 +5342,7 @@ references:
       given: Bruna
     - family: Kuikuro
       given: Afukaka
-  citation-key: heckenberger:2008precolumbian321
+  citation-key: heckenberger:2008pre-columbian321
   container-title: Science
   DOI: 10.1126/science.1159769
   ISSN: 0036-8075, 1095-9203
@@ -5422,7 +5427,7 @@ references:
   ISBN: 978-85-88847-35-4
   issued:
     - year: 2003
-  language: pt
+  language: por
   number-of-pages: '144'
   publisher: UniABC
   publisher-place: Santo André
@@ -5488,7 +5493,7 @@ references:
   issued:
     - year: 2005
       month: 11
-  language: en
+  language: eng
   page: '39'
   title: >-
     Recommendations for the analysis, conservation and structural restoration of
@@ -5771,7 +5776,7 @@ references:
   ISBN: 978-1-59726-578-2
   issued:
     - year: 2009
-  language: en
+  language: eng
   number-of-pages: '459'
   publisher: Island Press
   publisher-place: Washington, <span smallcaps="smallcaps">D.C.</span>
@@ -5805,7 +5810,7 @@ references:
   event-place: London
   issued:
     - year: 1959
-  language: en
+  language: eng
   number-of-pages: '676'
   publisher: Penguin
   publisher-place: London
@@ -6009,7 +6014,7 @@ references:
   ISBN: 978-989-8492-49-4
   issued:
     - year: 2018
-  language: pt
+  language: por
   license: openAccess
   page: 65–78
   publisher: Centro de Humanidades da Universidade Nova de Lisboa
@@ -6023,7 +6028,7 @@ references:
   type: chapter
   URL: https://run.unl.pt/handle/10362/42613
 
-- id: lemes:2004lei
+- id: lemes:2004lei9
   accessed:
     - year: 2018
       month: 11
@@ -6031,7 +6036,7 @@ references:
   author:
     - family: Lemes
       given: Fernando Lobo
-  citation-key: lemes:2004lei
+  citation-key: lemes:2004lei9
   container-title: Revista Jurídica Unievangélica
   issue: '1'
   issued:
@@ -6075,7 +6080,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1979
-  language: pt
+  language: por
   publisher: 'Melhoramentos : Edusp'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6155,7 +6160,8 @@ references:
   source: www.revistas.usp.br
   title: >-
     Transformações do espaço habitacional ocorridas na arquitetura brasileira do
-    século <span smallcaps="smallcaps">XIX</span>
+    século <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">XIX</span>
   title-short: Transformações do espaço habitacional
   type: article-journal
   URL: http://www.revistas.usp.br/anaismp/article/view/5277
@@ -6192,7 +6198,7 @@ references:
   issued:
     - year: 2012
       month: 2
-  language: pt
+  language: por
   page: '00'
   title: Uma nova proposta de abordagem da história da arquitetura brasileira
   type: article-journal
@@ -6209,7 +6215,7 @@ references:
   ISBN: 978-85-09-00005-9
   issued:
     - year: 1986
-  language: pt-BR
+  language: por
   publisher: Instituto de Pesquisas Tecnológicas do Estado de São Paulo
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6500,7 +6506,7 @@ references:
   ISBN: 978-85-273-0359-0
   issued:
     - year: 2003
-  language: pt
+  language: por
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6638,7 +6644,7 @@ references:
   ISBN: 978-0-253-34155-6
   issued:
     - year: 2002
-  language: en
+  language: eng
   number-of-pages: '208'
   publisher: Indiana University Press
   publisher-place: Bloomington, In.
@@ -6684,7 +6690,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1978
-  language: pt
+  language: por
   publisher: Conselho Estadual de Artes e Ciências Humanas
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6727,7 +6733,7 @@ references:
   issued:
     - year: 2013
       month: 6
-  language: pt
+  language: por
   license: Attribution-NonCommercial-NoDerivs 3.0 Spain
   page: 170-188
   publisher: >-
@@ -6890,7 +6896,7 @@ references:
   event-place: Washington, D.C
   issued:
     - year: 1970
-  language: en
+  language: eng
   publisher: National Park Service
   publisher-place: Washington, D.C
   title: Recording historic buildings
@@ -7009,7 +7015,7 @@ references:
   ISBN: 978-972-49-2311-6
   issued:
     - year: 2019
-  language: pt
+  language: por
   number-of-pages: '292'
   publisher: Laboratório Nacional de Engenharia Civil
   publisher-place: Lisboa
@@ -7167,7 +7173,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1793
-  language: pt
+  language: por
   publisher: Typografia de João Antonio da Silva
   publisher-place: Lisboa
   title: >-
@@ -7185,6 +7191,7 @@ references:
   event-place: Curitiba
   issued:
     - year: 2013
+  language: por
   publisher: UFPR, Departamento de Engenharia Florestal
   publisher-place: Curitiba
   title: 'Biodegradação e preservação da madeira: métodos de tratamento da madeira'
@@ -7241,7 +7248,7 @@ references:
       given: Michel
   citation-key: munoz:que
   container-title: El blog del murallólogo
-  language: es
+  language: spa
   title: Qué es la arqueología de la arquitectura
   type: post-weblog
   URL: >-
@@ -7313,7 +7320,7 @@ references:
   issued:
     - year: 2010
       month: 5
-  language: pt-BR
+  language: por
   page: 108–137
   title: Amazônia ano 1000
   type: article-magazine
@@ -7510,7 +7517,7 @@ references:
   ISBN: 978-85-7334-069-3
   issued:
     - year: 2008
-  language: pt
+  language: por
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Brasilia
   source: Open WorldCat
@@ -7811,7 +7818,7 @@ references:
   type: paper-conference
   URL: https://shcu2014.com.br/território/001.html
 
-- id: palazzo:2016habitacao
+- id: palazzo:2016habitacao2
   abstract: >-
     O estudo da produção da arquitetura residencial brasileira do início do
     século XX tem se concentrado na transformação dos modos de morar nos grandes
@@ -7846,7 +7853,7 @@ references:
       given: Pedro P.
     - family: Lemos
       given: Rubiana Cardoso Campos
-  citation-key: palazzo:2016habitacao
+  citation-key: palazzo:2016habitacao2
   container-title: Culturas partilhadas
   editor:
     - family: Póvoas
@@ -7860,7 +7867,7 @@ references:
     - year: 2016
       month: 9
       day: 15
-  language: pt
+  language: por
   license: >-
     Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
     License (CC-BY-NC-ND)
@@ -7899,7 +7906,7 @@ references:
   ISBN: 978-85-545-8007-0
   issued:
     - year: 2017
-  language: pt
+  language: por
   license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
   page: 642–651
   publisher: Universidade Federal do Espírito Santo
@@ -7948,7 +7955,7 @@ references:
   ISBN: 978-989-98624-6-3
   issued:
     - year: 2018
-  language: pt
+  language: por
   page: 91–97
   publisher: Fundação Serra Henriques
   publisher-place: Lisboa
@@ -8035,7 +8042,7 @@ references:
     - year: 2021
       month: 11
       day: 10
-  language: en
+  language: eng
   license: >-
     Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
     License (CC-BY-NC-ND)
@@ -8075,7 +8082,7 @@ references:
   title-short: A casa corrente de 40 palmos
   type: chapter
 
-- id: palazzo:2022rural-to-urban
+- id: palazzo:2022rural-urban
   accessed:
     - year: 2023
       month: 10
@@ -8083,7 +8090,7 @@ references:
   author:
     - family: Palazzo
       given: Pedro P.
-  citation-key: palazzo:2022rural-to-urban
+  citation-key: palazzo:2022rural-urban
   event-place: Lajes do Pico
   event-title: Açores Traditional Architecture Summer School
   genre: Lecture
@@ -8091,13 +8098,38 @@ references:
     - year: 2022
       month: 7
       day: 20
-  language: en
+  language: eng
   publisher-place: Lajes do Pico
   title: The rural-to-urban transect in the Portuguese periphery
   type: speech
   URL: https://www.premiorafaelmanzano.com/escuelas-de-verano/2022-azores/
 
 - id: palazzo:2023repensar
+  abstract: >-
+    A periodização canônica na história da arquitetura tradicional
+    luso-brasileira é congruente com a existência do império atlântico português
+    (1415–1822), ou quiçá, situada entre os marcos normativos que foram as
+    ordenações Manuelinas de 1513 e a extinção das corporações de ofício pelas
+    Constituições liberais de 1824 (Brasil) e 1836 (Portugal). Essa
+    periodização, aparentemente assente em eventos e ciclos pertinentes para a
+    história da construção, na verdade mais propriamente racionaliza argumentos
+    advindos da história política e da economia. Mais além, a narrativa global
+    baseada em tal periodização não dá a devida ênfase às significativas trocas
+    entre os ofícios vernaculares e a atuação erudita dos engenheiros militares
+    e arquitetos. Nesse âmbito, o conceito de tradição adquire crucial
+    importância para se enquadrar a construção vernacular luso-brasileira na sua
+    diversidade regional e transformação diacrônica. A tradição é incompatível
+    com uma linha do tempo determinista onde cada época é representada tão
+    somente pelas suas manifestações sincrônicas. Com amparo neste conceito de
+    tradição, dá-se a ver um ciclo de transformações históricas na construção
+    vernacular luso-brasileira que corresponde, não ao início da Idade Moderna,
+    mas em linhas gerais do período Pombalino até a virada do século. A
+    construção vernacular luso-brasileira é, portanto, uma tradição mais recente
+    do que o recorte convencional da Idade Moderna faz parecer. Na nova
+    periodização proposta, esta tradição se inicia em meados do século XVIII e
+    prossegue pelo século XIX. Elementos da arquitetura vernacular tradicional
+    continuam a ser empregados, inclusive, durante o processo de
+    industrialização e crescimento urbano do início do século XX.
   accessed:
     - year: 2024
       month: 3
@@ -8200,7 +8232,7 @@ references:
   ISBN: 978-85-230-0923-6
   issued:
     - year: 2006
-  language: pt
+  language: por
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -8280,7 +8312,7 @@ references:
     - year: 2016
       month: 5
       day: 25
-  language: pt
+  language: por
   publisher: Universidade de São Paulo
   source: www.teses.usp.br
   title: >-
@@ -8383,7 +8415,7 @@ references:
   type: book
   URL: https://www.jstor.org/stable/10.1525/j.ctt1ffjng5
 
-- id: peixotomehrtens:2010urban
+- id: peixoto-mehrtens:2010urban
   abstract: >-
     This book focuses on how the political, cultural, and technical networks
     within the field of engineering provided the space within which an important
@@ -8392,7 +8424,7 @@ references:
   author:
     - family: Peixoto-Mehrtens
       given: C.
-  citation-key: peixotomehrtens:2010urban
+  citation-key: peixoto-mehrtens:2010urban
   ISBN: 978-0-230-11403-6
   issued:
     - year: 2010
@@ -8997,7 +9029,7 @@ references:
   issued:
     - year: 2005
       month: 12
-  language: pt
+  language: por
   page: 143–154
   title: >-
     A historiografia da arquitetura brasileira no século <span
@@ -9230,7 +9262,7 @@ references:
     - year: 2009
       month: 2
       day: 26
-  language: pt
+  language: por
   number-of-pages: '95'
   publisher: In-Folio
   publisher-place: Rio de Janeiro
@@ -9338,7 +9370,7 @@ references:
   type: webpage
   URL: http://www.ceci-br.org/ceci/br/publicacoes.html
 
-- id: quintana:2005cal
+- id: quintana:2005cal5
   abstract: >-
     In the last century the exploitation of carbonate rocks for the lime´s
     handmade manufacture has disappeared in most cases of our territory. In fact
@@ -9357,7 +9389,7 @@ references:
   author:
     - family: Quintana Frías
       given: Ignacio
-  citation-key: quintana:2005cal
+  citation-key: quintana:2005cal5
   container-title: De Re Metallica
   ISSN: 1577-9033
   issued:
@@ -9637,7 +9669,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1942
-  language: pt
+  language: por
   number-of-volumes: '3'
   publisher: Imprensa Nacional
   publisher-place: Rio de Janeiro
@@ -9654,7 +9686,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2000
-  language: pt
+  language: por
   publisher: ProEditores
   publisher-place: São Paulo
   title: >-
@@ -9726,7 +9758,7 @@ references:
   genre: Concurso para provimento de duas vagas de professor associado
   issued:
     - year: 2005
-  language: pt
+  language: por
   page: '75'
   publisher: Faculdade de Ciências e Tecnologia da Universidade de Coimbra
   publisher-place: Coimbra
@@ -9752,7 +9784,7 @@ references:
   issue: '1'
   issued:
     - year: 2006
-  language: pt
+  language: por
   license: openAccess
   page: 70-109
   source: estudogeral.sib.uc.pt
@@ -9836,7 +9868,7 @@ references:
   issue: '12'
   issued:
     - year: 1979
-  language: pt
+  language: por
   page: 129–142
   title: Habitação Indígena no alto Xingu
   type: article-journal
@@ -9870,7 +9902,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1977
-  language: pt
+  language: por
   number-of-pages: '110'
   publisher: Secretaria da Cultura, Ciência e Tecnologia, Governo do Estado de S.Paulo
   publisher-place: São Paulo
@@ -9888,7 +9920,7 @@ references:
       day: 28
   citation-key: salingaros:2013unified
   collection-title: >-
-    a companion to Christopher Alexander's *The Phenomenon of life* - The Nature
+    A companion to Christopher Alexander's *The Phenomenon of life* - The Nature
     of order, Book 1
   editor:
     - family: Salingaros
@@ -9897,7 +9929,7 @@ references:
   ISBN: 978-9937-623-05-6 978-0-9893469-0-0
   issued:
     - year: 2013
-  language: en
+  language: eng
   publisher: 'Sustasis : Vajra'
   publisher-place: Portland, Ore. ; Kathmandu
   source: Open WorldCat
@@ -10011,7 +10043,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1981
-  language: pt-BR
+  language: por
   publisher: Instituto de Arquitetos do Brasil
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -10041,7 +10073,7 @@ references:
   title: A urbanização brasileira
   type: book
 
-- id: santos:2013arqueologia
+- id: santos:2013arqueologia4
   abstract: >-
     O trabalho aqui apresentado resulta em parte da dissertação de mestrado
     subordinada ao tema “Arqueologia da Arquitectura. Perspectivas
@@ -10061,7 +10093,7 @@ references:
   author:
     - family: Santos
       given: Raquel
-  citation-key: santos:2013arqueologia
+  citation-key: santos:2013arqueologia4
   container-title: PARC Pesquisa em Arquitetura e Construção
   DOI: 10.20396/parc.v4i1.8634554
   ISSN: 1980-6809
@@ -10133,7 +10165,7 @@ references:
     - year: 2014
       month: 7
       day: 30
-  language: pt
+  language: por
   license: Direitos autorais 2016 Revista Cadernos do Ceom
   number: '18'
   page: 213-242
@@ -10443,7 +10475,7 @@ references:
   issued:
     - year: 2006
       month: 6
-  language: pt
+  language: por
   page: 81-119
   source: DOI.org (Crossref)
   title: >-
@@ -10521,7 +10553,7 @@ references:
   ISBN: 978-85-7334-188-1
   issued:
     - year: 2012
-  language: pt-BR
+  language: por
   number-of-pages: '199'
   publisher: Iphan
   publisher-place: Brasília
@@ -10651,14 +10683,14 @@ references:
   ISBN: 978-972-9483-36-3
   issued:
     - year: 1999
-  language: pt
+  language: por
   publisher: Facultade de Arquitectura da Universidade de Porto
   publisher-place: Porto
   source: Open WorldCat
   title: A Casa-Pátio de Goa
   type: book
 
-- id: simoes:2013permanencias
+- id: simoes:2013permanencias5
   abstract: >-
     A partir da compreensão dos processos de ocupação das áreas de colina em
     cidades brasileiras e portuguesas, associados à tradição urbanística
@@ -10694,7 +10726,7 @@ references:
       given: José Geraldo
     - family: Campos
       given: Candido Malta
-  citation-key: simoes:2013permanencias
+  citation-key: simoes:2013permanencias5
   container-title: urbe. Revista Brasileira de Gestão Urbana
   container-title-short: urbe, Rev. Bras. Gest. Urbana
   DOI: 10.7213/urbe.7785
@@ -10933,7 +10965,7 @@ references:
   ISBN: 978-85-7266-038-9
   issued:
     - year: 1994
-  language: pt
+  language: por
   number-of-pages: '120'
   publisher: Pini
   publisher-place: São Paulo
@@ -11107,7 +11139,7 @@ references:
   ISBN: 978-1-873394-62-5
   issued:
     - year: 2004
-  language: en
+  language: eng
   number-of-pages: '244'
   publisher: Donhead
   publisher-place: Shaftesbury
@@ -11252,7 +11284,7 @@ references:
   event-place: '[Rio de Janeiro]'
   issued:
     - year: 1975
-  language: pt
+  language: por
   publisher: >-
     Ministério da Educação e Cultura, Departamento de Assuntos Culturais,
     Fundação Nacional de Material Escolar
@@ -11345,6 +11377,10 @@ references:
   type: book
 
 - id: tinoco:2013planos
+  accessed:
+    - year: 2024
+      month: 3
+      day: 7
   author:
     - family: Tinoco
       given: Jorge Eduardo Lucena
@@ -11355,7 +11391,7 @@ references:
   ISSN: 1980-8267
   issued:
     - year: 2013
-  language: pt
+  language: por
   publisher: Centro de Estudos da Conservação Integrada
   publisher-place: Olinda
   source: Zotero
@@ -11364,6 +11400,7 @@ references:
     obras
   title-short: Planos de conservação
   type: book
+  URL: http://www.ceci-br.org/ceci/br/publicacoes/textos-para-discussao.html
 
 - id: tirapeli:2007arte
   author:
@@ -11506,13 +11543,14 @@ references:
     - year: 2018
       month: 11
       day: 8
-  language: pt
+  language: por
   publisher: Faculdade de Arquitetura
   publisher-place: Salvador
   source: repositorio.ufba.br
   title: >-
-    A utilização do <span smallcaps="smallcaps">HBIM</span> na documentação, na
-    gestão e na preservação do patrimônio arquitetônico
+    A utilização do <span style="font-variant:all-small-caps"
+    smallcaps="smallcaps">HBIM</span> na documentação, na gestão e na
+    preservação do patrimônio arquitetônico
   type: thesis
   URL: http://repositorio.ufba.br/ri/handle/ri/27947
 
@@ -11526,12 +11564,11 @@ references:
   ISBN: 978-85-250-3740-4
   issued:
     - year: 2004
-  language: pt-BR
-  publisher: Editora
+  language: por
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: 'São Paulo. Pátio do Colégio: uma história ilustrada a bico de pena'
-  title-short: São Paulo Pátio do Colégio
+  title-short: São Paulo. Pátio do Colégio
   type: book
 
 - id: trillo:2004agua
@@ -11684,7 +11721,7 @@ references:
   title-short: Arqueología amazónica
   type: book
 
-- id: valla:2012engenharia
+- id: valla:2012engenharia6
   abstract: >-
     A prática de intervenção dos portugueses nos diversos territórios como
     África, Oriente levou à consolidação de teorias e de trocas de experiências
@@ -11708,7 +11745,7 @@ references:
     - family: Valla
       given: Margarida
   call-number: 711.034(81)
-  citation-key: valla:2012engenharia
+  citation-key: valla:2012engenharia6
   container-title: 'Anais: Seminário de História da Cidade e do Urbanismo'
   issue: '3'
   issued:
@@ -11839,7 +11876,7 @@ references:
   ISBN: 978-85-273-0923-3
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: Perspectiva
   publisher-place: São Paulo
   title: Vila Rica
@@ -12350,7 +12387,7 @@ references:
   event-place: Bogotá
   issued:
     - year: 1993
-  language: es
+  language: spa
   publisher: Escala
   publisher-place: Bogotá
   source: Open WorldCat
@@ -12396,7 +12433,7 @@ references:
   ISBN: 978-85-7827-504-4
   issued:
     - year: 2005
-  language: pt
+  language: por
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -12461,7 +12498,7 @@ references:
     - year: 2020
       month: 12
       day: 22
-  language: pt-BR
+  language: por
   number-of-pages: '40'
   publisher: Instituto do Patrimônio Histórico e Artístico Nacional
   publisher-place: Florianópolis
@@ -12512,7 +12549,7 @@ references:
     - year: 2011
       month: 2
       day: 1
-  language: pt-BR
+  language: por
   publisher: Centro de Estudos Avançados da Conservação Integrada
   publisher-place: Olinda
   source: Câmara Brasileira do Livro ISBN

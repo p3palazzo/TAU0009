@@ -102,5 +102,3 @@ existentes. Quanto mais descemos dessa escala do território para a de
 assentamentos, construções e detalhes, mais o uso de traçados
 reguladores e proporções ganha importância.
 
-# Referências #
-
