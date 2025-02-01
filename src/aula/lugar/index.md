@@ -17,7 +17,7 @@ excerpt: |
   <span style="font-variant:all-small-caps">XVIII</span>.
 sidebar:
   - title: "Leitura"
-    text: |
+  - text: |
       Teixeira, Manuel C. <em>A forma da cidade de origem
       portuguesa</em>. São Paulo: Unesp : Imprensa Oficial do Estado,
       2012.

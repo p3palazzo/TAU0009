@@ -1,7 +1,6 @@
 ---
-title         : 'Arquitetura e urbanismo'
-subtitle      : '<strike>no Brasil colônia e Império</strike> na tradição luso-brasileira'
-layout        : "layouts/base.njk"
+title         : 'Arquitetura e Urbanismo no Brasil Colônia e Império'
+layout        : "layouts/splash.njk"
 classes       : "wide"
 toc           : false
 read_time     : false
@@ -35,7 +34,7 @@ templateEngineOverride: njk,md
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
 {% for post in collections.lugar %}
-{%- include "partials/album.njk" -%}
+{%- include "partials/card-lecture.njk" -%}
 {% endfor %}
 </div>
 ```
@@ -45,7 +44,7 @@ templateEngineOverride: njk,md
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
 {% for post in collections.materia %}
-{%- include "partials/album.njk" -%}
+{%- include "partials/card-lecture.njk" -%}
 {% endfor %}
 </div>
 ```
@@ -55,17 +54,17 @@ templateEngineOverride: njk,md
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
 {%- for post in collections.tipo -%}
-{%- include "partials/album.njk" -%}
+{%- include "partials/card-lecture.njk" -%}
 {% endfor %}
 </div>
 ```
 
-# Unidade IV › Estilo # {-}
+# Unidade IV › Fim da tradição # {-}
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
-{%- for post in collections.estilo -%}
-{%- include "partials/album.njk" -%}
+{%- for post in collections.fim -%}
+{%- include "partials/card-lecture.njk" -%}
 {% endfor %}
 </div>
 ```

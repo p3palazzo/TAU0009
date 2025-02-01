@@ -3,7 +3,6 @@ to                         : html
 data-dir                   : "_data"
 fail-if-warnings           : false
 html-q-tags                : true
-number-sections            : true
 section-divs               : true
 shift-heading-level-by     : 1
 filters:
@@ -19,7 +18,6 @@ metadata:
   # pandoc-crossref metadata
   ccsLabelSep              : " – "
   figureTitle              : "Figura"
-  subfigureRefIndexTemplate: "$$i$$$$suf$$ [$$s$$]"
   tableTitle               : "Tabela"
   tblPrefix:
     - tab.
