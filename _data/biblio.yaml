@@ -142,12 +142,12 @@ references:
   type: book
   volume: '2'
 
-- id: algranti:1997familias
+- id: algranti:1997familias1
   author:
     - family: Algranti
       given: Leila Mezan
   call-number: GT2402.B6 H57 1997
-  citation-key: algranti:1997familias
+  citation-key: algranti:1997familias1
   collection-editor:
     - family: Novais
       given: Fernando A.
@@ -160,7 +160,7 @@ references:
   ISBN: 978-85-7164-681-0
   issued:
     - year: 1997
-  language: pt
+  language: por
   page: 83-154
   publisher: Companhia das Letras
   publisher-place: São Paulo
@@ -480,13 +480,13 @@ references:
   ISBN: 978-85-8039-178-7
   issued:
     - year: 2017
-  language: pt
+  language: por
   publisher: Blucher
   publisher-place: São Paulo
   source: Open WorldCat
   title: >-
     Ensaio sobre a casa brasileira do século <span
-    smallcaps="smallcaps">XIX</span>
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>
   type: book
   URL: >-
     https://openaccess.blucher.com.br/article-list/ensaio-sobre-a-casa-brasileira-do-seculo-xix-324/list
@@ -2127,11 +2127,11 @@ references:
   title: A history of architecture and urbanism in the Americas
   type: book
 
-- id: cardoso:1943tipo
+- id: cardoso:1943tipo7
   author:
     - family: Cardoso
       given: Joaquim
-  citation-key: cardoso:1943tipo
+  citation-key: cardoso:1943tipo7
   container-title: Revista do Serviço do Patrimônio Histórico e Artístico Nacional
   issued:
     - year: 1943
@@ -2488,6 +2488,21 @@ references:
   title-short: The archaeology of the Upper Amazon
   type: book
 
+- id: claudel:1984conversations
+  author:
+    - family: Claudel
+      given: Paul
+  citation-key: claudel:1984conversations
+  ISBN: 978-2-07-070191-9
+  issued:
+    - year: 1984
+  language: fre
+  number-of-pages: '190'
+  publisher: Gallimard
+  source: Google Books
+  title: Conversations dans le Loir-et-Cher
+  type: book
+
 - id: coelho:2007arquitetura
   author:
     - family: Coelho
@@ -2814,7 +2829,7 @@ references:
   ISBN: 978-972-9375-49-1
   issued:
     - year: 2015
-  language: pt
+  language: por
   publisher: Campo Arqueológico de Mértola
   publisher-place: Mértola
   source: Open WorldCat
@@ -3825,7 +3840,7 @@ references:
   ISBN: 978-972-27-1488-4
   issued:
     - year: 2006
-  language: pt
+  language: por
   publisher: Imprensa nacional-Casa da Moeda
   publisher-place: Lisboa
   source: Open WorldCat
@@ -6176,7 +6191,7 @@ references:
   ISBN: 978-85-85134-53-2
   issued:
     - year: 1996
-  language: pt
+  language: por
   publisher: Contexto
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6605,8 +6620,8 @@ references:
   ISBN: 978-85-87145-58-1
   issued:
     - year: 2013
-  language: pt
-  publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
+  language: por
+  publisher: Editora UFRJ
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: Casas senhoriais Rio-Lisboa e seus interiores
@@ -7086,7 +7101,7 @@ references:
   ISBN: 978-0-7864-1806-0
   issued:
     - year: 2004
-  language: en
+  language: eng
   number-of-pages: '207'
   number-of-volumes: '1'
   publisher: McFarland & company
@@ -7493,7 +7508,7 @@ references:
   issue: '1'
   issued:
     - year: 2001
-  language: pt
+  language: por
   page: 55-76
   source: SciELO
   title: >-
@@ -7741,7 +7756,7 @@ references:
   event-title: V Simpósio Internacional de História–Culturas e Identidades
   issued:
     - year: 2011
-  language: pt
+  language: por
   publisher: Universidade Federal de Goiás
   publisher-place: Goiânia
   title: >-
@@ -7776,7 +7791,7 @@ references:
   ISBN: 978-85-60762-17-0
   issued:
     - year: 2014
-  language: pt
+  language: por
   page: 85–96
   publisher: Editora UnB
   publisher-place: Brasília
@@ -7807,7 +7822,7 @@ references:
   ISBN: 978-85-60762-19-4
   issued:
     - year: 2014
-  language: pt
+  language: por
   license: Creative Commons Attribution-ShareAlike 4.0 International License (CC-BY-SA)
   publisher: Universidade de Brasília
   publisher-place: Brasília
@@ -8001,7 +8016,7 @@ references:
     - year: 2021
       month: 12
       day: 22
-  language: pt
+  language: por
   license: >-
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
     License (CC-BY-NC-SA)
@@ -8069,14 +8084,12 @@ references:
   ISBN: '9786556303376'
   issued:
     - year: 2022
-  language: pt
+  language: por
   license: >-
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
     License (CC-BY-NC-SA)
   page: 283-302
-  publisher: >-
-    Editora <span smallcaps="smallcaps">UFBA</span> : Editora <span
-    smallcaps="smallcaps">UFMG</span>
+  publisher: 'Editora UFBA : Editora UFMG'
   publisher-place: Salvador ; Belo Horizonte
   title: 'A casa corrente de 40 palmos (± 2): um tipo português da idade liberal'
   title-short: A casa corrente de 40 palmos
@@ -9071,12 +9084,11 @@ references:
       given: Paulo
   call-number: NA1321 .P47 2022
   citation-key: pereira:2022arquitetura
-  edition: 1.ª edição
   event-place: Lisboa
   ISBN: 978-989-644-649-9
   issued:
     - year: 2022
-  language: pt
+  language: por
   number-of-pages: '632'
   publisher: Temas e Debates, Círculo de Leitores
   publisher-place: Lisboa
@@ -9884,7 +9896,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1972
-  language: pt
+  language: por
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -9938,7 +9950,7 @@ references:
   type: book
   URL: https://patterns.architexturez.net/doc/az-cf-172522
 
-- id: sampaio:1916planta
+- id: sampaio:1916planta1
   accessed:
     - year: 2019
       month: 3
@@ -9946,7 +9958,7 @@ references:
   author:
     - family: Sampaio
       given: Theodoro Fernandes
-  citation-key: sampaio:1916planta
+  citation-key: sampaio:1916planta1
   container-title: >-
     Annaes do 5. Congresso Brazileiro de Geographia realizado na Cidade do
     Salvador, Estado da Bahia, de 7 a 16 de setembro de 1916
@@ -10844,7 +10856,6 @@ references:
   type: book
 
 - id: sousa:1899diccionario
-  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
   accessed:
     - year: 2019
       month: 11
@@ -10855,91 +10866,6 @@ references:
       dropping-particle: de
   call-number: '9923093150001551'
   citation-key: sousa:1899diccionario
-  contributor:
-    - literal: Getty Research Institute
-  event-place: Lisboa
-  issued:
-    - year: 1899
-  language: pt
-  number-of-pages: '518'
-  publisher: Impr. Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    Diccionario historico e documental dos architectos, engenheiros e
-    constructores portuguezes ou a serviço de Portugal
-  type: book
-  URL: http://archive.org/details/diccionariohisto03vite
-  volume: '3'
-
-- id: sousa:1899diccionarioa
-  accessed:
-    - year: 2019
-      month: 11
-      day: 27
-  author:
-    - family: Sousa Viterbo
-      given: Francisco Marques
-      dropping-particle: de
-  call-number: '9923093150001551'
-  citation-key: sousa:1899diccionarioa
-  contributor:
-    - literal: Getty Research Institute
-  event-place: Lisboa
-  issued:
-    - year: 1899
-  language: pt
-  number-of-pages: '618'
-  publisher: Impr. Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    Diccionario historico e documental dos architectos, engenheiros e
-    constructores portuguezes ou a serviço de Portugal
-  type: book
-  URL: http://archive.org/details/diccionariohisto01vite
-  volume: '1'
-
-- id: sousa:1899diccionariob
-  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
-  accessed:
-    - year: 2019
-      month: 11
-      day: 27
-  author:
-    - family: Sousa Viterbo
-      given: Francisco Marques
-      dropping-particle: de
-  call-number: '9923093150001551'
-  citation-key: sousa:1899diccionariob
-  contributor:
-    - literal: Getty Research Institute
-  event-place: Lisboa
-  issued:
-    - year: 1899
-  language: pt
-  number-of-pages: '600'
-  publisher: Impr. Nacional
-  publisher-place: Lisboa
-  source: Internet Archive
-  title: >-
-    Diccionario historico e documental dos architectos, engenheiros e
-    constructores portuguezes ou a serviço de Portugal
-  type: book
-  URL: http://archive.org/details/diccionariohisto02vite
-  volume: '2'
-
-- id: sousa:1899diccionarioc
-  accessed:
-    - year: 2019
-      month: 11
-      day: 27
-  author:
-    - family: Sousa Viterbo
-      given: Francisco Marques
-      dropping-particle: de
-  call-number: '9923093150001551'
-  citation-key: sousa:1899diccionarioc
   event-place: Lisboa
   issued:
     - year: 1899
@@ -10953,6 +10879,92 @@ references:
     Diccionario historico e documental dos architectos, engenheiros e
     constructores portuguezes ou a serviço de Portugal
   type: book
+
+- id: sousa:1899diccionario1
+  accessed:
+    - year: 2019
+      month: 11
+      day: 27
+  author:
+    - family: Sousa Viterbo
+      given: Francisco Marques
+      dropping-particle: de
+  call-number: '9923093150001551'
+  citation-key: sousa:1899diccionario1
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Lisboa
+  issued:
+    - year: 1899
+  language: por
+  number-of-pages: '618'
+  publisher: Impr. Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Diccionario historico e documental dos architectos, engenheiros e
+    constructores portuguezes ou a serviço de Portugal
+  type: book
+  URL: http://archive.org/details/diccionariohisto01vite
+  volume: '1'
+
+- id: sousa:1899diccionario2
+  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
+  accessed:
+    - year: 2019
+      month: 11
+      day: 27
+  author:
+    - family: Sousa Viterbo
+      given: Francisco Marques
+      dropping-particle: de
+  call-number: '9923093150001551'
+  citation-key: sousa:1899diccionario2
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Lisboa
+  issued:
+    - year: 1899
+  language: por
+  number-of-pages: '600'
+  publisher: Impr. Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Diccionario historico e documental dos architectos, engenheiros e
+    constructores portuguezes ou a serviço de Portugal
+  type: book
+  URL: http://archive.org/details/diccionariohisto02vite
+  volume: '2'
+
+- id: sousa:1899diccionario3
+  abstract: Vol. 3, "Publicado pela Academia das Sciencias de Lisboa."
+  accessed:
+    - year: 2019
+      month: 11
+      day: 27
+  author:
+    - family: Sousa Viterbo
+      given: Francisco Marques
+      dropping-particle: de
+  call-number: '9923093150001551'
+  citation-key: sousa:1899diccionario3
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Lisboa
+  issued:
+    - year: 1899
+  language: por
+  number-of-pages: '518'
+  publisher: Impr. Nacional
+  publisher-place: Lisboa
+  source: Internet Archive
+  title: >-
+    Diccionario historico e documental dos architectos, engenheiros e
+    constructores portuguezes ou a serviço de Portugal
+  type: book
+  URL: http://archive.org/details/diccionariohisto03vite
+  volume: '3'
 
 - id: sousa:1994arquitetura
   author:
