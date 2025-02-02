@@ -2493,12 +2493,14 @@ references:
     - family: Claudel
       given: Paul
   citation-key: claudel:1984conversations
+  event-place: Paris
   ISBN: 978-2-07-070191-9
   issued:
     - year: 1984
   language: fre
   number-of-pages: '190'
   publisher: Gallimard
+  publisher-place: Paris
   source: Google Books
   title: Conversations dans le Loir-et-Cher
   type: book

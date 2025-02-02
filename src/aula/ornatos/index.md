@@ -1,10 +1,12 @@
 ---
-title: "Renascença"
-date: 2024-06-20
-tags: [ "aula", "estilo" ]
+title: "Traças e ornatos"
+date: 2025-05-08
+tags: [ "aula", "estilo", "ornatos", "casticismo" ]
 excerpt: >
   Do mudéjar ao maneirismo –
-  Estilo chão e arquitetura jesuítica.
+  Estilo chão e arquitetura jesuítica –
+  Barroquismo e antibarroquismo –
+  Urbanismo conveniente.
 header:
   teaser: "/assets/media/320px-br-rj-rj-sseb-an.jpg"
   overlay_image: "/assets/media/br-rj-rj-sseb-1861.jpg"

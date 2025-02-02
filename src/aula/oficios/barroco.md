@@ -1,7 +1,7 @@
 ---
 title: "Barroco e rococó"
 date: 2024-06-27
-tags: [ "aula", "estilo" ]
+tags: [ "aula", "estilo", "oficios" ]
 header:
   teaser: "/assets/media/320x213px-Benedito_Calixto-Largo_da_See_em_1865.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"

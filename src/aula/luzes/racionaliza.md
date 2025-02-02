@@ -2,7 +2,7 @@
 title: "Racionalização"
 date: 2024-04-11
 category: Fundamentos
-tags: [ "aula", "lugar" ]
+tags: [ "aula", "luzes" ]
 header:
   teaser: "/assets/media/320px-mapa-comarca-sabara-arpmg-747.jpg"
   overlay_image: "/assets/media/2140px-mapa-comarca-sabara-arpmg-747.jpg"

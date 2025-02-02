@@ -1,7 +1,7 @@
 ---
 title: "Classicismos"
 date: 2024-07-04
-tags: [ "aula", "estilo" ]
+tags: [ "aula", "estilo", "sociabilidades" ]
 header:
   teaser: "/assets/media/320px-3x2-br-rj-rj-paco-imperial-willmann-1867.jpg"
   overlay_image: "/assets/media/br-rj-rj-paco-imperial-willmann-1867.webp"
@@ -214,6 +214,4 @@ a subsequente uniformização do conjunto da fachada,
 empreendida a partir de 1847 por Manuel de Araújo Porto
 Alegre (1806--1879), um dos primeiros e mais destacados
 egressos da Academia Imperial de Belas-Artes.
-
-# Referências #
 

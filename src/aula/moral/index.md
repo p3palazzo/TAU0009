@@ -1,5 +1,6 @@
 ---
 title: "Formas da moralidade"
+date : 2025-07-03
 tags : [ "fim", "moral" ]
 header:
   teaser: "/assets/media/320px-3x2-ranzini-estilos-colonial-pt-1929.jpg"
