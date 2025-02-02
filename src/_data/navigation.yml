@@ -3,29 +3,3 @@ main:
     url  : "https://aprender3.unb.br/course/view.php?id=21959" 
   - title: "Roteiro do trabalho"
     url  : "/trabalho/roteiro/"
-
-identidade:
-  - title: "Introdução"
-    url  : "/aula/identidade/"
-
-urbanismo:
-  - title: "Introdução"
-    url  : "/aula/lugar/"
-  - title: "Urbanização medieval"
-    url  : "/aula/lugar/urbanizacao/"
-  - title: "Morfologia da conquista"
-    url  : "/aula/lugar/conquista/"
-
-territorio:
-  - title: "Introdução"
-    url  : "/aula/territorio/"
-  - title: "Amazônia"
-    url  : "/aula/territorio/amazonia/"
-  - title: "Planalto"
-    url  : "/aula/territorio/planalto/"
-
-moral:
-  - title: "Introdução"
-    url  : "/aula/moral/"
-  - title: "Modernidade"
-    url  : "/aula/moral/moderno/"

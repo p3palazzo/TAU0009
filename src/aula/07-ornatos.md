@@ -1,26 +1,18 @@
 ---
-title: "Urbanismo português"
-date: 2025-04-03
-category: Fundamentos
-tags: [ "aula", "urbanismo" ]
+title: "Traças e ornatos"
+date: 2025-05-15
+tags: [ "aula", "estilo", "ornatos", "casticismo" ]
+excerpt: >
+  Do mudéjar ao maneirismo –
+  Estilo chão e arquitetura jesuítica –
+  Barroquismo e antibarroquismo –
+  Urbanismo conveniente.
 header:
-  teaser: "/assets/media/320x213px-Livro_das_Fortalezas_25_Elvas.jpg"
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Livro_das_Fortalezas_25-_Elvas.jpg/2560px-Livro_das_Fortalezas_25-_Elvas.jpg"
-  caption: |
-    Duarte d'Armas, <em>Livro das Fortalezas</em>
-    <a href="https://commons.wikimedia.org/wiki/File:Livro_das_Fortalezas_25-_Elvas.jpg">
-      fl. 25: Elvas
-    </a>, 1509–1510
-excerpt: |
-  Origens da urbanização luso-brasileira e padrões tradicionais
-  de parcelamento do solo desde a Idade Média até o século
-  <span style="font-variant:all-small-caps">XVIII</span>.
-sidebar:
-  - title: "Leitura"
-  - text: |
-      Teixeira, <cite>A forma da cidade de origem portuguesa</cite>,
-      7–51
-sidebar_nav: "urbanismo"
+  teaser: "/assets/media/320px-br-rj-rj-sseb-an.jpg"
+  overlay_image: "/assets/media/br-rj-rj-sseb-1861.jpg"
+  caption: >
+    José Antonio Rodrigues Pereira,
+    <cite>Igreja de S. Sebastião no morro do Castelo</cite>, 1861.
 ---
 
 # Morfologia da conquista da América #
@@ -327,4 +319,7 @@ de Viamão (1732) --- formando um sistema binário semelhante
 ao de Olinda e Recife ---, acaba por adquirir ela própria um
 binômio cidade alta--baixa pela especialização de áreas
 urbanas em torno da linha de cumeada e do porto.
+
+
+# Fortificação #
 

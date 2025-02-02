@@ -17,7 +17,6 @@ sidebar:
   - text: |
       Puppi, <cite>Por uma história não moderna da arquitetura
       brasileira</cite>, 9–32
-sidebar_nav: "identidade"
 ---
 
 # Introdução # {-}

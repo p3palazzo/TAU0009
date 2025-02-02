@@ -280,6 +280,50 @@ references:
   title-short: O Neomanuelino
   type: book
 
+- id: anacleto:1997arquitectura
+  accessed:
+    - year: 2019
+      month: 9
+      day: 22
+  author:
+    - family: Anacleto
+      given: Maria Regina Dias Baptista Teixeira
+  citation-key: anacleto:1997arquitectura
+  event-place: Lisboa
+  issued:
+    - year: 1997
+  language: por
+  license: embargoedAccess
+  number-of-volumes: '2'
+  publisher: Fundação Calouste Gulbenkian
+  publisher-place: Lisboa
+  source: estudogeral.sib.uc.pt
+  title: 'Arquitectura neomedieval portuguesa : 1780-1924'
+  title-short: Arquitectura neomedieval portuguesa
+  type: book
+
+- id: anacleto:1997arquitectura1
+  accessed:
+    - year: 2019
+      month: 9
+      day: 22
+  author:
+    - family: Anacleto
+      given: Maria Regina Dias Baptista Teixeira
+  citation-key: anacleto:1997arquitectura1
+  event-place: Lisboa
+  issued:
+    - year: 1997
+  language: por
+  license: embargoedAccess
+  publisher: Fundação Calouste Gulbenkian
+  publisher-place: Lisboa
+  source: estudogeral.sib.uc.pt
+  title: 'Arquitectura neomedieval portuguesa : 1780-1924'
+  title-short: Arquitectura neomedieval portuguesa
+  type: book
+  volume: '1'
+
 - id: andre:2016arquitectura
   abstract: >-
     O livro “Arquitectura Popular. Tradição e Vanguarda”, propõe uma
@@ -1390,7 +1434,7 @@ references:
     - year: 1982
       month: 3
       day: 1
-  language: en
+  language: eng
   page: 5-31
   source: ScienceDirect
   title: The archaeology of place
@@ -2251,6 +2295,50 @@ references:
   title-short: Henrique José da Silva
   type: chapter
 
+- id: casanova:1895casa1
+  accessed:
+    - year: 2020
+      month: 4
+      day: 6
+  author:
+    - family: Casanova
+      given: Enrique
+  citation-key: casanova:1895casa1
+  container-title: Arte Portugueza
+  issue: '1'
+  issued:
+    - year: 1895
+      month: 1
+  language: por
+  page: 21-22
+  title: Casa portugueza
+  type: article-journal
+  URL: >-
+    http://hemerotecadigital.cm-lisboa.pt/Periodicos/ArtePortugueza/N01/N01_item1/P23.html
+  volume: I
+
+- id: casanova:1895casa6
+  accessed:
+    - year: 2020
+      month: 4
+      day: 6
+  author:
+    - family: Casanova
+      given: Enrique
+  citation-key: casanova:1895casa6
+  container-title: Arte Portugueza
+  issue: '6'
+  issued:
+    - year: 1895
+      month: 6
+  language: por
+  page: 141-142
+  title: Casa portugueza
+  type: article-journal
+  URL: >-
+    http://hemerotecadigital.cm-lisboa.pt/Periodicos/ArtePortugueza/N06/N06_item1/P23.html
+  volume: I
+
 - id: castro:1995resgate
   citation-key: castro:1995resgate
   editor:
@@ -2775,6 +2863,24 @@ references:
   type: book
   URL: >-
     https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=282360
+
+- id: costa:2001desenhos
+  author:
+    - family: Costa
+      given: Lucio
+  citation-key: costa:2001desenhos
+  editor:
+    - family: Vital
+      given: J. D.
+  event-place: Araxá
+  issued:
+    - year: 2001
+  language: por
+  number-of-pages: '24'
+  publisher: Companhia Brasileira de Metalurgia e Mineração
+  publisher-place: Araxá
+  title: Desenhos da juventude
+  type: book
 
 - id: costa:2007sobre
   author:
@@ -5282,6 +5388,79 @@ references:
   type: book
   URL: http://archive.org/details/gri_33125012245235
 
+- id: gurgel:2017metropoles19
+  abstract: >-
+    Resumo O objetivo deste trabalho é apresentar como as configurações dão
+    suporte à constituição do que se denominou Regiões Metropolitanas no
+    Interior do Nordeste (RMINEs), buscando a caracterização de um tipo
+    metropolitano regional. Nas últimas décadas, a urbanização cresceu nas
+    cidades médias e nas franjas perimetropolitanas, convertendo esses
+    territórios em polos de atração de migrações internas e inter-regionais. A
+    pesquisa abrange as RMINEs com mais de 500.000 habitantes com indícios de
+    conurbação física. Tais áreas são caracterizadas por seu estágio
+    intermediário de metropolização em relação às grandes metrópoles nacionais,
+    congregando equipamentos, serviços e empregos que atendem a uma escala
+    regional e que, portanto, representam uma dominância socioeconômica e
+    funcional dessas cidades-sede sobre suas hinterlândias.
+              , 
+                Abstract The objective of this work is to present how configurational properties support the constitution of what is called Metropolitan Regions in the Interior of Northeastern Brazil (RMINEs), in an attempt to characterize a regional metropolitan type. In recent decades, urbanization has grown in medium-sized cities and perimetropolitan fringes, converting these territories into poles of attraction of internal and inter-regional migrations. The study covers RMINEs with more than 500,000 inhabitants and signs of physical conurbation. These areas are characterized by their intermediary stage of metropolization in relation to large national metropolises, bringing together equipment, services and jobs that serve a regional scale and, therefore, represent a socioeconomic and functional dominance of these cities over their hinterland regions.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 11
+  author:
+    - family: Gurgel
+      given: Ana Paula Campos
+  citation-key: gurgel:2017metropoles19
+  container-title: Cadernos Metrópole
+  container-title-short: Cad. Metrop.
+  DOI: 10.1590/2236-9996.2017-4007
+  ISSN: 2236-9996, 1517-2422
+  issue: '40'
+  issued:
+    - year: 2017
+      month: 12
+  language: por
+  page: 841-864
+  source: DOI.org (Crossref)
+  title: >-
+    As metrópoles do interior do Nordeste: a caracterização de um tipo
+    metropolitano regional
+  title-short: As metrópoles do interior do Nordeste
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S2236-99962017000300841&lng=pt&tlng=pt
+  volume: '19'
+
+- id: gurgel:2018neoclassico
+  author:
+    - family: Gurgel
+      given: Ana Paula Campos
+  citation-key: gurgel:2018neoclassico
+  container-title: >-
+    Gosto neoclássico: atores e práticas artísticas no Brasil no século <span
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>
+  editor:
+    - family: Pessoa
+      given: Ana
+    - family: Pereira
+      given: Margareth da Silva
+    - family: Koppke
+      given: Karolyna
+  event-place: Rio de Janeiro
+  ISBN: 978-85-7004-394-8
+  issued:
+    - year: 2018
+  language: por
+  page: 192-211
+  publisher: Fundação Casa de Rui Barbosa
+  publisher-place: Rio de Janeiro
+  title: >-
+    O neoclássico em sua variável espacial: estudo de três residências no Rio de
+    Janeiro
+  title-short: O neoclássico em sua variável espacial
+  type: chapter
+
 - id: hakim:2010arabic-islamic
   author:
     - family: Hakim
@@ -6058,7 +6237,7 @@ references:
   issue: '1'
   issued:
     - year: 2004
-  language: pt
+  language: por
   page: 70–89
   source: periodicos.unievangelica.edu.br
   title: >-
@@ -6069,6 +6248,47 @@ references:
   URL: >-
     http://periodicos.unievangelica.edu.br/index.php/revistajuridica/article/view/597
   volume: '9'
+
+- id: lemes:2009poder28
+  abstract: >-
+    Vila Boa constituiu-se em centro político e administrativo com jurisdição
+    sobre a vasta região das minas de Goiás, durante o século XVIII. Até o
+    início do século XIX, era a única vila em toda a capitania, cujo território
+    encontrava-se pontilhado de arraiais, formando uma rede de pequenos centros
+    urbanos. Desprovidos da condição de vila imperial, estes arraiais se
+    curvavam, do ponto de vista político e econômico, ante o poder de Vila Boa
+    de Goiás. Nesse contexto, o que nos interessa mais diretamente neste artigo
+    são as estratégias que um centro de poder dominante utiliza para garantir as
+    condições e o direito de sobrepor seus próprios interesses a outros centros
+    urbanos. Funcionando como importante atrativo para as elites locais, esta
+    condição política foi objeto de grandes esforços e intensa dedicação por
+    parte das autoridades municipais, visando garantir a preeminência de Vila
+    Boa sobre os arraiais existentes nas minas de Goiás.
+              , 
+                Vila Boa de Goias was an administrative and political urban center with jurisdiction over a large region during the eighteenth century. Up till the beginning of the nineteenth century, it was the only town (vila) of Goias State, whose territory was sprinkled with many settlements, (arraiais), forming a network of small urban centers. Without the status of imperial vila, these arraiais bowed before the power of Vila Boa de Goias especially when it came to economic and political issues. In this context, what interests us most in this article is to analyze the strategies used by one urban center in being able to dominate and to guarantee the conditions and the rights to overlap its own interests upon the interests of other urban centers. Transformed into an important attraction of the local elites, this privileged political condition was the aim of great efforts and intense devotion among the municipal authorities to safeguard Vila Boa's superiority over the existent arraiais located near the mines of Goias.
+  accessed:
+    - year: 2020
+      month: 10
+      day: 12
+  author:
+    - family: Lemes
+      given: Fernando Lobo
+  citation-key: lemes:2009poder28
+  container-title: História (São Paulo)
+  container-title-short: História
+  DOI: 10.1590/S0101-90742009000100014
+  ISSN: 0101-9074
+  issue: '1'
+  issued:
+    - year: 2009
+  language: por
+  page: 381-413
+  source: DOI.org (Crossref)
+  title: Poder local e rede urbana nas minas de Goiás
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-90742009000100014&lng=pt&tlng=pt
+  volume: '28'
 
 - id: lemos:1976cozinhas
   author:
@@ -6260,6 +6480,24 @@ references:
     J.-B. Debret, historiador e pintor: a viagem pitoresca e histórica ao Brasil
     (1816-1839)
   title-short: J.-B. Debret, historiador e pintor
+  type: book
+
+- id: lino:1918nossa
+  author:
+    - family: Lino
+      given: Raul
+  call-number: '728.3'
+  citation-key: lino:1918nossa
+  event-place: Coimbra
+  issued:
+    - year: 1918
+  language: por
+  number-of-pages: '63'
+  publisher: Atlântida
+  publisher-place: Coimbra
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'A nossa casa: apontamentos sobre o bom gosto na construção das casas simples'
+  title-short: A nossa casa
   type: book
 
 - id: lira:2010patrimonio
@@ -6883,6 +7121,25 @@ references:
   title-short: Património de origem portuguesa no mundo
   type: book
 
+- id: mayumi:2008taipa
+  author:
+    - family: Mayumi
+      given: Lia
+  citation-key: mayumi:2008taipa
+  event-place: São Paulo
+  ISBN: 978-85-88585-17-1 85-88585-17-0
+  issued:
+    - year: 2008
+  language: por
+  publisher: Romano Guerra
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Taipa, canela-preta e concreto: estudo sobre o restauro de casas
+    bandeiristas
+  title-short: Taipa, canela-preta e concreto
+  type: book
+
 - id: mazzoli-guintard:2000ciudades
   author:
     - family: Mazzoli-Guintard
@@ -7039,6 +7296,44 @@ references:
   title: 'Materiais históricos: entre tradição e inovação'
   title-short: Materiais históricos
   type: book
+
+- id: mestre:2001arquitectura
+  author:
+    - family: Mestre
+      given: Victor
+  call-number: APP 003
+  citation-key: mestre:2001arquitectura
+  event-place: Lisboa
+  ISBN: 978-972-8479-13-8
+  issued:
+    - year: 2001
+  language: por
+  publisher: Argumentum
+  publisher-place: Lisboa
+  source: Biblioteca da Ordem dos Arquitetos (Lisboa)
+  title: Arquitectura popular da Madeira
+  type: book
+
+- id: mestre:2016mito
+  accessed:
+    - year: 2021
+      month: 7
+      day: 18
+  author:
+    - family: Mestre
+      given: Victor
+  citation-key: mestre:2016mito
+  collection-title: Patrimónios de Influência Portuguesa
+  container-title: Cabo dos Trabalhos
+  ISSN: 2182-9187
+  issue: '12'
+  issued:
+    - year: 2016
+  language: por
+  source: Zotero
+  title: O mito do modelo perfeito da casa popular de origem portuguesa
+  type: article-journal
+  URL: https://cabodostrabalhos.ces.uc.pt/n12/ensaios.php
 
 - id: mingo:2015construccion
   abstract: >-
@@ -7326,6 +7621,56 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/165535
   volume: '25'
+
+- id: neves:1896casaXIX
+  accessed:
+    - year: 2019
+      month: 10
+      day: 8
+  author:
+    - family: Neves
+      given: Henrique
+      dropping-particle: das
+  call-number: 72.031 (496)
+  citation-key: neves:1896casaXIX
+  container-title: 'Occidente: revista illustrada de Portugal e do extrangeiro'
+  container-title-short: Occidente
+  issue: '625'
+  issued:
+    - year: 1896
+      month: 5
+      day: 5
+  language: por
+  page: '102'
+  title: Casa portugueza I
+  type: article-journal
+  URL: http://hemerotecadigital.cm-lisboa.pt/OBRAS/Ocidente/Ocidente_1896.htm
+  volume: XIX
+
+- id: neves:1896casaXIXa
+  accessed:
+    - year: 2019
+      month: 10
+      day: 8
+  author:
+    - family: Neves
+      given: Henrique
+      dropping-particle: das
+  call-number: 72.031 (496)
+  citation-key: neves:1896casaXIXa
+  container-title: 'Occidente: revista illustrada de Portugal e do extrangeiro'
+  container-title-short: Occidente
+  issue: '626'
+  issued:
+    - year: 1896
+      month: 5
+      day: 15
+  language: por
+  page: 109–110
+  title: Casa portugueza II
+  type: article-journal
+  URL: http://hemerotecadigital.cm-lisboa.pt/OBRAS/Ocidente/Ocidente_1896.htm
+  volume: XIX
 
 - id: neves:2010amazonia11
   author:
@@ -9139,7 +9484,7 @@ references:
   publisher-place: Rio de Janeiro
   title: >-
     Gosto neoclássico: atores e práticas artísticas no Brasil no século <span
-    smallcaps="smallcaps">XIX</span>
+    style="font-variant:all-small-caps" smallcaps="smallcaps">XIX</span>
   title-short: Gosto neoclássico
   type: book
 
@@ -9743,6 +10088,32 @@ references:
   type: book
   URL: http://biblioteca.ciarte.pt/tratados/obras/r/Rodrigues1875.html
 
+- id: rodrigues:1944documentario
+  abstract: 28,5 cm x 21,5 cm
+  accessed:
+    - year: 2016
+      month: 1
+      day: 22
+  author:
+    - family: Rodrigues
+      given: José Wasth
+  call-number: 720.981 R696 d2
+  citation-key: rodrigues:1944documentario
+  contributor:
+    - literal: Biblioteca do Ministério da Fazenda no Rio de Janeiro
+  event-place: São Paulo
+  issued:
+    - year: 1944
+    - year: 1951
+  language: por
+  number-of-pages: '66'
+  number-of-volumes: '8'
+  publisher: Martins
+  publisher-place: São Paulo
+  source: Internet Archive
+  title: Documentário arquitetônico relativo á antiga construção civil no Brasil
+  type: book
+
 - id: rodrigues:1975documentario
   author:
     - family: Rodrigues
@@ -9971,7 +10342,7 @@ references:
   event-place: Salvador
   issued:
     - year: 1916
-  language: pt
+  language: por
   page: 55–61
   publisher: Imprensa Official do Estado
   publisher-place: Salvador
@@ -10432,6 +10803,21 @@ references:
   type: book
   URL: http://archive.org/details/gri_stilindentec02semp
 
+- id: severo:1912origens
+  author:
+    - family: Severo
+      given: Ricardo
+  citation-key: severo:1912origens
+  event-place: Lisboa
+  issued:
+    - year: 1912
+  language: por
+  publisher: A.M. Teixeira
+  publisher-place: Lisboa
+  source: Open WorldCat
+  title: Origens da nacionalidade portugueza
+  type: book
+
 - id: silva:2005dicionario
   author:
     - family: Silva
@@ -10703,6 +11089,29 @@ references:
   source: Open WorldCat
   title: A Casa-Pátio de Goa
   type: book
+
+- id: simoes:1870reliquias
+  accessed:
+    - year: 2020
+      month: 6
+      day: 30
+  author:
+    - family: Simões
+      given: Augusto Filippe
+  citation-key: simoes:1870reliquias
+  event-place: Lisboa
+  issued:
+    - year: 1870
+  language: por
+  publisher: Typ. Portugueza
+  publisher-place: Lisboa
+  source: catalogo.bnportugal.gov.pt Library Catalog
+  title: >-
+    Reliquias da architectura romano-byzantina em Portugal e particularmente na
+    cidade de Coimbra
+  title-short: Reliquias da architectura romano-byzantina
+  type: book
+  URL: http://purl.pt/5605
 
 - id: simoes:2013permanencias5
   abstract: >-
@@ -11766,7 +12175,7 @@ references:
     - year: 2012
       month: 8
       day: 1
-  language: pt
+  language: por
   source: www.anpur.org.br
   title: A engenharia militar na construção da cidade
   type: article-journal
@@ -11859,6 +12268,42 @@ references:
   publisher-place: Jandira
   title: Arquitetura dos índios da Amazônia
   type: book
+
+- id: varnhagen:1842mosteiro1
+  abstract: >-
+    Publication suspended from Jan. 1845 to Aug. 1846, May to Sept. 1847, Dec.
+    1847 to Aug. 1852, Jan. 1859 to Dec. 1865, inclusive; Vols. 1-[8] have
+    title: O Panorama. Jornal litterario e instructivo da Sociedade propagadora
+    dos conhecimentos uteis; No more published; 26
+
+    . v. 1-5, maio 6, 1937-dez. 1841; v. [6-8] (2. ser., v. 1-3), jan. 1842-dez.
+    1844; v. 9-13 (3. ser. v. 1-5), set. 5, 1846-dez. 1856; v. 14-15 (4. ser.,
+    v. 1-2), jan 1857-dez. 1858; v. 16-18 (5. ser., v. 1-3), [jan.?] 1866-
+    [dez.?] 1868
+  accessed:
+    - year: 2020
+      month: 9
+      day: 15
+  author:
+    - family: Varnhagen
+      given: Francisco Adolfo
+      dropping-particle: de
+  call-number: AAA-0559
+  citation-key: varnhagen:1842mosteiro1
+  container-title: 'O Panorama: semanario de litteratura e instrucção'
+  container-title-short: Panorama
+  editor:
+    - family: Herculano
+      given: Alexandre
+  issued:
+    - year: 1842
+  language: Portuguese
+  page: 58–61, 66–68, 73–76, 99–102, 109–111, 125–126, 130, 138
+  source: Internet Archive
+  title: Mosteiro de Belém
+  type: article-journal
+  URL: http://archive.org/details/opanoramasemanar06sociuoft
+  volume: 1, 2.ª série
 
 - id: vasconcellos:1979arquitetura
   author:

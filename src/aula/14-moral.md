@@ -1,6 +1,6 @@
 ---
 title: "Formas da moralidade"
-date : 2025-07-03
+date : 2025-07-10
 tags : [ "fim", "moral" ]
 header:
   teaser: "/assets/media/320px-3x2-ranzini-estilos-colonial-pt-1929.jpg"
@@ -8,7 +8,6 @@ header:
   caption: >-
     Felisberto Ranzini, <cite>Estilo colonial português</cite>,
     1929. Escola politécnica de São Paulo
-sidebar_nav: "moral"
 excerpt: |
   Literatura como realidade e identidade – Sanitarismo e controle
   urbanístico – Estilos nacionais – Tradição no pretérito
@@ -75,6 +74,15 @@ Apesar das próprias falhas morais desse movimento moralista,
 das atuais teorias da arquitetura,
 como a preservação do patrimônio histórico, ou ainda a noção
 de sustentabilidade cultural.
+
+# Modernidade #
+
+<!--
+   -Materiais industrializados e importados –
+   -Rutura do processo tipológico –
+   -Arquiteturas-mostruário e manifestos nacionalistas –
+   -Ecletismo, caráter e ideologia.
+   -->
 
 ---
 nocite: "@claudel:1984conversations"

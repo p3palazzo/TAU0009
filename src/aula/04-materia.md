@@ -1,8 +1,8 @@
 ---
-title: "Terra"
-date: 2024-04-25
+title: "Matéria"
+date: 2025-04-17
 category: Fundamentos
-tags: [ "aula", "materia" ]
+tags: [ "aula", "materia", "lugar" ]
 header:
   teaser: "/assets/media/320px-ouseley-sgonsalo.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg/2560px-Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg"

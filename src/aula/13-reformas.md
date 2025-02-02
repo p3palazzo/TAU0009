@@ -1,6 +1,6 @@
 ---
 title: "Reformas urbanas"
-date: 2025-06-26
+date: 2025-07-03
 tags: [ "aula", "reformas", "fim" ]
 header:
   teaser: "/assets/media/320x213px-abigail-passeio.jpg"

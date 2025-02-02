@@ -1,7 +1,7 @@
 ---
-title: "Barroco e rococó"
-date: 2024-06-27
-tags: [ "aula", "estilo", "oficios" ]
+title: "Ofícios e regulações"
+date : 2025-05-29
+tags: [ "aula", "oficios", "tradicional" ]
 header:
   teaser: "/assets/media/320x213px-Benedito_Calixto-Largo_da_See_em_1865.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"
@@ -13,8 +13,9 @@ header:
       Museu de Arte Sacra de São Paulo
     </a>
 excerpt: >-
-  Arquitetura religiosa como epítome dos estilos luso-brasileiros –
-  Ordens religiosas e sua dissolução.
+  Espacialidade, iconografia e processo produtivo no barroco tardio e
+  rococó – Dealbar do rigorismo artístico – Novas regulações e modos de
+  organização dos ofícios.
 ---
 
 # Arte sacra do "alinhamento a Roma" #
@@ -306,4 +307,160 @@ e Manuel da Costa Ataíde (1762--1830).
 [@komisar:2005looking, p. 3--4]
 
 <!--Desenvolver Aleijadinho-->
+
+# Sistematização das artes e das técnicas #
+
+A burocracia pombalina é reminiscente do "mercantilismo
+cultural" de Luís XIV e Colbert [@tapie:1974barroco],
+e pode-se especular se a atuação da Superintendência de
+edificações sob Charles Perrault não teria inspirado
+a criação da Casa do Risco das Obras Públicas.
+Estabelecida pelo marquês de Pombal no início de 1756,
+poucos meses após o terremoto de Lisboa ocorrido em 1.º de
+novembro de 1755, a Casa do Risco serve-se principalmente do
+corpo dos engenheiros militares, inclusive para projetos de
+arquitetura urbana e monumental, nisso diferindo da
+Superintendência francesa que se responsabilizava, também,
+pelo aproveitamento de arquitetos e artistas.
+
+Estabelecida sob a direção do engenheiro militar Eugénio dos
+Santos (1711--1760), a Casa do Risco só vem a ser dirigida
+por um profissional de dupla formação em arquitetura
+e engenharia militar, Reinaldo Manuel dos Santos
+(1731--1791), em 1770.
+Das diversas aulas de desenho artístico e de arquitetura
+estabelecidas em Portugal para suprir essa lacuna cultural
+ --- em 1766 no Colégio dos Nobres e na Fábrica de Estuques
+em Lisboa, em 1768 na Impressão régia, em 1769 na
+Universidade e em 1779 junto à Companhia das Vinhas, no
+Porto ---, somente esta última é bem-sucedida no longo
+prazo [@franca:2004pombalismo, p. 59--60].
+O arquiteto José da Costa e Silva (1747--1819), ao regressar
+em 1780 de prolongada formação e atuação profissional em
+Bolonha e Roma, ministra aulas de desenho de arquitetura em
+Lisboa, deixando vaga sua cátedra em Coimbra.
+
+A administração direta de D. Maria I (1777--1792), que tem
+início com a "Viradeira" expurgando o círculo pombalino do
+poder, dá maior ascendência aos jovens arquitetos
+neoclássicos sobre os engenheiros militares que foram
+o fulcro da política territorial e construtiva sob D. José I
+(1750--1777).
+Esse prestígio dos arquitetos em detrimento dos engenheiros
+sinaliza, portanto, o declínio de uma política
+centralizadora e sistêmica nas obras públicas.
+O final do Antigo Regime em Portugal é marcado, a partir
+daí, pelo fomento pontual a obras específicas por parte da
+Coroa, assim como pelo crescimento de iniciativas
+descentralizadas.
+Destacam-se, nesse cenário, o mecenato arquitetônico da
+administração municipal do Porto sob o corregedor João de
+Almada e seu filho, durante a segunda metade do século
+[XVIII]{.smallcaps} [@franca:2004pombalismo, p. 39] e as grandes obras
+empresariais e beneficentes no Porto e em Lisboa, fomentadas
+pela burguesia portuguesa e por estrangeiros.
+
+Duas obras coetâneas de arquitetura sacra sinalizam
+a transição de um sistema burocrático centralizado
+e planejado no seu conjunto para uma sistemática informal de
+encomendas e de circulação de conhecimentos técnicos
+e estéticos.
+A reconstrução da igreja de Nossa Senhora da Candelária,
+iniciada em 1775 pelo engenheiro militar Francisco João
+Roscio (1733--1805), evidencia a influência duradoura do
+palácio conventual de Mafra e de sua igreja nas estratégias
+de projetação monumental em Portugal.
+A obra é inicialmente fomentada por uma irmandade, sendo
+subsequentemente apoiada pela administração pública.
+Os veteranos da construção de Mafra Mateus Vicente de
+Oliveira (1706--1785) e Reinaldo Manuel oferecem uma
+continuidade mais concreta ainda na basílica da Estrela, em
+Lisboa.
+Essa igreja é concebida pelo primeiro desde 1761, mas será
+iniciada somente em 1778, segundo projeto bastante
+modificado pelo segundo [@franca:2004pombalismo, p. 25].
+
+Esse percurso de continuidade, identificado pelo historiador
+da arquitetura carioca Gustavo Rocha-Peixoto como a primeira
+fase do neoclassicismo luso-brasileiro
+[@rocha-peixoto:2000reflexos, p. 64],
+apresenta ainda notável diversidade em virtude da circulação
+de profissionais com formações díspares, inclusive
+estrangeiros.
+A tradição classicista bolonhesa comparece desde a época dos
+tratados de limites com a obra de Antonio José Landi
+(1713--1791) em Belém do Pará a partir de 1749.
+Esse primeiro neoclassicismo coexiste com a sobrevida da
+pintura quadraturística ou ilusionista de origem maneirista,
+que atinge seu ápice no barroco tardio da "escola baiana de
+pintura" [@ott:1947notas11, p. 197], transmitido de António
+Simões Ribeiro (†1755) para José Joaquim da Rocha
+(1737--1807) e deste para José Theophilo de Jesus
+(1758--1847) [@vicente:2012antonio, p. 394].
+
+A tradição do norte de Portugal, e o "barroco mineiro" que
+lhe é conexo, combinam influências italianas e germânicas
+em produtos de grande originalidade na segunda metade do
+século [XVIII]{.smallcaps}.
+Mesmo essas linhagens vão, no entanto, paulatinamente se
+aproximando das soluções formais hegemônicas em Lisboa e no
+Rio de Janeiro em finais do setecentos.
+A obra do arquiteto e escultor mineiro Valentim da Fonseca
+e Silva (1745--1813) no Rio de Janeiro é ilustrativa desse
+processo tortuoso e incompleto de redução das arquiteturas
+regionais ao modelo metropolitano [@carvalho:1999mestre].
+Uma vez estabelecido na capital colonial, o mestre
+Valentim atua em consonância com os padrões pombalinos
+promovidos nas obras públicas de D. Luís de Vasconcelos
+e Sousa, quarto conde de Figueiró, vice-rei do Brasil de
+1778 a 1790.
+Uma de suas primeiras obras nesse contexto é a reconstrução,
+em 1779, do chafariz do Carmo, inicialmente edificado em
+1743 ou 1758 pelo engenheiro militar José Fernandes Pinto
+Alpoim (1700--1765), conferindo-lhe uma estética mais
+próxima do neoclassicismo pombalino.
+
+A encomenda, no mesmo ano, do Passeio público do Rio de
+Janeiro, concluído em 1783, ilustra o caráter não linear
+desse processo de "atualização" da estética dominante.
+O traçado das alamedas retilíneas baseia-se no Passeio
+público implantado na extremidade da Baixa pombalina por
+Eugénio dos Santos a partir de 1761.
+Ao traçado urbanístico de sua própria autoria o mestre
+Valentim acrescenta, porém, um programa escultórico de
+caráter plástico ambíguo.
+Se os elementos arquitetônicos tendem para o neoclássico,
+a estatuária figurativa de alegorias antropomórficas
+e zoomórficas aproxima-se do grotesco maneirista.
+
+As realizações do engenheiro militar bracarense Carlos
+Ferreira da Cruz Amarante (1748--1815) em sua cidade natal
+e no Porto representam igualmente essa indecisa aproximação
+ao padrão pombalino promovida, nesta última cidade, pelo
+corregedor de justiça João de Almada e seu filho e sucessor,
+Francisco, de 1760 a 1804.
+Em Braga, Amarante dá continuidade, com o projeto da
+Basílica (1784--1811), ao complexo monumental do Bom Jesus
+do Monte, configurando uma transição estilística
+entre o estilo barroco dos primeiros escadórios barrocos
+e o neoclassicismo do programa escultórico tardio, concluído
+em 1837.
+
+O projeto do engenheiro militar José Custódio de Sá e Faria
+(†1792) para a igreja da irmandade de Santa Cruz dos
+Militares, no Rio de Janeiro, iniciada em 1780, apresenta
+notável síntese entre o barroco tardio do Norte de Portugal,
+o rococó mineiro de finais do século [XVIII]{.smallcaps}, e o primeiro
+neoclassicismo de inspiração espanhola.
+Sá e Faria circula com frequência entre o serviço à Coroa
+portuguesa e àquela espanhola, podendo ter tido contato com
+a obra construída sob os reis Fernando VI e Carlos III da
+Espanha, especialmente o palácio real de Aranjuez, com
+o qual a frontaria da referida igreja apresenta algumas
+similaridades.
+O seu interior contém oratórios em talha dourada do mestre
+Valentim, executados entre 1802 e 1812, cuja luminosidade
+contrasta com a robustez de seus contemporâneos no gosto
+mineiro.
+
 

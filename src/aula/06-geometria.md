@@ -1,6 +1,6 @@
 ---
 title: "Geometria prática"
-date : 2025-04-24
+date : 2025-05-08
 tags : [ "aula", "geometria", "casticismo" ]
 header:
   teaser       : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mosteiro_de_Belem.jpg/640px-Mosteiro_de_Belem.jpg"
