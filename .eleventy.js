@@ -7,13 +7,13 @@ const { DateTime } = require('luxon');
 const w3DateFilter = require('./src/filters/w3-date-filter.js');
 const yaml = require('js-yaml');
 const nodePandoc = require('node-pandoc');
-const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 /********************************
  * eleventyConfig function {{{1 *
  ********************************/
 // Use module.exports to export a configuration funcion.
 // This is a standard function in Node.js projects
-module.exports = function(eleventyConfig) {
+module.exports = async function(eleventyConfig) {
+  const { EleventyHtmlBasePlugin } = await import("@11ty/eleventy");
   // Run any code needed including built-in 11ty methods
  /*************************
   * Passthrough copy {{{2 *
