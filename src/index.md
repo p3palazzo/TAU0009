@@ -20,7 +20,7 @@ excerpt: >-
 templateEngineOverride: njk,md
 ---
 
-# Unidade I · Identidades e lugares # {-}
+# Unidade I · Identidades e invariantes castiços # {-}
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
@@ -30,7 +30,7 @@ templateEngineOverride: njk,md
 </div>
 ```
 
-# Unidade II · Antecedentes castiços # {-}
+# Unidade II · Formação da tradição # {-}
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">

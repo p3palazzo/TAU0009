@@ -2007,7 +2007,7 @@ references:
   ISBN: 0-945179-26-X 978-0-945179-26-9
   issued:
     - year: 2005
-  language: es
+  language: spa
   publisher: M. Wiener
   publisher-place: Princeton
   source: Open WorldCat
@@ -2184,6 +2184,26 @@ references:
   title: Um tipo de casa rural do Distrito Federal e Estado do Rio
   type: article-journal
   volume: '7'
+
+- id: cardoso:2008academia
+  accessed:
+    - year: 2014
+      month: 1
+      day: 3
+  author:
+    - family: Cardoso
+      given: Rafael
+  citation-key: cardoso:2008academia
+  container-title: Dezenove & Vinte
+  issue: '1'
+  issued:
+    - year: 2008
+      month: 1
+  language: por
+  title: A Academia Imperial de Belas Artes e o Ensino Técnico
+  type: article-journal
+  URL: http://www.dezenovevinte.net/ensino_artistico/rc_ebatecnico.htm
+  volume: III
 
 - id: carita:1987tratado
   author:
@@ -3157,6 +3177,49 @@ references:
   title: A flexibilidade na arquitectura tradicional
   type: paper-conference
   URL: http://repositorium.sdum.uminho.pt/
+
+- id: dazzi:2013reforma1
+  abstract: >-
+    O artigo tem como propósito estabelecer algumas aproximações entre a Reforma
+    pela qual passou a École des Beaux-Arts, em 1863, e a Reforma a qual foi
+    submetida a Academia de Belas Artes, em 1890, momento no qual a instituição
+    passou a ser conhecida como Escola Nacional de Belas Artes. Para tanto,
+    foram utilizados textos da segunda metade do século XIX, franceses e
+    brasileiros, bem como uma significativa fortuna crítica recente sobre o
+    tema. O trabalho evidencia, através da análise realizada, que a Reforma da
+    Academia brasileira não foi uma mera “mudança de rótulo”, mas que ocorreram
+    alterações significativas no sistema de ensino da instituição, alterações
+    que encontram paralelo na sua congênere francesa, a École des Beaux-Arts de
+    Paris.
+  accessed:
+    - year: 2019
+      month: 5
+      day: 25
+  archive_location: não tem
+  author:
+    - family: Dazzi
+      given: Camila
+  citation-key: dazzi:2013reforma1
+  container-title: Cultura Visual
+  ISSN: 2175-084X
+  issue: '19'
+  issued:
+    - year: 2013
+      month: 7
+      day: 22
+  language: por
+  license: Direitos autorais
+  page: 67-80
+  source: portalseer.ufba.br
+  title: >-
+    A Reforma da École des Beaux-Arts de Paris e a Reforma da Academia de Belas
+    Artes do Rio de Janeiro: algumas aproximações
+  title-short: >-
+    A Reforma da École des Beaux-Arts de Paris e a Reforma da Academia de Belas
+    Artes do Rio de Janeiro
+  type: article-journal
+  URL: https://portalseer.ufba.br/index.php/rcvisual/article/view/8191
+  volume: '1'
 
 - id: debret:1834voyage
   abstract: >-
@@ -5989,7 +6052,7 @@ references:
   ISBN: 978-85-314-1550-0
   issued:
     - year: 2016
-  language: pt
+  language: por
   publisher: Edusp
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6165,7 +6228,7 @@ references:
   ISBN: 978-0-415-57579-9 978-0-415-57578-2
   issued:
     - year: 2012
-  language: en
+  language: eng
   publisher: Routledge
   publisher-place: Abingdon, Oxon
   source: Open WorldCat
@@ -6418,6 +6481,25 @@ references:
   publisher-place: São Paulo
   source: Open WorldCat
   title: História da casa brasileira
+  type: book
+
+- id: lemos:1999casa
+  author:
+    - family: Lemos
+      given: Carlos A. C.
+  citation-key: lemos:1999casa
+  event-place: São Paulo
+  ISBN: 978-85-314-0471-9
+  issued:
+    - year: 1999
+  language: por
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Casa paulista: história das moradias anteriores ao ecletismo trazido pelo
+    café
+  title-short: Casa paulista
   type: book
 
 - id: lemos:2012nova12
@@ -6722,7 +6804,7 @@ references:
   ISBN: 978-84-15063-73-5
   issued:
     - year: 2016
-  language: es
+  language: spa
   number-of-pages: '349'
   publisher: Almed
   source: Library of Congress ISBN
@@ -7722,7 +7804,7 @@ references:
   genre: Dissertação (mestrado em História da Arte)
   issued:
     - year: 2013
-  language: pt
+  language: por
   license: openAccess
   publisher: Universidade do Algarve
   publisher-place: Faro
@@ -11474,7 +11556,7 @@ references:
   issued:
     - year: 1916
     - year: 1918
-  language: pt-br
+  language: por
   number-of-volumes: '2'
   publisher: Imprensa Official do Estado
   publisher-place: Salvador
@@ -12085,7 +12167,7 @@ references:
   ISBN: 978-85-333-0546-5
   issued:
     - year: 2009
-  language: pt-BR
+  language: por
   number-of-pages: '241'
   publisher: Ministério da Cultura Fundação Biblioteca Nacional
   publisher-place: Rio de Janeiro

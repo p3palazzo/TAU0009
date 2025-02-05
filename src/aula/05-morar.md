@@ -1,5 +1,5 @@
 ---
-title: "Casa"
+title: "Morar"
 date: 2025-04-24
 tags: [ "aula", "tipo", "morar", "casticismo" ]
 header:
