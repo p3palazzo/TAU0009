@@ -3,6 +3,7 @@ to                         : html
 data-dir                   : "_data"
 fail-if-warnings           : false
 html-q-tags                : true
+number-sections            : true
 section-divs               : true
 shift-heading-level-by     : 1
 filters:

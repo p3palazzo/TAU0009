@@ -134,7 +134,7 @@ references:
   ISBN: 978-85-7164-681-0
   issued:
     - year: 1997
-  language: pt
+  language: por
   publisher: Companhia das Letras
   publisher-place: São Paulo
   source: Library of Congress ISBN
@@ -509,6 +509,46 @@ references:
   type: post-weblog
   URL: >-
     https://parpatrimonioytecnologia.wordpress.com/2023/01/26/herramientas-de-trazabilidad-cientifica-s-pedro/
+
+- id: aragao:2008casa
+  abstract: >-
+    Este trabalho tem como ponto de partida a obra Sobrados e mucambos de
+    Gilberto Freyre, como fonte documental os relatos dos viajantes, e como
+    objeto de estudo a casa, o jardim brasileiro e a rua do século XIX. Trata
+    das transformações pelas quais passaram a arquitetura e esses espaços livres
+    ao longo do oitocentismo, contrapondo os sobrados de dois, três e quatro
+    pavimentos, erguidos no alinhamento dos lotes, sem recuo frontal ou lateral,
+    com seu “jardim-horta-pomar” situado no recuo posterior, aos sobrados de
+    fins do século, projetados sob clara influência européia, com jardins
+    ornamentais dissociados das hortas e pomares, dispostos no recuo frontal ou
+    lateral. Trata, ainda, das alterações da rua: o processo de calçamento do
+    leito carroçável e dos passeios junto às construções, o início da iluminação
+    pública e os primórdios da arborização urbana no Brasil, ressaltando a
+    inter-relação entre as mudanças internas e externas ao lote urbano, que
+    iriam contribuir significativamente para a transformação da paisagem da
+    cidade brasileira do período.
+  accessed:
+    - year: 2018
+      month: 5
+      day: 14
+  author:
+    - family: Aragão
+      given: Solange
+  citation-key: aragao:2008casa
+  container-title: Em tempo de histórias
+  ISSN: 2316-1191
+  issue: '12'
+  issued:
+    - year: 2008
+  language: por
+  license: Direitos autorais 2016 Em tempo de histórias
+  page: 151-162
+  source: periodicos.unb.br
+  title: >-
+    A casa, o jardim e a rua no Brasil do século <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XIX</span>
+  type: article-journal
+  URL: http://periodicos.unb.br/index.php/emtempos/article/view/2599
 
 - id: aragao:2017ensaio
   accessed:
@@ -1242,6 +1282,43 @@ references:
       given: Álvaro
   type: book
 
+- id: benincasa:2008fazendas
+  abstract: >-
+    Analisa a arquitetura rural do atual Estado de São Paulo durante o ciclo
+    cafeeiro entre 1800 e a década de 1940, período marcado por grandes
+    transformações na história brasileira. O enfoque é dado ao núcleo rural da
+    fazenda cafeeira, investigando questões como: critérios para a escolha do
+    sítio a ser implantado; o agenciamento e as inter-relações entre as
+    edificações; a arquitetura e o uso dos diversos edifícios que o compõem;
+    além de suas mudanças no tempo e no espaço. O estudo se vale de
+    levantamentos inéditos (métrico e fotográfico), da leitura de estudos
+    correlatos, entrevistas, coleta de dados em arquivos, bibliotecas entre
+    outros, produzindo um amplo conjunto de informações a respeito de fazendas
+    da região paulista.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 2
+  author:
+    - family: Benincasa
+      given: Vladimir
+  citation-key: benincasa:2008fazendas
+  DOI: 10.11606/T.18.2008.tde-14032008-151048
+  event-place: São Carlos
+  genre: Tese (Doutorado em Arquitetura e Urbanismo)
+  issued:
+    - year: 2008
+      month: 2
+      day: 15
+  language: por
+  publisher: Universidade de São Paulo, Escola de Engenharia
+  publisher-place: São Carlos
+  source: teses.usp.br
+  title: 'Fazendas paulistas: arquitetura rural no ciclo cafeeiro'
+  title-short: Fazendas paulistas
+  type: thesis
+  URL: http://www.teses.usp.br/teses/disponiveis/18/18142/tde-14032008-151048/
+
 - id: berkowski:2016construction161
   abstract: >-
     Issues related to the processes of maintenance and ensure the continued
@@ -1354,7 +1431,7 @@ references:
   genre: Dissertação (Mestrado em Engenharia Civil)
   issued:
     - year: 2003
-  language: pt
+  language: por
   publisher: '[s.n.]'
   publisher-place: Campinas
   source: repositorio.unicamp.br
@@ -1463,7 +1540,7 @@ references:
   event-place: Paris
   issued:
     - year: 1752
-  language: fr
+  language: fre
   number-of-volumes: '4'
   publisher: Charles-Antoine Jombert
   publisher-place: Paris
@@ -1663,7 +1740,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1981
-  language: pt-BR
+  language: por
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -1904,7 +1981,7 @@ references:
   issued:
     - year: 2014
       month: 1
-  language: pt
+  language: por
   page: 131-156
   source: Zotero
   title: O prédio de rendimento joanino
@@ -2013,8 +2090,9 @@ references:
   source: Open WorldCat
   title: >-
     Los intelectuales latinoamericanos entre la modernidad y la tradición,
-    siglos <span smallcaps="smallcaps">XIX</span> y <span
-    smallcaps="smallcaps">XX</span>
+    siglos <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XIX</span> y <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XX</span>
   title-short: Los intelectuales latinoamericanos entre la modernidad y la tradición
   type: book
 
@@ -2126,7 +2204,7 @@ references:
   ISBN: 978-84-252-2006-7
   issued:
     - year: 2005
-  language: es
+  language: spa
   number-of-pages: '199'
   publisher: Editorial Gustavo Gili
   publisher-place: Barcelona
@@ -2179,7 +2257,7 @@ references:
   container-title: Revista do Serviço do Patrimônio Histórico e Artístico Nacional
   issued:
     - year: 1943
-  language: pt
+  language: por
   page: 209–256
   title: Um tipo de casa rural do Distrito Federal e Estado do Rio
   type: article-journal
@@ -2264,7 +2342,7 @@ references:
     - year: 2006
       month: 6
       day: 1
-  language: pt
+  language: por
   page: 59-80
   source: www.revistas.usp.br
   title: Fazendas de café oitocentistas no Vale do Paraíba
@@ -2370,7 +2448,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1995
-  language: pt
+  language: por
   publisher: Topbooks
   publisher-place: Rio de Janeiro
   title: 'Resgate: uma janela para o oitocentos'
@@ -3386,6 +3464,35 @@ references:
   URL: http://digital.bbm.usp.br/handle/bbm/4716
   volume: '3'
 
+- id: depaula:2011processo
+  author:
+    - family: Paula
+      given: João Antônio
+      non-dropping-particle: de
+  call-number: F2521 .H553 2011
+  citation-key: depaula:2011processo
+  collection-editor:
+    - family: Schwarcz
+      given: Lilia Moritz
+  container-title: 'História do Brasil nação: 1808-2010'
+  editor:
+    - family: Carvalho
+      given: José Murilo
+      dropping-particle: de
+  event-place: 'Rio de Janeiro : Madrid'
+  ISBN: >-
+    978-85-390-0275-7 978-84-9844-310-3 978-85-390-0319-8 978-85-390-0386-0
+    978-85-390-0472-0 978-84-9844-433-9 978-85-390-0553-6 978-85-390-0423-2
+  issued:
+    - year: 2011
+  language: por
+  page: 179–223
+  publisher: 'Objetiva : Fundación Mapfre'
+  publisher-place: 'Rio de Janeiro : Madrid'
+  source: Library of Congress ISBN
+  title: O processo econômico
+  type: chapter
+
 - id: deupi:2015architectural
   abstract: >-
     "Architectural Temperance examines relations between Bourbon Spain and papal
@@ -3813,7 +3920,7 @@ references:
   issued:
     - year: 1978
       month: 4
-  language: en
+  language: eng
   page: 137–147
   title: '"Les dedans," Jacques-François Blondel and the system of the home'
   title-short: Les dedans
@@ -5933,7 +6040,7 @@ references:
   issue: '978'
   issued:
     - year: 1984
-  language: en
+  language: eng
   page: 548-553
   source: JSTOR
   title: 'An expensive present: the Adam screen in Rio de Janeiro'
@@ -6960,14 +7067,15 @@ references:
   ISBN: 978-85-7506-021-6
   issued:
     - year: 2001
-  language: pt
+  language: por
   number-of-pages: '317'
   publisher: 'Humanitas : Edusp'
   publisher-place: São Paulo
   source: Library of Congress ISBN
   title: >-
     Através da rótula: sociedade e arquitetura no Brasil, séculos <span
-    smallcaps="smallcaps">XVII</span> a <span smallcaps="smallcaps">XX</span>
+    style="font-variant: all-small-caps" smallcaps="smallcaps">XVII</span> a
+    <span style="font-variant: all-small-caps" smallcaps="smallcaps">XX</span>
   title-short: Através da rótula
   type: book
 
@@ -7008,7 +7116,7 @@ references:
   issued:
     - year: 2010
       month: 6
-  language: pt
+  language: por
   page: 83-128
   source: SciELO
   title: >-
@@ -7032,8 +7140,9 @@ references:
   publisher-place: São Paulo
   source: Open WorldCat
   title: >-
-    O partido arquitetônico rural no século <span
-    smallcaps="smallcaps">XIX</span>:  Porto Feliz, Tietê, Laranjal Paulista
+    O partido arquitetônico rural no século <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XIX</span>:  Porto Feliz, Tietê,
+    Laranjal Paulista
   title-short: O partido arquitetônico rural no século XIX
   type: book
 
@@ -7693,7 +7802,7 @@ references:
   issue: '1'
   issued:
     - year: 1983
-  language: en
+  language: eng
   page: 83-103
   source: JSTOR
   title: >-
@@ -8867,14 +8976,16 @@ references:
     - family: Peixoto-Mehrtens
       given: C.
   citation-key: peixoto-mehrtens:2010urban
+  event-place: Cham
   ISBN: 978-0-230-11403-6
   issued:
     - year: 2010
       month: 10
       day: 25
-  language: en
+  language: eng
   number-of-pages: '279'
   publisher: Springer
+  publisher-place: Cham
   source: Google Books
   title: >-
     Urban space and national identity in early twentieth century São Paulo,
@@ -9475,7 +9586,8 @@ references:
   page: 143–154
   title: >-
     A historiografia da arquitetura brasileira no século <span
-    smallcaps="smallcaps">XIX</span> e os conceitos de estilo e tipologia
+    style="font-variant: all-small-caps" smallcaps="smallcaps">XIX</span> e os
+    conceitos de estilo e tipologia
   title-short: >-
     A historiografia da arquitetura brasileira no século <span
     smallcaps="smallcaps">XIX</span>
@@ -10596,15 +10708,15 @@ references:
   ISBN: 978-85-87145-58-1
   issued:
     - year: 2013
-  language: pt
+  language: por
   page: 51–68
   publisher: Editora <span smallcaps="smallcaps">UFRJ</span>
   publisher-place: Rio de Janeiro
   source: Open WorldCat
   title: >-
-    Casas de engenho do Rio de Janeiro — século <span
-    smallcaps="smallcaps">XVIII</span> — metodologia de estudo a partir de
-    múltiplas fontes
+    Casas de engenho do Rio de Janeiro — século <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XVIII</span> — metodologia de estudo a
+    partir de múltiplas fontes
   title-short: Casas de engenho do Rio de Janeiro
   type: chapter
 
@@ -10751,7 +10863,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1995
-  language: pt
+  language: por
   page: 31–62
   publisher: Topbooks
   publisher-place: Rio de Janeiro
@@ -10938,8 +11050,6 @@ references:
     métodos e materiais tradicionais da cultura arquitetônica paulista,
     particularizada no domínio da taipa de pilão e da taipa de mão até a chegada
     da ferrovia, na década de 1870.
-              , 
-                The article studies the architectural country side of the city of Campinas, a legacy of two economic cycles: the sugar cane and coffee industries at the end of the 18th century and during the 19th century. It analyses the historic documentation and files found in the Centro de Memória Unicamp. It is about the buildings and their construction, the different forms of negotiating and the multiple programs necessary to the growing and housing sectors (during the coffee cycle, the disposition of the buildings determined by the flowing of the operations and needs related to the seed betterment). The article also gives emphasis to technological details of the buildings, revealing preference for traditional methods and materials used in the architectural culture in São Paulo state. This particularity is shown by the domain of mud huts until the advent of railroad in 1870.
   accessed:
     - year: 2019
       month: 5
@@ -10961,9 +11071,10 @@ references:
   page: 81-119
   source: DOI.org (Crossref)
   title: >-
-    Engenhos e fazendas de café em Campinas (séc. <span
-    smallcaps="smallcaps">XVIII</span>–séc. <span
-    smallcaps="smallcaps">XX</span>)
+    Engenhos e fazendas de café em Campinas (séc. <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XVIII</span>–séc. <span
+    style="font-variant: all-small-caps" smallcaps="smallcaps">XX</span>)
+  title-short: Engenhos e fazendas de café em Campinas
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142006000100004&lng=pt&tlng=pt
@@ -11964,7 +12075,7 @@ references:
   issued:
     - year: 2000
       month: 12
-  language: pt
+  language: por
   page: 84–103
   title: >-
     As pinturas parietais de José María Villaronga no Sobrado Aguiar Vallim,
@@ -12107,7 +12218,7 @@ references:
   ISBN: 978-972-97542-8-9
   issued:
     - year: 2002
-  language: pt
+  language: por
   number-of-pages: '198'
   publisher: Câmara Municipal
   publisher-place: Coimbra
@@ -12476,7 +12587,7 @@ references:
     - year: 2017
       month: 6
       day: 26
-  language: pt-BR
+  language: por
   license: © Rede Brasileira de História da Geografia e Geografia Histórica
   source: journals.openedition.org
   title: >-
