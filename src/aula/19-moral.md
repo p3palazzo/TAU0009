@@ -1,6 +1,6 @@
 ---
 title: "Moralismos"
-date : 2025-07-10
+date : 2025-07-17
 tags : [ "fim", "moral" ]
 header:
   teaser: "/assets/media/320px-3x2-ranzini-estilos-colonial-pt-1929.jpg"

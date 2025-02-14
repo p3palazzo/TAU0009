@@ -35,7 +35,7 @@ references:
   ISBN: 978-972-1-02627-8
   issued:
     - year: 1988
-  language: pt
+  language: por
   number-of-pages: '244'
   publisher: Publicações Europa-América
   publisher-place: Mem Martins
@@ -2775,7 +2775,7 @@ references:
   contributor:
     - family: Santos
       given: Silvana Romano
-  edition: 2ª edição
+  edition: '2'
   editor:
     - family: Guerra
       given: Abilio
@@ -6297,7 +6297,7 @@ references:
   event-place: Paris
   issued:
     - year: 1926
-  language: fr
+  language: fre
   number-of-pages: '269'
   publisher: H. Laurens
   publisher-place: Paris
@@ -6388,9 +6388,10 @@ references:
   source: run.unl.pt
   title: >-
     Urbanística e ordenamento do território na construção do Atlântico (século
-    <span smallcaps="smallcaps">XVI</span>). A morfologia urbana como indicador
-    em Ponta Delgada e Rio de Janeiro
-  title-short: A morfologia urbana como indicador em Ponta Delgada e Rio de Janeiro
+    <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XVI</span>). A morfologia urbana como indicador em
+    Ponta Delgada e Rio de Janeiro
+  title-short: Urbanística e ordenamento do território na construção do Atlântico
   type: chapter
   URL: https://run.unl.pt/handle/10362/42613
 
@@ -6411,8 +6412,8 @@ references:
   page: 70–89
   source: periodicos.unievangelica.edu.br
   title: >-
-    A lei das Sesmarias e Portugal no século <span
-    smallcaps="smallcaps">XIV</span>
+    A lei das Sesmarias e Portugal no século <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XIV</span>
   title-short: A lei das Sesmarias
   type: article-journal
   URL: >-
@@ -6760,7 +6761,7 @@ references:
   ISBN: 978-85-8293-053-3
   issued:
     - year: 2012
-  language: pt
+  language: por
   publisher: 'SciELO : Editora Mackenzie'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -7202,7 +7203,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1980
-  language: pt
+  language: por
   publisher: 'Melhoramentos : Edusp'
   publisher-place: São Paulo
   source: Open WorldCat
@@ -7282,7 +7283,7 @@ references:
   ISBN: 978-85-7460-010-9
   issued:
     - year: 2000
-  language: pt
+  language: por
   page: 7–18
   publisher: 'Edusc : Unesp : Instituto Camões'
   publisher-place: 'Bauru : São Paulo : Lisboa'
@@ -7337,19 +7338,18 @@ references:
       given: Christine
   call-number: 711.4(46)
   citation-key: mazzoli-guintard:2000ciudades
-  edition: '1'
   event-place: Granada
   ISBN: 978-84-931194-1-6
   issued:
     - year: 2000
-  language: es
+  language: spa
   number-of-pages: '570'
-  publisher: Editorial Al-Andalus y el Mediterráneo
+  publisher: Al-Andalus y el Mediterráneo
   publisher-place: Granada
   source: Library of Congress ISBN
   title: >-
     Ciudades de al-Andalus: España y Portugal en la época musulmana, siglos
-    <span smallcaps="smallcaps">VIII-XV</span>
+    <Urbanística e ordenamento do território na construção do Atlântico>VIII-XV
   title-short: Ciudades de al-Andalus
   type: book
 
@@ -7405,7 +7405,7 @@ references:
     - year: 1996
       month: 8
       day: 30
-  language: pt
+  language: por
   page: '142'
   source: DOI.org (Crossref)
   title: >-
@@ -7650,7 +7650,9 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Moderna (séculos <span smallcaps="smallcaps">XV–XVIII</span>)
+  title: >-
+    Idade Moderna (séculos <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XV–XVIII</span>)
   type: chapter
 
 - id: morales:1955teoria
@@ -8873,6 +8875,38 @@ references:
   type: thesis
   URL: http://www.teses.usp.br/teses/disponiveis/16/16133/tde-19122016-181951/
 
+- id: parssinen:2009pre-columbian83
+  accessed:
+    - year: 2019
+      month: 2
+      day: 23
+  author:
+    - family: Pärssinen
+      given: Martti
+    - family: Schaan
+      given: Denise
+    - family: Ranzi
+      given: Alceu
+  citation-key: parssinen:2009pre-columbian83
+  container-title: Antiquity
+  DOI: 10.1017/S0003598X00099373
+  ISSN: 0003-598X, 1745-1744
+  issue: '322'
+  issued:
+    - year: 2009
+      month: 12
+  language: en
+  page: 1084-1095
+  source: Crossref
+  title: >-
+    Pre-Columbian geometric earthworks in the upper Purús: a complex society in
+    western Amazonia
+  title-short: Pre-Columbian geometric earthworks in the upper Purús
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/S0003598X00099373/type/journal_article
+  volume: '83'
+
 - id: pedrosa:2013oficina29
   abstract: >-
     Os modos pelos quais se organizavam as oficinas de talha ainda são pouco
@@ -9618,6 +9652,54 @@ references:
     Artes do Rio de Janeiro
   title-short: Henrique José da Silva
   type: chapter
+
+- id: pereira:2015traco
+  abstract: >-
+    The aim of this work is to clarify the metaphysical implications of the use
+    of geometryin sacred architecture, both in general and in the particular
+    case of the church of Santa MariaMaior, Lisbon Cathedral.It begins with a
+    research on the connections between geometry, architecture and thesacred, in
+    order to show in what ways sacred architecture and sacred geometry
+    cometogether in a scheme which regulates the physical, architectural form
+    according tometaphysical principles.It is followed by a brief account of the
+    cathedral's history that will inform itsgeometrical analysis. Knowing its
+    physical evolution and the historical context of the mainconstruction phases
+    will help evaluating the validity of the analysis' results.The geometrical
+    analysis shows two very convincing geometric schemes: one for theRomanesque
+    church and another for the gothic ambulatory. The Romanesque scheme isbased
+    on the ad quadratum development of a square with a side of 7,7m centred on
+    thecrossing. The gothic work is defined by a scheme of inscribed heptagrams
+    traced around themain chapel's 7-sided apse. The metaphysical value of the
+    first scheme is the underlyingreflection on the foundation of the World,
+    which is symbolically repeated in the foundationof the church. The value of
+    the second scheme is not so clear to read, but it may be related tothe
+    incredible symbolic power of the number Seven.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 13
+  author:
+    - family: Pereira
+      given: Miguel Valido Chaves
+  citation-key: pereira:2015traco
+  event-place: Porto
+  genre: Dissertação (Mestrado em Arquitectura)
+  issued:
+    - year: 2015
+      month: 11
+      day: 5
+  language: por
+  license: openAccess
+  number-of-pages: '96'
+  publisher: Universidade do Porto, Faculdade de Arquitectura
+  publisher-place: Porto
+  source: repositorio-aberto.up.pt
+  title: >-
+    O Traço Divino: a geometria como instrumento de sacralização do espaço na
+    igreja de Santa Maria Maior
+  title-short: O Traço Divino
+  type: thesis
+  URL: https://repositorio-aberto.up.pt/handle/10216/80688
 
 - id: pereira:2022arquitetura
   author:
@@ -10809,6 +10891,29 @@ references:
   title-short: Telhados e tectos de asnaria
   type: paper-conference
 
+- id: schlappriz:1863praca
+  accessed:
+    - year: 2025
+      month: 2
+      day: 14
+  archive: Instituto Moreira Salles
+  archive_location: G.920
+  author:
+    - family: Schlappriz
+      given: Luís
+  citation-key: schlappriz:1863praca
+  dimensions: 26,8 × 34,8 cm
+  event-place: Recife
+  issued:
+    - year: 1863
+  language: por
+  medium: Litografia a duas cores (preto e sépia) e aquarela sobre papel
+  publisher-place: Recife
+  source: Brasiliana Iconográfica
+  title: Praça do Corpo Santo
+  type: graphic
+  URL: https://www.brasilianaiconografica.art.br/obras/22171/praca-do-corpo-santo
+
 - id: schlee:2002arquitetos
   author:
     - family: Schlee
@@ -11613,7 +11718,9 @@ references:
   publisher: 'Esfera : Expresso'
   publisher-place: 'Lisboa : Paço de Arcos'
   source: Open WorldCat
-  title: Idade Média (séculos <span smallcaps="smallcaps">XI–XV</span>)
+  title: >-
+    Idade Média (séculos <Urbanística e ordenamento do território na construção
+    do Atlântico>XI–XV)
   type: chapter
 
 - id: soutto:2017casa17

@@ -4,10 +4,14 @@ date : 2025-06-26
 tags : [ "aula", "cosmopolita", "tradicional" ]
 toc  : true
 header:
-  overlay_image:
-  teaser       :
-  caption      :
-excerpt:
+  overlay_image: "/assets/media/br-sp-sp-r_libero_badaro-1897-tobias.jpg"
+  teaser       : "/assets/media/320x213px-br-sp-sp-r_libero_badaro-1897-tobias.jpg"
+  caption      : "Benedito José Tobias, <cite>Rua Libero Badaró em 1897</cite>, segundo quartel do século <code>XX</code>?"
+excerpt: >
+  Ecletismo como estilo e como método –
+  Mestres de obra portugueses no Brasil e
+  torna-viagem <em>brasileiros</em> em Portugal –
+  Diversificação de programas cívicos.
 ---
 
 # Introdução #

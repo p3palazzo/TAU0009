@@ -1,7 +1,7 @@
 ---
 title: "Morar"
-date: 2025-04-24
-tags: [ "aula", "tipo", "morar", "casticismo" ]
+date: 2025-04-17
+tags: [ "aula", "lugar", "morar" ]
 header:
   teaser: "/assets/media/320x213px-abigail-mundo-novo.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Abigail_de_Andrade,_1888,_Estrada_do_Mundo_Novo_com_Pão_de_Açúcar_ao_Fundo.jpg"

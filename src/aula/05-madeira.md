@@ -1,7 +1,7 @@
 ---
 title: "Madeira"
 author: "Pedro P. Palazzo"
-date: 2024-04-18
+date: 2025-04-24
 tags: [ "materia", "aula" ]
 toc: true
 excerpt: |

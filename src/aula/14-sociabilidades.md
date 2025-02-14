@@ -20,9 +20,15 @@ sidebar:
       </a>
 ---
 
+---
+nocite: "@aragao:2008casa"
+---
+
 # Introdução # {-}
 
 # Reformulações da morada patriarcal no século `XIX` #
+
+## Construção das fazendas mineiras ##
 
 Contrastam com essas vivendas de pedra e cal as casas de
 fazenda do Sul de Minas Gerais, com esqueleto estrutural
@@ -70,6 +76,9 @@ Essa adaptação gradual à configuração palaciana coincide,
 então, com a progressiva definição dos setores social, de
 serviço e íntimo da casa. [@santos:2013casas, p. 60]
 
+
+## Transição espacial ##
+
 À articulação de todos os ambientes da casa --- cujas
 funções são definidas em termos de necessidades transitórias
 --- em torno de um ou dois salões sociais sucede a separação
@@ -79,6 +88,7 @@ Essa nova ala também fixa a posição da cozinha por meio da
 introdução de fornos em alvenaria, dotados ou não de
 chaminés arquitetônicas.
 [@gomes:1994arquitetura, p. 38]
+
 Em seguida, a introdução de antessalas e a multiplicação de
 corredores segregam um setor reservado à família, dotado de
 sua própria sala ou varanda comunitária.
@@ -120,13 +130,18 @@ A solução do corredor transversal e antessalas difunde-se
 tardiamente no interior do Brasil, ocorrendo em exemplares
 isolados como a Fazenda Boa Vista, no bairro do Rio
 Capivari, em Tietê. [@martins:1978partido, p. 203]
-No entanto, até o início do século XX o modo preferencial de
+No entanto, até o início do século `XX` o modo preferencial de
 segregação espacial na habitação paulista e goiana permanece
 o contraste entre a enfiada transversal das salas na área
 social e o corredor longitudinal que dá acesso aos quartos
 e ao salão ou varanda da área íntima, atestados na fazenda
 Palmeiras, em Tietê, datada de 1899.
 [@martins:1978partido, p. 251]
+
+
+# Programas decorativos e sua conservação #
+
+## O regime visual do classicismo imperial ##
 
 A evolução das tipologias distributivas por volta de
 1750--1850 associa-se ao estabelecimento de um regime
@@ -158,40 +173,8 @@ e política que ultrapassa, assim, suas particularidades
 regionais para reivindicar pertencimento a uma república
 global da etiqueta aristocrática.
 
-A metade do século `XIX` marca a culminação de um longo
-processo de transformações e refinamentos que consolidam as
-tipologias da edilícia de base do Antigo Regime.
-A prosperidade cafeeira e açucareira pontua a paisagem do
-interior do Brasil com palacetes neoclássicos e cosmopolitas
-em sua estética e partido, ao mesmo tempo em que vai se
-fechando o ciclo neopalladiano nos grandes centros urbanos.
 
-No entanto, tensões políticas e culturais colocam em xeque,
-por volta de 1850, essa tradição classicista
-luso-brasileira.
-Novos modos de morar difundidos pela burguesia mercantil
-e protoindustrial associam-se ao questionamento político do
-regime escravista [@castro:1995resgate, p. 26]
-e à crescente presença do Estado sobrepujando relações
-sociais anteriormente definidas essencialmente na esfera
-privada [@marins:2001atraves, p. 243].
-O nacionalismo romântico propugna a busca por "uma"
-identidade cultural --- e, portanto, arquitetônica --- de
-cada nação.
-Esses fatores em conjunto conduzem a rupturas, mais que
-a sucessões tipológicas, na edilícia de base da segunda
-metade do século `XIX` [@lemos:1993transformacoes1].
-Sem aportar significativas mudanças na composição das
-classes dominantes, esse processo leva, todavia,
-à formulação de conceitos teóricos e de críticas
-culturalistas situadas num contexto de circulação global de
-conhecimentos e repertórios.
-Mesmo nos grandes centros urbanos, portanto, as rupturas
-coexistem até a primeira metade do século XX com
-a continuidade das tradições espaciais e tipológicas.
-
-
-# O estabelecimento produtivo rural e sua racionalização #
+# Racionalização do estabelecimento produtivo rural #
 
 Mascarar as transformações da morada e do estabelecimento produtivo
 latifundiário sob os rótulos unitários de "casa-grande"
@@ -286,7 +269,7 @@ oferece a sucessivas gerações de artistas luso-brasileiros
 o contato com os cânones do Renascimento.
 Alguns, como Emanuel Rodrigues dos Santos (ativo em Roma
 1721--1751), têm uma atuação destacada na própria sede do
-papado [@deupi:2015architectural, cap. 4].
+papado [@deupi:2015architectural].
 Costa e Silva é recebido na Accademia di San Luca, mas não
 se tem notícia de obras suas remanescentes na Itália.
 Em todo caso, este arquiteto se encontra, graças à sua
@@ -298,10 +281,37 @@ Ajuda o faz ser demandado, em 1812, também para
 supervisionar as reformas urbanas e arquitetônicas que
 a Coroa ordena em Salvador e no Rio de Janeiro.
 
-# Classicismo imperial #
 
-<!--Programas decorativos e sua conservação.-->
+# Conclusão # {-}
 
----
-nocite: "@aragao:2008casa"
----
+A metade do século `XIX` marca a culminação de um longo
+processo de transformações e refinamentos que consolidam as
+tipologias da edilícia de base do Antigo Regime.
+A prosperidade cafeeira e açucareira pontua a paisagem do
+interior do Brasil com palacetes neoclássicos e cosmopolitas
+em sua estética e partido, ao mesmo tempo em que se vai
+fechando o ciclo neopalladiano nos grandes centros urbanos.
+
+No entanto, tensões políticas e culturais colocam em xeque,
+por volta de 1850, essa tradição classicista
+luso-brasileira.
+Novos modos de morar difundidos pela burguesia mercantil
+e protoindustrial associam-se ao questionamento político do
+regime escravista [@castro:1995resgate, p. 26]
+e à crescente presença do Estado sobrepujando relações
+sociais anteriormente definidas essencialmente na esfera
+privada [@marins:2001atraves, p. 243].
+O nacionalismo romântico propugna a busca por "uma"
+identidade cultural --- e, portanto, arquitetônica --- de
+cada nação.
+Esses fatores em conjunto conduzem a rupturas, mais que
+a sucessões tipológicas, na edilícia de base da segunda
+metade do século `XIX` [@lemos:1993transformacoes1].
+Sem aportar significativas mudanças na composição das
+classes dominantes, esse processo leva, todavia,
+à formulação de conceitos teóricos e de críticas
+culturalistas situadas num contexto de circulação global de
+conhecimentos e repertórios.
+Mesmo nos grandes centros urbanos, portanto, as rupturas
+coexistem até a primeira metade do século `XX` com
+a continuidade das tradições espaciais e tipológicas.

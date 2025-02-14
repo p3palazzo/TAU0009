@@ -20,7 +20,7 @@ excerpt: >-
 templateEngineOverride: njk,md
 ---
 
-# Unidade I · Identidades e invariantes castiços # {-}
+# Invariantes castiços #
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
@@ -30,17 +30,27 @@ templateEngineOverride: njk,md
 </div>
 ```
 
-# Unidade II · Formação da tradição # {-}
+# Matéria #
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
-{% for post in collections.casticismo %}
+{% for post in collections.materia %}
 {%- include "partials/card-lecture.njk" -%}
 {% endfor %}
 </div>
 ```
 
-# Unidade III · Tradição luso-brasileira # {-}
+# Formação da tradição #
+
+```{=html}
+<div class="row row-cols-md-2 row-cols-xl-4 g-3">
+{% for post in collections.antecedentes %}
+{%- include "partials/card-lecture.njk" -%}
+{% endfor %}
+</div>
+```
+
+# Tradição luso-brasileira #
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
@@ -50,7 +60,7 @@ templateEngineOverride: njk,md
 </div>
 ```
 
-# Unidade IV · Fim da tradição # {-}
+# Fim da tradição #
 
 ```{=html}
 <div class="row row-cols-md-2 row-cols-xl-4 g-3">
