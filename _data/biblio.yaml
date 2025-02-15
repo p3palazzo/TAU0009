@@ -687,7 +687,7 @@ references:
     - year: 2016
       month: 9
       day: 29
-  language: pt-BR
+  language: por
   page: '249'
   source: DOI.org (Crossref)
   title: 'Lógica de organização territorial guarani: concepções do modo de ser'
@@ -751,8 +751,6 @@ references:
   author:
     - family: Arraes
       given: Esdras
-    - family: Arraes
-      given: Esdras
   citation-key: arraes:2016plantar
   container-title: 'Anais do Museu Paulista: História e Cultura Material'
   DOI: 10.1590/1982-02672016v24n0110
@@ -761,7 +759,7 @@ references:
   issued:
     - year: 2016
       month: 4
-  language: pt
+  language: por
   page: 257-298
   source: SciELO
   title: >-
@@ -1020,7 +1018,7 @@ references:
     - year: 2019
       month: 8
       day: 1
-  language: en
+  language: eng
   page: 1455-1503
   source: DOI.org (Crossref)
   title: Trade, merchants, and the lost cities of the Bronze Age
@@ -1112,12 +1110,13 @@ references:
   issued:
     - year: 2012
       month: 6
-  language: pt-BR
+  language: por
   page: 201-230
   source: SciELO
   title: >-
     O urbanismo conveniente luso-brasileiro na formação de povoações em Minas
-    Gerais no século <span smallcaps="smallcaps">XVIII</span>
+    Gerais no século <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XVIII</span>
   type: article-journal
   URL: >-
     http://www.scielo.br/scielo.php?script=sci_abstract&pid=S0101-47142012000100008&lng=en&nrm=iso&tlng=pt
@@ -1385,10 +1384,11 @@ references:
     - family: Bertran
       given: Paulo
   citation-key: bertran:1994historia
+  edition: '1'
   event-place: Brasília
   issued:
     - year: 1994
-  language: pt
+  language: por
   publisher: Solo
   publisher-place: Brasília
   source: Open WorldCat
@@ -1663,7 +1663,7 @@ references:
     - year: 2009
       month: 12
       day: 9
-  language: pt
+  language: por
   license: Copyright (c) 2015 Africa (São Paulo)
   number: 24-26
   page: 175-192
@@ -2664,7 +2664,7 @@ references:
   ISBN: 978-0-8130-6690-5
   issued:
     - year: 2021
-  language: en
+  language: eng
   publisher: University Press of Florida
   publisher-place: Gainesville
   source: Library of Congress ISBN
@@ -4043,7 +4043,7 @@ references:
   ISBN: 978-85-7110-543-0
   issued:
     - year: 2010
-  language: pt
+  language: por
   publisher: Jorge Zahar
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -4486,7 +4486,7 @@ references:
   source: Crossref
   title: >-
     Uma morfologia dos quilombos nas Américas, séculos <span
-    smallcaps="smallcaps">XVI-XIX</span>
+    style="font-variant: all-small-caps" smallcaps="smallcaps">XVI-XIX</span>
   title-short: Uma morfologia dos quilombos nas Américas
   type: article-journal
   URL: >-
@@ -5413,7 +5413,7 @@ references:
   ISBN: 978-0-374-15735-7
   issued:
     - year: 2021
-  language: en
+  language: eng
   publisher: Farrar, Straus and Giroux
   publisher-place: New York
   source: Library of Congress ISBN
@@ -5439,30 +5439,20 @@ references:
     sobre as origens da agricultura, da propriedade, das cidades, da democracia,
     da escravidão e da própria civilização, iluminando outras formas de
     liberdade e organização social e nos convidando a imaginar qual futuro
-    desejamos para nós mesmos.“Um banquete intelectual. Não há um único capítulo
-    que não questione (com bom humor) crenças intelectuais estabelecidas.” ―
-    Nassim Nicholas Taleb“Esta obra nos apresenta um mundo habitado por pessoas
-    inteligentes, criativas e complexas que, por milhares de anos, inventaram
-    quase todas as formas de organização social e buscaram liberdade,
-    conhecimento, experimentação e felicidade muito antes do ‘iluminismo’.” ―
-    Robin D. G. Kelley“Um fio condutor poderoso deste livro é a retomada das
-    perspectivas indígenas como influência fundamental no pensamento europeu,
-    uma contribuição valiosa para a decolonização das histórias globais.” ―
-    Rebecca Solnit
+    desejamos para nós mesmos.
   author:
     - family: Graeber
       given: David
     - family: Wengrow
       given: David
   citation-key: graeber:2022despertar
-  edition: 1ª edição
   event-place: São Paulo
   ISBN: '9786559211722'
   issued:
     - year: 2022
       month: 8
       day: 5
-  language: pt
+  language: por
   number-of-pages: '696'
   publisher: Companhia das Letras
   publisher-place: São Paulo
@@ -5511,7 +5501,7 @@ references:
     - year: 2023
       month: 1
       day: 2
-  language: en
+  language: eng
   page: 1-26
   source: DOI.org (Crossref)
   title: 'Drawing the “color line”: Race, ethnicity and religion in Diu'
@@ -5557,6 +5547,32 @@ references:
   title-short: Architecture toscane
   type: book
   URL: http://archive.org/details/gri_33125012245235
+
+- id: guadet:1903elements2
+  accessed:
+    - year: 2012
+      month: 8
+      day: 1
+  author:
+    - family: Guadet
+      given: Julien
+  call-number: 72.012.035.9 (44) :378
+  citation-key: guadet:1903elements2
+  event-place: Paris
+  issued:
+    - year: 1903
+  language: fre
+  license: domaine public
+  publisher: Aulanier
+  publisher-place: Paris
+  source: Gallica
+  title: >-
+    Éléments et théorie de l'architecture : cours professé à l'École nationale
+    et spéciale des beaux-arts
+  title-short: Éléments et théorie de l'architecture
+  type: book
+  URL: http://gallica.bnf.fr/ark:/12148/bpt6k86617f
+  volume: '2'
 
 - id: gurgel:2017metropoles19
   abstract: >-
@@ -5658,7 +5674,7 @@ references:
       day: 25
   author:
     - family: Heckenberger
-      given: M. J.
+      given: Michael J.
   citation-key: heckenberger:2003amazonia301
   container-title: Science
   container-title-short: Science
@@ -5669,7 +5685,7 @@ references:
     - year: 2003
       month: 9
       day: 19
-  language: en
+  language: eng
   page: 1710-1714
   source: DOI.org (Crossref)
   title: 'Amazonia 1492: pristine forest or cultural parkland?'
@@ -5717,7 +5733,7 @@ references:
     - year: 2008
       month: 8
       day: 29
-  language: en
+  language: eng
   license: American Association for the Advancement of Science
   page: 1214-1217
   PMID: '18755979'
@@ -5816,7 +5832,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1971
-  language: pt
+  language: por
   page: 61–83
   publisher: José Olympio
   publisher-place: Rio de Janeiro
@@ -5978,9 +5994,9 @@ references:
   ISBN: 978-85-237-0562-6
   issued:
     - year: 2012
-  language: pt
+  language: por
   number-of-pages: '179'
-  publisher: <span smallcaps="smallcaps">UFPB/ PPGAU</span>
+  publisher: <span smallcaps="smallcaps">UFPB / PPGAU</span>
   publisher-place: João Pessoa
   source: Library of Congress ISBN
   title: >-
@@ -6888,7 +6904,7 @@ references:
     - year: 2014
       month: 2
       day: 24
-  language: pt
+  language: por
   publisher: Universidade de São Paulo
   publisher-place: São Paulo
   source: www.teses.usp.br
@@ -8165,7 +8181,7 @@ references:
   ISBN: 978-85-7233-010-7
   issued:
     - year: 2020
-  language: pt
+  language: por
   publisher: 'Arquivo Nacional : Museu Nacional'
   publisher-place: Rio de Janeiro
   title: Os primeiros brasileiros
@@ -8895,7 +8911,7 @@ references:
   issued:
     - year: 2009
       month: 12
-  language: en
+  language: eng
   page: 1084-1095
   source: Crossref
   title: >-
@@ -10149,7 +10165,7 @@ references:
   ISBN: 978-0-387-74907-5
   issued:
     - year: 2008
-  language: en
+  language: eng
   page: 79-90
   publisher: Springer
   publisher-place: New York
@@ -10726,7 +10742,7 @@ references:
   ISBN: 978-85-271-0230-8
   issued:
     - year: 1993
-  language: pt
+  language: por
   number-of-pages: '157'
   publisher: Hucitec
   publisher-place: São Paulo
@@ -11185,6 +11201,48 @@ references:
     http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47142006000100004&lng=pt&tlng=pt
   volume: '14'
 
+- id: silva:2007transformacoes15
+  abstract: >-
+    Este artigo estuda algumas das transformações na cozinha paulistana,
+    produzidas entre o último quartel do século XIX e as três primeiras décadas
+    do século XX, pela introdução de novas premissas sanitárias, levadas a cabo
+    por autoridades médicas e pela municipalidade. Além disso, procuramos
+    discutir o papel das principais empresas de energia, como a The San Paulo
+    Gas Company e, mais tarde, a The São Paulo Tramway Light and Power Company,
+    na promoção da tecnologia do gás, e principalmente do fogão a gás - que elas
+    oporão aos fogões a lenha e carvão. Estas empresas tiveram um importante
+    papel na circulação de novas idéias de racionalização e higiene,
+    contribuindo para a renovação do espaço doméstico que, pela tecnologia,
+    passa a depender de um "sistema" de infra-estrutura destinado a articular,
+    de uma forma inédita, o espaço privado ao espaço público.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 14
+  author:
+    - family: Silva
+      given: João Luiz Maximo
+      dropping-particle: da
+  citation-key: silva:2007transformacoes15
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  container-title-short: An. mus. paul.
+  DOI: https://doi.org/10.1590/S0101-47142007000200018
+  ISSN: 0101-4714, 1982-0267
+  issued:
+    - year: 2007
+      month: 12
+  language: por
+  page: 197-220
+  publisher: Museu Paulista, Universidade de São Paulo
+  source: SciELO
+  title: >-
+    Transformações no espaço doméstico: o fogão a gás e a cozinha paulistana,
+    1870-1930
+  title-short: Transformações no espaço doméstico
+  type: article-journal
+  URL: https://www.scielo.br/j/anaismp/a/yg7vgZ4jbjNLjbmW5jXqbvg/?format=html
+  volume: '15'
+
 - id: silva:2009pontes
   abstract: >-
     A intervenção em bens históricos sempre se reveste em um momento de encontro
@@ -11556,7 +11614,7 @@ references:
   event-place: Porto Alegre
   issued:
     - year: 1997
-  language: pt
+  language: por
   publisher: EdiPUCRS
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -12426,16 +12484,17 @@ references:
   editor:
     - family: Valdez
       given: Francisco
-  event-place: 'Lima : Quito : Institut de recherche pour le développement, IRD'
+  event-place: 'Lima : Quito'
   ISBN: 978-9942-09-157-4
   issued:
     - year: 2013
-  language: es
+  language: spa
   number-of-pages: '386'
   publisher: >-
-    Instituto Francés de Estudios Andinos, <span smallcaps="smallcaps">UMIFRE
-    17, MAE-CNRS</span> ; Ediciones Abya-Yala
-  publisher-place: 'Lima : Quito : Institut de recherche pour le développement, IRD'
+    Institut de recherche pour le développement : Instituto Francés de Estudios
+    Andinos, <span smallcaps="smallcaps">UMIFRE 17, MAE-CNRS</span> ; Ediciones
+    Abya-Yala
+  publisher-place: 'Lima : Quito'
   source: Library of Congress ISBN
   title: >-
     Arqueología amazónica: las civilizaciones ocultas del bosque tropical: actas
@@ -12563,7 +12622,7 @@ references:
   ISBN: 978-85-65358-63-7
   issued:
     - year: 2013
-  language: pt-BR
+  language: por
   publisher: B4
   publisher-place: Jandira
   title: Arquitetura dos índios da Amazônia
@@ -13213,7 +13272,7 @@ references:
     - year: 2015
       month: 5
       day: 13
-  language: pt-BR
+  language: por
   title: Evolução da arquitetura indígena
   type: webpage
   URL: >-

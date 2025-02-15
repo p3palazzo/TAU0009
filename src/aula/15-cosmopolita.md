@@ -14,7 +14,7 @@ excerpt: >
   Diversificação de programas cívicos.
 ---
 
-# Introdução #
+# Introdução # {-}
 
 Sincopar a história da arquitetura segundo ciclos econômicos é um
 cacoete visível em muitos autores da nossa historiografia, desde
@@ -84,7 +84,7 @@ O princípio liberal do capitalismo antecedeu
 a adoção em larga escala dos produtos industriais
 na cadeia produtiva da construção.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+# Contexto histórico #
 
 O olhar para a arquitetura na era das monarquias constitucionais
 costuma ser distorcido por dois vícios.
@@ -148,4 +148,67 @@ o mundo rural e das pequenas povoações, como também
 catalisaram a produção duma arquitetura oficial corriqueira,
 a partir da necessidade de espaços administrativos para gerir essa
 onda migratória e de modelos de <q>casas de colono</q>.
+
+
+# Programas comerciais urbanos #
+
+
+# Do Neorromânico ao Neomanuelino #
+
+A arquitetura privada da virada do século `XIX` caminhava no sentido
+de uma cada vez maior informalidade compositiva.
+O significado dessa informalidade se mostra no argumento do
+professor de teoria da Escola de Belas Artes de Paris,
+Julien @guadet:1903elements1 [157], segundo o qual o conservadorismo
+nas proporções é função direta da
+importância ou monumentalidade dum edifício.
+A capacidade de um edifício monumental comunicar o seu caráter e
+a sua importância na ordem cívica dependia, portanto, da adoção
+duma linguagem padronizada, onde o significado da monumentalidade
+fosse inequívoco.
+
+No século `XIX`, a epítome desses limites impostos à arquitetura
+monumental era a tipologia dos teatros, que já vimos na aula passada.
+Se a linguagem das igrejas estava desde há muito estabilizada,
+o teatro público era uma sensível novidade da segunda metade do século
+`XVII`.
+Superados os primeiros experimentos, como a casa de ópera da Vila Rica,
+os teatros de finais do setecentos e início do oitocentos eram
+em geral tributários do protótipo estabelecido em 1778 por
+Giuseppe Piermarini no Teatro alla Scala de Milão.
+Um século mais tarde, outro protótipo, a ópera de Paris projetada por
+Charles Garnier e inaugurada em 1875, suplantaria o anterior como
+modelo a ser seguido pelos grandes teatros públicos.
+A sucessão dos paradigmas é visível nos teatros São Carlos
+em Lisboa e São João no Rio de Janeiro, baseados no modelo italiano,
+e até bem mais adiante no teatro de Campinas,
+e mais tarde nos teatros municipais de São Paulo e do Rio de Janeiro,
+como que reproduções em escala reduzida do modelo francês.
+
+Reciprocamente, a informalidade da arquitetura trivial era,
+nessa teoria moderna, permitida em virtude do significado menor que
+ela assumia na ordem urbana.
+O gosto particular podia moldar a forma duma casa na medida que esta
+era não só uma propriedade privada por excelência,
+mas sobretudo uma arquitetura menor, com escassa responsabilidade de
+comunicar significados inteligíveis para a esfera cívica.
+O mesmo se aplicava, *mutatis mutandis*, à arquitetura comercial que
+se fazia cada vez mais marcante no tecido construído das cidades
+maiores.
+
+A liberdade compositiva da arquitetura trivial raramente resultava
+em composições extremamente inusitadas, sobretudo nos centros urbanos
+onde o alinhamento de fachadas e o aproveitamento do direito de
+construir impunham restrições práticas.
+Portanto, a informalidade tendia a se expressar sobretudo como uma
+busca por um programa decorativo que se afastasse da aplicação rigorosa
+das ordens clássicas e, sobretudo nos programas domésticos,
+da simetria bilateral.
+
+<!--Por que arquitetura doméstica tende a não ser simétrica-->
+
+<!--Como os ornamentos de inspiração românica atendem ao anseio por variedade-->
+
+
+# Conclusão # {-}
 

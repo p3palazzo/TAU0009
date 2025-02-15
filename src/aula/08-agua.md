@@ -1,6 +1,6 @@
 ---
 title: "Água"
-date: 2024-05-09
+date: 2025-04-24
 tags: [ "aula", "materia" ]
 header:
   teaser: "/assets/media/320px-manga-carita.jpg"
@@ -8,8 +8,8 @@ header:
   overlay_filter: 0.7
   caption: "Jardim da Manga, Coimbra. Desenho: Helder Carita"
 excerpt: >
-  O jardim português é um fenômeno único na história do
-  paisagismo.
+  Sistemas agroflorestais – Água na cidade – Hortos e jardins –
+  Urbanização e os rios.
 ---
 
 # Sistemas agroflorestais na Amazônia #
