@@ -152,6 +152,12 @@ onda migratória e de modelos de <q>casas de colono</q>.
 
 # Programas comerciais urbanos #
 
+A arquitetura comercial de finais do século [XIX]{.smallcaps} se
+desenvolveu no paradoxo duma crescente especialização tipológica do
+prédio de escritórios, a qual dependia duma flexibilidade quase absoluta
+dos seus pisos no tocante à distribuição espacial dos ambientes de
+trabalho.
+
 
 # Do Neorromânico ao Neomanuelino #
 
