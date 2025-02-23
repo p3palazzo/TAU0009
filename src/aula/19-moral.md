@@ -1,5 +1,5 @@
 ---
-title: "Moralismos"
+title: "Formas da moralidade"
 date : 2025-07-17
 tags : [ "fim", "moral" ]
 header:

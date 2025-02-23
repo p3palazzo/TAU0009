@@ -202,16 +202,115 @@ O mesmo se aplicava, *mutatis mutandis*, à arquitetura comercial que
 se fazia cada vez mais marcante no tecido construído das cidades
 maiores.
 
+### Arquitetura doméstica e assimetria ###
+
 A liberdade compositiva da arquitetura trivial raramente resultava
 em composições extremamente inusitadas, sobretudo nos centros urbanos
 onde o alinhamento de fachadas e o aproveitamento do direito de
-construir impunham restrições práticas.
+construir impunham restrições práticas à volumetria das construções.
 Portanto, a informalidade tendia a se expressar sobretudo como uma
 busca por um programa decorativo que se afastasse da aplicação rigorosa
 das ordens clássicas e, sobretudo nos programas domésticos,
 da simetria bilateral.
 
-<!--Por que arquitetura doméstica tende a não ser simétrica-->
+No sentido estrito, a assimetria da arquitetura doméstica urbana é
+facilmente explicada pela necessidade de acomodar ambientes de dimensões
+suficientes junto a uma circulação longitudinal em lotes de largura
+restrita.
+Por isso, em todos os tempos foi corriqueira a prática de se deslocar
+a porta de entrada da casa para um dos vãos extremos
+([@fig:casa-medieval]).
+No entanto, mesmo nesses casos a disposição dos eixos das aberturas
+tendia à regularidade em geral,
+quando não a uma simetria bilateral rígida.
+
+![Fachada de casa medieval com a porta no vão extremo](){#fig:casa-medieval}
+
+Ainda na década de 1860, mesmo a arquitetura dita *de recreio* aderia a
+uma composição simétrica sempre que possível.
+A reconstrução do palácio de Monserrate, a antiga mansão neogótica
+do mercador inglês Gerard de Visme em Sintra, é um caso emblemático.
+O arquiteto Sir James Knowles reconstruiu a casa entre 1863 e 65,
+sensivelmente sobre a mesma implantação simétrica da casa original,
+mas alterando-lhe a estética para um misto de estilos medievais e
+islâmicos (@fig:monserrate).
+
+![Sir James Knowles, arquiteto, palácio de Monserrate, Sintra, 1863--65. Vista aérea desde nascente. Foto: [Sergio, 2022][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Palácio_de_Monserrate_(52197358335).jpg/1024px-Palácio_de_Monserrate_(52197358335).jpg){#fig:monserrate}
+
+[Sergio, 2022]: https://commons.wikimedia.org/wiki/File:Palácio_de_Monserrate_(52197358335).jpg
+
+No Rio de Janeiro, o adensamento urbano do morro de Santa Teresa e
+do vale do rio das Laranjeiras,
+no último terço do século [XIX]{.smallcaps},
+foram a ocasião duma exploração de novas volumetrias domésticas.
+No entanto, mesmo os exemplares inovadores dessa época invariavelmente
+buscavam expressões simétricas.
+A simetria podia ser realizada individualmente em cada morada,
+como no caso dos *chalets* à ladeira de Santa Teresa, datados de 1866
+(@fig:steresa).
+Para um efeito de maior monumentalidade, a simetria também podia ser
+aplicada ao conjunto do renque,
+como nas Casas Casadas, mandadas construir entre 1874 e 1885
+pelo comerciante português Antônio de Oliveira Leite Leal,
+que deu o atual nome à rua onde elas se situam (@fig:casadas).
+
+![Chalés à rua de Santa Teresa, 1866](){#fig:steresa}
+
+![Casas Casadas, Rio de Janeiro, 1874--85.](){#fig:casadas}
+
+A assimetria nas moradas urbanas aparenta estar associada à difusão
+das composições em gaveto,
+de inspiração francesa e especialmente Haussmanniana,
+no último terço do século,
+onde a própria esquina passou a ser o elemento dominante da composição.
+Até então, as fachadas dos edifícios de esquina em Portugal e no Brasil
+exprimiam a hierarquia viária tradicional.
+Nesse partido, as duas elevações eram planos compositivos independentes
+entre si.
+A fachada sobre a rua principal era então o aspecto dominante
+da edificação, hierarquicamente superior à
+elevação secundária ante a travessa.
+
+São exemplos dessa volumetria tradicional os edifícios oitocentistas
+que defrontam o antigo passeio Público de Lisboa,
+atuais praça dos Restauradores e arranque da avenida da Liberdade.
+O palacete dos condes de Almedina, projeto de 1865 do arquiteto italiano
+Luís Cinatti para o comerciante enobrecido Manuel Nunes Correia,
+marcava a esquina com um corpo mais elaborado do que a simples pilastra
+usada pelo seu vizinho pombalino.
+Ainda assim, o ângulo propriamente dito no projeto de Cinatti
+era uma simples aresta viva, por mais que houvesse um ensaio de
+simetria parcial entre a última ala da fachada principal e
+a sua recíproca sobre a travessa que conduz ao largo da Anunciada
+(@fig:almedina).
+
+![Luís Cinatti, arquiteto, palacete dos condes de Almedina, Lisboa, 1865](){#fig:almedina}
+
+Mesmo em finais do século, a arquitetura portuguesa ainda marcaria
+alguma resistência à expressão do gaveto.
+No hotel Avenida Palace construído entre 1890 e 92
+na extremidade oposta do mesmo passeio Público,
+o arquiteto José Luís Monteiro realizou uma difícil articulação entre
+duas fachadas igualmente importantes e simétricas.
+Ambas têm nítida inspiração eclética francesa,
+mas se encontram num ressalto de pilastras que remonta à influência
+do maneirismo italiano (@fig:avenida-palace).
+
+![José Luís Monteiro, arquiteto, hotel Avenida Palace, Lisboa, 1890--92](){#fig:avenida-palace}
+
+Entretanto, já na década de 1870 a solução do gaveto fora experimentada
+em Lisboa, no palacete do industrial José Ribeiro da Cunha
+ao largo do Príncipe Real.
+O arquiteto Henrique Carlos Afonso articulou sua fachada neomudéjar
+com um tambor cilíndrico na esquina, enfatizado com pináculos e uma
+cúpula bulbosa (@fig:ribeiro).
+O gaveto assim concebido valorizava a perspectiva ascendente
+da rua do Moinho de Vento (atual rua D. Pedro V), muito embora
+a esquina sugerisse uma diferença hierárquica muito marcada entre
+a fachada principal sobre o largo e a secundária sobre a calçada da
+Patriarcal Queimada.
+
+![Henrique Carlos Afonso, arquiteto, palacete de Ribeiro da Cunha, Lisboa, 1877. Vista desde o sul. Foto no projeto [*A casa senhorial*](https://acasasenhorial.org/acs/index.php/pt/bgeral/126-palacete-ribeiro-da-cunha)](https://acasasenhorial.org/acs/images/csimgs/RIBEIRO/DES_JPG/1.jpg){#fig:ribeiro}
 
 <!--Como os ornamentos de inspiração românica atendem ao anseio por variedade-->
 
