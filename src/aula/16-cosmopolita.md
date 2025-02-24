@@ -159,13 +159,13 @@ dos seus pisos no tocante à distribuição espacial dos ambientes de
 trabalho.
 
 
-# Do Neorromânico ao Neomanuelino #
+# Arquitetura doméstica renovada #
 
-A arquitetura privada da virada do século `XIX` caminhava no sentido
+A arquitetura privada da virada do século [XIX]{.smallcaps} caminhava no sentido
 de uma cada vez maior informalidade compositiva.
 O significado dessa informalidade se mostra no argumento do
 professor de teoria da Escola de Belas Artes de Paris,
-Julien @guadet:1903elements1 [157], segundo o qual o conservadorismo
+Julien @guadet:1901elements1 [157], segundo o qual o conservadorismo
 nas proporções é função direta da
 importância ou monumentalidade dum edifício.
 A capacidade de um edifício monumental comunicar o seu caráter e
@@ -173,11 +173,11 @@ a sua importância na ordem cívica dependia, portanto, da adoção
 duma linguagem padronizada, onde o significado da monumentalidade
 fosse inequívoco.
 
-No século `XIX`, a epítome desses limites impostos à arquitetura
+No século [XIX]{.smallcaps}, a epítome desses limites impostos à arquitetura
 monumental era a tipologia dos teatros, que já vimos na aula passada.
 Se a linguagem das igrejas estava desde há muito estabilizada,
 o teatro público era uma sensível novidade da segunda metade do século
-`XVII`.
+[XVII]{.smallcaps}.
 Superados os primeiros experimentos, como a casa de ópera da Vila Rica,
 os teatros de finais do setecentos e início do oitocentos eram
 em geral tributários do protótipo estabelecido em 1778 por
@@ -302,15 +302,167 @@ Entretanto, já na década de 1870 a solução do gaveto fora experimentada
 em Lisboa, no palacete do industrial José Ribeiro da Cunha
 ao largo do Príncipe Real.
 O arquiteto Henrique Carlos Afonso articulou sua fachada neomudéjar
-com um tambor cilíndrico na esquina, enfatizado com pináculos e uma
-cúpula bulbosa (@fig:ribeiro).
+com um tambor cilíndrico na esquina,
+enfatizado com pináculos e uma cúpula bulbosa (@fig:ribeiro).
 O gaveto assim concebido valorizava a perspectiva ascendente
 da rua do Moinho de Vento (atual rua D. Pedro V), muito embora
-a esquina sugerisse uma diferença hierárquica muito marcada entre
+a esquina sugerisse uma diferença hierárquica nítida entre
 a fachada principal sobre o largo e a secundária sobre a calçada da
 Patriarcal Queimada.
 
-![Henrique Carlos Afonso, arquiteto, palacete de Ribeiro da Cunha, Lisboa, 1877. Vista desde o sul. Foto no projeto [*A casa senhorial*](https://acasasenhorial.org/acs/index.php/pt/bgeral/126-palacete-ribeiro-da-cunha)](https://acasasenhorial.org/acs/images/csimgs/RIBEIRO/DES_JPG/1.jpg){#fig:ribeiro}
+![Henrique Carlos Afonso, arquiteto, palacete de Ribeiro da Cunha, Lisboa, 1877--79. Vista desde o sul. Foto do projeto [*A casa senhorial*](https://acasasenhorial.org/acs/index.php/pt/bgeral/126-palacete-ribeiro-da-cunha)](https://acasasenhorial.org/acs/images/csimgs/RIBEIRO/DES_JPG/1.jpg){#fig:ribeiro}
+
+<!--23/02/2025-->
+
+::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:ribeiro-plantas .full}
+![andar nobre](https://acasasenhorial.org/acs/images/csimgs/RIBEIRO/DES_JPG/p_rc_1.jpg){#fig:ribeiro-planta1 width="49%" .line}
+![rés-do-chão](https://acasasenhorial.org/acs/images/csimgs/RIBEIRO/DES_JPG/p_rc_0.jpg){#fig:ribeiro-planta0 width="49%" .line}
+
+Palacete Ribeiro da Cunha, plantas. Fonte: projeto [*A casa senhorial*](https://acasasenhorial.org/acs/index.php/pt/bgeral/126-palacete-ribeiro-da-cunha)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+A opção do arquiteto pela fachada principal assimétrica
+é tanto mais significativa quanto se percebe que o torreão no gaveto
+não abriga a entrada principal do edifício.
+Esta se encontra na outra extremidade da fachada,
+com uma escadaria axial (@fig:ribeiro-plantas)
+atrás de um corpo destacado com aberturas em arcaria tripla
+(ver @fig:ribeiro, extremidade esquerda da fachada principal).
+Essa distribuição ao mesmo tempo monumental e assimétrica
+resolvia de modo eficiente
+a típica enfiada transversal de salões palacianos e
+introduzia na tipologia burguesa um pátio central espaçoso e simétrico
+[@barreiros:2009arquitecturas],
+dentro das restrições de largura e profundidade do lote urbano.
+
+A disposição assimétrica da escada principal matizava
+a distinção tradicional entre a casa corrente e o palacete monumental.
+A circulação longitudinal lateral,
+expediente funcional que era sempre resolvido
+discretamente na fachada das casas correntes,
+tornava-se na fachada do palacete um tema de composição explícito
+que marcava uma refinada [*sprezzatura*][]
+do arquiteto e do proprietário.
+A partir daí, a composição informal e assimétrica difundiu-se
+na arquitetura doméstica urbana para todas as classes sociais.
+
+[*sprezzatura*]: https://pt.wikipedia.org/wiki/Sprezzatura
+
+## Informalidade e a morada suburbana ##
+
+Entretanto, uma nova distinção na tipologia de casas
+estava em formação.
+Essa distinção era consequência da implantação urbanística
+de casas para diferentes classes sociais no crescimento suburbano
+das cidades portuguesas e brasileiras mais perto da virada do século.
+Ela se exprimia, por um lado, num tipo de morada burguesa que
+partilhava características da tradicional quinta de recreio,
+da *folie* pitoresca e da casa de aparato urbana.
+Por outro lado, os últimos anos da monarquia em Portugal e
+os primeiros anos da República no Brasil foram um período fértil de
+experimentos de habitação de interesse social, os quais resultaram em
+soluções paradigmáticas de plantas de moradas mas também de
+paradigmas de urbanização.
+Este âmbito da habitação social será discutido mais adiante,
+em conjunto com o tema das reformas urbanas que lhe dá suporte físico
+e mote social.
+
+A morada burguesa de finais do século [XIX]{.smallcaps}
+pode ser explicada por dois movimentos recíprocos.
+A ênfase que se dá a um ou outro desses movimentos diz muito sobre
+a afiliação ideológica de diferentes historiadores e críticos.
+Para os críticos nacionalistas do início do século [XX]{.smallcaps},
+assim como para seus improváveis discípulos ideológicos,
+os modernistas portugueses e brasileiros,
+essa morada burguesa sinalizava o auge
+do odioso estrangeirismo eclético.
+Já os historiadores de veia sociológica enfatizam que
+a demanda por projetos e materiais estrangeiros reflete
+a formação duma classe capitalista em Portugal e no Brasil
+num contexto de dependência da industrialização emergente com respeito a
+capitais --- produtivos e culturais --- internacionais.
+
+Os principais sítios nos quais se constitui a tipologia da morada
+burguesa suburbana representam bem esse caráter ao mesmo tempo
+modernizante e periférico da burguesia portuguesa e brasileira.
+Enquanto a arquitetura de Lisboa e do Rio de Janeiro resguarda
+uma certa monumentalidade e conservadorismo formal,
+é o complexo de *segunda cidade* no Porto e em São Paulo,
+aliado ao ideal de liberdade da vilegiatura emergente, que
+fomenta o recurso ao estrangeiro como instrumento de afirmação
+de identidade própria.
+
+A relativa estagnação demográfica e de crescimento do
+tecido urbanizado em Salvador e no Recife,
+as segunda e terceira cidades mais populosas do Brasil em 1890,
+justificam antecipar o papel de São Paulo na virada do século
+como a "segunda" cidade brasileira,
+por mais que até então esta última não figurasse sequer entre as
+dez mais populosas.
+Desde 1880, a capital paulista apresentava uma dinâmica de crescimento
+periférico que permite compará-la com o caso do Porto.
+
+Mais do que no crescimento periférico de cidades (ditas) industriais,
+contudo, a inovação tipológica da morada burguesa arrancou no contexto
+da vilegiatura por parte da nobreza tradicional.
+Duas mulheres ilustres estiveram à frente desse movimento
+em Portugal e no Brasil
+
+### Palácio Palmela em Cascais ###
+
+Em meados do século [XIX]{.smallcaps}, o costume aristocrático e burguês
+do veraneio no modesto frescor da serra de Sintra começava a ceder
+à preferência sanitarista pela salubridade da brisa marítima em Cascais.
+Foi nesse contexto que a terceira duquesa de Palmela,
+Maria Luísa de Sousa Holstein, mandou construir
+um dos primeiros *chalets* de composição livre
+que se conhece no mundo de fala portuguesa.
+Ilustre mecenas e ela própria artista reconhecida em seu tempo,
+a duquesa encomendara o projeto em estilo gótico perpendicular inglês
+ao arquiteto britânico Thomas Henry Wyatt em 1870.
+
+O palácio Palmela em Cascais ostenta uma volumetria complexa,
+parcialmente condicionada pelo perfil do baluarte do antigo forte de
+Nossa Senhora da Conceição, sobre o qual ele se assentava.
+Executada entre 1873 e 74 pelo construtor José Leandro Braga e pelo
+arquiteto Miguel Evaristo, a obra ainda contou com a participação do
+jovem arquiteto António José Dias da Silva, que haveria de se tornar
+um dos principais expoentes do ecletismo tardio em Portugal.
+O projeto original foi imediatamente ampliado pelo arquiteto
+José António Gaspar e remodelado em 1890 por José Luís Monteiro
+[@vale:1996palacio],
+aumentando ainda mais a sua complexidade volumétrica.
+
+### Palacete de D. Veridiana ###
+
+Em São Paulo, na mesma época, a elite cafeeira vinha transformando
+suas antigas quintas nos arredores da cidade em moradas com
+função de aparato e caráter urbano.
+O palacete de D. Veridiana foi um dos primeiros desse grupo a
+aderir a uma volumetria complexa --- embora as fachadas fossem
+predominantemente simétricas ---, graças a um projeto de autoria
+desconhecida encomendado na França.
+
+D. Veridiana Valéria da Silva Prado era filha do barão de Iguape,
+grande mercador e financista paulista do primeiro Reinado,
+cuja família até hoje possui ramificações entre as elites
+econômicas e universitárias de São Paulo.
+Valendo-se da sua autonomia financeira e prestígio pessoal,
+pôde se mudar para Paris após um casamento malsucedido.
+Lá, frequentou a mesma elite intelectual francesa e portuguesa na qual
+circulava a duquesa de Palmela, incluindo o escritor e crítico literário
+vanguardista Ramalho Ortigão [@homem:1996palacete].
+Em 1882, pouco antes do seu regresso a São Paulo,
+encomendou um projeto arquitetônico para uma *villa*
+que combinasse o caráter volumétrico duma casa de vilegiatura
+com o conforto e o aparato necessários a uma morada urbana permanente.
+A obra da casa, conhecida como Vila Maria,
+foi executada pelo engenheiro Luís Liberal Pinto e concluída em 1884.
+
+<!--Planta em @pante:2016cidade 128-9-->
+
+
+# Do Neorromânico ao Neomanuelino #
 
 <!--Como os ornamentos de inspiração românica atendem ao anseio por variedade-->
 

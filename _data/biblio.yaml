@@ -1026,6 +1026,41 @@ references:
   URL: https://academic.oup.com/qje/article/134/3/1455/5420484
   volume: '134'
 
+- id: barreiros:2009arquitecturas
+  author:
+    - family: Barreiros
+      given: Maria Helena
+  citation-key: barreiros:2009arquitecturas
+  collection-editor:
+    - family: Rodrigues
+      given: Dalila
+  collection-number: '15'
+  collection-title: >-
+    Arte portuguesa: da pré-história ao século <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XX</span>
+  container-author:
+    - family: Porfírio
+      given: José Luís
+    - family: Barreiros
+      given: Maria Helena
+  container-title: Da expressão romântica à estética naturalista
+  event-place: Porto
+  ISBN: 978-989-8207-06-7
+  issued:
+    - year: 2009
+  language: por
+  publisher: Fubu
+  publisher-place: Porto
+  source: Open WorldCat
+  title: >-
+    Arquitecturas do século <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XIX</span> português, entre o fim do absolutismo e a
+    abertura da avenida da Liberdade
+  title-short: >-
+    Arquitecturas do século <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XIX</span> português
+  type: chapter
+
 - id: barreto:2010conservar
   author:
     - family: Barreto
@@ -5341,7 +5376,7 @@ references:
   ISBN: 85-85725-14-1 978-85-85725-14-3
   issued:
     - year: 1995
-  language: pt
+  language: por
   publisher: Mercado de Letras
   publisher-place: Campinas
   source: Open WorldCat
@@ -5547,6 +5582,21 @@ references:
   title-short: Architecture toscane
   type: book
   URL: http://archive.org/details/gri_33125012245235
+
+- id: guadet:1901elements1
+  author:
+    - family: Guadet
+      given: Julien
+  citation-key: guadet:1901elements1
+  event-place: Paris
+  issued:
+    - year: 1901
+  language: fre
+  publisher: Aulanier
+  publisher-place: Paris
+  title: Éléments et théorie de l’architecture
+  type: book
+  volume: '1'
 
 - id: guadet:1903elements2
   accessed:
@@ -8811,6 +8861,31 @@ references:
       given: Francisco
   type: book
 
+- id: pante:2016cidade
+  abstract: >-
+    As transformações na capital paulista, entre os séculos XVI e XX, abordadas
+    sob três perspectivas: a urbana, a da residência e a de um cômodo espec...
+  accessed:
+    - year: 2025
+      month: 2
+      day: 24
+  author:
+    - family: Pante
+      given: Renata de Castro
+  citation-key: pante:2016cidade
+  event-place: São Paulo
+  genre: Trabalho de Conclusão de Curso (Graduação em Arquitetura e Urbanismo)
+  issued:
+    - year: 2016
+      month: 12
+      day: 14
+  language: por
+  publisher: Universidade de São Paulo, Faculdade de Arquitetura e Urbanismo
+  publisher-place: São Paulo
+  title: Cidade, Casa, Dormitório
+  type: thesis
+  URL: https://issuu.com/renatapante/docs/renatapante_miolo
+
 - id: paquette:2013imperial
   abstract: >-
     "As the British, French and Spanish Atlantic empires were torn apart in the
@@ -9901,6 +9976,31 @@ references:
   title: Dicionário das artes plásticas no Brasil
   type: book
 
+- id: porfirio:2009expressao
+  author:
+    - family: Porfírio
+      given: José Luís
+    - family: Barreiros
+      given: Maria Helena
+  citation-key: porfirio:2009expressao
+  collection-editor:
+    - family: Rodrigues
+      given: Dalila
+  collection-number: '15'
+  collection-title: >-
+    Arte portuguesa: da pré-história ao século <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XX</span>
+  event-place: Porto
+  ISBN: 978-989-8207-06-7
+  issued:
+    - year: 2009
+  language: por
+  publisher: Fubu
+  publisher-place: Porto
+  source: Open WorldCat
+  title: Da expressão romântica à estética naturalista
+  type: book
+
 - id: porto:2009alvenarias
   author:
     - family: Pôrto Ribeiro
@@ -10420,6 +10520,26 @@ references:
   source: Open WorldCat
   title: 'Documentário arquitetônico: relativo à antiga construção civil no Brasil'
   title-short: Documentário arquitetônico
+  type: book
+
+- id: rodrigues:2009arte
+  citation-key: rodrigues:2009arte
+  editor:
+    - family: Rodrigues
+      given: Dalila
+  event-place: Porto
+  ISBN: 978-972-8918-93-4
+  issued:
+    - year: 2009
+  language: por
+  number-of-volumes: '28'
+  publisher: Fubu
+  publisher-place: Porto
+  source: Open WorldCat
+  title: >-
+    Arte portuguesa: da pré-história ao século <span style="font-variant:
+    all-small-caps" smallcaps="smallcaps">XX</span>
+  title-short: Arte portuguesa
   type: book
 
 - id: rossa:2005construcao
@@ -12503,6 +12623,39 @@ references:
   title-short: Arqueología amazónica
   type: book
 
+- id: vale:1996palacio
+  abstract: >-
+    Palacete ecléctico e rústico onde os seus espaços cruzados que alteraram a
+    função da fachada são como um jogo de perspectivas. Pela sua
+    monumentalidade, torna-se um ícone da faceta aristocrática de Cascais, (a
+    partir do momento em que a família real escolhe a C idadela de Cascais para
+    aí instalar o Paço Real durante a sua estação balnear) e passou a ser o
+    símbolo da estância de veraneio, com a utilização de aparelho de pedra
+    rústica e os telhados de duas águas e águas-furtadas de perfils verticais,
+    que intencionalmente lhe dão uma atitude neoromântica e a quase ausênsia
+    elementos decorativos. De destacar o facto de possuir molduras simples nas
+    janelas de maior dimensão e bíforas nas mais pequenas (QUINTÃO, 2011, p.
+    17).
+  accessed:
+    - year: 2025
+      month: 2
+      day: 24
+  author:
+    - family: Vale
+      given: Teresa
+    - family: Gomes
+      given: Carlos
+    - family: Ferreira
+      given: Maria
+  citation-key: vale:1996palacio
+  container-title: Sistema de Informação para o Património Arquitectónico
+  issued:
+    - year: 1996
+  language: por
+  title: Palácio do Duque de Palmela
+  type: webpage
+  URL: http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=6042
+
 - id: valla:2012engenharia6
   abstract: >-
     A prática de intervenção dos portugueses nos diversos territórios como
@@ -12599,6 +12752,28 @@ references:
     brasileira
   type: article-journal
   URL: https://confins.revues.org/10074
+
+- id: valle:2014intercambios
+  citation-key: valle:2014intercambios
+  collection-number: III
+  collection-title: Oitocentos
+  edition: '2'
+  editor:
+    - family: Valle
+      given: Arthur
+    - family: Dazzi
+      given: Camila
+    - family: Portella
+      given: Isabel Sanson
+  event-place: Rio de Janeiro
+  ISBN: 978-85-7068-010-5
+  issued:
+    - year: 2014
+  language: por
+  publisher: Cefet/RJ
+  publisher-place: Rio de Janeiro
+  title: Intercâmbios culturais entre Brasil e Portugal
+  type: book
 
 - id: vanlengen:2013arquitetura
   abstract: >-
@@ -13325,6 +13500,42 @@ references:
   type: book
   URL: >-
     http://portal.iphan.gov.br/uploads/publicacao/conservacao_preventiva_imoveis_antigos_nucleos_historicos.pdf
+
+- id: wolff:1996bem-morar4
+  abstract: >-
+    A arquitetura doméstica tem um grande impulso no século XIX. Da Europa são
+    difundidos, para todo mundo, os modelos conformados à nova ordem social e à
+    industrialização. A residência se transforma numa preocupação central dos
+    arquitetos. Desenvolvem-se novos conceitos para casa ideal para todas as
+    camadas sociais: operários, classe média, burguesia. Este artigo retrata, em
+    São Paulo, a introdução de padrões formais e princípios (de higiene,
+    salubridade, conforto, ritos sociais e domésticos, as aparências). a partir
+    da atividade de F. P. Ramos de Azevedo (1851-19201. Analisam-se os
+    principais projetos que ele desenvolveu para a burguesia local.
+  accessed:
+    - year: 2020
+      month: 5
+      day: 27
+  author:
+    - family: Wolff de Carvalho
+      given: Maria Cristina
+  citation-key: wolff:1996bem-morar4
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  container-title-short: An. mus. paul.
+  DOI: 10.1590/S0101-47141996000100015
+  ISSN: 1982-0267, 0101-4714
+  issue: '1'
+  issued:
+    - year: 1996
+  language: por
+  page: 165-200
+  source: DOI.org (Crossref)
+  title: 'Bem-morar em São Paulo, 1880-1910: Ramos de Azevedo e os modelos europeus'
+  title-short: Bem-morar em São Paulo, 1880-1910
+  type: article-journal
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47141996000100015&tlng=pt
+  volume: '4'
 
 - id: worcman:1979grandjean
   author:
