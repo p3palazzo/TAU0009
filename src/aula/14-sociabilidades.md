@@ -253,6 +253,22 @@ polícia da capital, Diogo Inácio de Pina Manique
 esferas pública e privada no mundo português
 [@franca:2004pombalismo, p. 35].
 
+Se a linguagem das igrejas estava desde há muito estabilizada,
+o teatro público era uma sensível novidade da segunda metade do século
+[XVII]{.smallcaps}.
+Superados os primeiros experimentos, como a casa de ópera da Vila Rica,
+os teatros de finais do setecentos e início do oitocentos eram
+em geral tributários do protótipo estabelecido em 1778 por
+Giuseppe Piermarini no Teatro alla Scala de Milão.
+Um século mais tarde, outro protótipo, a ópera de Paris projetada por
+Charles Garnier e inaugurada em 1875, suplantaria o anterior como
+modelo a ser seguido pelos grandes teatros públicos.
+A sucessão dos paradigmas é visível nos teatros São Carlos
+em Lisboa e São João no Rio de Janeiro, baseados no modelo italiano,
+e até bem mais adiante no teatro de Campinas,
+e mais tarde nos teatros municipais de São Paulo e do Rio de Janeiro,
+como que reproduções em escala reduzida do modelo francês.
+
 Se o interior da casa de ópera de Vila Rica segue o tipo
 hegemônico dos teatros de ópera com plateia em ferradura,
 o teatro de Costa e Silva em Lisboa vai além, seguindo

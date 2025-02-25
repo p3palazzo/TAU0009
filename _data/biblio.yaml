@@ -259,12 +259,40 @@ references:
   title-short: Arquitectura neocolonial
   type: book
 
-- id: anacleto:1994neomanuelino
+- id: anacleto:1994catalogo
   author:
     - family: Anacleto
       given: Regina
   call-number: NA1327 .N46 1994
+  citation-key: anacleto:1994catalogo
+  container-title: 'O Neomanuelino: ou a reinvenção da arquitectura dos descobrimentos'
+  editor:
+    - family: Paulino
+      given: Francisco Faria
+    - family: Anacleto
+      given: Regina
+  event-place: Lisboa
+  ISBN: 978-972-95871-5-3
+  issued:
+    - year: 1994
+  language: por
+  page: 114-263
+  publisher: >-
+    Comissão Nacional para as Comemorações dos Descobrimentos Portugueses :
+    Instituto Português do Património Arquitectónico e Arqueológico
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: Catálogo
+  type: chapter
+
+- id: anacleto:1994neomanuelino
+  call-number: NA1327 .N46 1994
   citation-key: anacleto:1994neomanuelino
+  editor:
+    - family: Paulino
+      given: Francisco Faria
+    - family: Anacleto
+      given: Regina
   event-place: Lisboa
   ISBN: 978-972-95871-5-3
   issued:
@@ -5909,6 +5937,25 @@ references:
   title: Raízes do Brasil
   type: book
 
+- id: homem:1996palacete
+  author:
+    - family: Homem
+      given: Maria Cecília Naclério
+  citation-key: homem:1996palacete
+  event-place: São Paulo
+  ISBN: 978-85-7827-268-5
+  issued:
+    - year: 1996
+  language: por
+  number-of-pages: '287'
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  title: >-
+    O palacete paulistano e outras formas urbanas de morar da elite cafeeira:
+    1867-1918
+  title-short: O palacete paulistano
+  type: book
+
 - id: icomos:2005recommendations
   accessed:
     - year: 2017
@@ -7335,6 +7382,62 @@ references:
   source: Library of Congress ISBN
   title: Arquitectura popular portuguesa
   type: book
+
+- id: mattos:2005neomanuelino
+  abstract: >-
+    Intimamente ligado ao Romantismo, o surto de revivalismos que se alastrou
+    por quase todos os países da Europa, na segunda metade do século XIX, criou
+    um estilo diferente e emblemático em Portugal, o Neomanuelino, cujo
+    rebatimento no Brasil, nas ultimas três décadas desse mesmo século, teve uma
+    leitura simbólica, como imagem de um poder aqui representado e que, no bojo
+    da celebração nacional, encerrava o carisma filosófico e político da sua
+    representação. Esse estilo, ao retomar as características do Manuelino
+    (século XVI), retomava também uma simbologia importante do passado nacional,
+    a qual se buscava reafirmar no final do século XIX, dado o espírito
+    nacionalista que a todos envolvia. Nesse cenário vivo, a arquitetura foi,
+    então, a linguagem que melhor representou as marcas desse passado,
+    tornando-se um referencial balizador dos sentimentos de liberdade e euforia
+    desses novos tempos. Testemunhos disso, Os Gabinetes Portugueses de Leitura
+    no Brasil foram referenciais urbanos conformados às aspirações sociais da
+    época, que, resgatando por meio de seus edifícios a memória lusitana na
+    formação da identidade nacional, se apoiaram na história como arquivos de
+    memória urbana. Nosso objetivo foi a identificação desse estilo, o
+    Neomanuelino no Brasil, considerando a tipologia e a inserção de seus
+    edifícios no espaço urbano, sua justificativa social e sua identidade
+    nacional, presentes no panorama das manifestações Ecléticas que
+    caracterizaram a passagem do século. Definimos como parâmetro para pesquisa,
+    cidades portuárias, nas quais se observa a identificação com a imigração
+    portuguesa, abordando, assim, quatro edifícios para a sua compreensão: o
+    Real Gabinete Português de Leitura do Rio de Janeiro (RJ), o Gabinete
+    Português de Leitura de Recife (PE), o Gabinete Português de Leitura de
+    Salvador (BA) e o Centro Português de Santos (SP).
+  accessed:
+    - year: 2023
+      month: 8
+      day: 22
+  author:
+    - family: Mattos
+      given: Maria de Fátima da Silva Costa Garcia
+      dropping-particle: de
+  citation-key: mattos:2005neomanuelino
+  DOI: 10.11606/T.27.2005.tde-23012015-130358
+  event-place: São Paulo
+  genre: Tese de Doutorado em Artes
+  issued:
+    - year: 2005
+      month: 5
+      day: 2
+  language: por
+  number-of-pages: '218'
+  publisher: Universidade de São Paulo
+  publisher-place: São Paulo
+  source: teses.usp.br
+  title: >-
+    O Neomanuelino no Brasil: a identificação de um estilo através das suas
+    instituições. Os gabinetes portugueses de leitura
+  title-short: O Neomanuelino no Brasil
+  type: thesis
+  URL: http://www.teses.usp.br/teses/disponiveis/27/27131/tde-23012015-130358/
 
 - id: mattoso:2000formacao
   author:
