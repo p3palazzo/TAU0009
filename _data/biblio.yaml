@@ -967,6 +967,24 @@ references:
   type: book
   URL: http://books.scielo.org/id/pfgkb
 
+- id: baganha:2016arquitetura
+  author:
+    - family: Baganha
+      given: José
+  call-number: NA1329.A43 B33 2016
+  citation-key: baganha:2016arquitetura
+  event-place: Lisboa
+  ISBN: 978-972-44-1887-2
+  issued:
+    - year: 2016
+  language: por
+  number-of-pages: '231'
+  publisher: Edições 70
+  publisher-place: Lisboa
+  source: Library of Congress ISBN
+  title: A arquitetura popular dos povoados do Alentejo
+  type: book
+
 - id: baganha:2018aprendendo
   author:
     - family: Baganha
@@ -2916,6 +2934,52 @@ references:
   type: article-journal
   URL: https://run.unl.pt/handle/10362/6785
   volume: '2'
+
+- id: correia:2004construcao
+  author:
+    - family: Correia
+      given: Telma de Barros
+  call-number: HD7323.A3 C67 2004
+  citation-key: correia:2004construcao
+  event-place: São Carlos
+  ISBN: 978-85-86552-95-3
+  issued:
+    - year: 2004
+  language: por
+  number-of-pages: '109'
+  publisher: RiMa
+  publisher-place: São Carlos
+  source: Library of Congress ISBN
+  title: A construção do habitat moderno no Brasil, 1870–1950
+  type: book
+
+- id: correia:2006nucleos
+  accessed:
+    - year: 2020
+      month: 4
+      day: 18
+  author:
+    - family: Correia
+      given: Telma De Barros
+  citation-key: correia:2006nucleos
+  container-title: 'Risco: Revista de Pesquisa em Arquitetura e Urbanismo (Online)'
+  container-title-short: Risco
+  DOI: 10.11606/issn.1984-4506.v0i3p15-42
+  ISSN: 1984-4506, 1679-3498
+  issue: '3'
+  issued:
+    - year: 2006
+      month: 1
+      day: 1
+  language: por
+  page: '15'
+  source: DOI.org (Crossref)
+  title: >-
+    Núcleos fabris e de mineração no Brasil: as experiências pioneiras
+    (1811-1880)
+  title-short: Núcleos fabris e de mineração no Brasil
+  type: article-journal
+  URL: http://www.revistas.usp.br/risco/article/view/44655
 
 - id: corsi:2010changing
   call-number: HT114 .C45 2010
@@ -8201,6 +8265,29 @@ references:
   title: Casas esguias do Porto e sobrados do Recife
   type: book
 
+- id: oliveira:1992arquitectura
+  author:
+    - family: Oliveira
+      given: Ernesto Veiga
+      dropping-particle: de
+    - family: Galhano
+      given: Fernando
+  call-number: '728.3'
+  citation-key: oliveira:1992arquitectura
+  collection-number: '24'
+  collection-title: Portugal de Perto
+  event-place: Lisboa
+  ISBN: 978-972-20-0959-1
+  issued:
+    - year: 1992
+  language: por
+  number-of-pages: '374'
+  publisher: Dom Quixote
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: Arquitectura tradicional portuguesa
+  type: book
+
 - id: oliveira:2001casas8-9
   accessed:
     - year: 2015
@@ -12202,6 +12289,224 @@ references:
   language: pt
   source: ResearchGate
   title: 8.º Fórum internacional do património arquitetónico Portugal–Brasil
+  type: book
+
+- id: teixeira:1992estrategias27
+  abstract: >-
+    A industrialização, e a emigração de população rural, na segunda metade do
+    século xix, fez aumentar significativamente a população urbana e a procura
+    de habitação de baixo custo nas principais cidades — Lisboa e Porto. Até ao
+    final do século xix a habitação operária era construída essencialmente por
+    promotores privados e, quer sob a forma de «ilhas», no Porto, ou de
+    «pátios», em Lisboa, caracterizava-se pela sua má qualidade. O período que
+    se inicia em 1880 correspondeu em Portugal, e na maior parte dos países
+    europeus, à tomada de consciência pelos poderes públicos da crise
+    habitacional nas cidades e à elaboração de estratégias para resolver o
+    problema da habitação das famílias de baixos recursos. Iniciaram-se então as
+    intervenções estatais no campo da habitação, primeiro através de iniciativas
+    legislativas, e já neste século através da construção de habitação
+    directamente pelas autoridades locais e pelo governo. As sucessivas
+    estratégias de habitação elaboradas no período de 1880 a 1940 reflectem as
+    diferentes ideologias dos regimes políticos que lhes deram origem —a
+    Monarquia, o regime republicano, o Estado Novo— e as diferentes condições
+    económicas e sociais a que procuravam dar resposta. A habitação promovida
+    pelo Estado representou sempre uma parcela reduzida do mercado, e construída
+    essencialmente por motivos políticos. Os tipos de habitação a que as classes
+    mais pobres tinham capacidade de aceder continuaram a ser precários, e até
+    hoje o sector informal representa um componente importante do mercado de
+    habitação em Portugal. Dans la deuxième partie du xxème siècle,
+    l'industrialisation et l'émigration de la population rurale a fait augmenter
+    d'une façon significative la population urbaine et la recherche d'habitation
+    à bas prix dans les principales villes, Lisbonne et Porto. Jusqu'à la fin du
+    xxème siècle, les logements ouvriers étaient essentiellement construits par
+    des promoteurs privés et, sous la forme d'«ilhas» à Porto ou de «patios» à
+    Lisbonne, leur caractéristique principale était la mauvaise qualité. Au
+    Portugal et dans la plupart des pays européens, la période qui a commencé en
+    1880, a correspondu à la prise de conscience de la part des pouvoirs publics
+    concernant la crise du logement dans les villes et donc, à l'élaboration de
+    stratégies pour résoudre le problème de logement des familles ayant peu de
+    ressources. Les interventions de l'État ont alors commencé dans le domaine
+    de l'habitation, d'abord par des initiatives législatives, et ensuite
+    pendant ce siècle, par la construction d'habitation, entreprise directement
+    par les autorités locales et gouvernementales. Pendant la période de 1880 à
+    1940, les différentes stratégies d'habitation qui se sont succédées,
+    réfléchissent les diverses idéologies des régimes politiques qui les ont
+    fait naître — «la Monarchie, le régime républicain, l'État Nouveau», ainsi
+    que les différentes conditions économiques et sociales que ces régimes ont
+    essayé de résoudre. Les logements construits par l'État et à chaque fois
+    pour des raisons politiques ont toujours représenté une parcelle réduite du
+    marché. Les types de logement à la portée des classes les plus pauvres ont
+    continué à être précaires et, jusqu'à l'heure actuelle, le secteur informel
+    représente un composant important du marché de l'habitation au Portugal. The
+    industrialization and immigration of the rural population, in the second
+    half of the 19th century, caused a significant rise in the urban population
+    and the search for low-cost housing in the main cities — Lisbon and Oporto.
+    Until the end of the 19th century, working class housing was built
+    essentially by private promoters and, either in the form of «islands» in
+    Oporto or «patios» in Lisbon, was characterised by its bad quality. The
+    period that began in 1880, corresponded in Portugal and, in the majority of
+    European countries, to the increased awareness of the housing crisis in the
+    cities and to the dra wing-up of strategies to resolve the housing problem
+    of the low-income families, by the public powers. And so, government
+    intervention began in the field of housing, firstly through the passing of
+    legislation, and, already in this century, through the construction of
+    housing, directly by the local and central government. The successive
+    strategies for housing, drawn up during the period between 1880 and 1940,
+    reflect the different ideologies of the political regimes that created them
+    — the monarchy, the republican regime, the New State (o Estado Novo) — and
+    the different economic and social conditions, for which they tried to cater.
+    Housing, built by the state, always represented a small share of the market
+    and was essentially built with political motives. The types of housing that
+    the poorer classes could attain, continued to be precarious and, until
+    today, the informal sector represents an important part of the housing
+    market in Portugal.
+  accessed:
+    - year: 2020
+      month: 7
+      day: 6
+  archive: JSTOR
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  citation-key: teixeira:1992estrategias27
+  container-title: Análise Social
+  ISSN: 0003-2573
+  issue: '115'
+  issued:
+    - year: 1992
+  language: por
+  page: 65-89
+  publisher: Instituto Ciências Sociais da Universidad de Lisboa
+  source: JSTOR
+  title: As estratégias de habitação em Portugal, 1880-1940
+  type: article-journal
+  URL: https://www.jstor.org/stable/41010899
+  volume: '27'
+
+- id: teixeira:1994habitacao29
+  abstract: >-
+    As ilhas constituem a forma típica de habitação operária desenvolvida no
+    Porto na segunda metade do século xix. A maior parte das ilhas consistem em
+    filas de pequenas casas de um só piso, com áreas que muitas vezes não
+    excedem os 16 m², construídas nos quintais das traseiras de antigas
+    habitações das classes médias e com acesso para a rua apenas através de
+    estreitos corredores por debaixo destas habitações à face da rua. As ilhas
+    foram uma consequência da industrialização do Porto e da necessidade de
+    alojar o elevado número de emigrantes que se deslocaram para a cidade na
+    segunda metade do século xix. No final do século, as ilhas alojavam cerca de
+    um terço da população do Porto. As ilhas eram a forma de habitação que se
+    adequava aos recursos económicos dos seus habitantes, à capacidade de
+    investimento dos seus promotores e às condições espaciais em que se
+    construíram. É aqui examinado o conjunto de circunstâncias económicas,
+    sociais e espaciais que deram origem a este tipo de habitação, que
+    justificam as suas características morfológicas e a sua localização na
+    cidade. São também examinados os processos de transmissão de modelos formais
+    que se verificaram entre as ilhas do Porto e os cortiços do Rio de Janeiro.
+    Estas duas formas de habitação popular construídas na segunda metade do
+    século xix, no Porto e no Rio de Janeiro, evidenciam grandes semelhanças,
+    podendo ser encontrados paralelos nas suas características formais e
+    localização na cidade, bem como nas condições sociais, tipo de promotores e
+    processos de desenvolvimento que lhes deram origem. Os emigrantes
+    portugueses tiveram aqui um papel determinante na transmissão de modelos e
+    no desenvolvimento deste tipo de habitação popular no Rio de Janeiro. Les
+    îlots sont la forme la plus caractéristique des habitations ouvrières
+    développées à Porto dans la seconde moitié du xixéme siècle. La plupart des
+    îlots sont des alignements de petites maisons à un seul étage, construites
+    sur des surfaces fréquemment inférieures à 16m² , dans les jardins situés à
+    l'arrière des anciennes habitations des classes moyennes. Les îlots ne sont
+    reliés à la rue que par d'étroits couloirs passant au-dessous de ces
+    habitations ayant pignon sur rue. Les îlots sont une conséquence de
+    l'industrialisation de Porto, ils sont nés du besoin de loger le nombre
+    élevé d'emigrants qui arrivèrent dans la ville dans la seconde moitié du
+    xixème siècle. À la fin du siècle, les îlots abritaient près d'un tiers de
+    la population de Porto. Cette forme d'habitation s'adaptait aux ressources
+    économiques de leurs habitants, à la capacité d'investissement de leurs
+    promoteurs et aux conditions spatiales dans lesquelles ils furent
+    construits. Cet article examine les circonstances économiques, sociales et
+    spatiales qui sont à l'origine de ce type d'habitation, qui justifient leurs
+    caractéristiques morphologiques et leur localisation dans la ville. Il
+    examine également les processus de transmission des modèles formels entre
+    les îlots de Porto et les «cortiços» de Rio de Janeiro. Ces deux formes
+    d'habitation populaire, construites dans la seconde moitié du XIXème siecle
+    à Porto et à Rio de Janeiro, manifestent de grandes similitudes. Des
+    parallèles peuvent être mis en évidence au niveau de leurs caractéristiques
+    formelles et de leur localisation dans la ville, ainsi qu'au niveau des
+    conditions sociales, du type de promoteurs et des processus de développement
+    qui sont à leur origine. Les emigrants portugais ont joué un rôle
+    déterminant dans la transmission des modèles et dans le développement de ce
+    type d'habitation populaire à Rio de Janeiro. The «ilhas» (islands) are the
+    most characteristic form of working class housing developed in Oporto during
+    the second half of the nineteenth century. Most ilhas consisted of
+    one-storey terraces, and the houses were often no larger than 16 m². Built
+    in the back gardens of old middle class housing, the ilhas were reached from
+    the street through narrow corridors running under the houses of the
+    better-off classes. The ilhas were a consequence of the industrialisation of
+    Oporto and responded to the need to house the large number of emigrants who
+    flocked to the city during the second half of the nineteenth century. They
+    were the type of housing which corresponded to the economic resources of
+    their inhabitants, to the investment capacity of the developers and the
+    spatial limitations in which they were built. The paper examines the
+    economic, social and spatial circumstances which produced this type of
+    housing, which justify their morphological characteristics and their
+    location in the city. The transmission of formal models between the ilhas in
+    Oporto and the cortiços in Rio de Janeiro is also examined. There are great
+    similarities between these two forms of working class housing built in the
+    second half of the nineteenth century in Oporto and Rio de Janeiro;
+    parallels can be drawn between their formal characteristics and location in
+    the city, and also between the social conditions, the type of developers and
+    the development processes which produced them. Portuguese emigrants played a
+    crucial role in transmitting models and in developing this form of working
+    class housing in Rio de Janeiro.
+  accessed:
+    - year: 2020
+      month: 6
+      day: 3
+  archive: JSTOR
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  citation-key: teixeira:1994habitacao29
+  container-title: Análise Social
+  ISSN: 0003-2573
+  issue: '127'
+  issued:
+    - year: 1994
+  language: por
+  page: 555-579
+  publisher: Instituto Ciências Sociais da Universidad de Lisboa
+  source: JSTOR
+  title: >-
+    A habitação popular no século <span style="font-variant: all-small-caps"
+    smallcaps="smallcaps">XIX</span>: características morfológicas, a
+    transmissão de modelos: as ilhas do Porto e os cortiços do Rio de Janeiro
+  title-short: A habitação popular no século <span smallcaps="smallcaps">XIX</span>
+  type: article-journal
+  URL: https://www.jstor.org/stable/41011021
+  volume: '29'
+
+- id: teixeira:1996habitacao
+  author:
+    - family: Teixeira
+      given: Manuel C.
+  call-number: '728'
+  citation-key: teixeira:1996habitacao
+  collection-title: Textos universitários de ciências sociais e humanas
+  contributor:
+    - family: Távora
+      given: Fernando
+  event-place: Lisboa
+  ISBN: 978-972-31-0700-5
+  issued:
+    - year: 1996
+  language: por
+  number-of-pages: '501'
+  publisher: >-
+    Fundação Calouste Gulbenkian : Junta Nacional de Investigação Científica e
+    Tecnológica
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Habitação popular na cidade oitocentista: as ilhas do Porto'
+  title-short: Habitação popular na cidade oitocentista
   type: book
 
 - id: teixeira:2004descricao

@@ -1,7 +1,7 @@
 ---
 title: "Ofícios e regulações"
 date : 2025-05-29
-tags: [ "aula", "oficios", "tradicional" ]
+tags: [ "aula", "oficios", "antecedentes" ]
 header:
   teaser: "/assets/media/320x213px-Benedito_Calixto-Largo_da_See_em_1865.jpg"
   overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Benedito_Calixto-Largo_da_Sé_em_1865.tif/lossy-page1-2560px-Benedito_Calixto-Largo_da_Sé_em_1865.tif.jpg"
