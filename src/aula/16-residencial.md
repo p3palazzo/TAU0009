@@ -2,6 +2,9 @@
 title: "Programas residenciais"
 date : 2025-07-03
 tags : [ "aula", "tradicional" ]
+author: "Pedro Palazzo"
+lang: "pt-PT"
+figureTitle: "Figura"
 excerpt: >
   Da casa de morada ao programa residencial –
   O gosto burguês e a aristocracia tradicional –
@@ -470,7 +473,72 @@ a adoção de sistemas construtivos e ornamentos extraídos
 da construção formal, quando não daquela erudita.
 
 
-# Apartamentos #
+# Novas e renovadas tipologias #
+
+<!--Apartamentos e casas da classe média-->
+
+O crescimento da cidade contemporânea ensejou
+uma crescente especialização da tipologia doméstica,
+tanto pela diferenciação de densidades de ocupação
+quanto pela segmentação da morfologia segundo o gradiente
+das classes sociais.
+Excetuado o caso de Lisboa, onde os prédios conhecidos como
+"esquerdo--direito" já existiam desde ao menos o período joanino
+(primeira metade do século [XVIII]{.smallcaps}),
+o morar em apartamento terá sido introduzido, timidamente,
+no Rio de Janeiro na segunda metade do século [XIX]{.smallcaps}, e
+em outras cidades do mundo lusófono somente no século [XX]{.smallcaps}.
+No tocante à distinção de classe social,
+a diferenciação entre a classe média e a classe operária
+ganhou forma sob o capitalismo industrial.
+Consequentemente,
+a morada da classe média tende a assumir uma identidade própria
+que não consistia mais numa versão em tudo ampliada da casa popular.
+Por outro lado, ainda que o padrão habitacional dessa classe média
+aspirasse a certos ideais da vida burguesa,
+a sua casa tampouco era uma versão em tudo acanhada da casa burguesa.
+
+## O prédio de apartamentos ##
+
+A genealogia do prédio de apartamentos contemporâneo é híbrida,
+por isso não faz sentido recorrer a marcos definitivos
+do que tenha sido o "primeiro" prédio de apartamentos em cada cidade.
+O morar em prédios raramente se configura como uma sobreposição
+de plantas de casas unifamiliares --- na verdade,
+essa é uma solução, como já vimos, inicialmente proposta para
+a morada popular.
+Em Lisboa, o prédio de rendimentos joanino e depois pombalino
+teve longa sobrevida.
+Mesmo aí, contudo, o modelo do prédio Haussmanniano
+com corredor comum em torno a um poço de iluminação
+seria adotado devido à sua eficiência em organizar
+um número maior de unidades por piso.
+
+Além disso, a introdução dos elevadores internos após 1900
+permitiria uma reorganização do *status* social de diferentes andares.
+Os apartamentos mais elegantes deixavam então de estar presos
+ao primeiro andar, por facilidade de acesso pelas escadas,
+e podiam, graças ao elevador, ser alçados ao terceiro ou quarto piso.
+No caso extremo, concretizado no edifício Martinelli em São Paulo,
+completado em 1934, o apartamento mais elegante passava a estar
+na cobertura do prédio.
+
+O Martinelli era representante da outra genealogia
+do prédio de apartamentos contemporâneo.
+Esta não se originava tão diretamente dos prédios de rendimentos
+da Idade Moderna, e sim do desenvolvimento da arquitetura hoteleira.
+O programa do hotel de trânsito se originava da interseção entre
+o crescimento urbano e a massificação da viagem.
+Os tradicionais quartos sobre estabelecimentos de alimentação,
+que desde a Idade Média haviam atendido à demanda dos viajantes,
+já não comportavam mais o volume do turismo e das viagens de negócios,
+nem a escala necessária à rentabilidade dos edifícios
+nos grandes centros urbanos.
+Entretanto, os hotéis também passaram a atender a um mercado
+residencial, sobretudo formado por adultos solteiros.
+
+
+## O predinho suburbano ##
 
 
 # Conclusão # {-}
