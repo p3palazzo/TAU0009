@@ -2831,6 +2831,32 @@ references:
   title-short: Os tempos da cidade
   type: chapter
 
+- id: colombina:1749mappa
+  abstract: BNDigital
+  accessed:
+    - year: 2025
+      month: 2
+      day: 27
+  archive: Biblioteca Nacional (Brasil), coleção Morgado de Mateus
+  archive_location: 049,05,008 n.03 - Manuscritos
+  author:
+    - family: Colombina
+      given: Francisco Tosi
+  citation-key: colombina:1749mappa
+  genre: '1 mapa ms. : col., desenhado a nanquim ; 65 × 45,2 cm em f. 66,5 × 48 cm'
+  issued:
+    - year: 1749
+      circa: true
+    - year: 1753
+  language: por
+  title: >-
+    Mappa da capitania de S. Paulo, e seu sertão em que devem os descobertos,
+    que lhe forão tomados para Minas Geraes, como tambem o camiho de Goyazes,
+    com todos os seus pouzos, e passagens
+  title-short: Mappa da capitania de S. Paulo
+  type: map
+  URL: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1689
+
 - id: corona:2017dicionario
   abstract: >-
     Originalmente publicado em fascículos na revista Acrópole, o DICIONÁRIO DA
@@ -3034,6 +3060,25 @@ references:
   title: 'Ammaia: a Roman town in Lusitania'
   title-short: Ammaia
   type: book
+
+- id: cortes:1749mapa
+  abstract: BNDigital
+  accessed:
+    - year: 2025
+      month: 2
+      day: 27
+  archive: Biblioteca Nacional (Brasil)
+  archive_location: ARC.030,01,009 - Cartografia
+  citation-key: cortes:1749mapa
+  issued:
+    - year: 1749
+  language: por
+  title: >-
+    [Mapa das cortes] Mapa dos confins do Brazil com as terras da Coroa da
+    Espanha na America Meridional…
+  title-short: Mapa dos confins do Brazil
+  type: map
+  URL: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1385
 
 - id: costa:1941arquitetura
   author:
@@ -4464,6 +4509,35 @@ references:
   title: 'Quinta da Boa Vista: de espaço de elite a espaço público'
   type: article-journal
   volume: '13'
+
+- id: ferreira:2012cartografiaXVI
+  accessed:
+    - year: 2025
+      month: 2
+      day: 27
+  author:
+    - family: Ferreira
+      given: Ângela Lúcia de Araújo
+    - family: Dantas
+      given: George Alexandre Ferreira
+    - family: Simonini
+      given: Yuri
+  citation-key: ferreira:2012cartografiaXVI
+  container-title: 'Scripta Nova: revista electrónica de geografía y ciencias sociales'
+  DOI: 1138-9788
+  issue: '418'
+  issued:
+    - year: 2012
+      month: 9
+      day: 1
+  language: por
+  title: >-
+    Cartografia do (De)Sertão do Brasil: notas sobre uma imagem em formação –
+    séculos XIX e XX
+  title-short: Cartografia do (De)Sertão do Brasil
+  type: article-journal
+  URL: https://www.ub.edu/geocrit/sn/sn-418/sn-418-69.htm
+  volume: XVI
 
 - id: figueiredo:2011caracterizacao7
   abstract: >-
@@ -7888,6 +7962,44 @@ references:
     smallcaps="smallcaps">XV–XVIII</span>)
   type: chapter
 
+- id: moraes:2003sertao
+  abstract: >-
+    O sertão não se qualifica, do ponto de vista clássico da geografia, como um
+    tipo empírico de lugar, isto é, ele não se define por características
+    intrínsecas de sua composição ou do arranjo de seus elementos numa paisagem
+    típica. Não são as características do meio natural que lhe conferem
+    originalidade, como o clima, o relevo, ou as formações vegetais.  O sertão
+    não é, portanto, uma obra da nature­za. Não há um espaço peculiar, cuja
+    naturalidade própria, permita uma tipologização consistente ...
+  accessed:
+    - year: 2025
+      month: 2
+      day: 27
+  author:
+    - family: Moraes
+      given: Antonio Carlos Robert
+  citation-key: moraes:2003sertao
+  container-title: >-
+    Terra Brasilis. Revista da Rede Brasileira de História da Geografia e
+    Geografia Histórica
+  container-title-short: Terra Brasilis
+  DOI: 10.4000/terrabrasilis.341
+  ISSN: 1519-1265
+  issue: 4-5
+  issued:
+    - year: 2003
+      month: 1
+      day: 1
+  language: por
+  license: All rights reserved
+  number: 4 - 5
+  publisher: Rede Brasileira de História da Geografia e Geografia Histórica
+  source: journals.openedition.org
+  title: 'O Sertão: um “outro” geográfico'
+  title-short: O Sertão
+  type: article-journal
+  URL: https://journals.openedition.org/terrabrasilis/341
+
 - id: morales:1955teoria
   author:
     - family: Morales de los Rios Filho
@@ -10463,6 +10575,31 @@ references:
   title: The process of sedentism in northwestern South America
   type: chapter
   URL: https://doi.org/10.1007/978-0-387-74907-5_5
+
+- id: rego:2016sertao
+  abstract: "Os sertões foram conquistados e ocupados aos poucos, com base em um conhecimento dividido entre mito e realidade. Criou-se assim uma \"geografia imaginária\" sobre os sertões dos dois lados do Atlântico, que começou a ser superada com mais vigor no século XVIII. Até então, o interior do continente constituía um extenso vazio cartográfico que, a partir daí, começou a ser preenchido. Esse preenchimento somente foi possível, a exemplo do que ocorreu com a própria expansão pelos sertões, por uma estreita interpendência entre as ações da Coroa e as dos particulares.PALAVRAS-CHAVE\_sertão; expansão territorial; geografia imaginária"
+  accessed:
+    - year: 2025
+      month: 2
+      day: 27
+  author:
+    - family: Rêgo
+      given: André Heráclio
+      dropping-particle: do
+  citation-key: rego:2016sertao
+  container-title: Revista do Instituto de Estudos Brasileiros
+  container-title-short: Rev. Inst. Estud. Bras.
+  DOI: https://doi.org/10.11606/issn.2316-901X.v0i63p42-66
+  ISSN: 0020-3874, 2316-901X
+  issued:
+    - literal: 2016-Jan-Apr
+  language: por
+  page: 42-66
+  publisher: Instituto de Estudos Brasileiros
+  source: SciELO
+  title: O sertão e a geografia
+  type: article-journal
+  URL: https://www.scielo.br/j/rieb/a/vLkjPnnvyz3B6vMbkpkhQcN/?lang=pt
 
 - id: reis:1964catalogo
   abstract: >-
