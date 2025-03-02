@@ -10,9 +10,59 @@ excerpt: >
   O gosto burguês e a aristocracia tradicional –
   Políticas habitacionais para a classe operária.
 header:
+  overlay_image: "/assets/media/tobias-gigantes_pigmeus-google.jpg"
+  teaser: "/assets/media/320x213px-tobias-gigantes_pigmeus-google.jpg"
+  caption: >
+    Benedito José Tobias, <cite>Gigantes e pigmeus</cite>, 1934. Acervo 
+    <a href="https://g.co/arts/Ca9ZuXp8wGWzYGWv8">Pinacoteca do Estado de São Paulo</a>
 ---
 
 # Introdução # {-}
+
+O crescimento da cidade contemporânea ensejou
+uma especialização cada vez maior da tipologia doméstica,
+tanto pela diferenciação de densidades de ocupação
+quanto pela segmentação da morfologia segundo o gradiente
+das classes sociais.
+<!--01/03/2025-->
+Na cidade de São Paulo representada em 1934 por Benedito José Tobias
+(@fig:pigmeus), quase todo o espectro é visível:
+desde os casebres miseráveis em primeiro plano até
+o prédio alto no fundo, passando por
+casarões antigos com amplos quintais e por
+casas correntes de classe média com comércio no térreo.
+Faltam só as casas de chácara aristocráticas e
+os palacetes burgueses, tranquilamente postados
+nos bairros afastados deste burburinho central.
+A especialização dos programas residenciais a partir
+da virada do século [XIX]{.smallcaps} estabeleceu uma tipologia
+para todas essas classes:
+da casa burguesa à habitação popular, que visava a erradicar
+os defeitos de higiene e de moral dos casebres,
+e entre os dois extremos uma série de experimentos
+para resolver a morada da classe média.
+
+![Benedito José Tobias, <cite>Gigantes e pigmeus</cite>, 1934. Acervo [Pinacoteca do Estado de São Paulo](https://artsandculture.google.com/asset/gigantes-e-pigmeus-benedito-jos%C3%A9-tobias/gQG3vBtM44YJDQ?hl=pt-BR)](/assets/media/1024px-tobias-gigantes_pigmeus-google.jpg){#fig:pigmeus}
+
+No motor dessa dupla diferenciação, afirma @ramos:2010casa, está
+a gradual especialização monofuncional da casa para atender ao que
+hoje se convencionou chamar *uso residencial*.
+Esse princípio da monofuncionalidade do lar não era, porém, tão simples
+quanto a singeleza do termo "uso residencial" faz parecer.
+Inicialmente, a definição do uso residencial envolvia destrinchar
+as atividades desenvolvidas na casa tradicional entre
+aquelas que passariam a ser consideradas como tarefas domésticas
+e aquelas que seriam consideradas trabalho economicamente produtivo.
+Essa distinção não era neutra, pelo contrário,
+implicava aprofundar uma clivagem de gênero e de classe social
+no tocante ao que seria reconhecido como trabalho *de verdade*,
+por oposição às tarefas de cuidado pessoal e doméstico.
+Por um lado, essa clivagem tinha raízes no sistema patriarcal
+do Antigo regime, no qual a ordem familiar era a base da
+estrutura política [@alencastro:1997vida2].
+Por outro, a ascendente contraposição entre a domesticidade privada
+e o trabalho público representava uma reorganização fundamental
+das relações entre família, burocracia estatal e economia capitalista.
 
 
 # Casa burguesa #
@@ -473,15 +523,13 @@ a adoção de sistemas construtivos e ornamentos extraídos
 da construção formal, quando não daquela erudita.
 
 
-# Novas e renovadas tipologias #
+## Da correnteza planejada à casa de 40 palmos ##
 
-<!--Apartamentos e casas da classe média-->
 
-O crescimento da cidade contemporânea ensejou
-uma crescente especialização da tipologia doméstica,
-tanto pela diferenciação de densidades de ocupação
-quanto pela segmentação da morfologia segundo o gradiente
-das classes sociais.
+# Invenção da classe média #
+
+## Prédio de apartamentos ##
+
 Excetuado o caso de Lisboa, onde os prédios conhecidos como
 "esquerdo--direito" já existiam desde ao menos o período joanino
 (primeira metade do século [XVIII]{.smallcaps}),
@@ -497,8 +545,6 @@ que não consistia mais numa versão em tudo ampliada da casa popular.
 Por outro lado, ainda que o padrão habitacional dessa classe média
 aspirasse a certos ideais da vida burguesa,
 a sua casa tampouco era uma versão em tudo acanhada da casa burguesa.
-
-## O prédio de apartamentos ##
 
 A genealogia do prédio de apartamentos contemporâneo é híbrida,
 por isso não faz sentido recorrer a marcos definitivos
@@ -538,7 +584,28 @@ Entretanto, os hotéis também passaram a atender a um mercado
 residencial, sobretudo formado por adultos solteiros.
 
 
-## O predinho suburbano ##
+## Predinhos suburbanos ##
+
+
+# Cozinhas e banhos #
+
+## Segregação do trabalho doméstico ##
+
+<!--
+   -Segregação espacial dos cuidadores e
+   -segmentação do trabalho de preparo
+   -graças aos ingredientes embalados.
+   -->
+
+
+## Equipamentos e consumo ##
+
+<!--
+   -Introdução de infraestrutura e equipamentos
+   -na cozinha e no banheiro estabelece novas
+   -relações de consumo, tornando a casa
+   -(mais) dependente do comércio.
+   -->
 
 
 # Conclusão # {-}
