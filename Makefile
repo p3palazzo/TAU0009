@@ -1,51 +1,42 @@
 # {{{1 Variables
 #      =========
 VPATH = . assets
-vpath %.bib _bibliography
 vpath %.html . _includes _layouts _site
-vpath %.scss _sass slides/reveal.js/css/theme/template
+vpath %.scss _scss slides/reveal.js/css/theme/template
 vpath %.yaml . _data
 vpath %.json _data
 
-PANDOC_V := 3.1.1
-PANDOC := docker run --rm -v "`pwd`:/data" \
-	-u "`id -u`:`id -g`" pandoc/core:$(PANDOC_V)
-
 ASSETS  = $(wildcard assets/*)
-SASS    = _revealjs-settings.scss \
-					mixins.scss settings.scss theme.scss
+AULA    = $(wildcard src/aula/*.md)
+SLIDES  = $(patsubst src/aula/%.md,src/slides/%/index.html,$(AULA))
 
 # {{{1 Recipes
 #      =======
 .PHONY : _site
-_site : bibliografias src
-	@echo "####################"
-	@npm build
+_site : $(SLIDES)
+	@npm run build
 
 .PHONY : serve
-serve : bibliografias
+serve : bibliografias slides
 	@echo "####################"
 	@npm start
 
 src/%.md : docs/%.md _data/biblio.yaml
-	@$(PANDOC) -f markdown -t commonmark_x --standalone \
+	@pandoc -f markdown -t commonmark_x --standalone \
 		--reference-links --reference-location=block \
 		--shift-heading-level-by=1 \
 		--filter=pandoc-crossref -C --bibliography=_data/biblio.yaml \
 		--csl=_data/chicago-note-bibliography.csl -o $@ $<
 	@echo "🔄 $@"
 
-src/_includes/partials/%.html : _data/%.json _data/chicago-note-bibliography.csl
-	@$(PANDOC) -f csljson --citeproc -Mlang=pt_BR \
-		--csl=$(word 2,$^) \
-		-o $@ $<
-	@echo "🔄 $@"
-
-src/slides/%/index.html : docs/%.md revealjs.yaml
+src/slides/%/index.html : src/aula/%.md revealjs.yaml biblio.yaml
 	@-mkdir -p $(@D)
-	@$(PANDOC) -d _data/revealjs.yaml \
+	@pandoc -d _data/revealjs.yaml \
 		-o $@ $<
 	@echo "🔄 $(@D)"
+
+.PHONY : slides
+slides : $(SLIDES)
 
 .PHONY : bibliografias
 bibliografias : src/_includes/partials/biblio-basica.html \

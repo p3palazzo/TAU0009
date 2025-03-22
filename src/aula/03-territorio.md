@@ -323,7 +323,7 @@ oferecem outras variações dentro dos paradigmas portugueses.
 O traçado originário de Salvador, dado talvez por Luís Dias
 em 1548 e executado no ano seguinte por um ajudante, foi
 reconstituído por Theodoro Sampaio em 1916.
-[@sampaio:1916planta, *apud* @vaz:2017sertao]
+[@sampaio:1916planta1, *apud* @vaz:2017sertao]
 Nessa reconstituição, é possível inferir a concepção de uma
 praça forte cujo traçado urbano é formado por duas ruas da
 frente enquadrando uma rua de trás, e cujas fortificações

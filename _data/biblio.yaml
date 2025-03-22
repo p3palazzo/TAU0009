@@ -142,6 +142,41 @@ references:
   type: book
   volume: '2'
 
+- id: alencastro:1997vida2
+  abstract: >-
+    "Excellent essays by top scholars (F. Novais, L. de Mello e Souza, L. Mezan
+    Algranti, L. Mott, R. Vainfas, M. del Priore, L. Villalta, and I. Jancso)
+    focus on economic, political, and social issues related to private life in
+    colonial Brazil. Beautifully illustrated and engagingly written. Highly
+    recommended"--Handbook of Latin American Studies, v. 58
+  author:
+    - family: Alencastro
+      given: Luiz Felipe
+      dropping-particle: de
+  call-number: GT2402.B6 H57 1997
+  citation-key: alencastro:1997vida2
+  collection-editor:
+    - family: Novais
+      given: Fernando A.
+  container-title: História da vida privada no Brasil
+  editor:
+    - family: Alencastro
+      given: Luiz Felipe
+      dropping-particle: de
+  event-place: São Paulo
+  ISBN: 978-85-7164-681-0
+  issued:
+    - year: 1997
+  language: por
+  page: 11–94
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Library of Congress ISBN
+  title: Vida privada e ordem privada no Império
+  title-short: Introdução
+  type: chapter
+  volume: '2'
+
 - id: algranti:1997familias1
   author:
     - family: Algranti
@@ -351,6 +386,31 @@ references:
   title-short: Arquitectura neomedieval portuguesa
   type: book
   volume: '1'
+
+- id: anastasio:2020building
+  accessed:
+    - year: 2021
+      month: 1
+      day: 15
+  author:
+    - family: Anastasio
+      given: Stefano
+  citation-key: anastasio:2020building
+  event-place: Oxford
+  ISBN: 978-1-78969-603-5
+  issued:
+    - year: 2020
+  language: eng
+  publisher: Archaeopress
+  publisher-place: Oxford
+  source: Open WorldCat
+  title: >-
+    Building between the two rivers: an introduction to the building archaeology
+    of ancient Mesopotamia
+  title-short: Building between the two rivers
+  type: book
+  URL: >-
+    https://ebookcentral.proquest.com/lib/umoncton-ebooks/detail.action?docID=6320960
 
 - id: andre:2016arquitectura
   abstract: >-
@@ -926,7 +986,7 @@ references:
   collection-number: '9'
   collection-title: Petracos
   event-place: Alicante
-  ISBN: 978-84-13-02202-4
+  ISBN: 978-84-1302-202-4
   issued:
     - year: 2022
   language: spa
@@ -1783,7 +1843,7 @@ references:
     - year: 2011
       month: 3
       day: 1
-  language: pt
+  language: por
   page: 89–106
   source: Crossref
   title: >-
@@ -2878,7 +2938,7 @@ references:
       given: Carlos
   citation-key: corona:2017dicionario
   collection-number: '3'
-  collection-title: <span smallcaps="smallcaps">RG</span> Facsimile
+  collection-title: RG Facsimile
   contributor:
     - family: Santos
       given: Silvana Romano
@@ -3070,13 +3130,18 @@ references:
   archive: Biblioteca Nacional (Brasil)
   archive_location: ARC.030,01,009 - Cartografia
   citation-key: cortes:1749mapa
+  contributor:
+    - family: Gusmão
+      given: Alexandre
+      dropping-particle: de
+  genre: '1 mapa ms : col ; 60 × 54cm em f. 70 × 64'
   issued:
     - year: 1749
   language: por
   title: >-
-    [Mapa das cortes] Mapa dos confins do Brazil com as terras da Coroa da
+    [Mapa das Cortes] Mapa dos confins do Brazil com as terras da Coroa da
     Espanha na America Meridional…
-  title-short: Mapa dos confins do Brazil
+  title-short: Mapa das Cortes
   type: map
   URL: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1385
 
@@ -3124,7 +3189,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1978
-  language: pt
+  language: por
   license: Catalogue en ligne de la Bibliothèque nationale de France
   number-of-pages: '72'
   publisher: Instituto Brasileiro de Geografia e Estatística
@@ -5499,7 +5564,7 @@ references:
     - family: Soster
       given: Sandra Schmitt
   event-place: Goiânia
-  ISBN: '9786599238499'
+  ISBN: 978-65-992384-9-9
   issued:
     - year: 2022
   language: por
@@ -5648,7 +5713,7 @@ references:
       given: David
   citation-key: graeber:2022despertar
   event-place: São Paulo
-  ISBN: '9786559211722'
+  ISBN: 978-65-5921-172-2
   issued:
     - year: 2022
       month: 8
@@ -6594,6 +6659,28 @@ references:
     Architecture of regionalism in the age of globalization: peaks and valleys
     in the flat world
   title-short: Architecture of regionalism in the age of globalization
+  type: book
+
+- id: lefebvre:1981production
+  author:
+    - family: Lefebvre
+      given: Henri
+  call-number: '141'
+  citation-key: lefebvre:1981production
+  collection-title: Ethnosociologie
+  edition: '2'
+  event-place: Paris
+  ISBN: 978-2-7178-3954-8
+  issued:
+    - year: 1981
+  language: fre
+  number-of-pages: '485'
+  original-date:
+    - year: 1974
+  publisher: Anthropos
+  publisher-place: Paris
+  source: webopac.sib.uc.pt Library Catalog
+  title: La production de l'espace
   type: book
 
 - id: leite:2018urbanistica
@@ -8370,7 +8457,7 @@ references:
   ISBN: 978-85-7010-014-6
   issued:
     - year: 1986
-  language: pt
+  language: por
   publisher: Pool
   publisher-place: Recife
   source: Open WorldCat
@@ -8826,7 +8913,7 @@ references:
       given: Michela Sagrillo
   event-place: Vitória
   event-title: 6.^a^ Conferência da Rede Lusófona de Morfologia Urbana
-  ISBN: 978-85-545-8007-0
+  ISBN: 978-85-5458-007-0
   issued:
     - year: 2017
   language: por
@@ -8989,7 +9076,7 @@ references:
       given: Marco Antônio Penido
       dropping-particle: de
   event-place: Salvador ; Belo Horizonte
-  ISBN: '9786556303376'
+  ISBN: 978-65-5630-337-6
   issued:
     - year: 2022
   language: por
@@ -9064,7 +9151,7 @@ references:
   event-title: >-
     V Seminário Internacional da Academia das Escolas de Arquitetura e Urbanismo
     de Língua Portuguesa
-  ISBN: 978-989-53-4625-7
+  ISBN: 978-989-53462-5-7
   issued:
     - year: 2023
       month: 12
@@ -9085,6 +9172,55 @@ references:
   type: paper-conference
   URL: https://aeaulp.fa.ulisboa.pt/index.php/pt/proximidades-distantes
   volume: '2'
+
+- id: palladio:1570quattro
+  author:
+    - family: Palladio
+      given: Andrea
+  citation-key: palladio:1570quattro
+  event-place: Venezia
+  issued:
+    - year: 1570
+  language: ita
+  publisher: Dominico de’ Franceschi
+  publisher-place: Venezia
+  title: I quattro libri dell’architettura
+  type: book
+  URL: https://archive.org/details/qvattrolibridel00pall/
+
+- id: palladio:1790quattro
+  abstract: >-
+    Engraved architectural title-pages and full-page engraved illustrations by
+    Giovanni Silvestrini; Sloan candidate; Bound as 1 vol. in old marbled
+    paper-covered boards; gilt vellum spine; edges stained yellow; Library copy
+    imperfect: lacks book 4
+  accessed:
+    - year: 2018
+      month: 5
+      day: 10
+  author:
+    - family: Palladio
+      given: Andrea
+  call-number: '54068'
+  citation-key: palladio:1790quattro
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Siena
+  issued:
+    - year: 1790
+  language: ita
+  number-of-pages: '326'
+  publisher: Alessandro Mucci
+  publisher-place: Siena
+  source: Internet Archive
+  title: >-
+    I quattro libri dell'architettura di Andrea Palladio : ne quali dopo un
+    breve trattato de' cinque ordini, e di quelli avvertimenti, che sono più
+    necessarj nel fabbricare : si tratta delle case private, delle vie, dei
+    ponti, delle piazze, dei xisti, e dei tempj
+  title-short: I quattro libri dell'architettura di Andrea Palladio
+  type: book
+  URL: http://archive.org/details/iquattrolibridel00pall
 
 - id: palma:2016desenvolvimento
   abstract: >-
@@ -9381,7 +9517,7 @@ references:
   ISBN: 978-0-520-28585-9
   issued:
     - year: 2016
-  language: en
+  language: eng
   number-of-pages: '296'
   publisher: University of California Press
   publisher-place: Oakland, Cal.
@@ -10527,6 +10663,30 @@ references:
   title: História de Portugal
   type: book
 
+- id: ramos:2010casa
+  author:
+    - family: Ramos
+      given: Rui Jorge Garcia
+  call-number: NA7388 .R36 2010
+  citation-key: ramos:2010casa
+  collection-number: '21'
+  collection-title: Série 1. Ensaios
+  event-place: Porto
+  ISBN: 978-972-9483-97-4
+  issued:
+    - year: 2010
+  language: por
+  number-of-pages: '636'
+  publisher: FAUP Publicações
+  publisher-place: Porto
+  source: Library of Congress ISBN
+  title: >-
+    A casa: arquitectura e projecto doméstico na primeira metade do século <span
+    style="font-variant: all-small-caps" smallcaps="smallcaps">XX</span>
+    português
+  title-short: A casa
+  type: book
+
 - id: raymond:2008process
   abstract: >-
     Village life had an early start in the lowlands of northwestern South
@@ -10868,6 +11028,36 @@ references:
     all-small-caps" smallcaps="smallcaps">XX</span>
   title-short: Arte portuguesa
   type: book
+
+- id: rondelet:1812traite1
+  abstract: >-
+    The library's copy has been bound as 7 v., with the plates in volumes 1 and
+    2 bound separately
+  accessed:
+    - year: 2017
+      month: 11
+      day: 27
+  author:
+    - family: Rondelet
+      given: Jean Baptiste
+  call-number: '235551'
+  citation-key: rondelet:1812traite1
+  contributor:
+    - literal: Getty Research Institute
+  event-place: Paris
+  issued:
+    - year: 1812
+  language: fre
+  number-of-pages: '482'
+  number-of-volumes: '4'
+  publisher: Chez l'auteur
+  publisher-place: Paris
+  source: Internet Archive
+  title: Traité théorique et pratique de l'art de bâtir
+  title-short: Traité
+  type: book
+  URL: http://archive.org/details/traitetheoriquee01rond
+  volume: '1'
 
 - id: rossa:2005construcao
   accessed:
@@ -11279,8 +11469,10 @@ references:
       month: 5
       day: 13
   author:
+    - family: D'Angelis
+      given: .
     - family: Santos
-      given: Wilmar R. D’Angelis e Juracilda
+      given: Juracilda
   citation-key: santos:2014habitacao17
   container-title: Cadernos do Ceom
   ISSN: 2175-0173
@@ -11437,6 +11629,44 @@ references:
   publisher-place: Rio de Janeiro
   title: Das casas de morada às casas de vivenda
   type: chapter
+
+- id: sci-arc:2017louis
+  abstract: >-
+    This event did not take place at SCI-Arc. It probably took place at the 1972
+    International Design Conference of Aspen (IDCA).
+
+
+    Louis I. Kahn defines architecture in terms of beauty, wonder, and
+    expression. He characterizes material as a manifestation of spent light. He
+    argues that there is no such thing as architecture, but only the spirit of
+    architecture which can not be broken into categories for the marketplace.  
+
+     Kahn talks about knowing order. He uses the example of the brick wanting to be an arch to demonstrate the brick's inherent nature and order. He relates an allegorical narrative reflecting on art and science, and he explains his efforts to discover the nature around which design is possible.
+     
+     Kahn discusses his work on the Salk Institute and his collaboration with Jonas Salk and Luis Barragán. He talks about various alternative designs and he poetically describes all process and program. He concludes by remarking that desire is the real motivating force for living and expressing.
+  accessed:
+    - year: 2025
+      month: 3
+      day: 22
+  citation-key: sci-arc:2017louis
+  dimensions: '56:46'
+  event-place: Aspen, Colo.
+  issued:
+    - year: 2017
+      month: 9
+      day: 9
+  language: eng
+  performer:
+    - family: Kahn
+      given: Louis I.
+  producer:
+    - literal: SCI-Arc Media Archive
+  publisher: International Design Conference of Aspen
+  publisher-place: Aspen, Colo.
+  source: YouTube
+  title: Louis I. Kahn (June 6, 1972)
+  type: motion_picture
+  URL: https://www.youtube.com/watch?v=ZaUtcKqdL5E
 
 - id: segawa:1996ao
   author:
@@ -12254,7 +12484,7 @@ references:
     - year: 2017
       month: 12
       day: 26
-  language: pt
+  language: por
   page: '236'
   source: Crossref
   title: >-
@@ -12418,7 +12648,7 @@ references:
       given: Alice
     - family: Costa
       given: Aníbal
-  ISBN: 978-989-54-8512-3
+  ISBN: 978-989-54851-2-3
   issued:
     - year: 2022
       month: 6
@@ -13435,9 +13665,9 @@ references:
   ISBN: 978-85-7103-186-9
   issued:
     - year: 2003
-  language: pt-BR
+  language: por
   number-of-pages: '257'
-  publisher: Editora <span smallcaps="smallcaps">ucg</span>
+  publisher: Editora UCG
   publisher-place: Goiânia
   source: Library of Congress ISBN
   title: 'A casa goiana: documentação arquitetônica'
@@ -13951,6 +14181,29 @@ references:
   title: Theory of mouldings
   type: book
 
+- id: watanabe:1974shinto
+  accessed:
+    - year: 2021
+      month: 8
+      day: 2
+  archive_location: Biblioteca Central - UNB 726(520) W314i
+  author:
+    - family: Watanabe
+      given: Yasutada
+  citation-key: watanabe:1974shinto
+  collection-number: '3'
+  collection-title: The Heibonsha survey of Japanese art
+  event-place: New York
+  issued:
+    - year: 1974
+  language: eng
+  publisher: Weatherhill
+  publisher-place: New York
+  source: EBSCOhost
+  title: 'Shinto art : Ise and Izumo shrines'
+  title-short: Shinto art
+  type: book
+
 - id: webb:historic
   author:
     - family: Webb
@@ -14031,7 +14284,7 @@ references:
     - family: Weissheimer
       given: Maria Regina
   event-place: Florianópolis
-  ISBN: '9786586514292'
+  ISBN: 978-65-86514-29-2
   issued:
     - year: 2020
       month: 12

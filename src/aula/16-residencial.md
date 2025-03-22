@@ -1,6 +1,6 @@
 ---
 title: "Programas residenciais"
-date : 2025-07-03
+date : 2025-06-26
 tags : [ "aula", "tradicional" ]
 author: "Pedro Palazzo"
 lang: "pt-PT"
@@ -457,6 +457,12 @@ o desenvolvimento dum modo de morar burguês em Portugal e no Brasil
 teve um cariz diverso daquele que se entendia no norte da Europa,
 e que foi nas terras lusófonas apropriado sobretudo
 por parte duma aristocracia culturalmente simpática às vanguardas.
+
+<!--
+   -Sala de jantar como fim da circulação social e articuladora da
+   -integração entre área social e área íntima, cf.
+   -@santos:2005casa [213]
+   -->
 
 
 # Habitação popular #

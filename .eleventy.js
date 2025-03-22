@@ -21,6 +21,7 @@ module.exports = async function(eleventyConfig) {
   // Copy assets/ to _site/assets
   eleventyConfig.addPassthroughCopy(".gitattributes");
   eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("src/slides");
   eleventyConfig.addPassthroughCopy({"node_modules/jquery/dist/jquery.min.js": "assets/js/jquery.min.js"});
   eleventyConfig.addPassthroughCopy({"node_modules/reveal.js": "slides/reveal.js"});
   eleventyConfig.addPassthroughCopy({"node_modules/bootstrap-icons/icons": "assets/icons"});
@@ -65,7 +66,6 @@ module.exports = async function(eleventyConfig) {
   *******************************************************/
   // If needed, return an object configuration
   return {
-    pathPrefix: "/TAU0009/",
     htmlTemplateEngine: "njk",
     //markdownTemplateEngine: "njk",
     dir: {

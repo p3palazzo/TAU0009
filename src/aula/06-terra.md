@@ -5,12 +5,14 @@ category: Fundamentos
 tags: [ "aula", "materia" ]
 header:
   teaser: "/assets/media/320px-ouseley-sgonsalo.jpg"
-  overlay_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg/2560px-Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg"
+  overlay_image: &OVERLAY "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg/2560px-Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg"
   caption: |
     William G. Ousesly, Capela arruinada de S. Gonçalo, Bahia, 1852. Litografia,
     <a href="https://commons.wikimedia.org/wiki/File:Ruined_Chapel_of_S._Gonsalo,_(Bahia),_da_Coleção_Brasiliana_Iconográfica.jpg">
       Pinacoteca do Estado de São Paulo
     </a>
+title-slide-attributes:
+  background-image: *OVERLAY
 excerpt: |
   Construir à compressão pura e com baixa emissão de dióxido de carbono.
 sidebar:
@@ -25,11 +27,37 @@ sidebar:
       </ul>
 ---
 
+# Introdução # {data-visbility="hidden"}
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Cromeleque dos Almendres, Nossa Senhora de Guadalupe, Évora,
+período Neolítico ([VI--III]{.smallcaps} milênios a.C.).
+<br />
+Foto: [Ángel M. Felicísimo, 2016][]
+](/assets/media/2560px-Cromeleque_dos_Almendres_(30768312603).jpg){#fig:almendres .outset}
+
+[Ángel M. Felicísimo, 2016]: https://commons.wikimedia.org/wiki/File:Cromeleque_dos_Almendres_(30768312603).jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na teoria dos quatro elementos da Antiguidade clássica,
+assim como na dos cinco elementos chineses,
+toda a matéria que sai da terra (e que não é nem orgânica, nem metal),
+é ela própria "terra".
+Portanto, quando se fala em terra, estamos falando de
+todos os insumos básicos da construção com alvenarias e afins:
+argila, areia e rocha.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Matéria #
+
+## Conceitos fundamentais ##
 
 ## Origem e processamento ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: aside
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![A argila gorda deve ser misturada com palha antes de ser usada em taipas ou adobes. Desenho: Jean-Pierre Adam](/assets/media/adam-136-impasto-argila-paglia-sgrassante.png){#fig:sgrassante .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

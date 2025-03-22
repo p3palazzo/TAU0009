@@ -300,7 +300,7 @@ Esses espaços de passagem e transição se constituem em
 fulcros de visibilidade na distribuição espacial das casas,
 sinalizando pela sua presença marcante as convenções de
 circulação e os limiares de intimidade.
-[@gurgel:2019neoclassico, p. 205]
+[@gurgel:2018neoclassico, p. 205]
 Ocasionalmente, quando a capela doméstica se encontra
 inteiramente inserida no volume principal da casa, ela
 também pode cumprir esse papel articulador.

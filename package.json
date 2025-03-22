@@ -16,9 +16,9 @@
     "css-compile": "sass --style compressed --source-map --embed-sources --no-error-css --load-path=node_modules _scss/:src/assets/css/",
     "css-lint": "stylelint _scss/",
     "css-prefix": "postcss --replace src/assets/css/main.css --use autoprefixer --map",
-    "watch": "nodemon -e html,scss -x \"npm run css\"",
+    "watch": "nodemon --delay 3 -e html,scss -x \"make slides && npm run css\"",
     "start": "npm-run-all --parallel watch dev",
-    "build": "npm-run-all css 11ty",
+    "build": "make slides && npm-run-all css 11ty",
     "test": "npm-run-all css-lint css"
   },
   "keywords": [

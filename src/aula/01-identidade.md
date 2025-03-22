@@ -60,8 +60,8 @@ seria muito mais tardio.
 A importância de se documentar e classificar a diversidade das casas
 tradicionais portuguesas seria ressaltada já na última década do
 século [XIX]{style="font-variant:all-small-caps"} pelo pintor espanhol
-Enrique Casanova [-@casanova:1895casa1; -@casanova:1895casa2] e por
-Henrique das Neves [-@neves:1896casa1; -@neves:1896casa2].
+Enrique Casanova [-@casanova:1895casa1; -@casanova:1895casa6] e por
+Henrique das Neves [-@neves:1896casaXIX; -@neves:1896casaXIXa].
 No entanto, o estudo da arquitetura civil tradicional ainda haveria de
 permanecer muitos anos dominado por abordagens etnográficas e
 nacionalistas como a do engenheiro e arqueólogo português
