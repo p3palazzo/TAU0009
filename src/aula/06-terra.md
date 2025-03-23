@@ -143,8 +143,18 @@ Rocha (pedra)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Extração de argila para olaria em Mlala, Dwangwa, Malawi. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit .outset}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tanto a argila quanto a areia usadas na confecção dos blocos e tijolos
+devem estar livres de matéria orgânica. Eventualmente, blocos de adobe
+podem ser "aditivados" com fibras ou proteínas orgânicas, mas isso deve
+ser feito de modo controlado. Por isso, os materiais mais
+indicados pelos tratadistas e construtores são a argila e a areia ditas
+"de mina", ou seja, extraídas de encostas ou poços, como neste barranco
+no Malaui ([@fig:claypit]), e não recolhidas na superfície, da margem de
+rios ou do mar.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Extração de argila para olaria em Mlala, Dwangwa, Malawi. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit .outset}
 
 ## Desempenho estrutural ##
 
@@ -211,6 +221,10 @@ impressão de solidez para o edifício.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Interpretação das fundações de muralhas descritas por Vitrúvio, na tradução de [Claude Perrault, 1673](http://archive.org/details/gri_33125008503100)](https://i.pinimg.com/originals/99/11/a3/9911a3e0d03eb5628fde9bc5ce76e161.jpg){#fig:vitruve-pl4}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As fundações existem para distribuir a carga do edifício no solo de modo
 homogêneo. Para isso, a orientação que todos os tratados de arquitetura
@@ -223,8 +237,6 @@ a colunata que vem por cima ([@fig:vitruve-pl4]). Em geral, elas são
 construídas em pedra lavrada ou aparelhada, ou seja, pedras talhadas
 mais grosseiramente e encaixadas sem um aparelho regular.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Interpretação das fundações de muralhas descritas por Vitrúvio, na tradução de [Claude Perrault, 1673](http://archive.org/details/gri_33125008503100)](https://i.pinimg.com/originals/99/11/a3/9911a3e0d03eb5628fde9bc5ce76e161.jpg){#fig:vitruve-pl4 .outset}
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
@@ -447,7 +459,7 @@ Foto: [[ADER--AL]{.smallcaps}, 2014]
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-![Muro em pedra seca com perpianhos, c. 1780--1820. [Christian Lassure e Catherine Ropert, 1984]](https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg){#fig:lassure .outset}
+![Muro em pedra seca com perpianhos, c. 1780--1820. [Christian Lassure e Catherine Ropert, 1984]](https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg){#fig:lassure .outset .line}
 
 [Christian Lassure e Catherine Ropert, 1984]: https://www.pierreseche.com/pierres_saillantes.htm
 
@@ -483,6 +495,14 @@ Fonte: Pereira da Costa, *Enciclopédia prática* v. 13
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em formas menos precisas de alvenaria aparelhada no paramento,
+é comum usar cascalho nas espessas camadas de argamassa
+de assentamento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 ![Alvenaria de pedra em aparelho regular, dita no Brasil *cantaria*,
 em vista e corte:
 aparelhada no paramento (esquerda) e aparelho de perpianhos (direita).
@@ -501,11 +521,26 @@ vegetais, sobre a qual se coloca uma camada de terra; nesses casos, a
 parede tem uma resistência estrutural baixa. Por isso, esses tipos de
 taipa são usados sobretudo para paredes de vedação, ou em construções
 muito pequenas e simples.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Torre albarrã, castelo de Paderne, Albufeira (Algarve),
+século [XI]{.smallcaps}.
+Vista antes do restauro.
+<br />
+Foto: [Raquel Nunes Rodrigues, 2017][]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Paderne%2C_Albufeira_-_Castle_of_Paderne_-_20170311152618.jpg/2560px-Paderne%2C_Albufeira_-_Castle_of_Paderne_-_20170311152618.jpg){#fig:paderne .outset}
+
+[Raquel Nunes Rodrigues, 2017]: https://commons.wikimedia.org/wiki/File:Paderne,_Albufeira_-_Castle_of_Paderne_-_20170311152618.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando se fala em taipa como sistema estrutural, é a taipa de pilão que
 vem à mente: uma série de camadas de terra compactada, geralmente
 assentadas dentro de uma forma temporária (o taipal) ou como um
 terrapleno entre paredes de alvenaria.
+Essa técnica é usada desde tempos imemoriais na bacia do Mediterrâneo,
+por exemplo no castelo islâmico de Paderne (@fig:paderne).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -578,12 +613,6 @@ precisem de contraventamento.
 ![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée\,\_Djenné\,\_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée\,\_Djenné\,\_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée\,\_Djenné\,\_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne .r-stretch}
 
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![A argila gorda deve ser misturada com palha antes de ser usada em taipas ou adobes. Desenho: Jean-Pierre Adam](/assets/media/adam-136-impasto-argila-paglia-sgrassante.png){#fig:sgrassante .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Adobe e tijolo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -595,17 +624,134 @@ Amarrações de tijolos para paredes, colunas e pilares.
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
-<!--Ilustrar amarrações segundo EPCC 13-->
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![A argila gorda deve ser misturada com palha antes de ser usada em taipas ou adobes. Desenho: Jean-Pierre Adam](/assets/media/adam-136-impasto-argila-paglia-sgrassante.png){#fig:sgrassante .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os tijolos cozidos são confeccionados com argila pura ou misturada a
+um aditivo, como a cal ou a pozolana.
+Já os blocos de adobe, assim como a taipa, são feitos com barro
+(mistura de areia e argila) e devem ser melhorados com
+algum aditivo rico em proteínas (@fig:sgrassante):
+palha vegetal, crina animal, fezes, urina ou sangue de gado são
+alguns dos aditivos mais usados.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+![Produção de tijolos numa olaria em Qom, Irã. [Oxlaey, 2015]](https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm){#fig:qom}
+
+[Oxlaey, 2015]: https://commons.wikimedia.org/wiki/File:BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em todos os casos, a obtenção e a correção da matéria-prima, seguida da
+moldagem e secagem dos blocos, pode levar algumas semanas. Em regiões de
+clima úmido, onde se usam sobretudo tijolos cozidos, é preciso deixar
+secar os blocos moldados durante muito mais tempo, talvez até alguns
+meses, antes de os queimar. A queima propriamente dita dura cerca de
+sete dias, a baixa temperatura ([@fig:qom]).
+
+Em qualquer caso, a relativa facilidade
+de se produzir os blocos de adobe ou os tijolos, e as suas pequenas
+dimensões, fazem com que esses componentes possam ser altamente
+padronizados e estocados em grandes quantidades para pronta entrega.
+Ainda assim, a produção de blocos em formas personalizadas, numa olaria
+artesanal, também é simples, o que permite resolver elementos especiais
+como colunas e cimalhas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os tijolos têm a vantagem de serem muito regulares e padronizados, o que
+faz com que as medidas da construção sejam tiradas com facilidade. O
+tijolo tem uma boa relação entre o seu peso próprio e a capacidade
+portante, e pode ser usado para formar paredes muito espessas com
+facilidade. O segredo, como sempre, está em desencontrar as juntas
+verticais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Paredes mistas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Historicamente, os tijolos não eram usados como os únicos elementos
+de um sistema construtivo em alvenaria, exceto
+em regiões onde a pedra era muito escassa.
+A solução mais comum era combinar uma alvenaria comum em pedra lavrada
+com fiadas de regularização em tijolo e perpianhos em pedra aparelhada,
+como na alvenaria romana (@fig:opus-mix).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Obra testácea associada ao aparelho reticulado e a fiadas de regularização em cantaria de pedra](https://i.pinimg.com/originals/13/0d/c6/130dc6d70b9028964895db38f8db5582.jpg){#fig:opus-mix}
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Contrariamente ao senso comum, a arquitetura tradicional também
 distingue entre estrutura portante e divisórias não estruturais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+
 ![Construção do coroamento sobre parede de alvenaria mista. Desenho: Javier de Mingo](https://www.albanecar.es/wp-content/uploads/2018/11/Muro_1802.jpg){#fig:albanecar-asiento}
 
+## Argamassas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O assentamento dos blocos com argamassa é a regra em
+quase todas as tradições da construção murária. Em muitos casos, o
+material de que é feita a argamassa é o mesmo material dos blocos:
+barro, para assentar blocos em adobe, ou cal e areia, para assentar
+blocos de pedra.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em sociedades que fazem uso generalizado de tijolos
+cozidos, a argamassa de cal também costuma ser usada na argamassa, já
+que o procedimento de produção dos dois elementos envolve tecnologias
+semelhantes: a queima com redução de oxigênio, como neste forno de cal
+do século [XVIII]{.smallcaps} [@quintana:2005cal5] ([@fig:montesa]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Forno de cal de Montesa, Valência, Espanha, século [XVIII]{.smallcaps}. Modelagem: [Pablo Aparicio Reso, 2013](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa .nobg}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O sistema construtivo mais difundido na Roma antiga, que muito chamam de
+"concreto romano", na verdade é uma alvenaria de pequenos blocos de
+rocha vulcânica assentados com um volume grande de argamassa pozolânica.
+Os vestígios de alvenaria no parque da via Appia Antica, em Roma,
+mostram a resistência e durabilidade da argamassa pozolânica dos antigos
+romanos, que forma uma parede quase monolítica e consegue se sustentar
+até em balanço ([@fig:7bassi]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vestígios de alvenaria romana na villa dei Sette Bassi, sudeste de Roma, 134--160 d.C. Foto do projeto de [Ana Cristina Azevedo, Eduardo Sinegaglia, Gianluca Vassalo Paleologo, Ivy Stefanie Ramos Baclig, Juliana Lisboa, Marina Amaral e Riccardo Vassalo Paleologo, Università degli studi di Roma Tre, 2014--2015](https://www.behance.net/gallery/29034927/Villa-dei-Sette-Bassi-RESTAURO)](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg){#fig:7bassi .outset}
+
+
+## Tadelakt ##
+
+:::::::::::::::::::::: {.iframe-wrapper #fig:tadelakt .outset .slide-bg}
+<iframe src="https://www.youtube-nocookie.com/embed/s6zFL6N2byg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Aplicação de *tadelakt* na Espanha. Filmagem: [Frecuencia Tierra, 2020]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Frecuencia Tierra, 2020]: https://youtu.be/s6zFL6N2byg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O mesmo material usado para o assentamento dos blocos também pode ser
+usado no revestimento de paredes e mesmo de pisos. O *tadelakt*
+([@fig:tadelakt]), uma mistura polida de barro com gesso (obtido a partir
+da cal), é um revestimento muito usado na bacia do Mediterrâneo e
+vizinhanças, tanto em paredes quanto em pisos. Ele dá um acabamento
+muito liso e com alguma resistência à umidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Procedimentos construtivos #
 
@@ -630,6 +776,25 @@ sistemas e procedimentos empregados na construção original
 ## Estratigrafia ##
 
 ## Reabilitação ##
+
+# Conclusão #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O discurso sobre a origem dos materiais tende a desaparecer dos textos
+arquitetônicos a partir do século [XVII]{.smallcaps}. O fim da
+preocupação com a profundidade inteira da cadeia produtiva da construção
+acompanha uma tripla separação de competências no ofício: num vértice
+temos os arquitetos, que se especializam na solução espacial e estética
+das edificações; num segundo vértice, estão os engenheiros calculistas
+que concebem o equilíbrio estático dessas edificações a partir de
+materiais com propriedades já conhecidas; e, no terceiro vértice, temos
+os construtores que se ocupam de comprar e instalar os componentes
+padronizados. Nenhuma dessas três categorias profissionais tem mais o
+domínio da cadeia produtiva como um todo, nem sequer a necessidade ou as
+atribuições para se ocupar de trechos dessa cadeia que estejam fora da
+sua alçada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ---
 nocite: |
