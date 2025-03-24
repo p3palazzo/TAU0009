@@ -652,7 +652,7 @@ secar os blocos moldados durante muito mais tempo, talvez até alguns
 meses, antes de os queimar. A queima propriamente dita dura cerca de
 sete dias, a baixa temperatura ([@fig:qom]).
 
-Em qualquer caso, a relativa facilidade
+A relativa facilidade
 de se produzir os blocos de adobe ou os tijolos, e as suas pequenas
 dimensões, fazem com que esses componentes possam ser altamente
 padronizados e estocados em grandes quantidades para pronta entrega.
@@ -660,6 +660,37 @@ Ainda assim, a produção de blocos em formas personalizadas, numa olaria
 artesanal, também é simples, o que permite resolver elementos especiais
 como colunas e cimalhas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O tamanho de um bloco de adobe é limitado por questões
+práticas e técnicas.
+Ele precisa ser suficientemente grande para dar agilidade à obra,
+mas se for grande demais, ele vai se retrair e rachar durante a secagem,
+ou então corre o risco de se quebrar durante o transporte e
+o assentamento.
+Por isso, as dimensões habituais dos blocos de adobe são
+20 × 20 × 40 centímetros [@bazin:1983arquitetura1, 58]
+e 20 × 10 × 30 centímetros [@pereira:1955enciclopedia13, 4]
+(@fig:keur).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:keur}
+::: {.column width=50%}
+![no primeiro plano, corte de uma alvenaria de uma vez](/assets/media/chiwara-1742561057660.jpg){#fig:keurA}
+:::
+::: {.column width=50%}
+![blocos na parede e lajotas para confecção das abóbadas](/assets/media/chiwara-1742561061097.jpg){#fig:keurB}
+:::
+
+Construção com blocos de adobe de 20 × 20 × 40 cm
+em Keur Songho, Senegal.
+<br />
+Fonte: [Chiwarà Project e Association de la Voûte Nubienne, 2025][]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Chiwarà Project e Association de la Voûte Nubienne, 2025]: https://www.linkedin.com/posts/chiwara-project_chiwaraeqproject-sustainabledesign-keursongho-activity-7308830865277554688-ofJy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAO06H8Bth8Xn6HILNItO_Tu7Qez1pU3FAI
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
