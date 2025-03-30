@@ -86,6 +86,25 @@ references:
       dropping-particle: do
   type: book
 
+- id: albu:2014medieval
+  author:
+    - family: Albu
+      given: Emily
+  call-number: G1033 .A45 2014
+  citation-key: albu:2014medieval
+  event-place: New York
+  ISBN: 978-1-107-05942-9 978-1-107-63160-1
+  issued:
+    - year: 2014
+  language: eng
+  number-of-pages: '169'
+  publisher: Cambridge University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: 'The medieval Peutinger map: imperial Roman revival in a German empire'
+  title-short: The medieval Peutinger map
+  type: book
+
 - id: aldrovandi:2011monumentalidade
   abstract: "Resumo\n\t\t\t\t\tESTE ARTIGO ANALISA ALGUNS ASPECTOS DO HIBRIDISMO INDO-PORTUGUÊS PRESENTES NA ARTE E NA ARQUITETURA SAGRADA E SECULAR, SOB A ÓTICA DE UM DISCURSO MONUMENTAL HEGEMÔNICO ENGENDRADO PELO COLONIALISMO PORTUGUÊS EM TERRITÓRIO INDIANO."
   accessed:
@@ -7747,6 +7766,22 @@ references:
   title-short: Ciudades de al-Andalus
   type: book
 
+- id: mcewen:2003vitruvius
+  author:
+    - family: McEwen
+      given: Indra Kagis
+  citation-key: mcewen:2003vitruvius
+  event-place: Cambridge, Mass.
+  ISBN: 978-0-585-48272-9
+  issued:
+    - year: 2003
+  language: eng
+  publisher: MIT Press
+  publisher-place: Cambridge, Mass.
+  title: 'Vitruvius: writing the body of architecture'
+  title-short: Vitruvius
+  type: book
+
 - id: mckee:1970recording
   author:
     - family: McKee
@@ -7919,6 +7954,28 @@ references:
   title: O mito do modelo perfeito da casa popular de origem portuguesa
   type: article-journal
   URL: https://cabodostrabalhos.ces.uc.pt/n12/ensaios.php
+
+- id: miller:1887tabula
+  accessed:
+    - year: 2020
+      month: 9
+      day: 12
+  archive: Ulrich Harsch Bibliotheca Augustana
+  author:
+    - family: Miller
+      given: Konrad
+  citation-key: miller:1887tabula
+  issued:
+    - year: 1887
+  language: eng
+  license: Public domain
+  source: Wikimedia Commons
+  title: >-
+    Tabula Peutingeriana, 1-4th century CE. Facsimile edition by Konrad Miller,
+    1887/1888
+  title-short: Tabula Peutingeriana
+  type: graphic
+  URL: https://commons.wikimedia.org/wiki/File:TabulaPeutingeriana.jpg
 
 - id: mingo:2015construccion
   abstract: >-
@@ -11809,6 +11866,43 @@ references:
   source: Open WorldCat
   title: Origens da nacionalidade portugueza
   type: book
+
+- id: siguenza:1500
+  abstract: >-
+    This map is a cartographic history of the migration of the Aztec from Aztlán
+    to Tenochtitlan. Created in the pictographic style typical of the central
+    Mexican and Puebla valleys during the Post-Classical period, it is the only
+    map of its kind known to exist. It is thought to date from the 16th century.
+    The map shows the path of the migration, along with the story of the places
+    passed and of the migration itself. Alongside the glyph for each location
+    are symbols representing the amount of time spent in each location. A trail
+    of footprints connects these locations. The original migration of the Aztec
+    from the mythical Aztlán to Tenochtitlan marks the historical and symbolic
+    evolution of the Aztec people: their blessing by the gods, founding events
+    in their history, their heroes and leaders, and finally, their settlement on
+    the island of Tenochtitlan, from where they eventually dominated their
+    world. The community that produced the map has not been identified with
+    certainty, but scholars believe it most likely was Chapultepec. The document
+    has been in the possession of historians in Mexico since the 17th century,
+    and is named after Carlos de Sigüenza y Góngora (1645-1700), a Mexican
+    scholar and government official who was an early student of Aztec history.
+  accessed:
+    - year: 2025
+      month: 3
+      day: 29
+  archive: Instituto Nacional de Arqueología e Historia, México
+  archive_location: (WDL)03247
+  citation-key: siguenza:1500
+  event-place: Chapultepec [?]
+  genre: A single sheet of amatl paper; 54.5 x 77.5 centimeters
+  issued:
+    - year: 1500
+    - year: 1599
+  language: eng
+  publisher-place: Chapultepec [?]
+  title: The Sigüenza map
+  type: map
+  URL: https://www.loc.gov/item/2021668420/
 
 - id: silva:2005dicionario
   author:

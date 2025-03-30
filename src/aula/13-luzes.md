@@ -25,7 +25,10 @@ figureTitle: "Figura"
 
 [Biblioteca Nacional (Brasil), coleção Morgado de Mateus 049,05,008 n.03 - Manuscritos]: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1689
 
-![*[Mapa das cortes] Mapa dos confins do Brazil com as terras da Coroa da Espanha na America Meridional…*, 1749. Acervo [Biblioteca Nacional (Brasil), ARC.030,01,009 - Cartografia][]](){#fig:cortes}
+![*[Mapa das cortes] Mapa dos confins do Brazil com as terras da Coroa
+da Espanha na America Meridional…*, 1749. Acervo [Biblioteca Nacional
+(Brasil), ARC.030,01,009 - Cartografia][]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/(Mapa_das_Cortes)\_Mapa_dos_confins_do_Brazil_com_as_terras_da_Coroa_da_Espanha-1749.pdf/page1-835px-(Mapa_das_Cortes)\_Mapa_dos_confins_do_Brazil_com_as_terras_da_Coroa_da_Espanha-1749.pdf.jpg){#fig:cortes}
 
 [Biblioteca Nacional (Brasil), ARC.030,01,009 - Cartografia]: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1385
 

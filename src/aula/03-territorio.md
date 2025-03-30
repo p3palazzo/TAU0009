@@ -1,5 +1,5 @@
 ---
-title: "Territórios americanos"
+title: "Territórios"
 date: 2025-04-10
 category: Fundamentos
 tags: [ "aula", "territorio", "lugar" ]
@@ -38,6 +38,127 @@ nocite: |
 ---
 
 # Introdução # {-}
+
+O conceito de espaço, assim como o de realismo artístico,
+é uma categoria culturalmente determinada e
+difícil de se apreender pela pesquisa histórica.
+Isso porque ele é uma categoria tão fundamental que
+dificilmente é definido ou demonstrado explicitamente
+nas fontes documentais.
+Na falta dessa definição explícita, temos que discernir
+os seus indícios nos modos de expressão e nas ações das sociedades
+no seu território.
+
+No século [I]{.smallcaps} a.C., Júlio César ordenou que
+fosse estabelecido um mapa do mundo conhecido dos romanos,
+empreitada concluída pelo seu filho adotivo e primeiro imperador romano,
+Otávio Augusto.
+Esse mapa descrevia a geografia do mundo antigo,
+segundo Indra Kagis @mcewen:2003vitruvius [20-22],
+não como um desenho geométrico à maneira dum mapa moderno,
+mas pela listagem verbal dos rios e cadeias de montanhas que seriam
+atravessadas viajando nas quatro direções cardeais desde Roma,
+e segundo os "nomes" das três "partes" do mundo
+(Europa, África e Ásia).
+A *Tabula Peutingeriana* (@fig:peutingeriana) é
+um mapa manuscrito sobre pergaminho, datado de cerca 1200 d.C.,
+talvez cópia dum desenho da Antiguidade tardia
+(séculos [IV--V]{.smallcaps} d.C.) que representasse
+aquele texto compilado sob Augusto.
+Outra hipótese, defendida por Emily @albu:2014medieval,
+é que ela seja uma cópia um mapa mais recente,
+do período carolíngio (século [IX]{.smallcaps}).
+Em ambos os casos, o desenho existente dava pouca importância
+a áreas geométricas ou mesmo direções cardeais,
+concentrando-se em representar a sequência de cidades
+ao longo das estradas romanas e rotas de navegação.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: overflow-x-auto
+![*Tabula Peutingeriana*, c. 1200,
+  presumida cópia dum original tardoantigo ou carolíngio.
+  <br />
+  Fonte: [edição facsimilar por Konrad Miller, 1887--88][]
+](https://upload.wikimedia.org/wikipedia/commons/5/50/TabulaPeutingeriana.jpg){#fig:peutingeriana height="75vh"}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[edição facsimilar por Konrad Miller, 1887--88]: https://commons.wikimedia.org/wiki/File:TabulaPeutingeriana.jpg
+
+![Mapa dito de Sigüenza, século [XVI]{.smallcaps}.
+  <br />
+  Fonte: [Instituto Nacional de Antropología e Historia, México][]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/The_Sigüenza_Map_WDL3247.png/1024px-The_Sigüenza_Map_WDL3247.png){#fig:siguenza}
+
+[Instituto Nacional de Antropología e Historia, México]: https://commons.wikimedia.org/wiki/File:The_Sigüenza_Map_WDL3247.png
+
+A essa mesma categoria de mapas não geométricos pertence
+o mapa dito de Sigüenza.
+É um mapa criado por uma comunidade mexica
+(também conhecidos como astecas), talvez em Chapultepec,
+no século [XVI]{.smallcaps}.
+Ele representa de modo simbólico a migração mítica dos mexica
+desde a sua partida da cidade de Aztlán
+até se assentarem no vale do México [@siguenza:1500].
+O mapa de Sigüenza tem esse nome em homenagem a um historiador
+espanhol nascido no México do século [XVII]{.smallcaps},
+Carlos de Sigüenza y Góngora.
+O mapa enfatiza as perambulações dos mexica durante os séculos
+[XI]{.smallcaps} a [XIII]{.smallcaps},
+e representa diversos lugares por onde eles passaram,
+mas é impossível extrair coordenadas geográficas
+dessas representações.
+
+Dois séculos após o mapa de Sigüenza,
+a conquista da América pelos europeus estava em vias
+de se consolidar.
+Em 1749, Portugal e Espanha negociavam sua fronteira na América do Sul.
+Portugal constituiu uma comissão de limites,
+com engenheiros e geômetras coordenados
+pelo diplomata Alexandre de Gusmão.
+Essa comissão elaborou um mapa da
+fronteira entre as terras de Portugal e de Espanha
+como estudo preparatório para a assinatura do tratado de Madri
+no ano seguinte (@fig:cortes).
+Esse mapa ficou conhecido como *Mapa das Cortes*.
+Ao contrário da *Tabula Peutingeriana* ou do mapa universal de Augusto,
+o propósito do Mapa das Cortes era descrever (e, por sinal, fraudar)
+a extensão geométrica dos territórios coloniais na América do Sul.
+
+![*Mapa dos confins do Brazil com as terras da Coroa da Espanha
+  na America Meridional…*, dito Mapa das cortes, 1749.
+  <br />
+  Acervo [Biblioteca Nacional (Brasil), ARC.030,01,009 - Cartografia][]
+](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/(Mapa_das_Cortes)\_Mapa_dos_confins_do_Brazil_com_as_terras_da_Coroa_da_Espanha-1749.pdf/page1-835px-(Mapa_das_Cortes)\_Mapa_dos_confins_do_Brazil_com_as_terras_da_Coroa_da_Espanha-1749.pdf.jpg){#fig:cortes}
+
+[Biblioteca Nacional (Brasil), ARC.030,01,009 - Cartografia]: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1385
+
+A colonização de territórios pelos europeus na Idade Moderna
+teve como uma de suas componentes centrais,
+segundo Fernando Luiz @lara:2020american5,
+a imposição duma concepção geométrica e abstrata do espaço
+como modo de controle do território.
+A espacialidade abstrata terminaria por suprimir,
+tanto nas colônias quanto na própria Europa,
+uma imensa variedade de concepções territoriais indígenas.
+
+Essas concepções indígenas tinham como denominador comum
+uma noção posicional e heterotrópica do território.
+Isto é, elas se estruturavam segundo um sistema de
+percursos ponto a ponto entre lugares definidos.
+A área de abrangência de cada lugar, por sua vez, era condicionada
+pelo sistema de atividades e aquisição de recursos
+específico a cada comunidade.
+O espaço residual entre lugares, nessa concepção,
+não era dividido entre comunidades num espaço contínuo
+delimitado por fronteiras nítidas,
+contrariamente ao princípio atualmente hegemônico
+duma Terra inteiramente parcelada entre Estados contíguos.
+Por isso o espaço é dito "heterotrópico", ou seja,
+não é simplesmente uma extensão geométrica cartesiana mas
+implica uma distinção conceitual entre lugares e não lugares.
+A territorialidade posicional e o espaço heterotrópico
+eram vigentes na Europa até a Alta Idade Média e,
+nas Américas e grande parte da África, até a colonização europeia
+durante a Idade Moderna.
 
 
 # Territorialidades indígenas #
@@ -435,6 +556,7 @@ urbanas em torno da linha de cumeada e do porto.
 
 ## Aldeamentos ##
 
+<!--Paradigma: Porto Covo-->
 
 # Conclusão # {-}
 
