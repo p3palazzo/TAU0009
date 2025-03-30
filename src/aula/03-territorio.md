@@ -131,6 +131,9 @@ a extensão geométrica dos territórios coloniais na América do Sul.
 
 [Biblioteca Nacional (Brasil), ARC.030,01,009 - Cartografia]: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1385
 
+
+# Territorialidades indígenas #
+
 A colonização de territórios pelos europeus na Idade Moderna
 teve como uma de suas componentes centrais,
 segundo Fernando Luiz @lara:2020american5,
@@ -159,9 +162,6 @@ A territorialidade posicional e o espaço heterotrópico
 eram vigentes na Europa até a Alta Idade Média e,
 nas Américas e grande parte da África, até a colonização europeia
 durante a Idade Moderna.
-
-
-# Territorialidades indígenas #
 
 ## Princípios de ocupação do território ##
 
