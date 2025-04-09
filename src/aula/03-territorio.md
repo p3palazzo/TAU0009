@@ -73,13 +73,11 @@ a áreas geométricas ou mesmo direções cardeais,
 concentrando-se em representar a sequência de cidades
 ao longo das estradas romanas e rotas de navegação.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::: overflow-x-auto
 ![*Tabula Peutingeriana*, c. 1200,
   presumida cópia dum original tardoantigo ou carolíngio.
   <br />
   Fonte: [edição facsimilar por Konrad Miller, 1887--88][]
-](https://upload.wikimedia.org/wikipedia/commons/5/50/TabulaPeutingeriana.jpg){#fig:peutingeriana height="75vh"}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+](https://upload.wikimedia.org/wikipedia/commons/5/50/TabulaPeutingeriana.jpg){#fig:peutingeriana}
 
 [edição facsimilar por Konrad Miller, 1887--88]: https://commons.wikimedia.org/wiki/File:TabulaPeutingeriana.jpg
 
