@@ -6596,6 +6596,33 @@ references:
   title-short: Plano de gestão da conservação urbana
   type: book
 
+- id: lara:2020american5
+  accessed:
+    - year: 2022
+      month: 1
+      day: 30
+  author:
+    - family: Lara
+      given: Fernando Luiz
+  citation-key: lara:2020american5
+  container-title: The Plan Journal
+  container-title-short: TPJ
+  DOI: 10.15274/tpj.2020.05.01.5
+  ISSN: '26117487'
+  issue: '1'
+  issued:
+    - year: 2020
+  language: en
+  source: DOI.org (Crossref)
+  title: >-
+    American mirror: the occupation of the ‘New World’ and the rise of
+    architecture as we know it
+  title-short: American mirror
+  type: article-journal
+  URL: >-
+    http://www.theplanjournal.com/article/american-mirror-occupation-%E2%80%98new-world%E2%80%99-and-rise-architecture-we-know-it
+  volume: '5'
+
 - id: laugier:1753essai
   abstract: >-
     Signatures: a(±a1) A-T V; Errata: p. [18] at end; final page blank; Includes
