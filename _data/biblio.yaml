@@ -5874,6 +5874,31 @@ references:
   URL: http://gallica.bnf.fr/ark:/12148/bpt6k86617f
   volume: '2'
 
+- id: guadet:1915elements1
+  author:
+    - family: Guadet
+      given: Julien
+  call-number: Tolbiac - Rez de Jardin - Sciences et technique - Magasin - 4-V-8070 (1)
+  citation-key: guadet:1915elements1
+  contributor:
+    - family: Pascal
+      given: Jean-Louis
+  edition: 3^e^ éd.
+  event-place: Paris
+  issued:
+    - year: 1915
+  language: fre
+  publisher: Construction moderne
+  publisher-place: Paris
+  source: BnF Catalogue général (http://catalogue.bnf.fr)
+  title: >-
+    Éléments et théorie de l'architecture: cours professé à l'École nationale et
+    spéciale des beaux-arts
+  title-short: Éléments et théorie de l'architecture
+  type: book
+  URL: https://archive.org/details/elementsettheori01guad
+  volume: '1'
+
 - id: gurgel:2017metropoles19
   abstract: >-
     Resumo O objetivo deste trabalho é apresentar como as configurações dão

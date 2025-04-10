@@ -73,13 +73,11 @@ a áreas geométricas ou mesmo direções cardeais,
 concentrando-se em representar a sequência de cidades
 ao longo das estradas romanas e rotas de navegação.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::: overflow-x-auto
 ![*Tabula Peutingeriana*, c. 1200,
   presumida cópia dum original tardoantigo ou carolíngio.
   <br />
   Fonte: [edição facsimilar por Konrad Miller, 1887--88][]
-](https://upload.wikimedia.org/wikipedia/commons/5/50/TabulaPeutingeriana.jpg){#fig:peutingeriana height="75vh"}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+](https://upload.wikimedia.org/wikipedia/commons/5/50/TabulaPeutingeriana.jpg){#fig:peutingeriana}
 
 [edição facsimilar por Konrad Miller, 1887--88]: https://commons.wikimedia.org/wiki/File:TabulaPeutingeriana.jpg
 
@@ -131,6 +129,9 @@ a extensão geométrica dos territórios coloniais na América do Sul.
 
 [Biblioteca Nacional (Brasil), ARC.030,01,009 - Cartografia]: https://acervobndigital.bn.gov.br/sophia/index.asp?codigo_sophia=1385
 
+
+# Territorialidades indígenas #
+
 A colonização de territórios pelos europeus na Idade Moderna
 teve como uma de suas componentes centrais,
 segundo Fernando Luiz @lara:2020american5,
@@ -159,9 +160,6 @@ A territorialidade posicional e o espaço heterotrópico
 eram vigentes na Europa até a Alta Idade Média e,
 nas Américas e grande parte da África, até a colonização europeia
 durante a Idade Moderna.
-
-
-# Territorialidades indígenas #
 
 ## Princípios de ocupação do território ##
 

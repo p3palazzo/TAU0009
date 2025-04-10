@@ -15,6 +15,19 @@ sidebar:
       Moutinho, <cite>Arquitectura popular portuguesa</cite>
 ---
 
+# Introdução # {-}
+
+# A casa portuguesa # {-}
+
+Ao longo do século [XX]{.smallcaps}, os arquitetos modernistas
+fizeram muito barulho em torno do fato de que a "nossa casa"
+promovida por Raul @lino:1918nossa e outros tradicionalistas teria sido
+uma falsificação do panorama da morada vernacular portuguesa.
+No Brasil, pelo contrário, a ideologia de que
+a casa tradicional luso-brasileira era
+uniforme em todo o território da colônia
+foi acolhida pelos modernistas.
+
 # Heranças árabes na domesticidade luso-brasileira #
 
 O tipo edilício de base, a casa vernácula resultante desse
@@ -397,6 +410,8 @@ presta com facilidade a esforços de datação
 ---
 nocite: "@moutinho:1995arquitectura"
 ---
+
+# Conclusão # {-}
 
 ---
 nocite: |
