@@ -8,8 +8,8 @@ vpath %.json _data
 
 ASSETS  = $(wildcard assets/*)
 AULA    = $(wildcard src/aula/*.md)
-MOODLE  = $(patsubst src/aula/%.md,docs/%.md,$(AULA))
-SLIDES  = $(patsubst src/aula/%.md,src/slides/%/index.html,$(AULA))
+MOODLE  := $(patsubst src/aula/%.md,docs/%.md,$(AULA))
+SLIDES  := $(patsubst src/aula/%.md,src/slides/%/index.html,$(AULA))
 
 # {{{1 Recipes
 #      =======
@@ -22,12 +22,9 @@ serve : bibliografias slides
 	@echo "####################"
 	@npm start
 
-docs/%.md : src/aula/%.md _data/biblio.yaml
-	@pandoc -f markdown -t commonmark_x --standalone \
-		--reference-location=block \
-		--shift-heading-level-by=2 \
-		--filter=pandoc-crossref -C --bibliography=_data/biblio.yaml \
-		--csl=_data/chicago-note-bibliography.csl -o $@ $<
+docs/%.md : src/aula/%.md _data/biblio.yaml _data/moodle.yaml
+	@-mkdir -p $(@D)
+	@pandoc -d _data/moodle.yaml -o $@ $<
 	@echo "🔄 $@"
 
 src/slides/%/index.html : src/aula/%.md revealjs.yaml biblio.yaml

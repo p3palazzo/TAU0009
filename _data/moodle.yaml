@@ -1,0 +1,26 @@
+from                       : markdown
+to                         : commonmark_x-fenced_divs-bracketed_spans
+data-dir                   : "_data"
+fail-if-warnings           : false
+html-q-tags                : true
+number-sections            : false
+section-divs               : true
+reference-location         : "block"
+shift-heading-level-by     : 2
+standalone                 : true
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  bibliography             : "_data/biblio.yaml"
+  csl                      : "_data/chicago-note-bibliography.csl"
+  lang                     : pt-PT
+  link-citations           : false
+  reference-section-title  : "Referências"
+  # pandoc-crossref metadata
+  ccsLabelSep              : " – "
+  figureTitle              : "Figura"
+  tableTitle               : "Tabela"
+  tblPrefix:
+    - tab.
+    - tabs.
