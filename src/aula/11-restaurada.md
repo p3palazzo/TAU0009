@@ -19,13 +19,57 @@ header:
 ---
 
 
+# Introdução #
+
+
+# Marco jurídico e historiográfico da arquitetura #
+
+Filipe I, rei dos papéis [@veiga:2005heranca, 70].
+
+
+## Ordenações Filipinas (1595/1603) ##
+
+
+
 # Arquitetura filipina e as ordens religiosas #
 
+## Arquitetura oficial e militar ##
 
-# Consequências territoriais da união Ibérica #
+
+## Carmelitas descalços ##
+
+Convento de Nossa Senhora dos Remédios ou dos Marianos (1606), à rua das
+Janelas Verdes, Lisboa.
+
+Cartuxa de Évora.
+
+Fulcro do maneirismo e do serliano, protobarroco.
 
 
-# Primórdios do barroco português #
+## Renovação jesuítica e o nexo bolonhês ##
+
+Fulcro do "estilo chão" e da pintura ilusionista.
+
+
+## Franciscanos e cartuxos ##
+
+
+# Legado filipino #
+
+## Consequências territoriais da união Ibérica ##
+
+Urbanismo e bandeiras.
+
+
+## Espaço público ##
+
+  Largo, praça, terreiro, alameda e passeio –
+  Morfologia e sociabilidade urbana –
+  Escala, proporções e topografia.
+
+Arcos triunfais de 1619.
+
+Aquedutos.
 
 
 # Inovações e consolidações tipológicas #
@@ -36,12 +80,16 @@ header:
 ## Prédios de rendimentos e sobrados ##
 
 
-# Espaço público #
+## Arquitetura teatral ##
 
-  Largo, praça, terreiro, alameda e passeio –
-  Morfologia e sociabilidade urbana –
-  Escala, proporções e topografia.
+Pátios de comédias [@veiga:2005heranca, 98].
+
+
+# Primórdios do barroco português #
 
 
 # Mobiliário #
+
+
+# Conclusão #
 

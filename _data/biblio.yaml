@@ -13922,6 +13922,23 @@ references:
   type: thesis
   URL: https://repositorio.ufmg.br/handle/1843/MMMD-8PDK6D
 
+- id: veiga:2005heranca
+  author:
+    - family: Veiga
+      given: Carlos Margaça
+  citation-key: veiga:2005heranca
+  event-place: Lisboa
+  ISBN: 978-972-9127-95-3
+  issued:
+    - year: 2005
+  language: por
+  number-of-pages: '173'
+  publisher: CTT Correios de Portugal
+  publisher-place: Lisboa
+  source: K10plus ISBN
+  title: A herança filipina em Portugal
+  type: book
+
 - id: veiga:2018argamassas18
   abstract: >-
     Resumo As argamassas de cal foram usadas na construção desde tempos
